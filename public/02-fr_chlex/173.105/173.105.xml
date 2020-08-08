@@ -1,0 +1,875 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1123</normID>
+      <number>173.105</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement betreffend den Beitrag der Gemeinden f&#xFC;r die Einrichtungs- und Betriebskosten der Gerichte und der &#xC4;mter der Staatsanwaltschaft</title>
+      <title lang="fr">R&#xE8;glement fixant la contribution des communes aux frais d'installation et de fonctionnement des tribunaux et des offices du minist&#xE8;re public</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-12-21</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-01-01</dateLastChange>
+      <dateVersion>2012-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 27 Absatz 5 der Kantonsverfassung;</basis> <basis>eingesehen den Artikel 40 des Gesetzes &#xFC;ber die Rechtspflege vom 11. Februar 2009;</basis> <basis>eingesehen den Artikel 88 des Gesetzes &#xFC;ber die Organisation der R&#xE4;te und die Beziehungen zwischen den Gewalten vom 28. M&#xE4;rz 1996;</basis> <basis>auf Antrag des Departements f&#xFC;r Sicherheit, Sozialwesen und Integration,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 27 alin&#xE9;a 5 de la Constitution cantonale;</basis> <basis>vu l'article 40 de la loi sur l'organisation de la Justice du 11 f&#xE9;vrier 2009;</basis> <basis>vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;</basis> <basis>sur la proposition du D&#xE9;partement de la s&#xE9;curit&#xE9;, des affaires sociales et de l'int&#xE9;gration,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 52/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3675">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>betreffend den Beitrag der Gemeinden f&#xFC;r die Einrichtungs- und Betriebskosten der Gerichte und der &#xC4;mter der Staatsanwaltschaft</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>fixant la contribution des communes aux frais d'installation et de fonctionnement des tribunaux et des offices du minist&#xE8;re public</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3677">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12512">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gegenstand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objet</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28822">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement regelt die Aufteilung der Einrichtungs- und Betriebskosten der Gerichte und der &#xC4;mter der Staatsanwaltschaft zwischen Staat und Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement fixe la r&#xE9;partition entre l'Etat et les communes des frais d'installation et de fonctionnement des tribunaux et des offices du minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28823">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es gilt nicht f&#xFC;r die Einrichtungs- und Betriebskosten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il ne s'applique pas aux frais d'installation et de fonctionnement:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14205">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Schlichtungskommission f&#xFC;r Mietverh&#xE4;ltnisse, des Arbeitsgerichtes und der Schlichtungskommission f&#xFC;r Streitf&#xE4;lle im Zusammenhang mit dem Bundesgesetz &#xFC;ber die Gleichstellung, welche zu Lasten des Kantons gehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de la commission de conciliation en mati&#xE8;re de baux, du tribunal du travail et de la commission de conciliation pour les litiges relevant de la loi f&#xE9;d&#xE9;rale sur l'&#xE9;galit&#xE9;, qui sont &#xE0; la charge du canton;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14206">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Gemeinderichters, des Polizeigerichtes und der Kindes- und Erwachsenenschutzbeh&#xF6;rde, welche zu Lasten der Gemeinde gehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du juge de commune, du tribunal de police et de l'autorit&#xE9; de protection de l'enfant et de l'adulte, qui sont &#xE0; la charge de la commune.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12513">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Notwendige Lokale - Einrichtungskosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Locaux n&#xE9;cessaires - Frais d'installation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28824">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde am Sitz der Bezirksgerichte und der regionalen &#xC4;mter der Staatsanwaltschaft (Sitzgemeinde) stellt den Gerichtsbeh&#xF6;rden und der Staatsanwaltschaft die f&#xFC;r eine rationelle und wirksame Rechtspflege notwendigen Lokale zur Verf&#xFC;gung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune de si&#xE8;ge des tribunaux de district et des offices r&#xE9;gionaux du minist&#xE8;re public (commune de si&#xE8;ge) met &#xE0; disposition des autorit&#xE9;s judiciaires et du minist&#xE8;re public les locaux n&#xE9;cessaires &#xE0; une administration rationnelle et efficace de la Justice.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28825">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt des Artikels 5 Abs&#xE4;tze 2 und 3 gehen die sich aus der Bereitstellung der notwendigen Lokale ergebenden Einrichtungskosten (Investitions- oder Mietkosten) zu Lasten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de l'article 5 alin&#xE9;as 2 et 3, les frais d'installation (frais d'investissement ou de location) r&#xE9;sultant de la mise &#xE0; disposition des locaux n&#xE9;cessaires sont &#xE0; la charge:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14207">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Sitzgemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de la commune de si&#xE8;ge;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14208">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Hauptortes der Bezirke H&#xE9;rens und Conthey, f&#xFC;r das Gericht H&#xE9;rens und Conthey, entsprechend der Wohnbev&#xF6;lkerung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du chef-lieu des districts d'H&#xE9;rens et de Conthey, pour le tribunal d'H&#xE9;rens-Conthey, en fonction de la population r&#xE9;sidante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28826">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton stattet das Kantonsgericht, das zentrale Amt der Staatsanwaltschaft und die zentralisierten Gerichte der ersten Instanz mit den f&#xFC;r eine rationelle und wirksame Rechtspflege notwendigen Lokalen aus und &#xFC;bernimmt die daraus entstehenden Einrichtungskosten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton dote le Tribunal cantonal, l'office central du minist&#xE8;re public et les tribunaux centralis&#xE9;s de premi&#xE8;re instance des locaux n&#xE9;cessaires &#xE0; une administration rationnelle et efficace de la Justice; il supporte les frais d'installation y aff&#xE9;rents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12514">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betriebskosten - Aufteilung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais de fonctionnement - R&#xE9;partition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28827">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu Lasten des Kantons gehen die mit der T&#xE4;tigkeit der Gerichtsbeh&#xF6;rden und der Staatsanwaltschaft zusammenh&#xE4;ngenden Betriebskosten, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont &#xE0; la charge du canton les frais de fonctionnement propres &#xE0; l'activit&#xE9; des autorit&#xE9;s judiciaires et du minist&#xE8;re public, notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14209">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Telefon und Portogeb&#xFC;hr;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">t&#xE9;l&#xE9;phone et port;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14210">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Einrichtung, Ausstattung und Informatiksicherheit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">installation, &#xE9;quipement et s&#xE9;curit&#xE9; informatiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14211">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mobiliar;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ameublement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14212">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">B&#xFC;romaterial;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mat&#xE9;riel de bureau;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14213">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unterhalt des Mobiliars, der Maschinen und der Ausstattung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">entretien du mobilier, des machines et des &#xE9;quipements;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14214">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">juristische Dokumentation.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">documentation juridique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28828">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern es in den Artikel 5 und 6 vorgesehen ist, fallen die anderen mit der Ben&#xFC;tzung der Lokale zusammenh&#xE4;ngenden Betriebskosten zu Lasten der Gemeinden, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont &#xE0; la charge des communes, dans la mesure pr&#xE9;vue aux articles 5 et 6, les autres frais de fonctionnement li&#xE9;s &#xE0; l'utilisation des locaux, notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14215">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Hauswart und &#xFC;bliche Unterhaltsarbeiten des Geb&#xE4;udes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conciergerie et travaux courants d'entretien de l'immeuble;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14216">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wasser und Strom;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">eau et &#xE9;nergie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14217">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Versicherung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurances;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14218">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Steuern und Abgaben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">imp&#xF4;ts et taxes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12515">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungshilfe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entraide administrative</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28829">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die richterliche Gewalt, die Staatsanwaltschaft und die Sitzgemeinden bezeichnen einen Verantwortlichen f&#xFC;r die Lokale; diese vereinbaren eine gegenseitige Verwaltungshilfe.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Pouvoir judiciaire, le minist&#xE8;re public et les communes de si&#xE8;ge d&#xE9;signent des responsables en mati&#xE8;re de locaux; ceux-ci s'accordent une entraide administrative r&#xE9;ciproque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28830">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Bedarfsfall werden die notwendigen Lokale und der Mietwert durch die f&#xFC;r die Geb&#xE4;ude zust&#xE4;ndige Dienststelle der kantonalen Verwaltung beschlossen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au besoin, les locaux n&#xE9;cessaires et la valeur locative sont d&#xE9;cid&#xE9;s par le service de l'administration cantonale en charge des b&#xE2;timents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3678">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Beitragszahlende Gemeinden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Communes appel&#xE9;es &#xE0; contribution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12516">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bezirksgerichte - Regionale &#xC4;mter der Staatsanwaltschaft</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tribunaux de district - Offices r&#xE9;gionaux du minist&#xE8;re public</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28831">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zu Lasten der Gemeinden (Art. 3 Abs. 2) fallenden Betriebskosten werden bezahlt von:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de fonctionnement &#xE0; la charge des communes (art. 3 al. 2) sont acquitt&#xE9;s par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14219">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Gemeinde am Sitz des Bezirksgerichtes oder des regionalen Amtes der Staatsanwaltschaft;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la commune de si&#xE8;ge du tribunal de district ou de l'office r&#xE9;gional du minist&#xE8;re public;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14220">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">vom Hauptort der Bezirke H&#xE9;rens und Conthey, f&#xFC;r das Gericht H&#xE9;rens und Conthey, entsprechend der Wohnbev&#xF6;lkerung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le chef-lieu des districts d'H&#xE9;rens et de Conthey, pour le tribunal d'H&#xE9;rens-Conthey, en fonction de la population r&#xE9;sidante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28832">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schuldnergemeinde der Einrichtungs- (Art. 2 Abs. 2) und Betriebskosten (Art. 5 Abs. 1) kann die anderen Gemeinden des Bezirkes oder des Kreises zur Beitragszahlung hinzuziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune d&#xE9;bitrice des frais d'installation (art. 2 al. 2) et de fonctionnement (art. 5 al. 1) peut appeler &#xE0; contribution les autres communes du district ou de l'arrondissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28833">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei fehlender Einigung unter den betroffenen Gemeinden verlangt die Schuldnergemeinde von dem f&#xFC;r die Justiz zust&#xE4;ndigen Departement einen Entscheid &#xFC;ber die Aufteilung der Kosten. Der von jeder Gemeinde geschuldete Betrag wird wie folgt aufgeteilt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A d&#xE9;faut d'entente entre les communes int&#xE9;ress&#xE9;es, la commune d&#xE9;bitrice requiert du D&#xE9;partement dont rel&#xE8;ve la Justice qu'il statue, par voie de d&#xE9;cision, sur la r&#xE9;partition des frais. La part due par chaque commune est r&#xE9;partie comme il suit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14221">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">30 Prozent zu Lasten der Sitzgemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">30 pour cent &#xE0; la charge de la commune de si&#xE8;ge;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14222">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">70 Prozent aufgeteilt auf alle Gemeinden entsprechend der Wohnbev&#xF6;lkerung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">70 pour cent r&#xE9;parti sur l'ensemble des communes en fonction de la population r&#xE9;sidante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12517">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonsgericht - Zentrale Staatsanwaltschaft - Zentralisierte erstinstanzliche Gerichte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tribunal cantonal - Office central du minist&#xE8;re public - Tribunaux de premi&#xE8;re instance centralis&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28834">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Betriebskosten des Kantonsgerichtes, der zentralen Staatsanwaltschaft und der zentralisierten erstinstanzlichen Gerichte im Sinne des Artikels 3 Absatz 2 gehen zu Lasten der Sitzgemeinde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de fonctionnement au sens de l'article 3 alin&#xE9;a 2 du Tribunal cantonal, de l'office central du minist&#xE8;re public et des tribunaux de premi&#xE8;re instance centralis&#xE9;s sont &#xE0; la charge de la commune de si&#xE8;ge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3679">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12518">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Notwendige Lokale - Ersatzvornahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Locaux n&#xE9;cessaires - Ex&#xE9;cution par substitution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28835">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern der Staat anstelle der Sitzgemeinde, auf Anfrage dieser Gemeinde oder von Amtes wegen die notwendigen Lokale den Gerichtsbeh&#xF6;rden und der Staatsanwaltschaft (Art. 2 Abs. 1) zur Verf&#xFC;gung stellt, werden die mit der Ben&#xFC;tzung dieser Lokale verbundenen Einrichtungs- und Betriebskosten (Art. 3 Abs. 2) durch einen Staatsratsentscheid beschlossen und in Rechnung gestellt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la mesure o&#xF9; l'Etat met &#xE0; disposition, en lieu et place de la commune de si&#xE8;ge, &#xE0; la demande de celle-ci ou encore d'office, les locaux n&#xE9;cessaires aux autorit&#xE9;s judiciaires et au minist&#xE8;re public (art. 2 al. 1), les co&#xFB;ts d'installation et les co&#xFB;ts de fonctionnement li&#xE9;s &#xE0; l'utilisation des locaux (art. 3 al. 2) sont arr&#xEA;t&#xE9;s par d&#xE9;cision du Conseil d'Etat et factur&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14223">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Sitzgemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; la commune de si&#xE8;ge;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14224">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Hauptort der Bezirke H&#xE9;rens und Conthey, f&#xFC;r das Gericht H&#xE9;rens und Conthey, entsprechend der Wohnbev&#xF6;lkerung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef-lieu des districts d'H&#xE9;rens et de Conthey, pour le tribunal d'H&#xE9;rens-Conthey, en fonction de la population r&#xE9;sidante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28836">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Weiteren findet der Artikel 5 Abs&#xE4;tze 2 und 3 Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'article 5 alin&#xE9;as 2 et 3 s'applique pour le surplus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12519">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vereinbarung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Convention</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28837">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der im vorliegenden Reglement vorgesehene Beitrag der Sitzgemeinde kann durch eine Vereinbarung zwischen dem Staatsrat und dem Gemeinderat pauschal festgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La contribution de la commune de si&#xE8;ge, pr&#xE9;vue par le pr&#xE9;sent r&#xE8;glement, peut &#xEA;tre arr&#xEA;t&#xE9;e forfaitairement par convention entre le Conseil d'Etat et le conseil municipal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12520">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28838">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege findet auf die mit dem Vollzug des vorliegenden Gesetzes getroffenen Entscheide Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la proc&#xE9;dure et la juridiction administratives s'applique aux d&#xE9;cisions prises en ex&#xE9;cution du pr&#xE9;sent r&#xE8;glement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12521">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung - Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation - Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28839">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement hebt alle widersprechenden Bestimmungen auf, insbesondere den Beschluss betreffend Aufteilung der Kosten von Beschaffung und Ausstattung der Lokale und des notwendigen B&#xFC;romaterials f&#xFC;r Gerichtsbeh&#xF6;rden und Staatsanw&#xE4;lte zwischen Staat und Gemeinden vom 30. Oktober 1963.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge toutes les dispositions contraires, en particulier l'arr&#xEA;t&#xE9; fixant la r&#xE9;partition entre l'Etat et les communes des frais relatifs &#xE0; la fourniture et &#xE0; l'am&#xE9;nagement des locaux, ainsi que du mat&#xE9;riel de bureau n&#xE9;cessaire aux autorit&#xE9;s judiciaires et aux repr&#xE9;sentants du minist&#xE8;re public du 30 octobre 1963.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28840">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es wird im Amtsblatt ver&#xF6;ffentlicht und tritt am 1. Januar 2012 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il sera publi&#xE9; au Bulletin officiel pour entrer en vigueur le 1<format upper="true">er</format> janvier 2012.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2012-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 52/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

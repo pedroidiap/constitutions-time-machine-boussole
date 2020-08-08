@@ -1,0 +1,97 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="justify-content-center d-flex align-items-center">
+        <img src="{{ ABSURL ~ asset('img/constitution_banner_big_full.jpg') }}" style="width: 100%; height: auto;"/>
+    </div>
+    <div class="container p-5">
+        <div class="row">
+            <div class="col">
+                <h3>Présentation</h3>
+                <hr class="cons-hr-title">
+                <p>
+                    Le moteur de recherche et navigation de la Constitutions Time Machine a pour but de permettre
+                    l'exploration des archives de la constitution valaisanne ainsi que des lois cantonales. De plus,
+                    dans une volonté de valoriser les données des archives, la plateforme permet également d'explorer
+                    les liens possibles entre les articles constitutionnels et les articles de loi. L'utilisateur peut,
+                    notamment, rechercher des articles classés par thèmes ou par commissions et parcourir la liste des
+                    intervenants qui ont pris part aux débats afin de découvrir et comprendre qui sont ces personnes qui
+                    ont façonné la Constitution valaisanne. Les sources de données utilisées dans ce rapport sont les
+                    suivantes :
+                </p>
+                <ul>
+                    <li>Texte de la Constitution de 1907</li>
+                    <li>Articles de lois qui se réfèrent à ces textes</li>
+                    <li>Archives des débats ayant eu lieu entre 1905 et 1907 en marge de la rédaction de la
+                        Constitution
+                    </li>
+                    <li>Informations sur les intervenants qui ont pris part à ces débats</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col">
+                <h3>Recherche</h3>
+                <hr class="cons-hr-title">
+                <p>
+                    Utilisez les différents filtres de recherche mis en place pour trouver les articles qui vous
+                    intéressent.
+                </p>
+                <div class="row d-flex justify-content-center align-items-center">
+                    <div class="card m-3" style="width: 20rem;">
+                        <a class="cons-accroche justify-content-center d-flex align-items-center w-100"
+                           href="{{ path('commission-index') }}">
+                            COMMISSIONS
+                        </a>
+                    </div>
+                    <div class="card m-3" style="width: 20rem;">
+                        <a class="cons-accroche justify-content-center d-flex align-items-center w-100"
+                           href="{{ path('intervenant-index') }}">
+                            INTERVENANTS
+                        </a>
+                    </div>
+                    <div class="card m-3" style="width: 20rem;">
+                        <a class="cons-accroche justify-content-center d-flex align-items-center w-100"
+                           href="{{ path('search') }}">
+                            RECHERCHE AVANCÉE
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col">
+                <h3>Articles en vedette</h3>
+                <p>Consultez les articles les plus débattus, les plus cités ou ayant subi le plus de modifications
+                    au cours du temps.</p>
+                {% set number = [4, 8, 32, 43, 53] %}
+                <div class="list-group">
+                    {% set index = 0 %}
+                    {% for article in articles %}
+                        {% if article.id in number %}
+                            <a href="{{ path('article-details', {'id': article.id}) }}"
+                               class="list-group-item list-group-item-action">
+                                <div class="d-inline-block">
+                                    {{ article.nomArticle }}<br/>
+                                    <p class="small"><span class="font-weight-bold">Texte : </span>
+                                        {{ article.texte|slice(0, 500)|raw }} {{ article.texte|length > 500 ? '...' : '' }}
+                                    </p>
+                                    <div class="small"><span class="font-weight-bold">Nombre de débats : </span>
+                                        {{ article.debats.count }}
+                                    </div>
+                                    <div class="small"><span class="font-weight-bold">Nombre de citations : </span>
+                                        {{ article.lois.count }}
+                                    </div>
+                                    <div class="small"><span class="font-weight-bold">Nombre de modifications : </span>
+                                        {{ article.archives.count }}
+                                    </div>
+                                </div>
+                            </a>
+                            {% set index = index + 1 %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1251</normID>
+      <number>112.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz betreffend die Leistungen der Stadt Sitten als Hauptort des Kantons Wallis</title>
+      <title lang="fr">Loi concernant les prestations &#xE0; faire par la ville de Sion comme chef-lieu du canton</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1882-12-01</dateAdoption>
+      <dateForce>1882-12-01T00:00:00</dateForce>
+      <dateLastChange>1882-12-01</dateLastChange>
+      <dateVersion>1882-12-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>in Vollziehung des Artikels 22 der Verfassung des Kantons vom 26. Wintermonat 1875;</basis> <basis>auf den Antrag des Staatsrates,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>en ex&#xE9;cution de l'article 22 de la Constitution cantonale du 26 novembre 1875;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1879-1884 f 249 | 252</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4275">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>betreffend die Leistungen der Stadt Sitten als Hauptort des Kantons Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>concernant les prestations &#xE0; faire par la ville de Sion comme chef-lieu du canton</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:14464">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:33230">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Als Korrespektif der Vorteile, welche die Stadt Sitten aus ihrer Stellung als Hauptstadt des Kantons zieht, wird sie dem Staate Wallis unentgeltlich die von ihm als geeignet befundenen R&#xE4;umlichkeiten liefern f&#xFC;r den Grossen Rat, den Appellations- und Kassationsgerichtshof, die Staatsarchive und das Arsenal.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Comme correspectif des avantages qu'elle retire de sa position de chef-lieu du canton, la ville de Sion fournira gratuitement &#xE0; l'Etat du Valais les locaux n&#xE9;cessaires, et reconnus convenables par lui, pour le Grand Conseil, la Cour d'appel et de cassation et leurs archives et pour l'arsenal.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1882-12-01</dateForce>
+      <dateVersion>1882-12-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1879-1884 f 249 | 252</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

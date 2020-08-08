@@ -1,0 +1,1974 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1535</normID>
+      <number>730.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">kEnG</abbreviation>
+      <abbreviation lang="fr">LcEne</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Energiegesetz</title>
+      <title lang="fr">Loi sur l'&#xE9;nergie</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2004-01-15</dateAdoption>
+      <dateForce>2004-07-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 19 des Energiegesetzes des Bundes vom 26. Juni 1998;</basis> <basis>eingesehen den Artikel 21 der Energieverordnung des Bundes vom 7. Dezember 1998;</basis> <basis>eingesehen die Artikel 31 Absatz 1, Artikel 42 Absatz 1, 54 und 58 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 19 de la loi f&#xE9;d&#xE9;rale sur l'&#xE9;nergie du 26 juin 1998;</basis> <basis>vu l'article 21 de l'ordonnance f&#xE9;d&#xE9;rale du 7 d&#xE9;cembre 1998;</basis> <basis>vu les articles 31 alin&#xE9;a 1, 42 alin&#xE9;a 1, 54 et 58 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 7/2004, 26/2004</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="6377">
+        <structureContent lang="de">
+          <structureText>Energiegesetz</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur l'&#xE9;nergie</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6378">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeines</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21259">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziele</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48961">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz soll zu einer ausreichenden, breitgef&#xE4;cherten, sicheren, wirtschaftlichen und umweltvertr&#xE4;glichen Energieversorgung beitragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi vise &#xE0; contribuer &#xE0; un approvisionnement &#xE9;nerg&#xE9;tique suffisant, diversifi&#xE9;, s&#xFB;r, &#xE9;conomique et compatible avec les imp&#xE9;ratifs de la protection de l'environnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48962">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es bezweckt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a pour but:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35873">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Sicherstellung einer wirtschaftlichen und umweltvertr&#xE4;glichen Bereitstellung und Verteilung der Energie;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'assurer une production et une distribution de l'&#xE9;nergie &#xE9;conomiques et compatibles avec les imp&#xE9;ratifs de la protection de l'environnement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35874">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die sparsame und rationelle Energienutzung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de promouvoir l'utilisation &#xE9;conome et rationnelle de l'&#xE9;nergie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35875">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die verst&#xE4;rkte Nutzung von einheimischen und erneuerbaren Energien;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'encourager le recours aux &#xE9;nergies indig&#xE8;nes et renouvelables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21260">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gleichstellung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Egalit&#xE9; des sexes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48963">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21261">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48964">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Erf&#xFC;llung dieser Ziele kann der Staatsrat auf dem Verordnungswege folgende Bereiche regeln:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour atteindre ces buts, le Conseil d'Etat peut r&#xE9;gler par voie d'ordonnance les domaines suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35876">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die rationelle Energienutzung in Bauten und Anlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'utilisation rationnelle de l'&#xE9;nergie dans les constructions et les installations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35877">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die F&#xF6;rdermassnahmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les mesures de promotion;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35878">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Anschlussbedingungen f&#xFC;r unabh&#xE4;ngige Produzenten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les conditions de raccordement des producteurs ind&#xE9;pendants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21262">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48965">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz findet Anwendung auf die rationelle Energienutzung und die erneuerbaren Energien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique &#xE0; l'utilisation rationnelle de l'&#xE9;nergie et aux &#xE9;nergies renouvelables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48966">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die Bestimmungen der eidgen&#xF6;ssischen und kantonalen Spezialgesetzgebung, namentlich jene betreffend die Nutzbarmachung der Wasserkr&#xE4;fte, den Transport und die Verteilung von Elektrizit&#xE4;t, die Kern-energie, die Rohrleitungsanlagen sowie die Baugesetzgebung, den Umweltschutz und die Raumplanung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions de la l&#xE9;gislation sp&#xE9;ciale f&#xE9;d&#xE9;rale et cantonale, notamment celles qui concernent l'utilisation des forces hydrauliques, le transport et la distribution de l'&#xE9;lectricit&#xE9;, l'&#xE9;nergie nucl&#xE9;aire, les installations de transport par conduites ainsi que les constructions, la protection de l'environnement et l'am&#xE9;nagement du territoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21263">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48967">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine sparsame und rationelle Energienutzung beinhaltet vor allem:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Utiliser l'&#xE9;nergie de mani&#xE8;re &#xE9;conome et rationnelle signifie avant tout:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35879">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Energieverbrauch so tief als m&#xF6;glich zu halten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">consommer le moins possible d'&#xE9;nergie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35880">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die bestgeeignete Energieform einzusetzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">utiliser la forme d'&#xE9;nergie la plus appropri&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35881">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die eingesetzte Energie m&#xF6;glichst vollst&#xE4;ndig zu nutzen (hoher Energiewirkungsgrad);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">investir le moins possible d'&#xE9;nergie pour obtenir un r&#xE9;sultat donn&#xE9; (rendement &#xE9;nerg&#xE9;tique &#xE9;lev&#xE9;);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35882">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">verwendbare Abw&#xE4;rme zu nutzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;cup&#xE9;rer les rejets de chaleur utilisables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48968">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Massnahmen k&#xF6;nnen nur so weit angeordnet werden, als sie technisch und betrieblich m&#xF6;glich und wirtschaftlich tragbar sind. &#xDC;berwiegende &#xF6;ffentliche Interessen sind zu wahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des mesures ne peuvent &#xEA;tre ordonn&#xE9;es que si elles sont r&#xE9;alisables du point de vue de la technique et de l'exploitation et si elles sont &#xE9;conomiquement supportables. Les int&#xE9;r&#xEA;ts publics pr&#xE9;pond&#xE9;rants doivent &#xEA;tre pr&#xE9;serv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48969">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die wirtschaftlichen Aspekte werden in Anwendung des Verursacherprinzips, unter Ber&#xFC;cksichtigung der externen Energiekosten auf der Grundlage von Rentabilit&#xE4;tsberechnungen, behandelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les aspects &#xE9;conomiques seront trait&#xE9;s en application du principe de causalit&#xE9; sur la base de calculs de rentabilit&#xE9; tenant compte des co&#xFB;ts externes de l'&#xE9;nergie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21264">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48970">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter leitungsgebundener Energie wird die den Verbrauchern &#xFC;ber ein Verteilnetz in Form von Elektrizit&#xE4;t, Gas oder Fernw&#xE4;rme zugef&#xFC;hrte Energie verstanden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont consid&#xE9;r&#xE9;es comme &#xE9;nergies de r&#xE9;seau, les &#xE9;nergies mises &#xE0; disposition de l'utilisateur au moyen d'un r&#xE9;seau de distribution telles que l'&#xE9;lectricit&#xE9;, le gaz et la chaleur &#xE0; distance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48971">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als erneuerbare Energie im Sinne dieses Gesetzes gelten die Wasserkraft, die Energie aus Biomasse einschliesslich Holz, die Sonnenenergie, die geothermische Energie, die Umgebungsw&#xE4;rme, sowie die Windenergie.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au sens de la pr&#xE9;sente loi constituent des &#xE9;nergies renouvelables la force hydraulique, l'&#xE9;nergie tir&#xE9;e de la biomasse y compris le bois, l'&#xE9;nergie solaire, la g&#xE9;othermie, la chaleur de l'environnement et l'&#xE9;nergie &#xE9;olienne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6379">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21265">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Staatsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil d'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48972">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die kantonale Energiepolitik fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;finit la politique &#xE9;nerg&#xE9;tique cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21266">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Departement</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;partement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48973">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das f&#xFC;r die Energie zust&#xE4;ndige Departement:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement charg&#xE9; de l'&#xE9;nergie:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35883">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;bt die Aufsicht &#xFC;ber den Vollzug der Bestimmungen und der Normen hinsichtlich der rationellen Energienutzung aus;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">surveille l'application des dispositions et des normes r&#xE9;gissant l'utilisation rationnelle de l'&#xE9;nergie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35884">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ist verantwortlich f&#xFC;r den Vollzug der F&#xF6;rdermassnahmen, der Ausnahmen betreffend die rationelle Energienutzung, der Anschlussbedingungen f&#xFC;r unabh&#xE4;ngige Produzenten, der Pr&#xFC;fung der Unterlagen der mit fossilen Energien betriebenen Elektrizit&#xE4;tserzeugungsanlagen, sowie der Energiestatistik;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">est responsable de l'application des mesures d'encouragement, des d&#xE9;rogations concernant l'utilisation rationnelle de l'&#xE9;nergie, des conditions de raccordement des producteurs ind&#xE9;pendants, de l'&#xE9;tude des dossiers des installations productrices d'&#xE9;lectricit&#xE9; aliment&#xE9;es aux combustibles fossiles ainsi que de la statistique &#xE9;nerg&#xE9;tique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35885">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ber&#xE4;t die Gemeinden, insbesondere bei der Energieplanung und in allen Energiefragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conseille les communes, notamment pour leur planification &#xE9;nerg&#xE9;tique et dans toutes les questions concernant l'&#xE9;nergie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48974">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann dazu Aufgaben an die zust&#xE4;ndige Dienststelle delegieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut d&#xE9;l&#xE9;guer les t&#xE2;ches y relatives au service comp&#xE9;tent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21267">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Baubewilligungsbeh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9;s comp&#xE9;tentes en mati&#xE8;re d'autorisation de construire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48975">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde, beziehungsweise die zust&#xE4;ndige kantonale Beh&#xF6;rde sind f&#xFC;r den Vollzug der Energiegesetzgebung in ihrem Kompetenzbereich zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune, respectivement l'autorit&#xE9; cantonale comp&#xE9;tente veillent &#xE0; l'application de la l&#xE9;gislation sur l'&#xE9;nergie dans les domaines de leur comp&#xE9;tence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6380">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Energieplanung und Energieversorgung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Planification et approvisionnement &#xE9;nerg&#xE9;tiques</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21268">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Energiekonzepte, Anschluss an Energieanlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Concepts &#xE9;nerg&#xE9;tiques, raccordement &#xE0; des installations &#xE9;nerg&#xE9;tiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48976">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde ist auf ihrem Gebiete zust&#xE4;ndig f&#xFC;r Energiekonzepte und den Anschluss an Energieanlagen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune est comp&#xE9;tente sur son territoire pour l'&#xE9;tablissement de concepts &#xE9;nerg&#xE9;tiques et le raccordement &#xE0; des installations &#xE9;nerg&#xE9;tiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48977">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Anh&#xF6;rung der Tr&#xE4;ger der Energieversorgung k&#xF6;nnen die Gemeinden f&#xFC;r ihr Gebiet oder gemeinsam f&#xFC;r ein mehrere Gemeinden umfassendes Energieversorgungsgebiet Energiekonzepte erarbeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s consultation des distributeurs d'&#xE9;nergie, les communes peuvent &#xE9;tablir des concepts &#xE9;nerg&#xE9;tiques, soit seules pour leur propre territoire, soit &#xE0; plusieurs pour une zone d'approvisionnement en &#xE9;nergie englobant plusieurs communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48978">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden k&#xF6;nnen im Verfahren der Nutzungsplanung Gebiete bezeichnen, in denen die Erschliessung durch einen bestimmten leitungsgebundenen Energietr&#xE4;ger oder gemeinschaftliche Energieanlagen vorgesehen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes, dans le cadre des plans d'affectation, peuvent d&#xE9;signer des zones dans lesquelles est pr&#xE9;vu l'&#xE9;quipement avec une &#xE9;nergie de r&#xE9;seau ou une installation de production d'&#xE9;nergie commune &#xE0; plusieurs b&#xE2;timents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48979">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden k&#xF6;nnen den Eigent&#xFC;mern den Anschluss ihrer Geb&#xE4;ude an ein Netz oder an eine gemeinschaftliche Energieanlage vorschreiben, wenn die verteilte Energie vorwiegend aus erneuerbaren Energien oder Abw&#xE4;rme produziert wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes peuvent prescrire aux propri&#xE9;taires l'obligation de raccorder leurs b&#xE2;timents &#xE0; un r&#xE9;seau ou &#xE0; une installation commune &#xE0; plusieurs b&#xE2;timents lorsque l'&#xE9;nergie distribu&#xE9;e est produite principalement au moyen d'&#xE9;nergies renouvelables ou de rejets de chaleur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21269">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Energiestatistik</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statistique &#xE9;nerg&#xE9;tique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48980">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement erhebt Daten zur Absch&#xE4;tzung der Entwicklung des Energiebedarfs und -angebots.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement rassemble les donn&#xE9;es permettant d'estimer l'&#xE9;volution des besoins et de l'offre en mati&#xE8;re d'&#xE9;nergie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48981">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Daten betreffen namentlich den Energieverbrauch, die Energieverteilung und die Energieproduktion.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces donn&#xE9;es concernent notamment la consommation, la distribution et la production d'&#xE9;nergie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48982">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck kann das Departement die notwendigen Ausk&#xFC;nfte und Dokumente verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cet effet, le d&#xE9;partement est habilit&#xE9; &#xE0; demander les renseignements et documents n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21270">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anschlussbedingungen f&#xFC;r unabh&#xE4;ngige Produzenten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions de raccordement des producteurs ind&#xE9;pendants</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48983">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Unternehmungen der &#xF6;ffentlichen Energieversorgung sind im Rahmen des Bundesrechts verpflichtet, die von unabh&#xE4;ngigen Produzenten angebotene &#xDC;berschussenergie abzunehmen und zu verg&#xFC;ten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les entreprises charg&#xE9;es de l'approvisionnement &#xE9;nerg&#xE9;tique de la collectivit&#xE9; sont tenues, dans le cadre du droit f&#xE9;d&#xE9;ral, de reprendre et de r&#xE9;mun&#xE9;rer les surplus d'&#xE9;nergie produits par les producteurs ind&#xE9;pendants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48984">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Streitf&#xE4;llen setzt der Staatsrat die Anschlussbedingungen f&#xFC;r unabh&#xE4;ngige Produzenten fest. Er kann in Einzelf&#xE4;llen die Verg&#xFC;tung angemessen reduzieren, wenn zwischen &#xDC;bernahmepreis und Produktionskosten ein offensichtliches Missverh&#xE4;ltnis besteht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe en cas de litige les conditions de raccordement des producteurs ind&#xE9;pendants. Il peut, dans des cas isol&#xE9;s, r&#xE9;duire le tarif de reprise de fa&#xE7;on appropri&#xE9;e s'il y a disproportion manifeste entre son niveau et les co&#xFB;ts de production.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21271">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mit fossilen Brennstoffen betriebenen Elektrizit&#xE4;tserzeugungs-anlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Installations productrices d'&#xE9;lectricit&#xE9; aliment&#xE9;es aux combustibles fossiles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48985">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vor dem Entscheid &#xFC;ber den Neubau oder die &#xC4;nderung bestehender Elektrizit&#xE4;tserzeugungsanlagen, die mit fossilen Brennstoffen betrieben und ortsfest sind, pr&#xFC;ft das Departement, auf Grund einer vollst&#xE4;ndigen Studie des Gesuchstellers:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Avant l'autorisation de la construction ou de la transformation d'une installation productrice d'&#xE9;lectricit&#xE9; fixe aliment&#xE9;e aux combustibles fossiles, le d&#xE9;partement examine, sur la base d'une &#xE9;tude compl&#xE8;te &#xE9;tablie par le requ&#xE9;rant:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35886">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wie die erzeugte Abw&#xE4;rme sinnvoll genutzt werden kann;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les possibilit&#xE9;s d'utiliser judicieusement les rejets de chaleur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35887">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ob der Energiebedarf mittels erneuerbarer Energien sinnvoll gedeckt werden kann.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si la demande d'&#xE9;nergie peut &#xEA;tre raisonnablement couverte au moyen d'&#xE9;nergies renouvelables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6381">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Rationelle Energienutzung in Bauten und Anlagen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Utilisation rationnelle de l'&#xE9;nergie dans les constructions et les installations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21272">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48986">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Neue Bauten und Anlagen sowie damit zusammenh&#xE4;ngende Ausstattungen und Ausr&#xFC;stungen sind so zu planen, auszuf&#xFC;hren und zu betreiben, dass die Energie sparsam und rationell genutzt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les constructions nouvelles et installations ainsi que les &#xE9;quipements s'y trouvant doivent &#xEA;tre con&#xE7;us, r&#xE9;alis&#xE9;s et exploit&#xE9;s de mani&#xE8;re &#xE0; garantir une utilisation &#xE9;conome et rationnelle de l'&#xE9;nergie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48987">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r neue Bauten und Anlagen erforderlichen Massnahmen sind auf jene Teile von bestehenden Bauten und Anlagen anwendbar, die durch einen Umbau oder durch eine bewilligungspflichtige Nutzungs&#xE4;nderung betroffen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les mesures exig&#xE9;es pour les nouvelles constructions et installations s'appliquent aux parties de constructions et installations existantes concern&#xE9;es par une transformation ou par un changement d'affectation soumis &#xE0; autorisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48988">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Auswechslung oder &#xC4;nderung von bestehenden haustechnischen Anlagen, m&#xFC;ssen f&#xFC;r diese die neuen Anforderungen angewendet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'un changement ou d'une modification d'une installation technique existante, les nouvelles exigences doivent &#xEA;tre appliqu&#xE9;es pour cette installation m&#xEA;me si une autorisation de construire n'est pas n&#xE9;cessaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48989">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ordnet die technischen Einzelheiten, wobei er Normen von Fachorganisationen als verbindlich erkl&#xE4;ren kann. Er regelt insbesondere die Anforderungen an:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat r&#xE8;gle les d&#xE9;tails techniques et peut d&#xE9;clarer obligatoires des normes d'associations professionnelles. Il fixe en particulier les exigences pour:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35888">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den W&#xE4;rme- und K&#xE4;lteschutz;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la protection thermique contre le chaud ou le froid;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35889">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die W&#xE4;rme- und Warmwassererzeugungsanlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les installations de production de chaleur et d'eau chaude;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35890">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die W&#xE4;rmer&#xFC;ckgewinnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la r&#xE9;cup&#xE9;ration de chaleur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35891">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die L&#xFC;ftungs- und Klimaanlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les installations de ventilation et de climatisation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35892">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die beheizten Schwimmb&#xE4;der;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les piscines chauff&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35893">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die ortsfesten elektrischen Widerstandsheizungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le chauffage &#xE9;lectrique fixe &#xE0; r&#xE9;sistance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35894">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die verbrauchsabh&#xE4;ngige Heiz- und Warmwasserkostenabrechnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;compte individuel des frais de chauffage et d'eau chaude;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35895">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Heizungen im Freien;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les chauffages en plein air;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35896">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die elektrische Energie in Grossbauten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'&#xE9;nergie &#xE9;lectrique dans les grands b&#xE2;timents.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21273">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;rogations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48990">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Von den einzelnen Energiesparvorschriften kann abgewichen werden, sofern mit einem anlagenspezifischen, vom Departement best&#xE4;tigten Energiekonzept dargelegt wird, dass die Ziele dieses Gesetzes erf&#xFC;llt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est possible de s'&#xE9;carter des prescriptions &#xE9;nerg&#xE9;tiques ponctuelles &#xE0; condition qu'il soit d&#xE9;montr&#xE9; que les objectifs de la pr&#xE9;sente loi sont atteints gr&#xE2;ce &#xE0; un concept &#xE9;nerg&#xE9;tique appropri&#xE9;, attest&#xE9; par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6382">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>F&#xF6;rdermassnahmen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Mesures de promotion</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21274">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Information und Beratung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information et conseil</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48991">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xF6;rdert, in Zusammenarbeit mit den Gemeinden, Regionen, Berufsorganisationen und der Wirtschaft, die sachgerechte Information der Fachleute und der Bev&#xF6;lkerung in Energiefragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement, en collaboration avec les communes, les r&#xE9;gions, les organisations professionnelles et l'&#xE9;conomie, promeut l'information appropri&#xE9;e des sp&#xE9;cialistes et du public en mati&#xE8;re &#xE9;nerg&#xE9;tique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48992">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann Beratungs- und Informationst&#xE4;tigkeiten in Energiefragen unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut soutenir des activit&#xE9;s de conseil et d'information sur les questions &#xE9;nerg&#xE9;tiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21275">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aus- und Weiterbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation et perfectionnement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48993">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement unterst&#xFC;tzt die Aus- und Weiterbildung im Energiebereich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement soutient la formation et le perfectionnement dans le domaine de l'&#xE9;nergie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48994">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck kann das Departement insbesondere mit der Fachhochschule Wallis, den Berufsschulen, der Wirtschaft sowie den Berufsverb&#xE4;nden zusammenarbeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour ce faire, le d&#xE9;partement peut s'assurer en particulier la collaboration de la Haute Ecole Valaisanne, des &#xE9;coles professionnelles, de l'&#xE9;conomie ainsi que des associations professionnelles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21276">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Forschung und Entwicklung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Recherche et d&#xE9;veloppement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48995">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann die Forschung und die Entwicklung im Bereich der rationellen Energienutzung, der Energiediversifikation sowie der Nutzung erneuerbarer Energien f&#xF6;rdern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut encourager la recherche et le d&#xE9;veloppement en mati&#xE8;re d'utilisation rationnelle de l'&#xE9;nergie, de diversification des &#xE9;nergies et de recours aux &#xE9;nergies renouvelables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48996">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann Pilot- und Demonstrationsanlagen, Experimente, Analysen und Feldversuche unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut soutenir des projets pilotes et de d&#xE9;monstration, des exp&#xE9;rimentations, des analyses et des essais dans le terrain.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48997">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement arbeitet insbesondere mit der Fachhochschule Wallis zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement collabore en particulier avec la Haute Ecole Valaisanne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21277">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fonds und F&#xF6;rdermassnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fonds et mesures d'encouragement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:48998">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Fonds unter Aufsicht des Staatsrates wird ge&#xE4;ufnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un fonds est cr&#xE9;&#xE9; sous la surveillance du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:48999">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieser Fonds wird finanziert durch die j&#xE4;hrlichen zweckgebundenen Globalbeitr&#xE4;ge des Bundes, durch Beitr&#xE4;ge des Staates und durch eventuelle Beteiligungen von Privaten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ce fonds est aliment&#xE9; par la contribution globale annuelle de la Conf&#xE9;d&#xE9;ration affect&#xE9;e aux programmes d'encouragement cantonaux, par des contributions de l'Etat et par d'&#xE9;ventuelles participations de priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49000">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;ber diesen Fonds unterst&#xFC;tzt das Departement:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par ce fonds, le d&#xE9;partement soutient des mesures pour:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35897">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die rationelle Energienutzung in Geb&#xE4;uden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'utilisation rationnelle de l'&#xE9;nergie dans les b&#xE2;timents;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35898">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massnahmen zur Erh&#xF6;hung der Energieeffizienz an Anlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'am&#xE9;lioration de l'efficacit&#xE9; &#xE9;nerg&#xE9;tique des installations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35899">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massnahmen zur Nutzung erneuerbarer Energien;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'utilisation des &#xE9;nergies renouvelables;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35900">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massnahmen zur Abw&#xE4;rmenutzung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'utilisation des rejets de chaleur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35901">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massnahmen zur F&#xF6;rderung des Energiecontracting;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la promotion du contracting &#xE9;nerg&#xE9;tique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35902">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Aus- und Weiterbildung, Information, Beratung, die Studien und das Marketing im Energiebereich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la formation initiale et permanente, l'information, le conseil, les &#xE9;tudes et le marketing dans le domaine de l'&#xE9;nergie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21278">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Qualit&#xE4;tsstandards im Geb&#xE4;udebereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Standards de qualit&#xE9; dans le domaine du b&#xE2;timent</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49001">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die F&#xF6;rderung bestimmter Qualit&#xE4;tskriterien im Geb&#xE4;udebereich, insbesondere nach dem Minergie Standard, werden folgende Anreize gew&#xE4;hrt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour encourager la construction de b&#xE2;timents r&#xE9;pondant &#xE0; des crit&#xE8;res de qualit&#xE9; d&#xE9;termin&#xE9;e, en particulier au standard Minergie, il est octroy&#xE9; les incitations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35903">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Bonus von zehn Prozent auf der im Bau- und Zonenreglement der Gemeinde vorgesehenen Geschossfl&#xE4;chenziffer, wobei Letztere um maximal 0.10 erh&#xF6;ht werden darf;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un bonus de dix pour cent sur l'indice brut d'utilisation du sol fix&#xE9; par le r&#xE8;glement communal des zones et des constructions, sous r&#xE9;serve de ne pas d&#xE9;passer une augmentation maximale de 0.10;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35904">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die unentgeltliche Nutzung des Grundwassers zu thermischen Zwecken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'utilisation gratuite des eaux souterraines &#xE0; des fins thermo-&#xE9;nerg&#xE9;tiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:35905">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Befreiung von der verbrauchsabh&#xE4;ngigen Heiz- und Warmwasserkostenabrechnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une dispense du d&#xE9;compte individuel des frais de chauffage et d'eau chaude.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49002">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Neubauten und bedeutende Renovationen im &#xF6;ffentlichen Interesse, die vom Kanton ausgef&#xFC;hrt oder subventioniert werden, m&#xFC;ssen bestimmten Qualit&#xE4;tskriterien, insbesondere dem Minergie-Standard, entsprechen. Anderenfalls verlieren diese Bauten, nach Ansetzung einer gen&#xFC;genden Nachbesserungsfrist, die entsprechenden Subventionen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les constructions nouvelles et les r&#xE9;novations importantes, qui sont d'int&#xE9;r&#xEA;t public, ex&#xE9;cut&#xE9;es par le canton ou subventionn&#xE9;es par lui, doivent satisfaire une certaine qualit&#xE9; &#xE9;nerg&#xE9;tique, notamment le standard Minergie. Si ce n'est pas le cas, ces constructions perdent, apr&#xE8;s fixation d'un d&#xE9;lai suffisant pour r&#xE9;aliser les am&#xE9;liorations n&#xE9;cessaires, les subventions li&#xE9;es &#xE0; ces travaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49003">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausnahmen bed&#xFC;rfen eines Entscheids des Departements. Dabei ist insbesondere Artikel 5 Absatz 2 dieses Gesetzes anzuwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les exceptions sont soumises &#xE0; une d&#xE9;cision du d&#xE9;partement. En particulier, l'article 5 alin&#xE9;a 2 de la pr&#xE9;sente loi est applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49004">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat regelt die Einzelheiten in einer Verordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;tails sont r&#xE9;gl&#xE9;s dans une ordonnance du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6383">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Vollzug und Rechtsschutz</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Ex&#xE9;cution et voies de recours</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:21279">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewilligungsverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure d'autorisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49005">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im vorliegenden Gesetz und seinen Ausf&#xFC;hrungsbestimmungen vorgesehenen Bewilligungsgesuche werden im Rahmen des ordentlichen Baubewilligungsverfahrens behandelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes d'autorisation pr&#xE9;vues par la pr&#xE9;sente loi ou ses dispositions d'application sont trait&#xE9;es dans le cadre de la proc&#xE9;dure ordinaire d'autorisation de construire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49006">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde kann Private und private Organisationen f&#xFC;r Vollzugsaufgaben beiziehen und ihnen namentlich Pr&#xFC;f-, Kontroll- und &#xDC;berwachungsaufgaben &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune peut appeler des tiers ou des organisations priv&#xE9;es &#xE0; collaborer &#xE0; des t&#xE2;ches d'ex&#xE9;cution et leur d&#xE9;l&#xE9;guer notamment des t&#xE2;ches de v&#xE9;rification, de contr&#xF4;le et de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49007">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde lehnt eine Baubewilligung ab, wenn das Gesuch nicht den Grunds&#xE4;tzen des vorliegenden Gesetzes und dessen Verordnungen entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente refuse l'autorisation demand&#xE9;e si la demande ne satisfait pas aux exigences de la pr&#xE9;sente loi et de ses ordonnances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49008">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton und die Gemeinden vereinfachen das Bewilligungsverfahren f&#xFC;r die Installation von Sonnenkollektoren an bestehenden Bauten und Anlagen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton et les communes simplifient la proc&#xE9;dure d'autorisation de construire pour la pose de capteurs solaires sur les constructions et installations existantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21280">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49009">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann jederzeit den Vollzug dieses Gesetzes kontrollieren und dazu Geb&#xE4;ude und Anlagen besichtigen; wenn n&#xF6;tig kann sie die Gemeinde zum Handeln auffordern. F&#xFC;r die Finanzierung dieser Kontrollen werden Geb&#xFC;hren erhoben, soweit M&#xE4;ngel festgestellt wurden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut, en tout temps, contr&#xF4;ler l'ex&#xE9;cution de la pr&#xE9;sente loi et, &#xE0; cet effet, inspecter les b&#xE2;timents ou installations; il peut au besoin requ&#xE9;rir l'intervention de la commune. Ces contr&#xF4;les sont financ&#xE9;s par la perception d'&#xE9;moluments, pour autant qu'un d&#xE9;faut ait &#xE9;t&#xE9; constat&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21281">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Protection juridique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49010">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Rahmen des Baubewilligungsverfahrens erlassenen Verf&#xFC;gungen k&#xF6;nnen gem&#xE4;ss den f&#xFC;r dieses Verfahren geltenden Regeln angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises dans le cadre de la proc&#xE9;dure en mati&#xE8;re de police des constructions peuvent &#xEA;tre attaqu&#xE9;es selon les r&#xE8;gles valant pour dite proc&#xE9;dure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49011">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die in einem Sonderverfahren erlassenen Verf&#xFC;gungen kann beim Staatsrat gem&#xE4;ss den Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege Verwaltungsbeschwerde (VVRG) eingereicht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Contre les d&#xE9;cisions prises au terme de proc&#xE9;dures sp&#xE9;ciales, est ouverte la voie du recours administratif aupr&#xE8;s du Conseil d'Etat, conform&#xE9;ment aux dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives (LPJA).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49012">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die auf Beschwerde hin vom Staatsrat gef&#xE4;llten Entscheide, welche eine kommunale Verf&#xFC;gung aufheben oder ab&#xE4;ndern, k&#xF6;nnen die Gemeinden beim Kantonsgericht Beschwerde einreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes ont qualit&#xE9; pour recourir aupr&#xE8;s du Tribunal cantonal contre les d&#xE9;cisions du Conseil d'Etat prises sur recours et annulant ou modifiant une d&#xE9;cision communale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21282">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions administratives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49013">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zuwiderhandlungen gegen das vorliegende Gesetz sowie deren Ausf&#xFC;hrungsvorschriften werden mit einer Busse von 1'000 bis 100'000 Franken bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infractions aux dispositions de la pr&#xE9;sente loi, ainsi qu'aux prescriptions d'ex&#xE9;cution, sont punies d'une amende allant de 1'000 &#xE0; 100'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49014">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verfolgung und die Beurteilung von Zuwiderhandlungen richten sich nach dem VVRG.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La poursuite et le jugement des infractions suivent les r&#xE8;gles de la LPJA.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49015">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verj&#xE4;hrungsfrist betr&#xE4;gt drei Jahre, nachdem die Zuwiderhandlung der zust&#xE4;ndigen Beh&#xF6;rde zur Kenntnis gebracht wurde und sechs Jahre nach der Begehung der Zuwiderhandlung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;lai de prescription est de trois ans &#xE0; partir du moment o&#xF9; l'infraction a &#xE9;t&#xE9; port&#xE9;e &#xE0; la connaissance de l'autorit&#xE9; et de six ans &#xE0; partir du moment o&#xF9; elle a &#xE9;t&#xE9; commise.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21283">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49016">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Gesetz ist nicht anwendbar auf Projekte, welche bei Inkrafttreten des Gesetzes schon einer Beh&#xF6;rde zum Entscheid unterbreitet worden sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette loi ne s'applique pas aux projets qui ont d&#xE9;j&#xE0; &#xE9;t&#xE9; soumis &#xE0; une autorit&#xE9; pour d&#xE9;cision au moment de sa mise en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:21284">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung bisherigen Rechts und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:49017">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dem Inkrafttreten des vorliegenden Gesetzes werden das Energiespargesetz vom 11. M&#xE4;rz 1987, das Reglement vom 4. M&#xE4;rz 1992, der Beschluss vom 2. Oktober 1992, das Reglement vom 4. November 1987, sowie das Dekret betreffend die F&#xF6;rderung des Minergie-Standards im Geb&#xE4;udebereich vom 18. Mai 1999 aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi sont abrog&#xE9;s la loi sur les &#xE9;conomies d'&#xE9;nergie du 11 mars 1987, le r&#xE8;glement du 4 mars 1992, la d&#xE9;cision du 2 octobre 1992, le r&#xE8;glement du 4 novembre 1987 et le d&#xE9;cret concernant la promotion du standard Minergie dans le domaine du b&#xE2;timent du 18 mai 1999.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49018">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:49019">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la date d'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2004-07-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 1/2017, 31/2017</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:21278" id2="Paragraph:49001" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:21278" id2="EnumerationItem:35903" historyChange="modify" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2004-07-01</dateForce>
+        <dateVersion>2004-07-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 7/2004, 26/2004</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

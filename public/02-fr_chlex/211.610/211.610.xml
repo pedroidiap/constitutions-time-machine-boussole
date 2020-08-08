@@ -1,0 +1,1511 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1061</normID>
+      <number>211.610</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung betreffend die Grundbucheinf&#xFC;hrung im Kanton Wallis</title>
+      <title lang="fr">Ordonnance concernant l'introduction du registre foncier dans le canton du Valais</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-11-09</dateAdoption>
+      <dateForce>2012-02-03T00:00:00</dateForce>
+      <dateLastChange>2012-02-03</dateLastChange>
+      <dateVersion>2012-02-03</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 942 und folgende des Schweizerischen Zivilgesetzbuchs;</basis> <basis>eingesehen Artikel 40 und folgende Schlusstitel des Schweizerischen Zivilgesetzbuchs;</basis> <basis>eingesehen die Artikel 73, 197 und 209 und folgende des Einf&#xFC;hrungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. M&#xE4;rz 1998;</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft, Energie und Raumentwicklung,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 942 et suivants du Code civil suisse;</basis> <basis>vu les articles 40 et suivants du Titre final du Code civil suisse;</basis> <basis>vu les articles 73, 197 et 209 et suivants de la loi d&#x2019;application du code civil suisse du 24 mars 1998;</basis> <basis>sur la proposition du D&#xE9;partement de l&#x2019;&#xE9;conomie, de l&#x2019;&#xE9;nergie et du territoire,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 5/2012</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3344">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>betreffend die Grundbucheinf&#xFC;hrung im Kanton Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant l'introduction du registre foncier dans le canton du Valais</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3346">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11381">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26086">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Abschluss der amtlichen Vermessung wird das eidgen&#xF6;ssische Grundbuch raschm&#xF6;glichst eingef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s l&#x2019;ach&#xE8;vement de la mensuration officielle, le registre foncier f&#xE9;d&#xE9;ral sera introduit aussi rapidement que possible.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11382">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26087">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren zur Einf&#xFC;hrung des eidgen&#xF6;ssischen Grundbuchs bezweckt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure d&#x2019;introduction du registre foncier f&#xE9;d&#xE9;ral a pour but:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12420">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Feststellung und Eintragung der in den kantonalen Grundbucheinrichtungen bisher nicht eingetragenen Rechte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la constatation et l'inscription des droits non encore inscrits dans les registres fonciers cantonaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12421">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die &#xDC;berpr&#xFC;fung der eingetragenen Rechte, deren &#xDC;berf&#xFC;hrung ins eidgen&#xF6;ssische Grundbuch, die Behebung von M&#xE4;ngeln sowie die Vereinheitlichung der Eintr&#xE4;ge (Stichw&#xF6;rter);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la rectification des droits d&#xE9;j&#xE0; inscrits et leur transposition dans le registre foncier f&#xE9;d&#xE9;ral, la rectification des inscriptions lacunaires de m&#xEA;me que l'uniformisation des inscriptions (mots-cl&#xE9;s);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12422">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die L&#xF6;schung der untergegangenen Rechte und die Anmerkung der nicht eintragungsf&#xE4;higen&#xA0;Rechte.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la radiation des droits p&#xE9;rim&#xE9;s et la mention des droits r&#xE9;els abolis.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11383">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anordnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Disposition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26088">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement bestimmt, nach Anh&#xF6;rung der Dienststelle f&#xFC;r Grundbuch&#xE4;mter und der Geomatik (nachstehend: Dienststelle), den Beginn des Einf&#xFC;hrungsverfahrens und das Beizugsgebiet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement d&#xE9;termine, apr&#xE8;s avoir entendu le Service des registres fonciers et de la g&#xE9;omatique (ci-apr&#xE8;s: le Service), le d&#xE9;but de la proc&#xE9;dure d&#x2019;introduction et le p&#xE9;rim&#xE8;tre de la zone &#xE0; introduire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26089">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle bestimmt die Organisation des Einf&#xFC;hrungsverfahrens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service d&#xE9;termine l&#x2019;organisation de la proc&#xE9;dure d&#x2019;introduction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11384">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Durchf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;alisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26090">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbucheinf&#xFC;hrung geschieht unter Aufsicht und Weisung der Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;introduction du registre foncier intervient sous la surveillance et la direction du Service.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26091">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton stellt der Dienststelle das erforderliche Personal f&#xFC;r die Grundbucheinf&#xFC;hrung zur Verf&#xFC;gung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Canton met &#xE0; disposition du Service le personnel n&#xE9;cessaire pour l&#x2019;introduction du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26092">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eintr&#xE4;ge werden mit allen zur Verf&#xFC;gung stehenden technischen Hilfsmitteln fortlaufend in das informatisierte Grundbuch &#xFC;bernommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inscriptions seront transpos&#xE9;es dans le registre foncier informatis&#xE9; avec l&#x2019;aide de tous les moyens techniques existants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11385">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereinigungskommission</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission d'&#xE9;puration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26093">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Behandlung der streitigen F&#xE4;lle ist eine Bereinigungskommission zu bestellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le traitement des cas litigieux, une commission d&#x2019;&#xE9;puration est mise sur pied.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26094">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission besteht aus drei Mitgliedern: dem Grundbuchinspektor, dem zust&#xE4;ndigen Grundbuchverwalter und dem Vorsteher des Amtes f&#xFC;r die Grundbucheinf&#xFC;hrung und -informatisierung (nachstehend: Amt). Sie beschliesst einstimmig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Commission se compose de trois membres: l&#x2019;inspecteur du registre foncier, le Conservateur du registre foncier comp&#xE9;tent et le repr&#xE9;sentant de l&#x2019;office d&#x2019;introduction et d&#x2019;informatisation du registre foncier (ci-apr&#xE8;s: Office). Elle se prononce &#xE0; l&#x2019;unanimit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11386">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beglaubigungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">L&#xE9;galisations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26095">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der jeweils zust&#xE4;ndige Mitarbeiter des Amtes kann Unterschriften beglaubigen bei Grundbuchgesch&#xE4;ften, welche unmittelbar mit der Grundbucheinf&#xFC;hrung zusammenh&#xE4;ngen, sofern die Unterschrift in Gegenwart der beglaubigenden Person beigesetzt wird oder&#xA0; diese durch den Unterzeichner best&#xE4;tigt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le collaborateur comp&#xE9;tent de l&#x2019;Office charg&#xE9; de l&#x2019;introduction du registre foncier peut l&#xE9;galiser les signatures dans le cadre des affaires qui ont un lien direct avec l&#x2019;introduction du registre foncier &#xE0; condition que la signature soit appos&#xE9;e en pr&#xE9;sence de la personne qui l&#xE9;galise ou soit confirm&#xE9;e &#xE0; celle-ci par le signataire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26096">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Unterzeichner muss der beglaubigenden Person pers&#xF6;nlich bekannt sein oder seine Identit&#xE4;t nachweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le signataire doit &#xEA;tre personnellement connu de la personne qui l&#xE9;galise ou doit justifier de son identit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3347">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Vorbereitungsarbeiten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Travaux pr&#xE9;paratoires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11387">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26097">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in den kantonalen Grundbucheinrichtungen eingetragenen Rechtsverh&#xE4;ltnisse, die keiner &#xC4;nderung bed&#xFC;rfen, werden ins eidgen&#xF6;ssische Grundbuch &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rapports de droit inscrits dans les registres fonciers cantonaux, qui ne n&#xE9;cessitent pas de modification sont transpos&#xE9;s dans le registre foncier f&#xE9;d&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26098">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bisherige Eintr&#xE4;ge werden nach einem Stichwortverzeichnis, welches die Dienststelle festlegt, vereinheitlicht und ins Grundbuch &#xFC;bertragen. Beim Eintrag wird auf den Beleg verwiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inscriptions existantes sont transcrites dans le registre foncier de fa&#xE7;on uniforme, selon une liste de mots-cl&#xE9;s, &#xE9;labor&#xE9;e par le Service. L&#x2019;inscription renvoie &#xE0; la pi&#xE8;ce justificative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26099">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter der Herrschaft des kantonalen Rechts entstandene dingliche Rechte, die gem&#xE4;ss Zivilgesetzbuch nicht mehr begr&#xFC;ndet werden k&#xF6;nnen, sind im Grundbuch anzumerken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits r&#xE9;els existants sous l&#x2019;angle du droit cantonal et qui ne peuvent plus &#xEA;tre constitu&#xE9;s &#xE0; teneur du Code civil, sont mentionn&#xE9;s au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11388">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vorbereitungsverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure pr&#xE9;liminaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26100">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;hrt das Vorbereitungsverfahren durch. Es kann die Beteiligten oder ihre Vertreter mit Fristansetzung vorladen. Diese sind verpflichtet bei der Durchf&#xFC;hrung der Bereinigung mitzuwirken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office dirige la proc&#xE9;dure pr&#xE9;liminaire. Il peut convoquer les int&#xE9;ress&#xE9;s ou leurs repr&#xE9;sentants en leur assignant un d&#xE9;lai. Ceux-ci sont tenus de collaborer &#xE0; la proc&#xE9;dure d&#x2019;&#xE9;puration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26101">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird unentschuldigt einer Vorladung oder Aufforderung zur Mitwirkung keine Folge geleistet, so wird das Verfahren trotzdem fortgesetzt; Art. 292 StGB bleibt vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">S&#x2019;il n&#x2019;est donn&#xE9; aucune suite &#xE0; une convocation ou &#xE0; une mise en demeure, sans motif valable, la proc&#xE9;dure suit son cours malgr&#xE9; tout; demeure r&#xE9;serv&#xE9;e l&#x2019;application de l&#x2019;article 292 CP.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26102">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach unben&#xFC;tztem Fristablauf oder wenn keine Einigung zustande kommt, entscheidet das Amt. Der Entscheid wird den Beteiligten sogleich er&#xF6;ffnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A l&#x2019;&#xE9;ch&#xE9;ance du d&#xE9;lai imparti ou si aucune conciliation n&#x2019;aboutit, l&#x2019;Office prend une d&#xE9;cision, laquelle est aussit&#xF4;t communiqu&#xE9;e aux int&#xE9;ress&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26103">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen den Entscheid kann im Rahmen der &#xF6;ffentlichen Auflage Einsprache erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il peut &#xEA;tre formul&#xE9; opposition contre la d&#xE9;cision dans le cadre du d&#xE9;p&#xF4;t public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11389">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wirkung von Bereinigungsprotokollen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Effet des protocoles d'&#xE9;puration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26104">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Wirkung &#xF6;ffentlicher Urkunden kommt zu:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Valent titres authentiques:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12423">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den von den Beteiligten und dem jeweils zust&#xE4;ndigen Mitarbeiter des Amtes unterschriebenen Einigungsprotokollen und Protokollen &#xFC;ber die Errichtung von Dienstbarkeiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les protocoles d'&#xE9;puration et les protocoles constitutifs de servitudes sign&#xE9;s par les int&#xE9;ress&#xE9;s et le collaborateur comp&#xE9;tent de l'Office;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12424">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den von allen Beteiligten, dem Registerhalter, dem Geometer und dem jeweils zust&#xE4;ndigen Mitarbeiter des Amtes unterzeichneten Mutationsprotokollen bei:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les protocoles de mutation sign&#xE9;s par les int&#xE9;ress&#xE9;s, le teneur de cadastre, le g&#xE9;ometre&#xA0;et le collaborateur comp&#xE9;tent de l'Office, concernant:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:12425">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xDC;bertragung kleiner Grundst&#xFC;cksfl&#xE4;chen durch freiwillige Grenzverbesserungen im Rahmen der Grundbucheinf&#xFC;hrung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le transfert de petites surfaces immobili&#xE8;res par une rectification de limites volontaire, dans le cadre de l'introduction du registre foncier,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:12426">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">freiwilligen G&#xFC;terzusammenlegungen und Anpassungen der Grenzen ans Nachbarrecht im Rahmen der Grundbucheinf&#xFC;hrung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les mutations cons&#xE9;cutives &#xE0; un remaniement volontaire et les adaptations de limites aux rapports de voisinage, dans le cadre de l'introduction du registre foncier.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11390">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereinigung der Eigentumsverh&#xE4;ltnisse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Epuration des rapports de propri&#xE9;t&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26105">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die im Kataster eingetragenen Eigentumsverh&#xE4;ltnisse mit den wirklichen Eigentumsverh&#xE4;ltnissen nicht &#xFC;bereinstimmen, sind sie zu bereinigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les rapports de propri&#xE9;t&#xE9; inscrits au cadastre ne correspondent pas aux v&#xE9;ritables rapports de propri&#xE9;t&#xE9;, ils doivent &#xEA;tre &#xE9;pur&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11391">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereinigung und Errichtung von Dienstbarkeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Epuration et constitution des servitudes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26106">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die in den kantonalen Grundbucheinrichtungen eingetragenen oder anderweitig bestehenden Dienstbarkeiten mit den wirklichen Verh&#xE4;ltnissen nicht &#xFC;bereinstimmen, sind sie zu bereinigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les servitudes inscrites ou existantes dans les registres fonciers cantonaux ne correspondent pas aux v&#xE9;ritables rapports, elles doivent &#xEA;tre &#xE9;pur&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26107">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der jeweils zust&#xE4;ndige Mitarbeiter des Amtes kann im Einvernehmen mit den Beteiligten Dienstbarkeiten, welche unmittelbar mit der Grundbucheinf&#xFC;hrung zusammenh&#xE4;ngen, errichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En accord avec les int&#xE9;ress&#xE9;s, le collaborateur comp&#xE9;tent de l&#x2019;Office peut constituer des servitudes qui sont en relation directe avec l&#x2019;introduction du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11392">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Herausgabe und Kraftloserkl&#xE4;rung von Pfandtiteln</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Production et annulation des titres hypoth&#xE9;caires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26108">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Pfandtitelbesitzer sind verpflichtet, dem Amt die einverlangten Pfandtitel gegen Quittung, falls verlangt, einzureichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les porteurs de titres hypoth&#xE9;caires sont tenus de produire les titres r&#xE9;clam&#xE9;s par l&#x2019;Office. Sur demande, une quittance leur est d&#xE9;livr&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26109">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Pfandtitel werden auf Veranlassung des jeweils zust&#xE4;ndigen Mitarbeiters des Amtes &#xFC;ber die Dienststelle durch das Gericht f&#xFC;r kraftlos erkl&#xE4;rt, wenn die eingeforderten Titel nicht eingereicht und auch sonst nicht erh&#xE4;ltlich gemacht werden k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A la demande du collaborateur comp&#xE9;tent de l&#x2019;Office et par l&#x2019;interm&#xE9;diaire du Service, les titres hypoth&#xE9;caires sont annul&#xE9;s par le juge lorsqu&#x2019;ils ne sont pas produits ou qu&#x2019;ils ne sont pas disponibles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26110">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Kostenersparnis ist das Kraftloserkl&#xE4;rungsverfahren f&#xFC;r mehrere Titel gemeinsam durchzuf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par &#xE9;conomie de frais, la proc&#xE9;dure d&#x2019;annulation doit &#xEA;tre introduite pour plusieurs titres en m&#xEA;me temps.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26111">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten des Gerichts und der Publikation im Amtsblatt tr&#xE4;gt der pfandbelastete Eigent&#xFC;mer.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais judiciaires et de la publication dans le Bulletin officiel sont support&#xE9;s par le propri&#xE9;taire grev&#xE9; de gage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11393">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pfandbereinigungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Epuration des gages</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26112">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der jeweils zust&#xE4;ndige Mitarbeiter des Amtes &#xFC;berpr&#xFC;ft die Pfandtitel, vergleicht sie mit den Eintragungen und versucht die Parteien zu einigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le collaborateur comp&#xE9;tent de l&#x2019;Office contr&#xF4;le les titres hypoth&#xE9;caires, les compare avec les inscriptions et essaie de concilier les parties.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3348">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Bereinigungsverfahren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Proc&#xE9;dure d'&#xE9;puration</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11394">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xD6;ffentliche Auflage und &#xF6;ffentlicher Aufruf</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;p&#xF4;t public et sommation publique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26113">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Anschluss an das Vorbereitungsverfahren liegen die Vorbereitungsunterlagen einschliesslich der Entscheide des Amtes w&#xE4;hrend drei Monaten auf dem betreffenden Grundbuchamt &#xF6;ffentlich auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de la proc&#xE9;dure pr&#xE9;liminaire, les pi&#xE8;ces y relatives ainsi que les d&#xE9;cisions de l&#x2019;Office sont expos&#xE9;es pendant trois mois dans le bureau du registre foncier concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26114">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle publiziert die &#xF6;ffentliche Auflage und den &#xF6;ffentlichen Aufruf drei Mal im Amtsblatt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service publie le d&#xE9;p&#xF4;t public et la sommation publique trois fois au Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26115">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindeverwaltung macht diesen Aufruf angemessen bekannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;administration communale rend cette sommation publique de fa&#xE7;on appropri&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26116">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Publikation sind alle Personen, die:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors de la publication, toutes les personnes qui:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12427">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Rechte beanspruchen, welche in den Grundbucheinf&#xFC;hrungsdokumenten noch nicht eingetragen sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;tendent &#xE0; des droits qui ne figurent pas dans les documents de l'introduction du registre foncier;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12428">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xC4;nderungen oder L&#xF6;schungen von unrichtigen oder bedeutungslos gewordenen Eintragungen beantragen, oder</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">requi&#xE8;rent des modifications ou radiations d'inscriptions erron&#xE9;es ou devenues sans objet, ou</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12429">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Einsprache gegen Entscheide des Amtes erheben wollen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veulent faire opposition contres les d&#xE9;cisions de l'Office;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Post:Paragraph:26116">
+                        <partNumber quiet="true">4</partNumber>
+                        <typeOfPart>O</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">unter Angabe der Folgen, welche im Falle der Nichtanmeldung eintreten, aufzufordern, ihre Begehren innert der Frist von 30 Tagen seit der letzten Publikation beim Amt geltend zu machen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sont invit&#xE9;es &#xE0; les d&#xE9;clarer dans un d&#xE9;lai de 30 jours d&#xE8;s la derni&#xE8;re publication aupr&#xE8;s de l'Office. La publication indique en outre les cons&#xE9;quences du d&#xE9;faut de production.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11395">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anmeldungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Revendications</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26117">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anmeldungen sind mit einem Eingangsvermerk zu versehen und in chronologischer Reihenfolge zu sammeln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les revendications sont enregistr&#xE9;es et class&#xE9;es par ordre chronologique, selon la date de r&#xE9;ception.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11396">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereinigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Epuration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26118">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der jeweils zust&#xE4;ndige Mitarbeiter des Amtes erledigt zusammen mit den Beteiligten die eingegangenen Anmeldungen und Einsprachen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le collaborateur comp&#xE9;tent de l&#x2019;Office liquide en collaboration avec les int&#xE9;ress&#xE9;s les revendications et oppositions d&#xE9;pos&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26119">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bed&#xFC;rfen bestehende Eintr&#xE4;ge einer Erneuerung, &#xC4;nderung oder Erg&#xE4;nzung, fordert er die Beteiligten zur Bereinigung auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les inscriptions existantes n&#xE9;cessitent une actualisation, une modification ou un compl&#xE9;ment, il invite les int&#xE9;ress&#xE9;s &#xE0; les &#xE9;purer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11397">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einberufung der Bereinigungskommission</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Intervention de la Commission d'&#xE9;puration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26120">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kommt zwischen den Beteiligten keine Einigung zustande, veranlasst das Amt die Einberufung der Bereinigungskommission.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les int&#xE9;ress&#xE9;s n&#x2019;aboutissent pas &#xE0; un accord, l&#x2019;Office fait appel &#xE0; la Commission d&#x2019;&#xE9;puration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11398">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Bereinigungskommission</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches de la Commission d'&#xE9;puration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26121">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bereinigungskommission hat alles vorzukehren und abzukl&#xE4;ren, was zur Feststellung der tats&#xE4;chlichen und rechtlichen Verh&#xE4;ltnisse notwendig und zweckm&#xE4;ssig ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Commission d&#x2019;&#xE9;puration doit entreprendre tout ce qui est n&#xE9;cessaire et utile &#xE0; la constatation des rapports de fait et de droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26122">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann die Beteiligten sowie allenfalls den Registerhalter und den Geometer vorladen. Sie f&#xFC;hrt &#xFC;ber die Einvernahmen und Verhandlungen Protokoll.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut inviter les int&#xE9;ress&#xE9;s et au besoin le teneur de cadastre et le g&#xE9;om&#xE8;tre. Elle dresse un proc&#xE8;s-verbal des observations et des discussions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26123">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kann keine Einigung erzielt werden, entscheidet die Bereinigungskommission.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si aucun accord n&#x2019;aboutit, la Commission d&#x2019;&#xE9;puration d&#xE9;cide.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26124">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten des Verfahrens tr&#xE4;gt der Staat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de la proc&#xE9;dure sont support&#xE9;s par l&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11399">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fristansetzung zur gerichtlichen Erledigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lai imparti pour une liquidation judiciaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26125">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bereinigungskommission setzt den Beteiligten eine Frist von 30 Tagen an, die Sache beim zust&#xE4;ndigen Zivilgericht anh&#xE4;ngig zu machen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Commission d&#x2019;&#xE9;puration octroie un d&#xE9;lai de 30 jours aux parties pour ouvrir action aupr&#xE8;s du Juge civil comp&#xE9;tent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26126">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Fristansetzung ist f&#xFC;r den Fall der Klageerhebung auf die Sicherungsm&#xF6;glichkeit durch eine vorl&#xE4;ufige Eintragung gem&#xE4;ss Art. 961 ZGB hinzuweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans cette communication, il est fait mention en cas d&#x2019;ouverture d&#x2019;action de la possibilit&#xE9; de s&#xFB;ret&#xE9; par la voie de l&#x2019;inscription provisoire, au sens de l&#x2019;art. 961 CC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26127">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei unben&#xFC;tztem Fristablauf wird der Entscheid der Bereinigungskommission rechtskr&#xE4;ftig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de non-utilisation du d&#xE9;lai de recours, &#xE0; l&#x2019;&#xE9;ch&#xE9;ance du d&#xE9;lai, la d&#xE9;cision de la Commission d&#x2019;&#xE9;puration entre en force.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26128">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das eidgen&#xF6;ssische Grundbuch kann schon vor der gerichtlichen Erledigung der Klagen in Kraft gesetzt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre foncier f&#xE9;d&#xE9;ral peut d&#xE9;j&#xE0; entrer en force avant la liquidation judiciaire des litiges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11400">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Publikation der Fertigstellung und Inkraftsetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Publication de l'&#xE9;tat d&#xE9;finitif et de l'entr&#xE9;e en force</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26129">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt teilt der Dienststelle die Erledigung aller Anmeldungen mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office communique au service la liquidation de toutes les revendications.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26130">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat setzt auf Antrag der Dienststelle das eidgen&#xF6;ssische Grundbuch in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat ordonne l&#x2019;entr&#xE9;e en vigueur du registre foncier f&#xE9;d&#xE9;ral &#xE0; la demande du service.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26131">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese ver&#xF6;ffentlicht die Inkraftsetzung einmal im Amtsblatt und orientiert die Gemeinde. In der Publikation ist auf den Gutglaubensschutz des eidgen&#xF6;ssischen Grundbuchs hinzuweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Celui-ci informe de cette entr&#xE9;e en vigueur par une unique publication au bulletin officiel et avise la commune. Dans la publication, il est fait r&#xE9;f&#xE9;rence &#xE0; la foi publique du registre foncier f&#xE9;d&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11401">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Folgen der Nichteintragung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cons&#xE9;quences du d&#xE9;faut d'inscription</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26132">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Rechte, welche nicht im Grundbuch eingetragen werden, behalten zwar ihre G&#xFC;ltigkeit, k&#xF6;nnen aber Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, entsprechend Artikel 44 Absatz 1 Schlusstitel des Zivilgesetzbuchs, nicht entgegengehalten werden (Art. 213 EGZGB).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits qui n&#x2019;auront pas &#xE9;t&#xE9; port&#xE9;s au registre foncier n&#x2019;en restent pas moins valables, mais ne peuvent &#xEA;tre oppos&#xE9;s aux tiers qui s&#x2019;en sont remis de bonne foi aux &#xE9;nonciations du registre foncier aux conditions de l&#x2019;articles 44 alin&#xE9;a 1 du Titre final du Code civil (art. 213 LACC).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3349">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Kosten der Grundbucheinf&#xFC;hrung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Frais de l'introduction du registre foncier</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11402">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchabgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais du registre foncier</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26133">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r unmittelbar mit der Grundbucheinf&#xFC;hrung zusammenh&#xE4;ngende Grundbuchgesch&#xE4;fte werden weder Hand&#xE4;nderungssteuern noch Grundbuchgeb&#xFC;hren erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucun droit de mutation ni &#xE9;molument de registre foncier n&#x2019;est per&#xE7;u pour les affaires en relation directe avec l&#x2019;introduction du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26134">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der blossen Eintragung der Erbengemeinschaft ohne Eigentums&#xFC;bertragung werden die Hand&#xE4;nderungssteuer und die Grundbuchgeb&#xFC;hren aufgeschoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de simple inscription de l&#x2019;hoirie sans transfert de propri&#xE9;t&#xE9;, l&#x2019;imp&#xF4;t sur les mutations et les &#xE9;moluments du registre foncier sont diff&#xE9;r&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11403">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtliche Ausk&#xFC;nfte und Registerausz&#xFC;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Renseignements officiels et extraits de registre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26135">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Grundbucheinf&#xFC;hrung sind der Dienststelle und dem Amt s&#xE4;mtliche Ausk&#xFC;nfte und Unterlagen (z.B. elektronische Daten, Registerausz&#xFC;ge) geb&#xFC;hrenfrei abzugeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les renseignements et toutes les pi&#xE8;ces (p.ex. donn&#xE9;es &#xE9;lectroniques, extraits de registre) d&#xE9;livr&#xE9;es au Service et &#xE0; l&#x2019;Office dans le cadre de la proc&#xE9;dure d&#x2019;introduction du registre foncier sont gratuits.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3350">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11404">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26136">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung betreffend die Einf&#xFC;hrung des Grundbuches im Kanton Wallis vom 9. Dezember 1919 und der Beschluss betreffend das einzuschlagende Verfahren in Bezug auf die Bereinigung der dinglichen Rechte anl&#xE4;sslich der Einf&#xFC;hrung des Grundbuches vom 27. Dezember 1929 werden aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ordonnance concernant l&#x2019;introduction du registre foncier dans le canton du Valais du 9 d&#xE9;cembre 1919 ainsi que l&#x2019;arr&#xEA;t&#xE9; concernant la proc&#xE9;dure &#xE0; suivre en vue de l&#x2019;&#xE9;puration des droits r&#xE9;els lors de l&#x2019;introduction du registre foncier du 27 d&#xE9;cembre 1929 sont abrog&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11405">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26137">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung tritt mit ihrer Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance entre en vigueur d&#xE8;s sa publication dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-02-03</dateForce>
+      <dateVersion>2012-02-03</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 5/2012</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

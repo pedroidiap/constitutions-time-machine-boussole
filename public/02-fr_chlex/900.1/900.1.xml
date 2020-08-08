@@ -1,0 +1,1855 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:133</normID>
+      <number>900.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GkWPol</abbreviation>
+      <abbreviation lang="fr">LPolEco</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die kantonale Wirtschaftspolitik</title>
+      <title lang="fr">Loi sur la politique &#xE9;conomique cantonale</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2000-02-11</dateAdoption>
+      <dateForce>2001-01-01T00:00:00</dateForce>
+      <dateLastChange>2013-01-01</dateLastChange>
+      <dateVersion>2013-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Bestimmungen der Artikel 15 und 31 Absatz 1 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les dispositions des articles 15 et 31 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 2000 f 37, 306 | d 36, 304</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="447">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die kantonale Wirtschaftspolitik</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur la politique &#xE9;conomique cantonale</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="449">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1542">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3610">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz bezweckt die F&#xF6;rderung der Wirtschaftsentwicklung im Kanton.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour but de favoriser le d&#xE9;veloppement de l'activit&#xE9; &#xE9;conomique dans le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3611">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Politik f&#xFC;r die Entwicklung der Walliser Wirtschaft (nachstehend: kantonale Wirtschaftspolitik) strebt eine St&#xE4;rkung der Wirtschaftsstruktur und der Wettbewerbsf&#xE4;higkeit der Walliser Wirtschaft an. Sie zielt namentlich und ganz speziell in den Bereichen mit einer hohen Wertsch&#xF6;pfung auf:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La politique en faveur du d&#xE9;veloppement de l'&#xE9;conomie valaisanne (ci-apr&#xE8;s: la politique &#xE9;conomique cantonale) a comme objectif le renforcement du tissu et de la comp&#xE9;titivit&#xE9; de l'&#xE9;conomie valaisanne. Elle vise notamment, plus particuli&#xE8;rement dans les secteurs de forte valeur ajout&#xE9;e:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1602">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Erhaltung und Schaffung von Arbeitspl&#xE4;tzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; favoriser le maintien et la cr&#xE9;ation d'emplois;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1603">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Innovationsf&#xF6;rderung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; encourager l'innovation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1604">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Erleichterung der Strukturanpassungen in Unternehmen, namentlich in den kleinen und mittleren Unternehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; faciliter les adaptations structurelles des entreprises, en particulier les petites et moyennes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3612">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Wirtschaftspolitik betrifft s&#xE4;mtliche Wirtschaftsbereiche.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La politique &#xE9;conomique cantonale concerne tous les secteurs d'activit&#xE9; &#xE9;conomique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1543">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3613">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist f&#xFC;r die Erarbeitung und Umsetzung der kantonalen Wirtschaftspolitik des Kantons zust&#xE4;ndig. Er arbeitet dabei mit den Gemeinden, den sozio&#xF6;konomischen Regionen (nachstehend: Regionen) und den durch die wirtschaftspolitischen Massnahmen betroffenen Kreisen zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;labore et met en oeuvre la politique &#xE9;conomique du canton en collaboration avec les communes, les r&#xE9;gions socio-&#xE9;conomiques (ci-apr&#xE8;s: r&#xE9;gions), ainsi qu'avec les milieux concern&#xE9;s par les mesures de politique &#xE9;conomique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3614">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn es die wirtschaftliche, konjunkturelle oder strukturelle Lage erfordert, kann er besondere Massnahmen ergreifen, die eine oder mehrere Regionen oder Wirtschaftszweige des Kantons betreffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la situation &#xE9;conomique conjoncturelle ou structurelle l'exige, il peut prendre des mesures particuli&#xE8;res pouvant s'appliquer &#xE0; une ou plusieurs r&#xE9;gions ou branches &#xE9;conomiques du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3615">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Erarbeitung und Umsetzung der Wirtschaftspolitik ber&#xFC;cksichtigt der Staatsrat:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la conception et la mise en oeuvre de la politique &#xE9;conomique, le Conseil d'Etat prend en compte:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1605">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Subsidiarit&#xE4;tsprinzip, welches die Verantwortlichkeit der Wirtschaftskreise, namentlich der Unternehmen, in den Vordergrund r&#xFC;ckt und die Konkurrenz nicht verf&#xE4;lscht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les principes de subsidiarit&#xE9; qui placent au premier plan la responsabilit&#xE9; et les int&#xE9;r&#xEA;ts des milieux de l'&#xE9;conomie, en particulier des entreprises, et qui ne faussent pas le jeu de la concurrence;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1606">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die soziale Gerechtigkeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'&#xE9;quit&#xE9; sociale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1607">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die allgemeinen Grunds&#xE4;tze und die Walliser Entwicklungschancen, die Wirtschaftswachstum f&#xF6;rdern und eine nachhaltige sowie qualitative Entwicklung erlauben;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les principes g&#xE9;n&#xE9;raux et les options valaisannes visant &#xE0; favoriser une croissance &#xE9;conomique permettant un d&#xE9;veloppement durable et de qualit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1608">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Grunds&#xE4;tze der wirkungsorientierten Staats- und Verwaltungsf&#xFC;hrung, namentlich mittels Leistungsvereinbarungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les principes de la nouvelle gestion publique, notamment par le recours aux contrats de prestations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1609">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zusammenarbeit mit dem Bund, den Kantonen und dem Ausland.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la collaboration avec la Conf&#xE9;d&#xE9;ration, les cantons et les pays &#xE9;trangers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1544">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stossrichtungen der Wirtschaftspolitik</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Axes de la politique &#xE9;conomique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3616">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Wirtschaftspolitik des Kantons umfasst drei haupts&#xE4;chliche Stossrichtungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La politique &#xE9;conomique du canton comprend trois axes principaux:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1610">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verbesserung der Rahmenbedingungen und der Wettbewerbsf&#xE4;higkeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'am&#xE9;lioration des conditions-cadres et de la comp&#xE9;titivit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1611">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Wirtschaftsf&#xF6;rderung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la promotion &#xE9;conomique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1612">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Entwicklung der Konzertierung in Wirtschaftsfragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;veloppement de la concertation en mati&#xE8;re &#xE9;conomique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1545">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strategie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Strat&#xE9;gie</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3617">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Strategie fest und definiert die Zielsetzungen in den einzelnen Stossrichtungen, einschliesslich einer aktiven Technologiepolitik, den n&#xF6;tigen Rahmenkredit und die zu erreichenden Resultate (Leistungskriterien).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la strat&#xE9;gie et d&#xE9;finit les objectifs par axe en y incluant une politique active en mati&#xE8;re de technologie, le cr&#xE9;dit-cadre n&#xE9;cessaire et les r&#xE9;sultats &#xE0; atteindre (crit&#xE8;res de performance).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3618">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Strategie des Staatsrates wird im Rahmen der Regierungsrichtlinien pr&#xE4;sentiert und in einem Politikkontrakt mit dem Grossen Rat konkretisiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La strat&#xE9;gie du Conseil d'Etat est pr&#xE9;sent&#xE9;e dans le cadre des Lignes directrices et concr&#xE9;tis&#xE9;e dans un contrat politique avec le Grand Conseil.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="450">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufgaben</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>T&#xE2;ches</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1546">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verbesserung der Rahmenbedingungen und der Wettbewerbsf&#xE4;higkeit des Kantons</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Am&#xE9;lioration des conditions-cadres et de la comp&#xE9;titivit&#xE9; du canton</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3619">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Rahmenbedingungen umfassen jene Massnahmen der &#xF6;ffentlichen Hand, die die wirtschaftliche T&#xE4;tigkeit f&#xF6;rdern, namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il faut entendre par conditions-cadres les mesures prises par les collectivit&#xE9;s publiques pour favoriser l'activit&#xE9; &#xE9;conomique, notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1613">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bildung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1614">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kommunikationsinfrastruktur und -dienste (Verkehrserschliessung, Telekommunikation, usw.);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les infrastructures et services de communications (voies de communication, t&#xE9;l&#xE9;communications, etc.);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1615">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fiskalit&#xE4;t;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fiscalit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1616">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Raumplanung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'am&#xE9;nagement du territoire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1617">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vereinfachung, Beschleunigung und Koordination von administrativen Verfahren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la simplification, l'acc&#xE9;l&#xE9;ration et la coordination des proc&#xE9;dures administratives.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3620">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat schafft Rahmenbedingungen, die sich g&#xFC;nstig auf die wirtschaftliche Attraktivit&#xE4;t des Kantons und die Entwicklung seiner Wirtschaftst&#xE4;tigkeit und seiner Unternehmen auswirken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat cr&#xE9;e des conditions g&#xE9;n&#xE9;rales favorables &#xE0; l'attractivit&#xE9; &#xE9;conomique du canton, au d&#xE9;veloppement de ses activit&#xE9;s &#xE9;conomiques et de ses entreprises.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3621">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck verpflichtet sich der Staatsrat namentlich dazu:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cet effet, le Conseil d'Etat prend notamment les dispositions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1618">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Interessen des Kantons und seiner Wirtschaft ausserhalb seiner Grenzen, namentlich durch die interkantonale und grenz&#xFC;berschreitende Zusammenarbeit zu f&#xF6;rdern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir les int&#xE9;r&#xEA;ts du canton et de son &#xE9;conomie &#xE0; l'ext&#xE9;rieur de ses fronti&#xE8;res, notamment par la coop&#xE9;ration intercantonale et transfrontali&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1619">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Projekte und priorit&#xE4;re Aktionen, die zur Verbesserung der Rahmenbedingungen beitragen, zu definieren und zu realisieren, namentlich jene, die in den Regierungsrichtlinien aufgef&#xFC;hrt sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;finir et r&#xE9;aliser des projets et des actions prioritaires concourant &#xE0; l'am&#xE9;lioration des conditions-cadres, notamment ceux contenus dans les Lignes directrices;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1620">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r eine verbesserte Wirkung der Aktivit&#xE4;ten und Leistungen der kantonalen Verwaltung, die einen Einfluss auf die Wirtschaft und die Wettbewerbsf&#xE4;higkeit haben, zu sorgen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">am&#xE9;liorer l'impact des activit&#xE9;s et des prestations de l'administration cantonale ayant des effets sur l'&#xE9;conomie et la comp&#xE9;titivit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1621">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch die Schaffung einer einzigen, branchen&#xFC;bergreifenden und unabh&#xE4;ngigen Struktur f&#xFC;r eine professionelle, kompetente, wettbewerbs- und leistungsf&#xE4;hige Promotion zu sorgen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veiller, par la cr&#xE9;ation d'une structure unique, intersectorielle et ind&#xE9;pendante, &#xE0; une promotion professionnelle, comp&#xE9;tente, concurrentielle et performante;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1622">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Zielsetzungen dieses Gesetzes in seiner Politik und seinen Verwaltungst&#xE4;tigkeiten Rechnung zu tragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">prendre en compte les objectifs de cette loi dans ses actes politiques et administratifs.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1547">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wirtschaftsf&#xF6;rderung und St&#xE4;rkung der Wirtschaftsstruktur</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Promotion &#xE9;conomique et appui au renforcement du tissu &#xE9;conomique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3622">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ziel der kantonalen Wirtschaftsf&#xF6;rderung ist die St&#xE4;rkung der Wettbewerbsf&#xE4;higkeit der Walliser Wirtschaft, die Diversifizierung der Wirtschaftssektoren und Branchen sowie die Innovationsf&#xF6;rderung in den Unternehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La promotion &#xE9;conomique cantonale a pour objectif de renforcer la comp&#xE9;titivit&#xE9; de l'&#xE9;conomie valaisanne, de diversifier les branches et secteurs &#xE9;conomiques du canton et de fournir un appui &#xE0; l'innovation des entreprises.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3623">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Wirtschaftsf&#xF6;rderung umfasst namentlich folgende Leistungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La promotion &#xE9;conomique comprend notamment les prestations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1623">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">St&#xE4;rkung der Wirtschaftsstruktur in Zusammenarbeit mit den Wirtschafts- und Berufsverb&#xE4;nden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">renforcer le tissu &#xE9;conomique valaisan en collaboration avec les associations &#xE9;conomiques et professionnelles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1624">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Entwicklung der exogenen F&#xF6;rderung, koordiniert durch das Koordinations- und Unterst&#xFC;tzungsinstrument des Staatsrates;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;velopper la promotion exog&#xE8;ne, coordonn&#xE9;e par l'instrument de coordination et d'appui du Conseil d'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1625">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Finanzielle Unterst&#xFC;tzung von Projekten von Unternehmern oder Unternehmen sowie von Organisationen, die im Bereich der wirtschaftlichen Entwicklung aktiv sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">soutenir financi&#xE8;rement des projets d'entrepreneurs ou d'entreprises ainsi que des organismes actifs dans le d&#xE9;veloppement &#xE9;conomique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1626">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erleichterung des Zugangs zu Leistungen im Bereich des Technologietransfers und der Innovationsf&#xF6;rderung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">faciliter l'acc&#xE8;s des entreprises aux prestations de transfert technologique et d'appui &#xE0; l'innovation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1627">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erleichterung der administrativen Abwicklung innerhalb der kantonalen Verwaltung und des Zugangs zu den Leistungen der Wirtschaftsf&#xF6;rderung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">faciliter les d&#xE9;marches administratives au sein de l'administration cantonale ainsi que l'acc&#xE8;s aux prestations de la promotion &#xE9;conomique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3624">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Wirtschaftsf&#xF6;rderung arbeitet mit den f&#xFC;r die Erarbeitung und Umsetzung der Politik im Bereich des Technologie- und Wissenstransfers zust&#xE4;ndigen Organen zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La promotion &#xE9;conomique cantonale collabore avec les organes charg&#xE9;s d'&#xE9;laborer et de mettre en oeuvre la politique cantonale de transfert de technologie et de savoir.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3625">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Sachen Strategie und Umsetzung der Wirtschaftsf&#xF6;rderung arbeitet der Kanton mit den Nachbarkantonen, dem Bund und den internationalen Institutionen zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En mati&#xE8;re de strat&#xE9;gie et de mise en oeuvre de la promotion &#xE9;conomique, le canton collabore avec les cantons voisins, la Conf&#xE9;d&#xE9;ration et les institutions internationales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1548">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Konzertierung in Wirtschaftsfragen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Concertation en mati&#xE8;re &#xE9;conomique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3626">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um die Effizienz der Wirtschaftspolitik zu gew&#xE4;hrleisten, betreibt der Staatsrat eine Konzertierungspolitik in Wirtschaftsfragen. Diese Politik umfasst namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin d'assurer l'efficacit&#xE9; de la politique &#xE9;conomique, le Conseil d'Etat d&#xE9;veloppe une politique de concertation en mati&#xE8;re &#xE9;conomique qui prend notamment les formes suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1628">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine regelm&#xE4;ssige Konzertierung mit dem Grossen Rat;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une concertation r&#xE9;guli&#xE8;re avec le Grand Conseil;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1629">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine aktive Zusammenarbeit mit den Wirtschaftsakteuren, namentlich mit den haupts&#xE4;chlichen Wirtschafts- und Berufsverb&#xE4;nden, den Gewerkschaften sowie den Regionen und den Gemeinden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une collaboration active avec les acteurs &#xE9;conomiques, en particulier avec les principales associations &#xE9;conomiques et professionnelles, avec les syndicats ainsi qu'avec les r&#xE9;gions et les communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1630">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine allgemeine und gezielte Information der Bev&#xF6;lkerung sowie der Walliser, Schweizer und der ausl&#xE4;ndischen Wirtschaftsakteure.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une information g&#xE9;n&#xE9;rale et cibl&#xE9;e &#xE0; l'attention de la population et des acteurs &#xE9;conomiques valaisans, suisses et &#xE9;trangers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="451">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation, Finanzierung und Vollzugsbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation, financement et dispositions d'ex&#xE9;cution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1549">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3627">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist verantwortlich f&#xFC;r die Umsetzung der Mittel, die es erlauben, die Ziele des vorliegenden Gesetzes zu erreichen. Zu diesem Zweck stattet er sich mit einem Koordinations- und Unterst&#xFC;tzungsinstrument aus, das als einzige Anlaufstelle innerhalb der kantonalen Verwaltung dient. Dieses Organ ist dem Staatsrat angegliedert. Seine Befugnisse entsprechen dem in Artikel 15 Absatz 1 festgelegten Verfahren. Der Staatsrat ergreift die notwendigen Massnahmen, um eine angemessene Pr&#xE4;senz der Personen, die sein Koordinations- und Unterst&#xFC;tzungsinstrument darstellen, in den Regionen des Kantons, sicherzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est responsable de la mise en oeuvre des moyens permettant d'atteindre les objectifs de la pr&#xE9;sente loi. A cet effet, il se dote d'un instrument de coordination et d'appui qui fait office de porte d'entr&#xE9;e unique au sein de l'administration cantonale. Cet organe est rattach&#xE9; au Conseil d'Etat. Ses attributions suivent la proc&#xE9;dure de l'article 15 alin&#xE9;a 1. Le Conseil d'Etat prend les mesures n&#xE9;cessaires afin d'assurer une pr&#xE9;sence ad&#xE9;quate, dans les r&#xE9;gions du canton, des personnes formant son instrument de coordination et d'appui.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3628">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Wirtschafts- und Sozialrat wird damit beauftragt, den Staatsrat bei seinen strategischen &#xDC;berlegungen zu unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un Conseil &#xE9;conomique et social est charg&#xE9; d'appuyer le Conseil d'Etat dans ses r&#xE9;flexions strat&#xE9;giques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3629">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Grunds&#xE4;tzlich werden private oder gemischtwirtschaftliche Organisationen mittels Leistungsvereinbarungen mit der Erbringung der in Artikel 6 Absatz 2 definierten Leistungen betraut.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ex&#xE9;cution des prestations d&#xE9;finies &#xE0; l'article 6 alin&#xE9;a 2 est confi&#xE9;e, en principe, &#xE0; des organismes priv&#xE9;s ou mixtes et d&#xE9;finie dans des mandats de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3630">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bezeichnet Regionalantennen mit der Aufgabe, als Verbindungsstelle im Bereich der Wirtschaftsf&#xF6;rderung, des Technologie- und Wissenstransfers und der Fortbildung zu wirken. Dabei ber&#xFC;cksichtigt er die geographischen und sprachlichen Gegebenheiten des Kantons. Die Organisation dieser Regionalantennen wird durch den Staatsrat in einer Verordnung festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe des antennes r&#xE9;gionales qui exercent la fonction de relais de la promotion &#xE9;conomique, du transfert de technologie et de savoir ainsi que de la formation continue, en tenant compte des sp&#xE9;cificit&#xE9;s g&#xE9;ographiques et linguistiques du canton.&#xA0;L'organisation de ces antennes r&#xE9;gionales est fix&#xE9;e par le Conseil d'Etat dans une ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3631">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann die F&#xFC;hrung durch Leistungsvereinbarungen und mehrj&#xE4;hrige Globalbudgets auf die kantonale Wirtschaftspolitik anwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut appliquer &#xE0; la politique &#xE9;conomique cantonale la gestion par contrats de prestations et budgets globaux pluriannuels.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1550">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3632">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grosse Rat legt auf dem Beschlussweg und f&#xFC;r die Dauer von vier Jahren einen Rahmenkredit (Globalbudget) f&#xFC;r die Wirtschaftspolitik des Kantons fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Grand Conseil fixe par d&#xE9;cision, pour une p&#xE9;riode de quatre ans, le cr&#xE9;dit-cadre (budget global) &#xE0; disposition de la politique &#xE9;conomique du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3633">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die j&#xE4;hrlichen Tranchen vom Globalbudget nach Zielsetzungen, vorgestellt im Budget und in der Rechnung, zeigen die aktuelle Situation der erzielten Resultate und der get&#xE4;tigten Ausgaben und k&#xF6;nnen im Rahmen des Controllings des Politikkontraktes revidiert werden. Eine Anpassung des Globalbudgets und/oder der Ziele verlangt einen ausdr&#xFC;cklichen Entscheid des Parlamentes. Die Modalit&#xE4;ten dieser Anpassung sind in der in Artikel 15 Absatz 1 des vorliegenden Gesetzes vorgesehenen Verordnung festgehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les tranches annuelles du budget global par objectif, pr&#xE9;sent&#xE9;es au budget et au compte, donnent un &#xE9;tat de la situation, des r&#xE9;sultats atteints et des d&#xE9;penses engag&#xE9;es et peuvent &#xEA;tre r&#xE9;vis&#xE9;es dans le cadre des proc&#xE9;dures de controlling du contrat politique. Une adaptation du budget global et/ou des objectifs implique une d&#xE9;cision explicite du parlement. Les modalit&#xE9;s de cette adaptation sont pr&#xE9;cis&#xE9;es dans l'ordonnance pr&#xE9;vue &#xE0; l'article 15 alin&#xE9;a 1 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1551">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Evaluation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3634">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vergleichende Entwicklung der kantonalen Wirtschaftsstruktur, die Auswirkungen der vom Kanton ergriffenen wirtschaftlichen und finanziellen Massnahmen werden von dazu bestimmten Organen aufmerksam verfolgt und durch ein oder mehrere unabh&#xE4;ngige Organe regelm&#xE4;ssig beurteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;volution comparative du tissu &#xE9;conomique du canton, de l'impact des mesures &#xE9;conomiques et financi&#xE8;res appliqu&#xE9;es par le canton font l'objet d'un suivi par des organes d&#xE9;sign&#xE9;s et d'une &#xE9;valuation r&#xE9;guli&#xE8;re par un ou des organes ind&#xE9;pendants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="452">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Finanzielle Beteiligung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Contributions financi&#xE8;res</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1552">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzielle Massnahmen zugunsten von Unternehmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures financi&#xE8;res en faveur des entreprises</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3635">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann Unternehmen, die Innovations-, Entwicklungs- oder Expansionsprojekte realisieren, finanzielle Zusch&#xFC;sse gew&#xE4;hren. Grunds&#xE4;tzlich wird dies durch ein Kompetenzzentrum f&#xFC;r Finanzhilfen erfolgen, wie in Artikel 14 des vorliegenden Gesetzes festgelegt. Die finanzielle Unterst&#xFC;tzung kann sowohl f&#xFC;r Projekte bereits bestehender Unternehmen als auch f&#xFC;r die Schaffung und Ansiedlung neuer Unternehmen gew&#xE4;hrt werden. Sie kann an eidgen&#xF6;ssische oder europ&#xE4;ische Beitr&#xE4;ge gekoppelt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut octroyer des contributions financi&#xE8;res &#xE0; des entreprises r&#xE9;alisant des projets d'innovation, de d&#xE9;veloppement ou d'expansion. Il le fait en principe par l'interm&#xE9;diaire d'un centre de comp&#xE9;tences financi&#xE8;res tel que pr&#xE9;vu &#xE0; l'article 14 de la pr&#xE9;sente loi. Le soutien financier peut &#xEA;tre accord&#xE9; aussi bien &#xE0; des projets d'entreprises existantes que dans le cadre de cr&#xE9;ation et d'implantation d'entreprises. Il peut &#xEA;tre coupl&#xE9; avec des contributions financi&#xE8;res f&#xE9;d&#xE9;rales ou europ&#xE9;ennes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3636">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beitr&#xE4;ge werden in erster Linie f&#xFC;r die Projektfinanzierung von Unternehmen aus allen Wirtschaftsbereichen gew&#xE4;hrt, deren T&#xE4;tigkeit in &#xDC;bereinstimmung mit den Zielen der kantonalen Wirtschaftspolitik, entweder auf einen sich vorwiegend ausserhalb des Kantons befindlichen Markt ausgerichtet ist oder die Schaffung oder Erhaltung von nachhaltigen Arbeitspl&#xE4;tzen zur Folge hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les contributions financi&#xE8;res sont allou&#xE9;es en priorit&#xE9; pour le financement de projets d'entreprises de tous les secteurs &#xE9;conomiques dont l'activit&#xE9;, conforme aux objectifs de la politique cantonale de d&#xE9;veloppement &#xE9;conomique, est orient&#xE9;e vers un march&#xE9; situ&#xE9; de mani&#xE8;re pr&#xE9;pond&#xE9;rante &#xE0; l'ext&#xE9;rieur du canton, ou entra&#xEE;ne la cr&#xE9;ation ou le maintien d'emplois durables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3637">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die durch das vorliegende Gesetz vorgesehenen Beitr&#xE4;ge werden subsidi&#xE4;r zu jenen Hilfen gew&#xE4;hrt, die in den besonderen Gesetzgebungen vorgesehen sind, welche sich namentlich mit den Landwirtschafts- und Tourismusbetrieben sowie mit den in Berggebieten angesiedelten Unternehmen befassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les contributions financi&#xE8;res permises par la pr&#xE9;sente loi sont attribu&#xE9;es subsidiairement &#xE0; celles pr&#xE9;vues dans les l&#xE9;gislations particuli&#xE8;res relatives notamment aux entreprises agricoles, touristiques et des r&#xE9;gions de montagne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1553">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzielle Massnahmen zugunsten von Vereinigungen undOrganisationen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures financi&#xE8;res en faveur d'associations et d'organismes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3638">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann Beitr&#xE4;ge an Vereine und Organisationen gew&#xE4;hren, welche die von der kantonalen Wirtschaftspolitik vorgesehenen Auftr&#xE4;ge erf&#xFC;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut octroyer des contributions financi&#xE8;res &#xE0; des associations et &#xE0; des organismes qui r&#xE9;alisent les missions pr&#xE9;vues par la politique &#xE9;conomique du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3639">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Beitr&#xE4;ge sind zeitlich befristet und bilden Gegenstand einer Leistungsvereinbarung zwischen dem Staat und der betroffenen Organisation, in der die Art der Aufgaben, die zu erreichenden Resultate (Leistungskriterien) und die finanziellen Auswirkungen f&#xFC;r den Kanton und die leistungserbringende Vereinigung oder Organisation festgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces contributions sont limit&#xE9;es dans le temps et font l'objet d'un contrat de prestations entre l'Etat et l'organisme concern&#xE9;, d&#xE9;finissant la nature des t&#xE2;ches, les r&#xE9;sultats &#xE0; atteindre (crit&#xE8;res de performance) ainsi que les implications financi&#xE8;res pour le canton et l'association ou l'organisme prestataire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3640">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann sich am Kapital dieser Vereinigungen oder Organisationen beteiligen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut prendre des participations au capital de ces associations et organismes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1554">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Infrastruktur- und Ausr&#xFC;stungsfinanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement d'infrastructures et d'&#xE9;quipements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3641">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann im Rahmen der Anwendung des vorliegenden Gesetzes finanzielle Beitr&#xE4;ge f&#xFC;r wirtschaftliche Infrastrukturen oder Ausr&#xFC;stungen gew&#xE4;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut octroyer des contributions financi&#xE8;res en faveur d'infrastructures ou d'&#xE9;quipements &#xE0; caract&#xE8;re &#xE9;conomique dans le cadre de l'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3642">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese finanziellen Beitr&#xE4;ge werden subsidi&#xE4;r zu den in den besonderen Gesetzen vorgesehenen Hilfen und f&#xFC;r priorit&#xE4;re Projekte im Sinne von Artikel 5 und 6 des vorliegenden Gesetzes gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces contributions financi&#xE8;res sont attribu&#xE9;es subsidiairement &#xE0; celles pr&#xE9;vues par les lois particuli&#xE8;res et pour des projets prioritaires au sens des articles 5 et 6 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1555">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit und Delegation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaborations et d&#xE9;l&#xE9;gations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3643">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat gew&#xE4;hrleistet die Zusammenarbeit zwischen den Vertretern der Privatwirtschaft und den f&#xFC;r die B&#xFC;rgschaftsleistung und die Zins&#xFC;bernahme zust&#xE4;ndigen Instanzen. Die Modalit&#xE4;ten dieser Zusammenarbeit werden in einer Verordnung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat assure la collaboration entre les repr&#xE9;sentants de l'&#xE9;conomie priv&#xE9;e et les instances comp&#xE9;tentes en mati&#xE8;re d'octroi des cautionnements et de prise en charge des int&#xE9;r&#xEA;ts. Il fixe dans une ordonnance les modalit&#xE9;s de cette collaboration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3644">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann die Kompetenzen f&#xFC;r die Gew&#xE4;hrung anderer finanzieller Beteiligungen mittels einer Leistungsvereinbarung an Organisationen delegieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut d&#xE9;l&#xE9;guer des comp&#xE9;tences d'octroi pour d'autres contributions financi&#xE8;res &#xE0; des organismes, moyennant un mandat de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3645">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat gibt dem Grossen Rat j&#xE4;hrlich einen Bericht &#xFC;ber seine Wirtschaftspolitik indem er auch &#xFC;ber den Stand der zugesagten oder ausbezahlten Beitr&#xE4;ge informiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;sente annuellement au Grand Conseil un rapport sur sa gestion &#xE9;conomique mentionnant &#xE9;galement la situation des contributions financi&#xE8;res promises ou vers&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1556">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3646">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Modalit&#xE4;ten bez&#xFC;glich der Funktion der in den Kapiteln 3 und 4 des vorliegenden Gesetzes beschriebenen Organe der kantonalen Wirtschaftspolitik, der Zusammenarbeit und der Gew&#xE4;hrung von Finanzierungen bilden Gegenstand einer vom Staatsrat erlassenen Verordnung, die dem Grossen Rat unterbreitet wird. Diese Verordnung pr&#xE4;zisiert die gew&#xE4;hlte Organisation, die Mittel und Modalit&#xE4;ten f&#xFC;r die Umsetzung, die Finanzierung, die Controlling- und &#xDC;berwachungsmodalit&#xE4;ten, die Sanktionen und die &#xDC;bergangsbestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les modalit&#xE9;s relatives au fonctionnement des organes de la politique de d&#xE9;veloppement &#xE9;conomique, aux collaborations et &#xE0; l'octroi des financements d&#xE9;crits dans les chapitres 3 et 4 de la pr&#xE9;sente loi font l'objet d'une ordonnance &#xE9;dict&#xE9;e par le Conseil d'Etat et soumise au Grand Conseil. Cette ordonnance pr&#xE9;cise l'organisation retenue, les moyens et modalit&#xE9;s de mise en oeuvre, le financement, les modalit&#xE9;s de controlling et de surveillance, les sanctions et les dispositions transitoires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3647">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz verleiht keinerlei Anrechte auf Hilfen oder Beitr&#xE4;ge.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi ne conf&#xE8;re aucun droit &#xE0; l'obtention d'une aide ou d'une contribution financi&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3648">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheide &#xFC;ber die Gew&#xE4;hrung von Hilfen und Beitr&#xE4;gen k&#xF6;nnen nicht mittels Verwaltungsbeschwerde angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions concernant l'octroi de contributions ou d'aides financi&#xE8;res ne peuvent &#xEA;tre l'objet d'un recours administratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="453">
+            <structureContent lang="de">
+              <structureOrder>4a</structureOrder>
+              <structureText>Walliser Gesellschaft zur Standortpromotion</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4a</structureOrder>
+              <structureText>Soci&#xE9;t&#xE9; de promotion du Valais</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1557">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsform, Sitz und Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Forme juridique, si&#xE8;ge et t&#xE2;ches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3649">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter dem Namen "Valais/Wallis Promotion" wird eine &#xF6;ffentlich-rechtliche K&#xF6;rperschaft mit Sitz in Sitten geschaffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous le nom "Valais/Wallis Promotion" est cr&#xE9;&#xE9;e une corporation de droit public avec si&#xE8;ge &#xE0; Sion.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3650">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie hat folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a pour t&#xE2;ches de:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1631">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch gezielte Promotion f&#xFC;r die Anziehung von Besuchern, Investitionen und Unternehmen sowie f&#xFC;r den Export von G&#xFC;tern und Dienstleistungen, welche im Wallis produziert werden, sorgen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contribuer, par une promotion cibl&#xE9;e, &#xE0; la venue de visiteurs, investissements et entreprises ainsi qu'&#xE0; l'exportation de biens et services produits en Valais;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1632">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r eine einheitliche Markenf&#xFC;hrung sorgen und den Besonderheiten der sektorspezifischen Promotionsprozesse Rechnung tragen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer une gestion de marque unifi&#xE9;e et tenir compte des particularit&#xE9;s des processus de promotion sp&#xE9;cifiques aux diff&#xE9;rents secteurs d'activit&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:1633">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ihre T&#xE4;tigkeit auf die Bed&#xFC;rfnisse des Marktes ausrichten und eng mit den verschiedenen Vertretern der betroffenen Branchen zusammenarbeiten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">orienter son activit&#xE9; en direction des besoins du march&#xE9; et collaborer &#xE9;troitement avec les diff&#xE9;rents repr&#xE9;sentants des branches concern&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3651">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alles N&#xE4;here wird in einem internen Reglement festgelegt, das vom Vorstand von Valais/Wallis Promotion beschlossen und dem Staatsrat zur Kenntnis gebracht wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;tails sont pr&#xE9;cis&#xE9;s dans un r&#xE8;glement interne d&#xE9;cid&#xE9; par le comit&#xE9; de Valais/Wallis Promotion et port&#xE9; &#xE0; la connaissance du Conseil d&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1558">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15b</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mitglieder</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Membres</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3652">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Valais/Wallis Promotion k&#xF6;nnen &#xF6;ffentlich-rechtliche K&#xF6;rperschaften, Institutionen des Kantons sowie im Wallis ans&#xE4;ssige juristische und nat&#xFC;rliche Personen und Personengesellschaften beitreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des corporations de droit public, institutions du canton ainsi que des personnes morales, physiques et soci&#xE9;t&#xE9;s de personnes &#xE9;tablies en Valais peuvent devenir membres de Valais/Wallis Promotion.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1559">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15c</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3653">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Organe von Valais/Wallis Promotion sind die Generalversammlung, der Vorstand und die Revisionsstelle. Die Gesch&#xE4;fte werden von einer Direktion gef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les organes de Valais/Wallis Promotion sont l&#x2019;assembl&#xE9;e g&#xE9;n&#xE9;rale, le comit&#xE9; et l&#x2019;organe de r&#xE9;vision. Les affaires sont conduites par une direction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1560">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15d</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3654">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton Wallis gew&#xE4;hrt Valais/Wallis Promotion basierend auf einem Leistungsvertrag j&#xE4;hrliche Finanzhilfen von mindestens zehn Millionen Franken im Rahmen der bewilligten Kredite.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton du Valais accorde sur la base d&#x2019;un contrat de prestations &#xE0; Valais/Wallis Promotion des aides financi&#xE8;res annuelles d&#x2019;un montant minimum de dix millions de francs dans le cadre des cr&#xE9;dits autoris&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3655">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grosse Rat ber&#xE4;t alle vier Jahre &#xFC;ber die Programmvereinbarung und beschliesst den entsprechenden Rahmenkredit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Grand Conseil d&#xE9;lib&#xE8;re de la convention-programme tous les quatre ans et d&#xE9;cide du cr&#xE9;dit-cadre correspondant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1561">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15e</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3656">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Valais/Wallis Promotion untersteht der Aufsicht des Staatsrates, durch das f&#xFC;r die Volkswirtschaft zust&#xE4;ndige Departement.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Valais/Wallis Promotion est plac&#xE9; sous la surveillance du Conseil d&#x2019;Etat, repr&#xE9;sent&#xE9; par le d&#xE9;partement en charge de l&#x2019;&#xE9;conomie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1562">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15f</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verordnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ordonnance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3657">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt auf dem Verordnungsweg die Einzelheiten der Mitgliedschaft, der Mitgliederbeitr&#xE4;ge, der Organisation, der Finanzierung und Rechnungsf&#xFC;hrung sowie der Aufsicht fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat r&#xE8;gle par voie d&#x2019;ordonnance le d&#xE9;tail de l&#x2019;affiliation, des cotisations des membres, de l&#x2019;organisation, du financement et de la comptabilit&#xE9; ainsi que de la surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="454">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:1563">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung und Ab&#xE4;nderung von Erlassen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation et modification d'actes l&#xE9;gislatifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3658">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz zur F&#xF6;rderung der Wirtschaft vom 28. M&#xE4;rz 1984 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur l'encouragement &#xE0; l'&#xE9;conomie du 28 mars 1984 est abrog&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1564">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3659">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausf&#xFC;hrungsbestimmungen zum Bundesgesetz &#xFC;ber Investitionshilfe f&#xFC;r Berggebiete (IHG) sowie der aufgrund von Artikel 8 des Gesetzes zur F&#xF6;rderung der Wirtschaft vom 28. M&#xE4;rz 1984 geschaffene Infrastrukturfonds werden bis zum Inkrafttreten des neuen kantonalen Ausf&#xFC;hrungsgesetzes zum IHG aufrechterhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions d'application de la loi f&#xE9;d&#xE9;rale sur les investissements en r&#xE9;gion de montagne (LIM), ainsi que le fonds pour l'&#xE9;quipement cr&#xE9;&#xE9; en vertu de l'article&#xA0;8&#xA0;de la loi&#xA0;sur l'encouragement &#xE0; l'&#xE9;conomie du 28 mars 1984 sont maintenus jusqu'&#xE0; l'entr&#xE9;e en vigueur de la nouvelle loi cantonale d'application de la LIM.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3660">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der aufgrund von Art. 16 des Gesetzes zur F&#xF6;rderung der Wirtschaft vom 28. M&#xE4;rz 1984 geschaffene Wirtschaftsf&#xF6;rderungsfonds wird bis zu seiner Aufl&#xF6;sung durch den Staatsrat aufrechterhalten. Der Fonds wird vom Staatsrat verwaltet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le fonds pour l'encouragement de l'&#xE9;conomie, cr&#xE9;&#xE9; en vertu de l'article 16 de la loi&#xA0;sur l'encouragement &#xE0; l'&#xE9;conomie du 28 mars 1984 est maintenu jusqu'&#xE0; sa dissolution par le Conseil d'Etat. Le fonds sera g&#xE9;r&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3661">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Artikel 26, 27, 28 und 29 Absatz 1 Buchstabe b des Gesetzes zur F&#xF6;rderung der Wirtschaft vom 28. M&#xE4;rz 1984 finden bis zum 31. Dezember 2001 Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les articles 26, 27, 28 et 29, alin&#xE9;a 1 lettre b de la loi sur l'encouragement &#xE0; l'&#xE9;conomie du 28 mars 1984 continuent &#xE0; s'appliquer jusqu'au 31 d&#xE9;cembre 2001.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3662">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Aktionsplan der Wirtschaftsf&#xF6;rderung, erarbeitet seit 1997 unter der Leitung der Wirtschaftsdelegation des Staatsrates, wird j&#xE4;hrlich auf den neuesten Stand gebracht. Er dient als Referenz bis zum Inkraftsetzen des neuen Gesetzes, wo er durch das Aktionsprogramm der Regierung im Bereich der Wirtschaft ersetzt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le plan d'action de la promotion &#xE9;conomique, &#xE9;labor&#xE9; depuis 1997 sous la direction de la D&#xE9;l&#xE9;gation du Conseil d'Etat &#xE0; l'&#xE9;conomie, est mis &#xE0; jour annuellement et sert de r&#xE9;f&#xE9;rence jusqu'&#xE0; l'entr&#xE9;e en vigueur de la nouvelle loi o&#xF9; il sera remplac&#xE9; par le programme d'action gouvernemental en mati&#xE8;re &#xE9;conomique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:1565">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:3663">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:3664">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist mit der Ausf&#xFC;hrung des vorliegenden Gesetzes, dem Erlass der n&#xF6;tigen Bestimmungen und der Festsetzung des Zeitpunktes seines Inkrafttretens betraut.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente loi, d'adopter toutes les dispositions n&#xE9;cessaires &#xE0; cet effet et de fixer la date de son entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2001-01-01</dateForce>
+      <dateVersion>2013-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 26/2012, 51/2012</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

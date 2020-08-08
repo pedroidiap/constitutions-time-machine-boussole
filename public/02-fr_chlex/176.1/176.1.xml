@@ -1,0 +1,1207 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1105</normID>
+      <number>176.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Einwohnerkontrolle</title>
+      <title lang="fr">Loi sur le contr&#xF4;le de l'habitant</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2008-11-14</dateAdoption>
+      <dateForce>2009-03-01T00:00:00</dateForce>
+      <dateLastChange>2009-03-01</dateLastChange>
+      <dateVersion>2009-03-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31 und 42 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31 et 42 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 49/2008</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3597">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Einwohnerkontrolle</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur le contr&#xF4;le de l'habitant</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3599">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12211">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28156">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz bezweckt die Festlegung der Bestimmungen &#xFC;ber die Einwohnerkontrolle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour but de fixer les r&#xE8;gles relatives au contr&#xF4;le de l'habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28157">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es stellt die n&#xF6;tigen Regeln zur F&#xFC;hrung der Gemeinderegister der Einwohnerkontrolle auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle &#xE9;tablit les r&#xE8;gles n&#xE9;cessaires &#xE0; la tenue des registres communaux du contr&#xF4;le de l'habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12212">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28158">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz gilt f&#xFC;r schweizerische und ausl&#xE4;ndische Staatsangeh&#xF6;rige, welche in einer Gemeinde des Kantons niedergelassen sind oder sich dort aufhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique aux ressortissants suisses et &#xE9;trangers, &#xE9;tablis ou en s&#xE9;jour dans une commune du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28159">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die besonderen Bestimmungen &#xFC;ber den Aufenthalt und die Niederlassung der Ausl&#xE4;nder bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions sp&#xE9;ciales relatives au s&#xE9;jour et &#xE0; l'&#xE9;tablissement des &#xE9;trangers demeurent r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28160">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12213">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Niederlassung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etablissement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28161">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person muss einen Wohnsitz entsprechend den Bestimmungen des Schweizerischen Zivilgesetzbuches haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne doit avoir un domicile conform&#xE9;ment aux dispositions du Code civil suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28162">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Person kann nur einen Wohnsitz haben und deshalb nur in einer Gemeinde niedergelassen sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une personne ne peut avoir qu'un domicile, par cons&#xE9;quent qu'une commune d'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28163">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Person hat ihren Wohnsitz und deshalb ihre Niederlassung in jener Gemeinde, in der sie die erforderlichen Dokumente hinterlegt hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une personne est r&#xE9;put&#xE9;e avoir son domicile et donc &#xEA;tre &#xE9;tablie dans la commune o&#xF9; elle a d&#xE9;pos&#xE9; les documents requis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12214">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufenthalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">S&#xE9;jour</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28164">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Person hat Aufenthalt in einer Gemeinde, wenn sie dort zu einem bestimmten Zweck ohne Absicht dauernden Verbleibens mindestens w&#xE4;hrend dreier aufeinander folgender Monate oder dreier Monate innerhalb eines Jahres wohnt, insbesondere zum Zweck des Besuchs einer Lehranstalt oder Schule oder der Unterbringung in einer Erziehungs-, Versorgungs-, Heil- oder Strafanstalt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est en s&#xE9;jour dans une commune, la personne qui y r&#xE9;side dans un but particulier, sans intention d'y vivre durablement, mais pour une dur&#xE9;e d'au moins trois mois cons&#xE9;cutifs ou r&#xE9;partis sur une m&#xEA;me ann&#xE9;e, notamment en vue d'y fr&#xE9;quenter les &#xE9;coles ou d'y &#xEA;tre plac&#xE9; dans un &#xE9;tablissement d'&#xE9;ducation, un hospice, un h&#xF4;pital ou une maison de d&#xE9;tention.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3600">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Zust&#xE4;ndigkeiten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Attributions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12215">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeindeb&#xFC;ro der Einwohnerkontrolle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Bureau communal du contr&#xF4;le de l'habitant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28165">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden m&#xFC;ssen eine Kontrolle &#xFC;ber die Personen, die sich auf ihrem Gebiet niederlassen oder aufhalten, aus&#xFC;ben. Dazu bezeichnet der Gemeinderat ein Amt, das f&#xFC;r die Einwohnerkontrolle verantwortlich ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes sont tenues d'exercer un contr&#xF4;le &#xE0; l'&#xE9;gard des personnes qui s'&#xE9;tablissent ou s&#xE9;journent sur leur territoire. A cet effet, le conseil municipal d&#xE9;signe un office responsable du contr&#xF4;le de l'habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28166">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gemeindeb&#xFC;ro der Einwohnerkontrolle &#xFC;bt diese Aufgabe aus und hat namentlich folgende Zust&#xE4;ndigkeiten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Bureau communal du contr&#xF4;le de l'habitant est affect&#xE9; &#xE0; cette t&#xE2;che et a notamment les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13531">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xFC;hrt das Register der Personen, die sich auf dem Gemeindegebiet niederlassen oder sich dort aufhalten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tenir le registre des personnes &#xE9;tablies et s&#xE9;journant sur le territoire communal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13532">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es nimmt die Zuzugs- und Wegzugsmeldungen, die Adress&#xE4;nderungen, die &#xC4;nderungen des Zivilstands und der pers&#xF6;nlichen Situation entgegen und registriert sie;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">recevoir et enregistrer les d&#xE9;clarations d'arriv&#xE9;e et de d&#xE9;part, les changements d'adresse, d'&#xE9;tat civil et de situation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13533">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es bewahrt die erforderlichen Ausweisdokumente auf und gibt sie den Inhabern beim Wegzug zur&#xFC;ck;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conserver les documents de l&#xE9;gitimation requis et les restituer &#xE0; leurs titulaires lors du d&#xE9;part;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13534">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es achtet darauf, dass alle betreffenden Personen die Verpflichtungen erf&#xFC;llen, die ihnen das vorliegende Gesetz auferlegt, und es f&#xFC;hrt die notwendigen Kontrollen durch. Wenn n&#xF6;tig kann es dazu die Unterst&#xFC;tzung der &#xF6;ffentlichen Gewalt anfordern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veiller &#xE0; ce que toutes les personnes concern&#xE9;es remplissent les obligations que leur impose la pr&#xE9;sente loi et proc&#xE9;der aux contr&#xF4;les n&#xE9;cessaires. Le concours de la force publique peut &#xEA;tre requis en cas de besoin.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12216">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsichtsbeh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; de surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28167">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das zust&#xE4;ndige Departement &#xFC;bt, durch die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration, die Aufsicht &#xFC;ber die Einwohnerkontrolle aus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement comp&#xE9;tent exerce la surveillance en mati&#xE8;re de contr&#xF4;le de l'habitant par l'interm&#xE9;diaire du Service de la population et des migrations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28168">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aufsichtsbeh&#xF6;rde hat namentlich folgende Zust&#xE4;ndigkeiten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; de surveillance a notamment les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13535">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie &#xFC;bt die Aufsicht &#xFC;ber die Vorsteher aus und sorgt f&#xFC;r deren Ausbildung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">exercer la surveillance des pr&#xE9;pos&#xE9;s et veiller &#xE0; assurer leur formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13536">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie gibt die n&#xF6;tigen Richtlinien und Weisungen heraus.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;mettre les directives et les instructions n&#xE9;cessaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28169">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist es schwierig, bei einer Person den Wohnsitz zu bestimmen, so entscheidet die Aufsichtsbeh&#xF6;rde, wobei sie sich an die Bestimmungen des Schweizerischen Zivilgesetzbuches und die Rechtsprechung h&#xE4;lt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de difficult&#xE9; concernant la d&#xE9;termination du domicile, l'autorit&#xE9; de surveillance d&#xE9;cide en se r&#xE9;f&#xE9;rant aux dispositions du Code civil suisse et &#xE0; la jurisprudence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3601">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Meldungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>D&#xE9;clarations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12217">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annonce</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28170">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Person, die sich in einer Gemeinde niederl&#xE4;sst, hat sich innert 14 Tagen bei der Einwohnerkontrolle anzumelden. Sie hat ausserdem ihren Heimatschein oder ein &#xE4;hnliches Zivilstandsdokument gegen einen Empfangsschein zu hinterlegen. Ausl&#xE4;ndische Staatsangeh&#xF6;rige weisen ein Identit&#xE4;tspapier und gegebenenfalls ihre Aufenthalts- oder Niederlassungsbewilligung vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui s'&#xE9;tablit dans une commune doit s'annoncer au contr&#xF4;le de l'habitant dans les 14 jours. Elle est en outre tenue de d&#xE9;poser son acte d'origine ou un document d'&#xE9;tat civil analogue contre d&#xE9;livrance d'un accus&#xE9; de r&#xE9;ception. Les ressortissants &#xE9;trangers produisent une pi&#xE8;ce d'identit&#xE9; ainsi que, le cas &#xE9;ch&#xE9;ant, leur permis de s&#xE9;jour ou d'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28171">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">H&#xE4;lt sich eine Person mehr als drei Monate hintereinander oder verteilt auf ein Jahr in einer Gemeinde des Kantons auf, ohne jedoch die Absicht zu haben, sich dort niederzulassen, muss sie sich innert 14 Tagen bei der Einwohnerkontrolle anmelden. Sie hat einen offiziellen Ausweis vorzulegen, mit dem sie bezeugt, dass sie ihren Wohnsitz in einer anderen Gemeinde beibeh&#xE4;lt. Nach einem Jahr oder sp&#xE4;testens, wenn dieser Ausweis abl&#xE4;uft, muss sie eine neue Best&#xE4;tigung der Wohnsitzgemeinde vorweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui s&#xE9;journe plus de trois mois cons&#xE9;cutifs ou plus de trois mois par an dans une commune du canton, sans toutefois avoir l'intention de s'y &#xE9;tablir doit s'annoncer au contr&#xF4;le de l'habitant dans un d&#xE9;lai de 14 jours. Elle pr&#xE9;sentera une pi&#xE8;ce officielle attestant le maintien de son domicile dans une autre commune. Apr&#xE8;s un d&#xE9;lai d'une ann&#xE9;e ou au plus tard &#xE0; l'&#xE9;ch&#xE9;ance dudit document, elle devra produire une nouvelle attestation de sa commune de domicile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28172">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Person, die in einer Gemeinde niedergelassen ist oder sich dort aufh&#xE4;lt, muss beim Verlassen dieser Gemeinde ihren Wegzug und ihren Zielort melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne &#xE9;tablie ou en s&#xE9;jour qui quitte la commune doit annoncer son d&#xE9;part et indiquer sa destination.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28173">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person, die in einer Gemeinde niedergelassen ist oder sich dort aufh&#xE4;lt und innerhalb der Gemeinde die Adresse wechselt, muss diesen Wechsel innert 14 Tagen der Einwohnerkontrolle melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne, &#xE9;tablie ou en s&#xE9;jour, qui change d'adresse &#xE0; l'int&#xE9;rieur de la commune, doit le communiquer au contr&#xF4;le de l'habitant dans les 14 jours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28174">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xC4;nderungen des Namens und des Zivilstands, die im Ausland erfolgt sind, m&#xFC;ssen ebenfalls gemeldet werden. Bei &#xC4;nderungen von Namen, Zivilstand und Heimatort m&#xFC;ssen neue Dokumente vorgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les modifications de nom et d'&#xE9;tat civil survenues &#xE0; l'&#xE9;tranger doivent &#xE9;galement &#xEA;tre communiqu&#xE9;es. En cas de modifications relatives au nom, &#xE0; l'&#xE9;tat civil et &#xE0; l'origine, de nouveaux documents doivent &#xEA;tre fournis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12218">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Modalit&#xE4;ten der Anmeldung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s d'annonce</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28175">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anmeldung erfolgt bei der Einwohnerkontrolle. Die vollj&#xE4;hrigen Personen m&#xFC;ssen pers&#xF6;nlich erscheinen, ausser sie seien wegen stichhaltigen Gr&#xFC;nden dispensiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'annonce est faite au contr&#xF4;le de l'habitant. Les personnes majeures sont tenues de se pr&#xE9;senter personnellement &#xE0; moins d'en avoir &#xE9;t&#xE9; dispens&#xE9;es pour de justes motifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28176">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anmeldung der Ehegattin, des Ehegatten, der registrierten Partnerin, des registrierten Partners und des Inhabers der elterlichen Gewalt gilt f&#xFC;r die Ehegattin, den Ehegatten, die registrierte Partnerin, den registrierten Partner und f&#xFC;r die minderj&#xE4;hrigen Kinder, solange diese Personen in einem gemeinsamen Haushalt leben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;claration du conjoint, du partenaire enregistr&#xE9; et du titulaire de l'autorit&#xE9; parentale vaut pour l'autre conjoint ou partenaire enregistr&#xE9; et pour les enfants mineurs aussi longtemps que ces personnes font m&#xE9;nage commun avec lui.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28177">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Anmeldung von bevormundeten Personen ist ihr gesetzlicher Vertreter zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;claration d'arriv&#xE9;e concernant les personnes sous tutelle incombe &#xE0; leur repr&#xE9;sentant l&#xE9;gal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28178">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion von Gemeinschaftshaushalten achtet darauf, dass die Personen, die in ihrer Anstalt leben, bei der Einwohnerkontrolle gemeldet sind; wenn n&#xF6;tig meldet sie den Zuzug an Stelle der betreffenden Personen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction des m&#xE9;nages collectifs veille &#xE0; ce que les personnes vivant dans son &#xE9;tablissement soient annonc&#xE9;es au contr&#xF4;le de l'habitant; si n&#xE9;cessaire, elle annonce l'arriv&#xE9;e en lieu et place des int&#xE9;ress&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12219">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation de renseigner</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28179">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jeder meldepflichtige Einwohner hat n&#xF6;tigenfalls alle erg&#xE4;nzenden Dokumente vorzuweisen, die sich f&#xFC;r die Pr&#xFC;fung seines Falls, Zivilstands oder der Zusammensetzung der Familie oder des Haushalts als notwendig erweisen k&#xF6;nnen, namentlich Zivilstandsausweis, Scheidungsurteil, Trennungskonvention und Mietvertrag.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout habitant, tenu de s'annoncer, doit au besoin produire toutes les pi&#xE8;ces compl&#xE9;mentaires pouvant se r&#xE9;v&#xE9;ler n&#xE9;cessaire &#xE0; l'examen de son cas, son &#xE9;tat civil et la composition de la famille ou du m&#xE9;nage, notamment certificat d'&#xE9;tat civil, jugement de divorce, convention de s&#xE9;paration et bail &#xE0; loyer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28180">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einwohnerkontrolle kann einen Einwohner pers&#xF6;nlich befragen, sofern gewisse Informationen vom Gesetz vorgeschrieben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le contr&#xF4;le de l'habitant peut interroger personnellement un citoyen, dans la mesure o&#xF9; certaines informations sont exig&#xE9;es par la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28181">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verpflichtet, der Einwohnerkontrolle auf Verlangen und kostenlos die Ausk&#xFC;nfte zu den meldepflichtigen Personen zu geben, sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ont l'obligation de communiquer au contr&#xF4;le de l'habitant, sur demande et sans frais, les renseignements relatifs aux personnes tenues de s'annoncer:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13537">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Arbeitgeber f&#xFC;r ihre Angestellten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les employeurs pour leurs employ&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13538">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verwalter und Immobilienverwalter, f&#xFC;r Mieter, die ihre Wohnungen und Geb&#xE4;ude bewohnen und dort ein- und ausziehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les bailleurs et g&#xE9;rants d'immeubles, pour les locataires qui habitent leurs appartements ou immeubles, qui y emm&#xE9;nagent ou qui les quittent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13539">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die &#xF6;ffentlichen Gastst&#xE4;tten, die den einschl&#xE4;gigen Bestimmungen des Gesetzes &#xFC;ber die Beherbergung und die Bewirtung unterstehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les &#xE9;tablissements publics qui sont soumis aux dispositions topiques de la loi sur l'h&#xE9;bergement et la restauration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13540">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Logisgeber, f&#xFC;r Personen, die in ihrem Haushalt leben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les logeurs, pour les personnes habitant dans leur m&#xE9;nage.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28182">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Post teilt den Dienststellen der Einwohnerkontrolle auf Verlangen unentgeltlich die Adressen der Personen mit, die ihren Verpflichtungen nach Artikel 7 des vorliegenden Gesetzes nicht nachkommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Poste communique gratuitement aux services du contr&#xF4;le de l'habitant qui en font la demande les adresses des personnes qui ne s'acquittent pas de leur obligation au sens de l'article 7 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12220">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schutz der Daten im Besitz der Einwohnerkontrolle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Protection des donn&#xE9;es d&#xE9;tenues par le contr&#xF4;le de l'habitant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28183">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bekanntgabe von Daten der Einwohnerkontrolle ist durch die Datenschutzgesetzgebung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La communication de donn&#xE9;es du contr&#xF4;le de l'habitant est r&#xE9;gl&#xE9;e par la loi qui traite de la protection des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12221">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ersatzvornahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ex&#xE9;cution par substitution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28184">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn trotz Mahnung die n&#xF6;tigen Dokumente f&#xFC;r die Registrierung eines Einwohners nicht hinterlegt werden und das B&#xFC;ro der Einwohnerkontrolle &#xFC;ber eine Wegzugsmeldung der vorherigen Wohnsitzgemeinde verf&#xFC;gt, kann es die betreffende Person an deren Stelle registrieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si, malgr&#xE9; la sommation, les documents n&#xE9;cessaires &#xE0; l'enregistrement d'un citoyen ne sont pas d&#xE9;pos&#xE9;s, le bureau du contr&#xF4;le de l'habitant peut, s'il est en possession d'un avis de d&#xE9;part de l'ancienne commune de domicile, proc&#xE9;der &#xE0; son enregistrement en lieu et place de l'int&#xE9;ress&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28185">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn eine Person ihre Wohnsitzgemeinde verl&#xE4;sst, ohne ihren Wegzug zu melden, und der neue Wohnsitz bekannt ist, wird der Wegzug nach einer Mahnung registriert und werden ihre Ausweisdokumente der neuen Wohnsitzgemeinde zugestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'une personne quitte sa commune de domicile sans annoncer son d&#xE9;part et que le nouveau domicile est connu, son d&#xE9;part est enregistr&#xE9; apr&#xE8;s sommation et ses documents de l&#xE9;gitimation sont envoy&#xE9;s &#xE0; la nouvelle commune de domicile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28186">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn der neue Wohnsitz unbekannt ist, kann die Gemeinde nach sechs Monaten den Wegzug von Amtes wegen registrieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si le nouveau domicile est inconnu, la commune peut enregistrer d'office un d&#xE9;part apr&#xE8;s un d&#xE9;lai de six mois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28187">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die daraus entstehenden Kosten gehen zu Lasten des Betroffenen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais administratifs en d&#xE9;coulant sont &#xE0; la charge de l'int&#xE9;ress&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3602">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Weitere Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Autres dispositions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12222">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emoluments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28188">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Verwaltungst&#xE4;tigkeiten, die von der Einwohnerkontrolle ausgef&#xFC;hrt werden, d&#xFC;rfen Geb&#xFC;hren erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les actes administratifs accomplis par le contr&#xF4;le de l'habitant donnent droit &#xE0; la perception d'&#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28189">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geb&#xFC;hren werden vom Gemeinderat festgesetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;moluments sont fix&#xE9;s par le conseil municipal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12223">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions p&#xE9;nales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28190">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Widerhandlungen gegen die Bestimmungen dieses Gesetzes werden mit Busse bis 500 Franken bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infractions aux dispositions de la pr&#xE9;sente loi sont punies de l'amende jusqu'&#xE0; 500 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28191">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bussen werden vom Gemeinderat ausgesprochen; gegen sie kann Einsprache erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les amendes sont prononc&#xE9;es par le conseil municipal et susceptibles de r&#xE9;clamation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28192">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen den Einspracheentscheid kann beim Kantonsgericht Berufung eingereicht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision sur r&#xE9;clamation peut faire l'objet d'un appel au Tribunal cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12224">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28193">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen Entscheide, die in Anwendung dieses Gesetzes getroffen werden, kann beim Staatsrat Beschwerde eingereicht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises en application de la pr&#xE9;sente loi sont susceptibles de recours aupr&#xE8;s du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28194">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren wird im Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure est r&#xE9;gie par la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3603">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12225">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesetzes&#xE4;nderungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modifications l&#xE9;gislatives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28195">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Artikel 5 des Gesetzes &#xFC;ber die Eingliederung und die Sozialhilfe vom 29. M&#xE4;rz 1996 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'article 5 de la loi sur l'int&#xE9;gration et l'aide sociale du 29 mars 1996 est abrog&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28196">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Artikel 2 Abs&#xE4;tze 1 und 2 des Ausf&#xFC;hrungsreglements zum Gesetz &#xFC;ber die Eingliederung und die Sozialhilfe wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'article 2 alin&#xE9;as 1 et 2 du r&#xE8;glement d'ex&#xE9;cution de la loi sur l'int&#xE9;gration et l'aide sociale est abrog&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12226">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28197">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz untersteht dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28198">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2009-03-01</dateForce>
+      <dateVersion>2009-03-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 49/2008</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

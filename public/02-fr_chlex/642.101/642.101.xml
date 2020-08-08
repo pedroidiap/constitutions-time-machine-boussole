@@ -1,0 +1,1747 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:551</normID>
+      <number>642.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Organisations- und Gesch&#xE4;ftsreglement der kantonalen Steuerrekurskommission</title>
+      <title lang="fr">R&#xE8;glement d'organisation et de fonctionnement de la Commission cantonale de recours en mati&#xE8;re fiscale</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Die kantonale Steuerrekurskommission des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2000-03-22</dateAdoption>
+      <dateForce>2000-03-31T00:00:00</dateForce>
+      <dateLastChange>2000-03-31</dateLastChange>
+      <dateVersion>2000-03-31</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription>Die kantonale Steuerrekurskommission des Kantons Wallis</authorityDescription>
+        <basis>eingesehen den Artikel 219a Absatz 6 des Steuergesetzes vom 10. M&#xE4;rz 1976 (StG);</basis>
+        <formal>verordnet:</formal>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription>La Commission cantonale de recours en mati&#xE8;re fiscale du canton du Valais</authorityDescription>
+        <basis>vu l'article 219a alin&#xE9;a 6 de la loi fiscale du 10 mars 1976 (LF);</basis>
+        <formal>ordonne:</formal>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 13/2000</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1784">
+        <structureContent lang="de">
+          <structureText>Organisations- und Gesch&#xE4;ftsreglement der kantonalen Steuerrekurskommission</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>d'organisation et de fonctionnement de la Commission cantonale de recours en mati&#xE8;re fiscale</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1786">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeines</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5928">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammensetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Composition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13532">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Steuerrekurskommission (nachfolgend: Kommission) setzt sich zusammen aus:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission cantonale de recours en mati&#xE8;re fiscale (ci-apr&#xE8;s: la commission) est compos&#xE9;e:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6777">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einem Pr&#xE4;sidenten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'un pr&#xE9;sident;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6778">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">je einem Vizepr&#xE4;sidenten beider Landessprachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de deux vice-pr&#xE9;sidents de langue maternelle officielle distincte;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6779">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">vier weiteren Mitgliedern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de quatre autres membres;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6780">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sieben Ersatzmitgliedern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de sept membres-suppl&#xE9;ants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13533">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie wird von einem Schreiber und von Kanzleipersonal verbeist&#xE4;ndet, die vom Staatsrat ernannt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est assist&#xE9;e d'un secr&#xE9;taire et du personnel de chancellerie nomm&#xE9;s par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5929">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Statut und &#xDC;berpr&#xFC;fungs- und Untersuchungsbefugnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statut et pouvoir d'examen et d'instruction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13534">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission entscheidet als verwaltungsunabh&#xE4;ngige Justizbeh&#xF6;rde &#xFC;ber alle Rekurse gegen die Verf&#xFC;gungen der Veranlagungsbeh&#xF6;rden sowie gegen Verf&#xFC;gungen betreffend die R&#xFC;ckforderung bezahlter Steuern und die interkommunale Steueraufteilung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission statue, en qualit&#xE9; d'autorit&#xE9; judiciaire ind&#xE9;pendante de l'administration, sur tous les recours contre des d&#xE9;cisions des autorit&#xE9;s de taxation, et contre les d&#xE9;cisions en mati&#xE8;re de r&#xE9;p&#xE9;tition de l'imp&#xF4;t et de r&#xE9;partition intercommunale de l'imp&#xF4;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13535">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie hat eine umfassende &#xDC;berpr&#xFC;fungsbefugnis in tats&#xE4;chlicher und rechtlicher Hinsicht und kann die angefochtene Verf&#xFC;gung sowohl best&#xE4;tigen als auch zugunsten oder zum Nachteil des Rekurrenten ab&#xE4;ndern, im letzten Fall nach Anh&#xF6;ren des Rekurrenten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle dispose d'un pouvoir d'examen illimit&#xE9; en fait et en droit, et peut aussi bien confirmer la d&#xE9;cision attaqu&#xE9;e que la modifier en faveur ou en d&#xE9;faveur du recourant, apr&#xE8;s avoir, en ce dernier cas, entendu celui-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13536">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie ordnet im Instruktionsverfahren von Amtes wegen alle Untersuchungsmassnahmen an, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle ordonne d'office, dans le cadre de l'instruction, toutes les mesures d'enqu&#xEA;te n&#xE9;cessaires, notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21268">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Beizug von Akten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;p&#xF4;t de pi&#xE8;ces;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21269">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Einvernahme von Parteien, Zeugen oder Auskunftspersonen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'audition des parties, de t&#xE9;moins, ou de personnes entendues &#xE0; titre de renseignement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21270">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Durchf&#xFC;hrung von Expertisen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'am&#xE9;nagement d'expertises;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6781">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vornahme von Augenscheinen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'am&#xE9;nagement d'inspections des lieux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1787">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Besondere Befugnisse</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Attributions sp&#xE9;cifiques</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5930">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pr&#xE4;sident</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;sident</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13537">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Pr&#xE4;sident hat folgende Befugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sident a les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6782">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er legt die Daten und den Ort der Plenarsitzungen und jener &#xFC;brigen Sitzungen fest, die er pr&#xE4;sidiert;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il fixe les dates et le lieu des s&#xE9;ances pl&#xE9;ni&#xE8;res et des autres s&#xE9;ances qu'il pr&#xE9;side;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6783">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er erstellt die Tagesordnungen der Sitzungen und bezeichnet die Berichterstatter, wobei er die M&#xF6;glichkeit hat, diese Befugnis ganz oder teilweise an den Schreiber zu delegieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il &#xE9;tablit l'ordre du jour des s&#xE9;ances et d&#xE9;signe les rapporteurs, possibilit&#xE9; lui &#xE9;tant offerte de d&#xE9;l&#xE9;guer en tout ou partie cette comp&#xE9;tence au secr&#xE9;taire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6784">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er leitet die Beratungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il dirige les d&#xE9;lib&#xE9;rations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6785">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er kontrolliert die Redaktion der Urteile und ihre Zustellung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il contr&#xF4;le la r&#xE9;daction des d&#xE9;cisions et leur notification;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6786">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er ergreift alle dem Verfahrensablauf n&#xFC;tzlichen Massnahmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il prend toutes les mesures utiles &#xE0; la conduite de la proc&#xE9;dure;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6787">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er unterzeichnet zusammen mit dem Schreiber alle unter seinem Vorsitz gef&#xE4;llten Urteile;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il signe collectivement avec le secr&#xE9;taire les d&#xE9;cisions prises sous la pr&#xE9;sidence;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6788">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er entscheidet als Einzelrichter:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il statue comme juge unique:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:6789">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xFC;ber Rekurse, die offensichtlich unzul&#xE4;ssig sind,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">sur les recours qui sont manifestement irrecevables,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:6790">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xFC;ber Rekurse, die gegenstandslos oder zur&#xFC;ckgezogen wurden (Abschreibungsentscheid).</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">sur les recours qui sont devenus sans objet ou ont &#xE9;t&#xE9; retir&#xE9;s (d&#xE9;cision de classement).</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13538">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist der Pr&#xE4;sident abwesend oder begibt er sich in Ausstand, wird er durch den einen oder anderen Vizepr&#xE4;sidenten ersetzt, grunds&#xE4;tzlich gem&#xE4;ss der Sprache des zu behandelnden Rekurses.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le pr&#xE9;sident est absent, ou qu'il s'est r&#xE9;cus&#xE9;, il est remplac&#xE9; par l'un ou l'autre des vice-pr&#xE9;sidents, en principe selon la langue des dossiers trait&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5931">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vizepr&#xE4;sidenten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Vice-pr&#xE9;sidents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13539">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vizepr&#xE4;sidenten haben folgende Befugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les vice-pr&#xE9;sidents ont les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6791">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie ersetzen den Pr&#xE4;sidenten auf dessen Aufforderung. In diesem Fall haben sie die gleichen Befugnisse wie der Pr&#xE4;sident;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils remplacent le pr&#xE9;sident chaque fois que celui-ci le requiert. En ce cas, ils ont les m&#xEA;mes attributions que le pr&#xE9;sident;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6792">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie pr&#xE4;sidieren die Kammern, f&#xFC;r die sie bezeichnet wurden, sofern diese Befugnis nicht vom Pr&#xE4;sidenten wahrgenommen wird.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils pr&#xE9;sident les cours pour lesquelles ils ont &#xE9;t&#xE9; d&#xE9;sign&#xE9;s si cette attribution n'est pas assum&#xE9;e par le pr&#xE9;sident.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5932">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berichterstatter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rapporteurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13540">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Berichterstatter k&#xF6;nnen der Pr&#xE4;sident, die Vizepr&#xE4;sidenten, die &#xFC;brigen Mitglieder und die Ersatzmitglieder bezeichnet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peuvent &#xEA;tre d&#xE9;sign&#xE9;s comme rapporteur, le pr&#xE9;sident, le vice-pr&#xE9;sident, les autres membres, et les membres-suppl&#xE9;ants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13541">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Berichterstatter haben folgende Befugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rapporteurs ont les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6793">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie studieren die Dossiers, die ihnen zur Pr&#xFC;fung unterbreitet werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils &#xE9;tudient les dossiers qui leur sont soumis pour examen;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6794">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie unternehmen alle Ermittlungen, die sie als n&#xFC;tzlich beurteilen, unter Vorbehalt der Einvernahmen, Augenscheine und Expertisen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils proc&#xE8;dent &#xE0; toute investigation qu'ils jugent utile sous r&#xE9;serve des auditions, des inspections des lieux, et des expertises;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6795">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie redigieren f&#xFC;r jedes ihnen unterbreitete Dossier einen Bericht in ihrer Muttersprache.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils r&#xE9;digent pour chaque dossier soumis un rapport dans leur langue maternelle.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13542">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schreiber der Kommission kann als Berichterstatter amten, jedoch nur mit beratender Stimme.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le secr&#xE9;taire de la commission peut fonctionner comme rapporteur, mais avec voix consultative seulement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5933">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schreiber</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Secr&#xE9;taire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13543">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schreiber ist beauftragt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le secr&#xE9;taire est charg&#xE9; de:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6796">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die an die Kommission adressierte Post zu registrieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">enregistrer le courrier adress&#xE9; &#xE0; la commission;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6797">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Register der Rekurse chronologisch nach Eingang zu f&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tenir un registre des recours selon l'ordre chronologique de r&#xE9;ception;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6798">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Korrespondenz zu verschicken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">exp&#xE9;dier la correspondance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6799">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r jeden Rekurs zu pr&#xFC;fen, ob die formellen Zul&#xE4;ssigkeitsvoraussetzungen gegeben sind und allenfalls die n&#xF6;tigen Erg&#xE4;nzungen einzuverlangen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">examiner pour chaque recours si les conditions de recevabilit&#xE9; formelle sont satisfaites et requ&#xE9;rir le cas &#xE9;ch&#xE9;ant les compl&#xE9;ments n&#xE9;cessaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6800">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Schriftenwechsel durchzuf&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conduire l'&#xE9;change d'&#xE9;critures;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6801">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Aufgrund einer Delegation des Pr&#xE4;sidenten die Tagesordnung der Sitzungen festzulegen und die Mitglieder einzuladen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sur d&#xE9;l&#xE9;gation du pr&#xE9;sident, &#xE9;tablir l'ordre du jour des s&#xE9;ances et convoquer les membres;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6802">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r die F&#xE4;lle, die ihm zugeteilt werden, als Berichterstatter zu amten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">fonctionner comme rapporteur pour les dossiers qui lui sont attribu&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6803">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Kommission und den Berichterstattern bei der Untersuchung beizustehen und ihnen rechtliche Unterst&#xFC;tzung zu gew&#xE4;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assister la commission et les rapporteurs pour l'instruction et leur procurer un appui juridique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6804">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Sitzungen beizuwohnen und das Protokoll der Beratungen zu f&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ssister aux s&#xE9;ances et tenir le proc&#xE8;s-verbal des d&#xE9;lib&#xE9;rations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6805">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Judikata und die Urteile zu redigieren, mit dem Pr&#xE4;sidenten zu unterzeichnen und zuzustellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;diger les judicata et les d&#xE9;cisions, les signer avec le pr&#xE9;sident, et proc&#xE9;der &#xE0; leur notification;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6806">
+                        <partNumber>k)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Stellungnahmen der Kommission bei Rekursen ans Bundesgericht oder ans Kantonsgericht zu verfassen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;diger les d&#xE9;terminations de la commission en cas de recours au Tribunal f&#xE9;d&#xE9;ral ou au Tribunal cantonal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6807">
+                        <partNumber>l)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Inkasso der Verfahrenskosten zu &#xFC;berwachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veiller &#xE0; l'encaissement des frais de proc&#xE9;dure;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6808">
+                        <partNumber>m)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Archivierung der Dossiers zu &#xFC;berwachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veiller &#xE0; l'archivage des dossiers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6809">
+                        <partNumber>n)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">j&#xE4;hrlich die Abrechnung der Entsch&#xE4;digungen an die Kommissionsmitglieder zu erstellen und die entsprechenden Zahlungen auszuf&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;tablir chaque ann&#xE9;e le d&#xE9;compte des indemnit&#xE9;s revenant aux membres de la commission, et proc&#xE9;der au paiement de celles-ci;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6810">
+                        <partNumber>o)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">j&#xE4;hrlich den Entwurf des T&#xE4;tigkeitsberichtes der Kommission zu erarbeiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;tablir chaque ann&#xE9;e le projet de rapport d'activit&#xE9; de la commission;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6811">
+                        <partNumber>p)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Ordner der Rechtsprechung der Kommission zu aktualisieren und die Erg&#xE4;nzungen j&#xE4;hrlich den Mitgliedern zuzustellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tenir &#xE0; jour les classeurs de la jurisprudence de la commission, et remettre annuellement les compl&#xE9;ments aux membres;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6812">
+                        <partNumber>q)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gem&#xE4;ss Weisungen der Kommission auf die R&#xFC;ckgabe der Rechtsprechungs-Ordner und Dossiers durch die Kommissionsmitglieder beim Ende ihrer Amtszeit zu achten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">veiller, selon les instructions de la commission, &#xE0; la restitution des classeurs et dossiers au terme du mandat de chaque commissaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13544">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schreiber wird durch Kanzleipersonal unterst&#xFC;tzt, das ihm vom Staatsrat zur Verf&#xFC;gung gestellt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le secr&#xE9;taire est second&#xE9; par du personnel de chancellerie mis &#xE0; sa disposition par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1788">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation und T&#xE4;tigkeit</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation et fonctionnement</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5934">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kammern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13545">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission kann sich f&#xFC;r die Beurteilung von Rekursen in Kammern mit drei Mitgliedern teilen, die vom Pr&#xE4;sidenten oder den Vizepr&#xE4;sidenten pr&#xE4;sidiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le traitement des recours, la commission peut se diviser en cours de trois membres, pr&#xE9;sid&#xE9;es par le pr&#xE9;sident ou les vice-pr&#xE9;sidents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13546">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission legt zu Beginn jeder Periode die Anzahl Kammern, ihre Zusammensetzung und ihre Aufgabenbereiche fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au d&#xE9;but de chaque p&#xE9;riode, la commission d&#xE9;termine le nombre de cours, leur composition et leurs attributions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13547">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verlangt ein Mitglied einer Kammer die Beurteilung durch die Kommission in einer Plenarsitzung, so wird das Gesch&#xE4;ft an diese &#xFC;berwiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'un des membres d'une cour le demande, l'affaire est trait&#xE9;e en s&#xE9;ance pl&#xE9;ni&#xE8;re de la commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13548">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In allen F&#xE4;llen, in denen keine Einstimmigkeit unter den drei stimmberechtigten Mitgliedern vorliegt, wird die Angelegenheit ebenfalls in einer Plenarsitzung der Kommission behandelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour tous les cas o&#xF9; l'unanimit&#xE9; des trois membres habilit&#xE9;s &#xE0; prendre la d&#xE9;cision n'est pas r&#xE9;unie, le dossier sera &#xE9;galement trait&#xE9; en s&#xE9;ance pl&#xE9;ni&#xE8;re de la commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13549">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Entscheide, die eine neue Rechtsprechung oder eine &#xC4;nderung der Rechtsprechung bewirken, m&#xFC;ssen in jedem Fall in einer Plenarsitzung gef&#xE4;llt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions qui cr&#xE9;ent une nouvelle jurisprudence ou modifient une jurisprudence existante doivent en tous les cas &#xEA;tre trait&#xE9;es en s&#xE9;ance pl&#xE9;ni&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5935">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ort und Zeitpunkt der Sitzungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Lieu et dates des s&#xE9;ances</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13550">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission und ihre Kammern tagen so oft, als dies notwendig erscheint.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission et les cours si&#xE8;gent aussi souvent que cela est n&#xE9;cessaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13551">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zeitpunkt und Ort der Sitzungen (grunds&#xE4;tzlich Justizgeb&#xE4;ude in Sitten) werden vom Kommissionspr&#xE4;sidenten beziehungsweise von den Vorsitzenden der Kammern festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dates et le lieu des s&#xE9;ances (en principe Palais de Justice &#xE0; Sion) sont fix&#xE9;s par le pr&#xE9;sident de la commission, respectivement par les pr&#xE9;sidents des cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5936">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einberufung der Sitzungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Convocation aux s&#xE9;ances</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13552">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitglieder werden grunds&#xE4;tzlich mindestens 25 Tage im voraus zu den Sitzungen eingeladen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres sont convoqu&#xE9;s aux s&#xE9;ances en principe au moins 25 jours &#xE0; l'avance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13553">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einladungen enthalten die zu behandelnden Beschwerdef&#xE4;lle sowie die bezeichneten Berichterstatter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les convocations indiqueront les affaires &#xE0; traiter ainsi que les rapporteurs d&#xE9;sign&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13554">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu den Plenarsitzungen werden die sieben Kommissionsmitglieder sowie in Anbetracht m&#xF6;glicher Absenzen oder Ausst&#xE4;nde auch zwei bis drei Ersatzmitglieder eingeladen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les s&#xE9;ances pl&#xE9;ni&#xE8;res, sont convoqu&#xE9;s les sept membres de la commission ainsi que deux &#xE0; trois membres-suppl&#xE9;ants, ceci pour palier aux absences et r&#xE9;cusations &#xE9;ventuelles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13555">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Sitzungen in den Kammern werden drei Mitglieder, darunter der Kommissionspr&#xE4;sident oder einer der Vizepr&#xE4;sidenten, sowie zwei Ersatzmitglieder eingeladen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les s&#xE9;ances des cours, sont convoqu&#xE9;s trois membres, dont le pr&#xE9;sident de la commission ou l'un des vice-pr&#xE9;sidents, ainsi que deux membres-suppl&#xE9;ants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13556">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es wird ein "Turnus" erstellt, mit dem Ziel, dass nach M&#xF6;glichkeit alle Ersatzmitglieder gleich oft an Sitzungen teilnehmen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est &#xE9;tabli un "tournus" tendant, dans la mesure du possible, &#xE0; ce que chaque membre-suppl&#xE9;ant si&#xE8;ge un nombre &#xE9;gal de fois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5937">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verhinderung und Ausstand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emp&#xEA;chement et r&#xE9;cusation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13557">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eingeladene Mitglieder, die an einer Sitzung nicht teilnehmen k&#xF6;nnen, sowie Berichterstatter, die sich in Ausstand begeben, m&#xFC;ssen den Schreiber innert f&#xFC;nf Tagen nach Erhalt der Einladung dar&#xFC;ber in Kenntnis setzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres convoqu&#xE9;s qui ne peuvent assister &#xE0; une s&#xE9;ance, ou qui charg&#xE9;s de rapporter se r&#xE9;cusent, doivent en informer le secr&#xE9;taire dans les cinq jours d&#xE8;s r&#xE9;ception de la convocation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5938">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berichte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rapports</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13558">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Berichterstatter hinterlegen sp&#xE4;testens sieben Tage vor der Sitzung ihre(n) schriftliche(n) Bericht(e) beim Schreiber.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sept jours au plus tard avant la s&#xE9;ance, les rapporteurs remettent au secr&#xE9;taire leur(s) rapport(s) &#xE9;crit(s).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13559">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schreiber gew&#xE4;hrleistet eine rasche Verteilung der Berichte an die Mitglieder.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le secr&#xE9;taire assure la distribution diligente des rapports aux membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13560">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Berichte dienen ausschliesslich dem internen Gebrauch und k&#xF6;nnen unter keinen Umst&#xE4;nden den Parteien &#xFC;bermittelt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rapports sont d'usage strictement interne, et ne peuvent en aucun cas &#xEA;tre communiqu&#xE9;s aux parties.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5939">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Reihenfolge der Beschwerdebehandlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ordre de traitement des dossiers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13561">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ohne besondere Gr&#xFC;nde verlaufen die Sitzungen gem&#xE4;ss der auf der Einladung stehenden Tagesordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf motifs particuliers, les s&#xE9;ances se d&#xE9;roulent selon l'ordre des dossiers figurant sur les convocations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13562">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Berichterstatter erstattet seinen Bericht und antwortet auf allf&#xE4;llige Fragen der &#xFC;brigen Mitglieder.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le rapporteur pr&#xE9;sente son rapport, et r&#xE9;pond aux questions &#xE9;ventuelles des autres membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5940">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erg&#xE4;nzende Untersuchungsmassnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures d'instruction compl&#xE9;mentaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13563">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bevor die Kommission oder die Kammern entscheiden, pr&#xFC;fen sie, ob zus&#xE4;tzliche Untersuchungsmassnahmen notwendig oder n&#xFC;tzlich sind und ordnen diese gegebenenfalls an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Avant de statuer, la commission ou les cours v&#xE9;rifient si des mesures d'instruction compl&#xE9;mentaires sont n&#xE9;cessaires ou utiles, et, dans l'affirmative, en ordonnent la mise en oeuvre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5941">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einvernahmen und Vornahme von Augenscheinen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Auditions et inspections des lieux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13564">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einvernahme von Parteien, Zeugen und Auskunftspersonen finden entweder in der Sitzung der Kommission oder der Kammern statt oder werden von einer Delegation durchgef&#xFC;hrt. Die Delegation besteht aus dem Pr&#xE4;sidenten oder dem Vizepr&#xE4;sidenten, dem Berichterstatter und dem Schreiber.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les auditions des parties, des t&#xE9;moins et des personnes entendues &#xE0; titre de renseignement, se font soit en s&#xE9;ance de la commission ou des cours, soit par une d&#xE9;l&#xE9;gation de celles-ci. La d&#xE9;l&#xE9;gation se compose du pr&#xE9;sident ou d'un vice-pr&#xE9;sident, du rapporteur et du secr&#xE9;taire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13565">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einvernahmen werden nur insoweit durchgef&#xFC;hrt, als diese zur Kl&#xE4;rung erheblicher Tatbest&#xE4;nde n&#xFC;tzlich erscheinen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il n'est proc&#xE9;d&#xE9; &#xE0; des auditions que dans la mesure o&#xF9; celles-ci paraissent utiles pour &#xE9;lucider des &#xE9;l&#xE9;ments pertinents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13566">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Partei, welche eine Einvernahme verlangt, muss die Fragen schriftlich hinterlegen. Der Berichterstatter und die &#xFC;brigen Mitglieder k&#xF6;nnen zus&#xE4;tzliche Fragen vorschlagen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La partie qui requiert une audition doit d&#xE9;poser un questionnaire &#xE9;crit. Le rapporteur et les autres membres peuvent proposer des questions compl&#xE9;mentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13567">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Einvernahme von Auskunftspersonen oder Zeugen sind die Bestimmungen von Artikel 18a des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege sinngem&#xE4;ss anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'audition des personnes entendues &#xE0; titre de renseignement ou de t&#xE9;moins, sont applicables par analogie les dispositions de l'article 18a de la loi sur la proc&#xE9;dure et la juridiction administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13568">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vor der pers&#xF6;nlichen Einvernahme werden die Parteien zur wahrheits-gem&#xE4;ssen Aussage ermahnt und auf die strafrechtlichen Folgen des falschen Zeugnisses hingewiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Avant leur audition personnelle, les parties sont exhort&#xE9;es &#xE0; dire la v&#xE9;rit&#xE9; et leur attention est attir&#xE9;e sur les sanctions p&#xE9;nales d'une fausse d&#xE9;claration en justice.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13569">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;ber die Einvernahmen wird ein Protokoll gef&#xFC;hrt, das noch in derselben Sitzung erstellt und von den Parteien unterzeichnet wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les auditions font l'objet d'un proc&#xE8;s-verbal dress&#xE9; s&#xE9;ance tenante et sign&#xE9; par les parties.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13570">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Augenscheine werden durch eine Delegation der Kommission oder der Kammern vorgenommen, die grunds&#xE4;tzlich aus dem Pr&#xE4;sidenten oder dem Vizepr&#xE4;sidenten, dem Berichterstatter und dem Schreiber besteht. In einfachen F&#xE4;llen k&#xF6;nnen die Augenscheine durch den Schreiber oder den Berichterstatter vorgenommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inspections des lieux sont effectu&#xE9;es par une d&#xE9;l&#xE9;gation de la commission ou des cours compos&#xE9;e en principe du pr&#xE9;sident ou d'un vice-pr&#xE9;sident, du rapporteur et du secr&#xE9;taire. Pour les cas simples, les inspections des lieux pourront &#xEA;tre effectu&#xE9;es par le secr&#xE9;taire ou le rapporteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5942">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beratungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lib&#xE9;rations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13571">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beratungen der Kommission und der Kammern sind nicht partei&#xF6;ffentlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;lib&#xE9;rations de la commission et des cours ne sont pas ouvertes aux parties.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13572">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Beratungen erfolgt zun&#xE4;chst eine allgemeine Diskussion. Nach Abschluss dieser Diskussion und sofern keine Einstimmigkeit der vorgebrachten Meinungen vorliegt, leitet der Pr&#xE4;sident der Kommission oder der Kammer die Abstimmung, indem er die stimmberechtigten Mitglieder bezeichnet (sieben Mitglieder in Plenarsitzungen und&#xA0;drei Mitglieder in den Sitzungen der Kammern).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre des d&#xE9;lib&#xE9;rations, il est proc&#xE9;d&#xE9; tout d'abord &#xE0; une discussion g&#xE9;n&#xE9;rale. Lorsque cette discussion est termin&#xE9;e, et s'il n'y a pas unanimit&#xE9; dans les avis exprim&#xE9;s, le pr&#xE9;sident de la commission ou de la cour dirige le vote en d&#xE9;signant les membres qui peuvent y participer (sept membres pour les s&#xE9;ances pl&#xE9;ni&#xE8;res, et trois membres pour les s&#xE9;ances des cours).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13573">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Berichterstatter ist stimmberechtigt, ob er Mitglied oder Ersatzmitglied ist; der Schreiber hat beratende Stimme.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le rapporteur a le droit de vote qu'il soit membre ou membre-suppl&#xE9;ant; le secr&#xE9;taire a voix consultative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13574">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bezeichnung der &#xFC;brigen stimmberechtigten Mitglieder erfolgt in der Reihenfolge nachstehender Kriterien:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le choix des autres membres habilit&#xE9;s &#xE0; voter s'effectue selon les crit&#xE8;res successifs suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21272">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eigenschaft (Pr&#xE4;sident, Vizepr&#xE4;sident, Mitglied, Ersatzmitglied);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qualit&#xE9; (pr&#xE9;sident, vice-pr&#xE9;sident, membre, membre-suppl&#xE9;ant);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21271">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Amtsjahre in der Kommission;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">anciennet&#xE9; au sein de la commission;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6813">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Alter.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE2;ge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1789">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Verschiedene Bestimmungen und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions diverses et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5943">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verbreitung der Rechtsprechung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Diffusion de la jurisprudence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13575">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission beschliesst unter Respektierung des Steuergeheimnisses &#xFC;ber die Ver&#xF6;ffentlichung der Rechtsprechung und legt die Modalit&#xE4;ten fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout en respectant le secret fiscal, la commission d&#xE9;cide de la publication de sa jurisprudence et en fixe les modalit&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5944">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">T&#xE4;tigkeitsbericht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rapport d'activit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13576">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission erstellt j&#xE4;hrlich einen T&#xE4;tigkeitsbericht, den sie dem Grossen Rat zur Verf&#xFC;gung h&#xE4;lt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission &#xE9;tablit chaque ann&#xE9;e un rapport d'activit&#xE9; qu'elle tient &#xE0; disposition du Grand Conseil.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5945">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Widerruf und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:13577">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement hebt das interne Reglement der Kommission vom 22. Januar 1981 auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge le r&#xE8;glement interne de la commission du 22&#xA0;janvier 1981.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:13578">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es tritt mit seiner Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il entre en vigueur d&#xE8;s sa publication au Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2000-03-31</dateForce>
+      <dateVersion>2000-03-31</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 13/2000</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,1145 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:255</normID>
+      <number>818.400</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Todesfeststellung und den Umgang mit Leichen</title>
+      <title lang="fr">Ordonnance sur la constatation des d&#xE9;c&#xE8;s et les interventions sur les cadavres humains</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2014-08-27</dateAdoption>
+      <dateForce>2014-09-05T00:00:00</dateForce>
+      <dateLastChange>2014-09-05</dateLastChange>
+      <dateVersion>2014-09-05</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 52, 58, 59, 129, 133 bis 137 des Gesundheitsgesetzes vom 14. Februar 2008;</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 52, 58, 59, 129, 133 &#xE0; 137 de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008;</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 36/2014</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="891">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Todesfeststellung und den Umgang mit Leichen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la constatation des d&#xE9;c&#xE8;s et les interventions sur les cadavres humains</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="893">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Todesfeststellung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Constatation des d&#xE9;c&#xE8;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2913">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Todesbescheinigung
+a) Nat&#xFC;rlicher Todesfall</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Certificat de d&#xE9;c&#xE8;s
+a) Mort naturelle</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6704">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einem nat&#xFC;rlichen Todesfall stellt der Arzt die Todesbescheinigung aus und &#xFC;bermittelt sie an die zust&#xE4;ndige Beh&#xF6;rde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de mort naturelle, le m&#xE9;decin &#xE9;tablit le certificat m&#xE9;dical de d&#xE9;c&#xE8;s et le transmet &#xE0; l'autorit&#xE9; comp&#xE9;tente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6705">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im &#xDC;brigen gelten die vom Kantonsarzt erlassenen Richtlinien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le surplus, le m&#xE9;decin se conforme aux directives relatives &#xE9;tablies par le m&#xE9;decin cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2914">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">b) Aussergew&#xF6;hnlicher Todesfall</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">b) Mort extraordinaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34395">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bestehen Anzeichen f&#xFC;r einen unnat&#xFC;rlichen Tod (gewaltsamer Tod oder Tod unbekannten Ursprungs) und kann nach der Legalinspektion nicht eindeutig auf einen nat&#xFC;rlichen Todesfall geschlossen werden, muss der Arzt beziehungsweisedie &#xC4;rztin den Todesfall gem&#xE4;ss Artikel 253 der Strafprozessordnung unverz&#xFC;glich der Polizei und den weiteren zust&#xE4;ndigen Beh&#xF6;rden melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'examen du cadavre ne permet pas de conclure clairement &#xE0; une mort naturelle, c'est-&#xE0;-dire en cas de mort suspecte (mort d&#x2019;origine ind&#xE9;termin&#xE9;e ou mort violente), le m&#xE9;decin doit imm&#xE9;diatement annoncer le d&#xE9;c&#xE8;s &#xE0; la police et aux autres autorit&#xE9;s comp&#xE9;tentes conform&#xE9;ment &#xE0; l&#x2019;article 253 du code de proc&#xE9;dure p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6706">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Arzt oder die &#xC4;rztin folgt den Anordnungen der Strafverfolgungsbeh&#xF6;rden und h&#xE4;lt sich im &#xDC;brigen an die Richtlinien des Kantonsarztes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il doit alors suivre les instructions des autorit&#xE9;s p&#xE9;nales et se conformer pour le surplus aux directives du m&#xE9;decin cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="894">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Erdbestattung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Inhumation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2915">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bundesrechtliche Vorgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prescriptions f&#xE9;d&#xE9;rales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6707">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die bundesrechtlichen Vorgaben zur Erdbestattung m&#xFC;ssen eingehalten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;inhumation de cadavres doit respecter les prescriptions f&#xE9;d&#xE9;rales en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2916">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beerdigungsbewilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Permis d'inhumer</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6708">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einem nat&#xFC;rlichen Todesfall kann die Beerdigung nach Ausstellung der Sterbeurkunde durch das Zivilstandsamt erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de mort naturelle, l'inhumation peut avoir lieu d&#xE8;s la d&#xE9;livrance du certificat d'inscription de d&#xE9;c&#xE8;s par l'officier de l'&#xE9;tat civil.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6709">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einem aussergew&#xF6;hnlichen Todesfall bedarf es zudem der Einwilligung durch die Strafbeh&#xF6;rden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de mort suspecte, les autorit&#xE9;s p&#xE9;nales doivent &#xE9;galement l'autoriser.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2917">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bestattungsfrist</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lais d'inhumation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6710">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Bestattung darf fr&#xFC;hestens 36 Stunden und muss sp&#xE4;testens 120 Stunden nach dem Tod erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inhumation ne peut avoir lieu que 36 heures &#xE0; 120 heures au plus tard apr&#xE8;s le d&#xE9;c&#xE8;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6711">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsarzt oder in Vertretung der Bezirksarzt oder der vom Kanton beauftragte Rechtsmediziner (nachfolgend: der Rechtsmediziner) k&#xF6;nnen in begr&#xFC;ndeten F&#xE4;llen Ausnahmen gew&#xE4;hren. Die Bewilligung kann mit besonderen Auflagen verbunden werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le m&#xE9;decin cantonal ou, sur d&#xE9;l&#xE9;gation, le m&#xE9;decin de district ou le m&#xE9;decin l&#xE9;giste d&#xE9;l&#xE9;gu&#xE9; par le d&#xE9;partement (ci-apr&#xE8;s: le m&#xE9;decin l&#xE9;giste) peut autoriser des d&#xE9;rogations si les circonstances le justifient. Il peut assortir l'autorisation &#xE0; des conditions particuli&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2918">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beerdigungsort</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Lieux d'inhumation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6712">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beerdigung muss auf einem Gemeindefriedhof erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inhumations ne peuvent avoir lieu que dans les cimeti&#xE8;res des communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6713">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsarzt oder in Vertretung der Bezirksarzt oder der Rechtsmediziner k&#xF6;nnen in begr&#xFC;ndeten F&#xE4;llen Ausnahmen gew&#xE4;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le m&#xE9;decin cantonal ou, sur d&#xE9;l&#xE9;gation, le m&#xE9;decin de district ou le m&#xE9;decin l&#xE9;giste peut autoriser des d&#xE9;rogations si les circonstances le justifient.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="895">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Feuerbestattung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Incin&#xE9;ration</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2919">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6714">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Wunsch der verstorbenen Person oder ihrer Familie kann ein Leichnam einge&#xE4;schert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A la requ&#xEA;te de la famille ou &#xE0; la demande du d&#xE9;funt de son vivant, le cadavre peut &#xEA;tre incin&#xE9;r&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6715">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ein&#xE4;scherung kann verweigert werden, wenn sich die verstorbene Person zu Lebzeiten dagegen ausgesprochen hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'incin&#xE9;ration peut &#xEA;tre refus&#xE9;e si le d&#xE9;funt s'y est oppos&#xE9; de son vivant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2920">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6716">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen aus Artikel 4 der vorliegenden Verordnung gelten ebenfalls f&#xFC;r Feuerbestattungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de l'article 4 de la pr&#xE9;sente ordonnance sont &#xE9;galement applicables pour les incin&#xE9;rations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="896">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Exhumierung und Leichentransport</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Exhumation et transport de cadavres</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2921">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Exhumierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exhumation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6717">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Exhumierung vor Ablauf der Mindestgrabesruhe bedarf der Bewilligung durch den Kantonsarzt; vorbehalten bleiben Exhumierungen, die von Justiz- oder Strafbeh&#xF6;rden angeordnet werden. Die Mindestgrabesruhe wird im Gemeindereglement festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les exhumations particuli&#xE8;res qui ont lieu avant l'expiration de la concession sont soumises &#xE0; une autorisation du m&#xE9;decin cantonal; sont r&#xE9;serv&#xE9;es les exhumations ordonn&#xE9;es par l'autorit&#xE9; judiciaire ou p&#xE9;nale. La dur&#xE9;e de la concession est fix&#xE9;e dans les r&#xE8;glements communaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6718">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls erforderlich wohnt der Kantonsarzt oder der Bezirksarzt der Exhumierung bei und erstellt einen Bericht zuhanden des Kantonsarztes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En tant que besoin, le m&#xE9;decin de district ou le m&#xE9;decin l&#xE9;giste assiste aux exhumations et fait un rapport au m&#xE9;decin cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2922">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Leichentransport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transport de cadavre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6719">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Transport von Leichen, die eine Ansteckungsgefahr aufweisen, bedarf einer vorg&#xE4;ngigen Bewilligung durch den Kantonsarzt oder in seiner Vertretung eines Rechtsmediziners.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le transport de cadavres pr&#xE9;sentant un danger de contagion n&#xE9;cessite l'autorisation pr&#xE9;alable du m&#xE9;decin cantonal ou, sur d&#xE9;l&#xE9;gation, du m&#xE9;decin l&#xE9;giste.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6720">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim Leichentransport muss ausserdem Artikel 8 des Bundesgesetzes &#xFC;ber die Bek&#xE4;mpfung &#xFC;bertragbarer Krankheiten des Menschen vom 18. Dezember 1970 eingehalten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le transport de cadavres respecte en outre l&#x2019;article 8 de la loi f&#xE9;d&#xE9;rale sur les &#xE9;pid&#xE9;mies du 18 d&#xE9;cembre 1970.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="897">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Autopsien</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Autopsies</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2923">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6721">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Gesuch oder mit Einwilligung der verstorbenen Person oder ihrer Angeh&#xF6;rigen kann eine Autopsie durchgef&#xFC;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une autopsie peut &#xEA;tre pratiqu&#xE9;e si le d&#xE9;funt ou les proches y ont consenti ou la demandent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6722">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsarzt kann eine Autopsie aus Gr&#xFC;nden der &#xF6;ffentlichen Gesundheit anordnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'int&#xE9;r&#xEA;t de la sant&#xE9; publique l'exige, le m&#xE9;decin cantonal peut ordonner une autopsie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6723">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Strafrechtliche Bestimmungen bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La l&#xE9;gislation p&#xE9;nale demeure r&#xE9;serv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6724">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angeh&#xF6;rigen k&#xF6;nnen die Ergebnisse der Autopsie anfordern, sofern sich die verstorbene Person nicht dagegen ausgesprochen hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les proches peuvent obtenir le r&#xE9;sultat de l'autopsie, sauf si le d&#xE9;funt s'y est oppos&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2924">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6725">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten f&#xFC;r eine Autopsie und die damit verbundenen Transportkosten &#xFC;bernimmt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais d'autopsie ainsi que les frais de transport li&#xE9;s &#xE0; cette intervention sont r&#xE9;gl&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2729">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die anordnende Strafbeh&#xF6;rde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par les autorit&#xE9;s p&#xE9;nales lorsqu'elles l'ont ordonn&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2730">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das anordnende Departement, wenn es sich um Gr&#xFC;nde der &#xF6;ffentlichen Gesundheit handelt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par le d&#xE9;partement en charge de la sant&#xE9; lorsqu'il l'a ordonn&#xE9; dans l'int&#xE9;r&#xEA;t de la sant&#xE9; publique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2731">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in allen &#xFC;brigen F&#xE4;llen der Gesuchsteller.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par la personne qui l'a requise, dans tous les autres cas.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="898">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Entnahme und Transplantation von Organen und Geweben</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Pr&#xE9;l&#xE8;vement et transplantation d'organes et de tissus</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2925">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6726">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entnahme und die Transplantation von Organen und Geweben erfolgt gem&#xE4;ss dem Bundesgesetz &#xFC;ber die Forschung am Menschen vom 30. September 2011 (Humanforschungsgesetz, HFG) und der Verordnung &#xFC;ber die Transplantation von menschlichen Organen, Geweben und Zellen vom 16. M&#xE4;rz 2007.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pr&#xE9;l&#xE8;vements et transplantations d'organes et de tissus s&#x2019;effectuent conform&#xE9;ment &#xE0; la loi f&#xE9;d&#xE9;rale relative &#xE0; la recherche sur l&#x2019;&#xEA;tre humain du 30 septembre 2011&#xA0; (Loi relative &#xE0; la recherche sur l&#x2019;&#xEA;tre humain, LRH) et &#xE0; ses ordonnances d&#x2019;application, ainsi qu&#x2019;&#xE0; l&#x2019;ordonnance f&#xE9;d&#xE9;rale sur la transplantation du 16 mars 2007.&#xA0;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="899">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Friedh&#xF6;fe</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Cimeti&#xE8;res</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2926">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Friedh&#xF6;fe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cimeti&#xE8;res</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6727">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Friedh&#xF6;fe sind Eigentum der Gemeinden. Zust&#xE4;ndige Aufsichtsbeh&#xF6;rde ist die Polizei und die Gemeindebeh&#xF6;rden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cimeti&#xE8;res sont des propri&#xE9;t&#xE9;s communales. Ils sont soumis &#xE0; l'autorit&#xE9;, &#xE0; la police et &#xE0; la surveillance des autorit&#xE9;s communales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6728">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden erlassen ein entsprechendes Reglement.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes adoptent un r&#xE8;glement en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6729">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindereglemente werden dem Staatsrat zur Genehmigung unterbreitet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE8;glements communaux sont soumis &#xE0; l'approbation du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6730">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann aus Gr&#xFC;nden der &#xF6;ffentlichen Gesundheit Richtlinien zu den Friedh&#xF6;fen erlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut &#xE9;dicter des directives sur les cimeti&#xE8;res sous l'angle de la sant&#xE9; publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="900">
+            <structureContent lang="de">
+              <structureOrder>8</structureOrder>
+              <structureText>Bestattungsinstitute und weitere Unternehmen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>8</structureOrder>
+              <structureText>Pompes fun&#xE8;bres et autres entreprises</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2927">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bestattungsinstitute und weitere Unternehmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pompes fun&#xE8;bres et autres entreprises</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6731">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer einen Bestattungsdienst, ein Bestattungszentrum, ein Krematorium oder ein anderes Unternehmen im Umgang mit Leichen betreiben will (nachfolgend: Unternehmen) ist verpflichtet, sich bei der Dienststelle f&#xFC;r Gesundheitswesen zu melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne qui entend exploiter une entreprise de pompes fun&#xE8;bres, un centre fun&#xE9;raire, des installations d'incin&#xE9;ration ou toute autre entreprise effectuant des interventions sur des cadavres humains (ci-apr&#xE8;s: l'entreprise) est tenue de s'annoncer au Service de la sant&#xE9; publique (ci-apr&#xE8;s: le service).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6732">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;hrt ein Unternehmensregister, das &#xF6;ffentlich ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service tient un registre des entreprises. Ce registre est public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6733">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Anh&#xF6;rung von Experten und Berufsverb&#xE4;nden (nachfolgend: Verband) kann die Dienststelle f&#xFC;r solche Unternehmen Richtlinien erlassen &#xFC;ber die Personalausbildung, die R&#xE4;umlichkeiten und die Einrichtung f&#xFC;r den Transport, die Aufbahrung und den weiteren Umgang mit Leichen.&#xA0;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s consultation d'experts et de l'association professionnelle (ci-apr&#xE8;s: l'association), le service peut &#xE9;dicter des directives portant notamment sur la formation du personnel des entreprises pr&#xE9;cit&#xE9;es, les locaux et l'&#xE9;quipement destin&#xE9;s au transport, &#xE0; la conservation ou &#xE0; toute autre intervention sur les cadavres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6734">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle kann den Verband mit den Modalit&#xE4;ten und der Kontrolle &#xFC;ber die Einhaltung der Richtlinien beauftragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur mandat du service, l'association peut &#xEA;tre charg&#xE9;e des modalit&#xE9;s et des contr&#xF4;les n&#xE9;cessaires au respect des directives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6735">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Nichteinhaltung der Richtlinien kommen die im 11. Kapitel des Gesundheitsgesetzes vorgesehenen Verwaltungsmassnahmen und Strafbestimmungen zur Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de non-respect des directives, le d&#xE9;partement prend les mesures administratives et les sanctions pr&#xE9;vues au chapitre 11 de la loi sur la sant&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6736">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Justiz- und Polizeibeh&#xF6;rden k&#xF6;nnen nur Dienste von Unternehmen in Anspruch nehmen, die im Register der Dienststelle aufgef&#xFC;hrt sind und gegen die keinerlei Strafen oder Massnahmen vorliegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Seules les entreprises figurant au registre du service et n'ayant pas fait l'objet de mesures administratives ou de sanctions peuvent &#xEA;tre sollicit&#xE9;es par les autorit&#xE9;s judiciaires ou de police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="901">
+            <structureContent lang="de">
+              <structureOrder>9</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>9</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2928">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung bisherigen Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6737">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben werden s&#xE4;mtliche vorliegender Verordnung widersprechende Bestimmungen, namentlich die Verordnung &#xFC;ber die Todesfeststellung und die Eingriffe an Leichen vom 17. M&#xE4;rz 1999.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;es toutes les dispositions contraires &#xE0; la pr&#xE9;sente ordonnance, notamment l&#x2019;ordonnance sur la constatation des d&#xE9;c&#xE8;s et les interventions sur les cadavres humains du 17 mars 1999.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2929">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6738">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Vollzug der vorliegenden Verordnung ist das Departement zust&#xE4;ndig. Es erl&#xE4;sst gegebenenfalls die notwendigen Richtlinien f&#xFC;r den Bereich der &#xF6;ffentlichen Gesundheit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement en charge de la sant&#xE9; est charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente ordonnance. Au besoin, il &#xE9;dicte les directives n&#xE9;cessaires sous l'angle de la sant&#xE9; publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6739">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Nichteinhaltung der Bestimmungen der vorliegenden Verordnung kommen die im 11. Titel des Gesundheitsgesetzes vom 14. Februar 2008 vorgesehenen Verwaltungsmassnahmen und Strafbestimmungen zur Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de non-respect des dispositions de la pr&#xE9;sente ordonnance sont applicables les mesures administratives et les sanctions pr&#xE9;vues au titre dixi&#xE8;me de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2930">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6740">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung tritt mit der Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance entre en vigueur au moment de sa publication au Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2014-09-05</dateForce>
+      <dateVersion>2014-09-05</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 36/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

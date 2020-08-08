@@ -1,0 +1,1415 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:485</normID>
+      <number>704.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GWFV</abbreviation>
+      <abbreviation lang="fr">LIML</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Wege des Freizeitverkehrs</title>
+      <title lang="fr">Loi sur les itin&#xE9;raires de mobilit&#xE9; de loisirs</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-09-14</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-01-01</dateLastChange>
+      <dateVersion>2012-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber Fuss- und Wanderwege vom 4. Oktober 1985 (FWG);</basis> <basis>eingesehen Artikel 31 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale&#xA0;sur les chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre du 4 octobre 1985&#xA0;(LCPR);</basis> <basis>vu l&#x2019;article 31 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 38/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1636">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Wege des Freizeitverkehrs</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les itin&#xE9;raires de mobilit&#xE9; de loisirs</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1638">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5460">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12545">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt das Verfahren f&#xFC;r die Genehmigung und die &#xC4;nderung von Pl&#xE4;nen der Wege des Freizeitverkehrs sowie das Verfahren f&#xFC;r die Errichtung der dazugeh&#xF6;rigen Bauwerke. Es soll die Anlage, die Kennzeichnung, den Unterhalt und den Erhalt dieser Wege und Bauwerke gew&#xE4;hrleisten und die Grunds&#xE4;tze f&#xFC;r Beitragsleistungen festlegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE8;gle la proc&#xE9;dure d&#x2019;approbation et de modification des plans d&#x2019;itin&#xE9;raires de mobilit&#xE9; de loisirs et celle des constructions d&#x2019;ouvrages qui y sont li&#xE9;es. Elle vise &#xE0; assurer l'am&#xE9;nagement, la signalisation, l&#x2019;entretien et la conservation de ces itin&#xE9;raires et ouvrages ainsi qu&#x2019;&#xE0; fixer les principes de subventionnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12546">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die genehmigten Pl&#xE4;ne der Wege des Freizeitverkehrs begr&#xFC;nden ein &#xF6;ffentliches Durchgangsrecht. Sollten Enteignungen erforderlich sein, sind die Bestimmungen des Strassengesetzes anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les plans des itin&#xE9;raires de mobilit&#xE9; de loisirs approuv&#xE9;s sont constitutifs d'un droit de passage public. Si des expropriations se r&#xE9;v&#xE8;lent n&#xE9;cessaires, les dispositions de la loi sur les routes s&#x2019;appliquent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5461">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definition und Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12547">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Weg des Freizeitverkehrs gilt jeder Weg, der einer nicht motorisierten Art der Fortbewegung dient, deren prim&#xE4;rer Zweck in der Freizeitgestaltung oder Erholung liegt. Der Freizeitverkehr unterscheidet sich vom Berufs-, Schul- und Pendlerverkehr, der sich haupts&#xE4;chlich auf st&#xE4;dtische Gebiete und Agglomerationen konzentriert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">On entend par itin&#xE9;raire de mobilit&#xE9; de loisirs tout itin&#xE9;raire permettant un d&#xE9;placement non motoris&#xE9;, dont la vocation principale est li&#xE9;e aux activit&#xE9;s de loisirs ou de d&#xE9;tente. La mobilit&#xE9; de loisirs est distincte de la mobilit&#xE9; li&#xE9;e aux activit&#xE9;s professionnelles et scolaires et au pendularisme qui se concentrent principalement dans les zones urbaines et les agglom&#xE9;rations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12548">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz ist auf die genehmigten Wege des Freizeitverkehrs anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s&#x2019;applique aux itin&#xE9;raires approuv&#xE9;s de mobilit&#xE9; de loisirs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12549">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei den Wegen des Freizeitverkehrs wird namentlich unterschieden zwischen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les itin&#xE9;raires de mobilit&#xE9; de loisirs se distinguent notamment entre:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6122">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fuss- und Wanderwegen, welche zu den Wegnetzen geh&#xF6;ren, die durch das Bundesgesetz &#xFC;ber die Fuss- und Wanderwege geregelt werden. Auf kantonaler Ebene werden die Wanderwegnetze unterteilt in:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les itin&#xE9;raires de chemins p&#xE9;destres qui correspondent aux r&#xE9;seaux r&#xE9;gl&#xE9;s par la loi f&#xE9;d&#xE9;rale sur les chemins pour pi&#xE9;tons et de chemins de randonn&#xE9;e p&#xE9;destre. Au niveau cantonal, les&#xA0;r&#xE9;seaux de chemins de randonn&#xE9;e p&#xE9;destre se subdivisent en:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:6123">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">ein Hauptwanderwegnetz, das namentlich die internationalen und interkantonalen sowie die nationalen und kantonalen Wanderrouten, die Wandertouren in den Bergmassiven, die sehenswerten Landschaften, die historischen und kulturellen St&#xE4;tten, die P&#xE4;sse, die Suonen und Uferzonen von Bedeutung, die touristischen Anlagen und Haltestellen des &#xF6;ffentlichen Verkehrs erschliesst,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">un r&#xE9;seau principal qui dessert notamment les liaisons internationales et intercantonales, les itin&#xE9;raires nationaux et cantonaux, les tours p&#xE9;destres de massifs montagneux, les zones de valeur reconnues, les lieux historiques et culturels, les cols, les bisses et rives importants, les installations touristiques et les arr&#xEA;ts de transports publics,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:6124">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">kantonale Fuss- und Wanderwege,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des itin&#xE9;raires p&#xE9;destres cantonaux,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:6125">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">ein Nebenwanderwegnetz f&#xFC;r die Verbindungen von regionaler oder lokaler Bedeutung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">un r&#xE9;seau secondaire correspondant aux liaisons d'importance r&#xE9;gionale ou locale;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6126">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fahrradrouten, zu denen namentlich Radwege und Radstreifen geh&#xF6;ren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les itin&#xE9;raires de voies cyclables, qui comprennent notamment des bandes cyclables et des pistes cyclables;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6127">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mountainbike-Pisten, zu denen auch die Mountainbike-Abfahrtsstrecken geh&#xF6;ren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les itin&#xE9;raires de pistes pour v&#xE9;lo tout terrain (VTT), y compris les pistes de descente VTT;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6128">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Routen f&#xFC;r Winter- und Schneeschuhwanderungen sowie Langlaufloipen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les itin&#xE9;raires de chemins de randonn&#xE9;e hivernale &#xE0; pied et &#xE0; raquette ainsi que les pistes de ski de fond.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5462">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12550">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die mit der Raumplanung beauftragte Dienststelle erarbeitet in Zusammenarbeit mit den anderen beteiligten Dienststellen und den Gemeinden das generelle Konzept f&#xFC;r die Wege des Freizeitverkehrs und erstellt die Planung. Die Aufgaben und Zust&#xE4;ndigkeiten der anderen kantonalen Dienststellen werden im Vollzugsreglement n&#xE4;her bestimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service cantonal en charge de l&#x2019;am&#xE9;nagement du territoire &#xE9;labore les conceptions directrices des itin&#xE9;raires de mobilit&#xE9; de loisirs et &#xE9;tablit la planification, en collaboration avec les autres services concern&#xE9;s et les communes. Les comp&#xE9;tences des autres services cantonaux sont pr&#xE9;cis&#xE9;es dans le r&#xE8;glement d&#x2019;ex&#xE9;cution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12551">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Planerstellung, die Anlage, die Kennzeichnung, der Unterhalt und der Erhalt der Wege und der dazugeh&#xF6;rigen Bauwerke f&#xE4;llt unter die Zust&#xE4;ndigkeit der Gemeinden, mit Ausnahme der kantonalen Fahrradroute Oberwald&#xA0;- St-Gingolph. Dasselbe gilt auch f&#xFC;r die polizeilichen Massnahmen, unter Vorbehalt besonderer Kompetenzen anderer Beh&#xF6;rden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes sont comp&#xE9;tentes pour l&#x2019;&#xE9;tablissement des plans, l'am&#xE9;nagement, la signalisation, l&#x2019;entretien et la conservation de ces itin&#xE9;raires et ouvrages qui y sont li&#xE9;s, sous r&#xE9;serve de l&#x2019;axe cyclable cantonal Oberwald&#xA0;- St-Gingolph. Il en va de m&#xEA;me des mesures de police, sous r&#xE9;serve des comp&#xE9;tences sp&#xE9;cifiques d&#x2019;autres autorit&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12552">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton ist f&#xFC;r die Anlage der kantonalen Fahrradroute Oberwald&#xA0;- St-Gingolph und deren Anbindung an die wichtigsten Bahnh&#xF6;fe zust&#xE4;ndig. Der Kanton ist f&#xFC;r die Anlage, die Kennzeichnung, den Unterhalt und den Erhalt dieser Fahrradroute verantwortlich. Insbesondere wo kommunale Verkehrswege betroffen sind, agiert der Kanton in Zusammenarbeit mit den Gemeinden. Vorbehalten ist die &#xDC;bertragung des Unterhalts gem&#xE4;ss der Gesetzgebung &#xFC;ber den Wasserbau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton est en charge de l&#x2019;am&#xE9;nagement de l&#x2019;axe cyclable cantonal Oberwald&#xA0;- St-Gingolph et des liaisons avec les principales gares ferroviaires. L&#x2019;am&#xE9;nagement, la signalisation, l&#x2019;entretien et la conservation de cet axe sont g&#xE9;r&#xE9;s par le canton, avec la collaboration des communes en particulier lorsque des voies publiques communales sont concern&#xE9;es. Est r&#xE9;serv&#xE9;e la d&#xE9;l&#xE9;gation de l&#x2019;entretien de cet axe conform&#xE9;ment aux principes fix&#xE9;s par la l&#xE9;gislation cantonale sur l&#x2019;am&#xE9;nagement des cours d&#x2019;eau.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12553">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden arbeiten zur Erf&#xFC;llung ihrer Aufgaben gem&#xE4;ss den Bestimmungen der diesbez&#xFC;glichen Gesetzgebung zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'accomplissement de leurs t&#xE2;ches, les communes collaborent selon les modalit&#xE9;s pr&#xE9;vues par la l&#xE9;gislation en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5463">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Koordination und Zusammenarbeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Coordination et collaboration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12554">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Erstellung der Wegpl&#xE4;ne sind die Konzepte und allf&#xE4;lligen Sachpl&#xE4;ne des Kantons, des Bundes, der Nachbarkantone und der Nachbarl&#xE4;nder zu ber&#xFC;cksichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'&#xE9;tablissement des plans d&#x2019;itin&#xE9;raires, les conceptions et les &#xE9;ventuels plans sectoriels du canton, de la Conf&#xE9;d&#xE9;ration, des cantons et pays voisins sont pris en consid&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12555">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Ausf&#xFC;hrung ihrer spezifischen Aufgaben h&#xF6;ren die zust&#xE4;ndigen Beh&#xF6;rden jede andere betroffene Beh&#xF6;rde an. Sie w&#xE4;gen die verschiedenen vorhandenen Interessen ab, namentlich jene des privaten Grundbesitzes, des Tourismus, der Landwirtschaft, der Forstwirtschaft, der Wildtiere, der Natur und Landschaft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans l'ex&#xE9;cution de leurs t&#xE2;ches sp&#xE9;cifiques, les autorit&#xE9;s comp&#xE9;tentes consultent toute autre autorit&#xE9; concern&#xE9;e. Elles effectuent une pes&#xE9;e des diff&#xE9;rents int&#xE9;r&#xEA;ts en pr&#xE9;sence, notamment de la propri&#xE9;t&#xE9; fonci&#xE8;re priv&#xE9;e, du tourisme, de l'agriculture, de l&#x2019;&#xE9;conomie foresti&#xE8;re, de la faune, de la nature et du paysage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12556">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton, durch seine Fachstellen, die Gemeinden und die privaten Fachorganisationen arbeiten bei allen f&#xFC;r die Anwendung des vorliegenden Gesetzes bedeutenden T&#xE4;tigkeiten zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton, par ses services sp&#xE9;cialis&#xE9;s, les communes et les organisations priv&#xE9;es sp&#xE9;cialis&#xE9;es, collaborent sur tous les aspects essentiels &#xE0; l'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1639">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Plangenehmigung - Aufgaben und Pflichten - Finanzierung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Approbation des plans - Devoirs et obligations - Financement</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1640">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Plangenehmigung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Approbation des plans</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:5464">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Auflageverfahren</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Proc&#xE9;dure d'enqu&#xEA;te publique</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12557">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Pl&#xE4;ne werden von der Standortgemeinde w&#xE4;hrend 30 Tagen auf dem Gemeindeb&#xFC;ro &#xF6;ffentlich aufgelegt. Die Auflage ist durch Ausschreibung im Amtsblatt bekannt zu geben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les plans sont d&#xE9;pos&#xE9;s publiquement pendant trente jours par les soins de la commune de situation au bureau communal. La mise &#xE0; l&#x2019;enqu&#xEA;te est port&#xE9;e &#xE0; la connaissance du public par insertion dans le Bulletin officiel.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12558">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Im Vollzugsreglement werden Form und Inhalt der Pl&#xE4;ne und der entsprechenden Begleitdokumente f&#xFC;r die &#xF6;ffentliche Auflage festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le r&#xE8;glement d&#x2019;ex&#xE9;cution d&#xE9;termine la forme et le contenu des plans et des documents les accompagnant en vue d&#x2019;une mise &#xE0; l&#x2019;enqu&#xEA;te publique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12559">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn die Errichtung eines Bauwerks oder eine Bewilligung nach einer Spezialgesetzgebung erforderlich sein sollte, sind die dazugeh&#xF6;rigen Unterlagen gleichzeitig mit den Unterlagen des betreffenden Weges aufzulegen. Die Spezialgesetze sind anwendbar, unter Vorbehalt der Wahrung des Koordinationsgrundsatzes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si la construction d&#x2019;un ouvrage ou une autorisation relevant de la l&#xE9;gislation sp&#xE9;ciale est &#xE9;galement n&#xE9;cessaire, les documents y relatifs sont mis &#xE0; l&#x2019;enqu&#xEA;te publique simultan&#xE9;ment avec les documents concernant l&#x2019;itin&#xE9;raire. Les lois sp&#xE9;ciales s&#x2019;appliquent, sous r&#xE9;serve du respect du principe de coordination.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12560">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf die &#xF6;ffentliche Auflage kann verzichtet werden, wenn es sich um ein Projekt von geringer Bedeutung oder um geringf&#xFC;gige &#xC4;nderungen handelt und wenn die betroffenen Eigent&#xFC;mer schriftlich ihr Einverst&#xE4;ndnis gegeben haben oder wenn ihnen Gelegenheit zur Kenntnisnahme und zur Einsprache gegeben wurde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il peut &#xEA;tre renonc&#xE9; &#xE0; une mise &#xE0; l&#x2019;enqu&#xEA;te lorsqu'il s'agit de projets de peu d'importance ou de modifications mineures et si les propri&#xE9;taires int&#xE9;ress&#xE9;s ont donn&#xE9; leur accord par &#xE9;crit, ou si l'occasion leur a &#xE9;t&#xE9; donn&#xE9;e d&#x2019;en prendre connaissance et d&#x2019;y faire opposition.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5465">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Wirkung der Planauflage</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Effet du d&#xE9;p&#xF4;t des plans</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12561">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vom Zeitpunkt der Planauflage an darf auf den betroffenen Grundst&#xFC;cken nichts vorgekehrt werden, was die Ausf&#xFC;hrung des Plans behindert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">D&#xE8;s le d&#xE9;p&#xF4;t des plans, les immeubles touch&#xE9;s ne peuvent subir aucune modification qui entrave l&#x2019;ex&#xE9;cution du projet d&#xE9;pos&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5466">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Einsprachen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Oppositions</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12562">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Einsprachen sind innert 30 Tagen seit der Ver&#xF6;ffentlichung im Amtsblatt der Standortgemeinde schriftlich und begr&#xFC;ndet einzureichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les oppositions doivent &#xEA;tre motiv&#xE9;es et adress&#xE9;es par &#xE9;crit &#xE0; la commune de situation dans le d&#xE9;lai de trente jours d&#xE8;s la publication dans le Bulletin officiel.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12563">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nach Ablauf der Einsprachefrist &#xFC;berweist die Gemeinde die aufgelegten Pl&#xE4;ne mit den allf&#xE4;lligen Einsprachen und ihrer Vormeinung an die f&#xFC;r die Verfahrenskoordination zust&#xE4;ndige kantonale Dienststelle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Apr&#xE8;s l'&#xE9;ch&#xE9;ance du d&#xE9;lai d'opposition, la commune transmet les plans mis &#xE0; l'enqu&#xEA;te accompagn&#xE9;s des oppositions &#xE9;ventuelles et de son pr&#xE9;avis au service cantonal en charge de la coordination des proc&#xE9;dures.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5467">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Behandlung der Einsprachen - Genehmigung der Pl&#xE4;ne - Rechtswirkung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Traitement des oppositions - Approbation des plans - Effets juridiques</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12564">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die interessierten Dienststellen des Kantons und die privaten Fachorganisationen sind im Genehmigungsverfahren und beim Ersatz von Verkehrswegen anzuh&#xF6;ren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les services cantonaux int&#xE9;ress&#xE9;s et les organisations priv&#xE9;es sp&#xE9;cialis&#xE9;es doivent &#xEA;tre consult&#xE9;s dans le cadre de la proc&#xE9;dure d&#x2019;approbation ou de remplacement des itin&#xE9;raires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12565">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat entscheidet erstinstanzlich &#xFC;ber die w&#xE4;hrend der &#xF6;ffentlichen Planauflage erhobenen Einsprachen, sofern sie nicht privatrechtlicher Natur sind. Er genehmigt die Pl&#xE4;ne oder lehnt sie ab.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat statue en premi&#xE8;re instance sur les oppositions formul&#xE9;es lors de la mise &#xE0; l'enqu&#xEA;te publique, dans la mesure o&#xF9; elles n'ont pas un caract&#xE8;re de droit priv&#xE9;. Il approuve ou refuse les plans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12566">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bei Erstellung von Bauwerken im Zusammenhang mit dem Wegnetz oder bei einem Bewilligungsgesuch nach einer Spezialgesetzgebung erl&#xE4;sst der Staatsrat einen alleinigen Gesamtentscheid. Die Bewilligungen nach einer Spezialgesetzgebung werden in den Gesamtentscheid integriert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En cas de construction d'ouvrages li&#xE9;s &#xE0; un itin&#xE9;raire ou de demande d&#x2019;autorisation relevant de la l&#xE9;gislation sp&#xE9;ciale, le Conseil d'Etat rend une d&#xE9;cision globale et unique. Les autorisations relevant de la l&#xE9;gislation sp&#xE9;ciale y sont &#xE9;galement int&#xE9;gr&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12567">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Inkrafttreten der genehmigten Pl&#xE4;ne wird im Amtsblatt ver&#xF6;ffentlicht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#x2019;entr&#xE9;e en force des plans approuv&#xE9;s est port&#xE9;e &#xE0; la connaissance du public par la voie du Bulletin officiel.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12568">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Vorschriften gelten sinngem&#xE4;ss f&#xFC;r die Ab&#xE4;nderung und Anpassung der Pl&#xE4;ne.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces dispositions sont applicables par analogie &#xE0; la modification des plans, ainsi qu'&#xE0; leur adaptation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1641">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Aufgaben und Pflichten</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Devoirs et obligations</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:5468">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Leistung der &#xF6;ffentlichen K&#xF6;rperschaften</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Prestation des collectivit&#xE9;s publiques</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12569">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden, Burgergemeinden und der Staat erlauben den unentgeltlichen Durchgang auf ihrem unkultivierten Boden, dessen Nutzung f&#xFC;r die Anlage oder den Ersatz von Verkehrswegen des Freizeitverkehrs n&#xF6;tig ist, vorausgesetzt, dass der Durchgang mit diesem Boden vereinbar ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes, les bourgeoisies et l'Etat permettent gratuitement le passage sur leurs terrains non cultiv&#xE9;s dont l'utilisation est n&#xE9;cessaire pour l&#x2019;am&#xE9;nagement ou le remplacement d&#x2019;itin&#xE9;raires, &#xE0; condition toutefois que ces terrains soient compatibles avec un tel passage.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5469">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Freie Begehbarkeit und polizeiliche Massnahmen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Libre circulation et mesures de police</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12570">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinde garantiert im Rahmen der geltenden Rechtsordnung die freie und m&#xF6;glichst gefahrlose Begehbarkeit der Wege des Freizeitverkehrs und sichert den &#xF6;ffentlichen Zugang zu diesen rechtlich ab.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La commune garantit dans le cadre de la l&#xE9;gislation en vigueur une libre circulation si possible sans danger sur les itin&#xE9;raires de mobilit&#xE9; de loisirs et prend les mesures juridiques propres &#xE0; en assurer l'acc&#xE8;s au public.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12571">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie verf&#xFC;gt die Einstellung von Arbeiten, die diesem Gesetz zuwiderlaufen, und verlangt die Wiederherstellung des urspr&#xFC;nglichen Zustands.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle ordonne l&#x2019;arr&#xEA;t des travaux contraires &#xE0; la pr&#xE9;sente loi ainsi que le r&#xE9;tablissement de l&#x2019;&#xE9;tat ant&#xE9;rieur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5470">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">&#xDC;berlagerung und Kreuzung unterschiedlicher Verkehrswege</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Superposition et croisement d'itin&#xE9;raires de types diff&#xE9;rents</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12572">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verkehrswege sind so anzulegen, dass sich Verkehrswege von unterschiedlicher Art m&#xF6;glichst nicht &#xFC;berlagern. In jedem Fall sind bei Kreuzungen oder &#xDC;berlagerungen unterschiedlicher Verkehrswege besondere Massnahmen wie Zugangsverbot oder Vortrittsregelung zu treffen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les itin&#xE9;raires doivent &#xEA;tre &#xE9;tablis de mani&#xE8;re &#xE0; ce que, dans la mesure du possible, les itin&#xE9;raires de types diff&#xE9;rents ne se superposent pas. Dans tous les cas, des mesures particuli&#xE8;res telles que l&#x2019;interdiction d&#x2019;acc&#xE8;s ou la fixation de priorit&#xE9;, doivent &#xEA;tre prises en cas de croisement ou de superposition de voies.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5471">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Vortrittsregelung auf Fuss- und Wanderwegen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE8;gles de priorit&#xE9; sur les itin&#xE9;raires de chemins p&#xE9;destres</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12573">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf Fuss- und Wanderwegen haben Fussg&#xE4;nger gegen&#xFC;ber anderen Wegbenutzern, die gegebenenfalls zum Anhalten verpflichtet sind, den Vortritt. Unter aussergew&#xF6;hnlichen Umst&#xE4;nden sind Ausnahmen zu dieser Regelung m&#xF6;glich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sur les itin&#xE9;raires de chemins p&#xE9;destres, les randonneurs &#xE0; pied ont la priorit&#xE9; sur les autres usagers, lesquels ont le cas &#xE9;ch&#xE9;ant l&#x2019;obligation de s&#x2019;arr&#xEA;ter. Des d&#xE9;rogations sont exceptionnellement possibles en cas de situations extraordinaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5472">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ersatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Remplacement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12574">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">M&#xFC;ssen die in den Pl&#xE4;nen enthaltenen Wegnetze des Freizeitverkehrs oder Teile davon definitiv oder provisorisch aufgehoben werden, hat derjenige, der dies veranlasst, unter Ber&#xFC;cksichtigung der lokalen Verh&#xE4;ltnisse und ganz besonders in den vom Bundesgesetz &#xFC;ber Fuss- und Wanderwege vorgesehenen F&#xE4;llen f&#xFC;r angemessenen Ersatz durch bestehende oder neu zu schaffende Wege zu sorgen. F&#xFC;r Mountainbike-Abfahrtsstrecken ist ein Ersatz allerdings nicht erforderlich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si des voies de mobilit&#xE9; de loisirs contenus dans les plans en force doivent &#xEA;tre supprim&#xE9;es totalement ou partiellement, de mani&#xE8;re provisoire ou d&#xE9;finitive, l&#x2019;auteur de la suppression doit pourvoir &#xE0; un remplacement convenable par des voies de mobilit&#xE9; de loisirs existantes ou &#xE0; cr&#xE9;er, en tenant compte des conditions locales, et ceci tout particuli&#xE8;rement dans les cas pr&#xE9;vus par la loi f&#xE9;d&#xE9;rale sur les chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre. Toutefois, les pistes de descente VTT ne doivent pas faire l&#x2019;objet d&#x2019;un remplacement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12575">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Artikel 5 und folgende des vorliegenden Gesetzes sind f&#xFC;r die Aufhebung und den Ersatz anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les articles 5 et suivants de la pr&#xE9;sente loi sont applicables &#xE0; la suppression et au remplacement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1642">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Finanzierung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Financement</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:5473">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Finanzierung - Kantonsbeitr&#xE4;ge</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Financement - Subventionnement cantonal</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12576">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xFC;r die Finanzierung der Verkehrswege und der Bauwerke kommen die Gemeinden auf, mit Ausnahme der kantonalen Fahrradroute Oberwald&#xA0;- St-Gingolph.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le financement des itin&#xE9;raires et des ouvrages est assur&#xE9; par les communes, sous r&#xE9;serve de l&#x2019;axe cyclable cantonal Oberwald&#xA0;- St-Gingolph.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12577">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xFC;r die kantonale Fahrradroute Oberwald&#xA0;- St-Gingolph &#xFC;bernimmt der Kanton die gesamten Kosten f&#xFC;r den Bau auf Grundeigentum der Gemeinden und 70 Prozent der Kosten f&#xFC;r den Bau auf Grundeigentum des Kantons. Der Restbetrag wird von der Gesamtheit der Gemeinden des Kantons getragen. Der Unterhalt auf Grundeigentum des Kantons sowie die zus&#xE4;tzlichen Kosten betreffend Unterhalt auf Grundeigentum der Gemeinden gehen zu 70 Prozent zulasten des Kantons und zu 30 Prozent zulasten s&#xE4;mtlicher Gemeinden des Kantons. Die Kennzeichnung wird vom Kanton zu 70 Prozent und von der Gesamtheit der Gemeinden zu 30 Prozent finanziert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour l&#x2019;axe cyclable cantonal Oberwald&#xA0;- St-Gingolph, le canton assume tous les frais concernant sa construction s&#x2019;il est situ&#xE9; sur propri&#xE9;t&#xE9; communale et &#xE0; hauteur de 70 pour cent s&#x2019;il est sur propri&#xE9;t&#xE9; cantonale, le solde &#xE9;tant financ&#xE9; par l&#x2019;ensemble des communes du canton. L&#x2019;entretien sur propri&#xE9;t&#xE9; cantonale et les co&#xFB;ts suppl&#xE9;mentaires d&#x2019;entretien sur propri&#xE9;t&#xE9; communale sont assum&#xE9;s &#xE0; raison de 70 pour cent par le canton et de 30 pour cent par l&#x2019;ensemble des communes du canton. Pour la signalisation, le canton finance 70 pour cent des frais et l&#x2019;ensemble des communes du canton 30 pour cent.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12578">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kanton entrichtet den Gemeinden Beitr&#xE4;ge an die Kosten der Planerstellung, der Anlage, der Instandstellung, der Verbesserung und der Kennzeichnung. An den laufenden Unterhalt werden keine Beitr&#xE4;ge entrichtet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le canton alloue des subventions aux communes pour les travaux relatifs &#xE0; l&#x2019;&#xE9;tablissement de plans, &#xE0; l&#x2019;am&#xE9;nagement, &#xE0; la r&#xE9;fection, &#xE0; l&#x2019;am&#xE9;lioration et &#xE0; la signalisation. L&#x2019;entretien courant ne fait pas l&#x2019;objet d&#x2019;un subventionnement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12579">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xFC;r die Wege des Hauptwanderwegnetzes sowie f&#xFC;r die kantonalen Fuss- und Wanderwege betr&#xE4;gt der Subventionssatz 50 Prozent. Die Mountainbike-Abfahrtsstrecken werden nicht subventioniert. Des Weiteren k&#xF6;nnen Subventionen nur f&#xFC;r offiziell genormte Kennzeichnungen entrichtet werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le taux de subvention est de 50 pour cent pour les itin&#xE9;raires de chemins de randonn&#xE9;e p&#xE9;destre faisant partie du r&#xE9;seau principal ainsi que pour les itin&#xE9;raires p&#xE9;destres cantonaux. Les pistes de descente VTT ne sont pas subventionn&#xE9;es. De plus, seules des signalisations officielles peuvent faire l&#x2019;objet d&#x2019;un subventionnement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12580">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kanton kann den privaten Fachorganisationen, namentlich der Walliser Vereinigung f&#xFC;r Wanderwege, f&#xFC;r ihre T&#xE4;tigkeit im Rahmen des vorliegenden Gesetzes Beitr&#xE4;ge ausrichten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le canton peut allouer des subventions &#xE0; des organisations priv&#xE9;es sp&#xE9;cialis&#xE9;es, notamment &#xE0; l&#x2019;association fa&#xEE;ti&#xE8;re valaisanne de la randonn&#xE9;e, pour leurs activit&#xE9;s dans le cadre de la pr&#xE9;sente loi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:5474">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Vorbehalt des Subventionsgesetzes</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE9;serve de la loi sur les subventions</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:12581">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bestimmungen des kantonalen Subventionsgesetzes gelten direkt und vollst&#xE4;ndig f&#xFC;r die Subventionen gem&#xE4;ss dem vorliegenden Gesetz.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur int&#xE9;gralit&#xE9; aux subventions pr&#xE9;vues par la pr&#xE9;sente loi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1643">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Verfahren und Strafbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Proc&#xE9;dure et dispositions p&#xE9;nales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5475">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren und Rechtsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure et voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12582">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ohne anders lautende Bestimmung im vorliegenden Gesetz ist das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire de la pr&#xE9;sente loi, la loi sur la proc&#xE9;dure et la juridiction administratives s&#x2019;applique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5476">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions p&#xE9;nales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12583">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit einer Busse belegt wird, wer vors&#xE4;tzlich oder fahrl&#xE4;ssig:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est puni d'une amende celui qui, intentionnellement ou par n&#xE9;gligence:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6129">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine Pflicht, eine Bedingung, eine Aufgabe, ein Verbot oder eine Einschr&#xE4;nkung, die ihm von Gesetzes wegen auferlegt wird, missachtet;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">n'a pas respect&#xE9; une obligation, une condition, une charge, une interdiction ou une restriction que la loi met &#xE0; sa charge;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6130">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den in Anwendung des vorliegenden Gesetzes und unter Hinweis auf den vorliegenden Absatz verf&#xFC;gten Anweisungen zuwiderhandelt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">a contrevenu aux ordres prononc&#xE9;s en application de la pr&#xE9;sente loi et signifi&#xE9;s avec indication de la sanction pr&#xE9;vue au pr&#xE9;sent alin&#xE9;a;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6131">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in jedweder Form gegen die Bestimmungen des Gesetzes oder dessen Vollzugsbestimmungen verst&#xF6;sst.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contrevient de toute autre mani&#xE8;re aux dispositions de la loi ou de ses dispositions d'ex&#xE9;cution.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12584">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Ahndung von Zuwiderhandlungen sind die Gemeinden beziehungsweise im Fall der Fahrradroute der Kanton zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes respectivement le canton pour l&#x2019;axe cyclable cantonal sont comp&#xE9;tents pour r&#xE9;primer les infractions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1644">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:5477">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12585">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die zum Vollzug des vorliegenden Gesetzes notwendigen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte les prescriptions d&#x2019;ex&#xE9;cution n&#xE9;cessaires &#xE0; l&#x2019;application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5478">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesetzes&#xE4;nderungen und -aufhebungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation et modification de lois</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12586">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle dem vorliegenden Gesetz zuwiderlaufenden Bestimmungen werden mit dessen Inkrafttreten aufgehoben. Dies gilt insbesondere f&#xFC;r das Ausf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber Fuss- und Wanderwege vom 27. Januar 1988 (AGFWG).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi, toutes les dispositions contraires &#xE0; celle-ci sont abrog&#xE9;es. Est en particulier abrog&#xE9;e la loi d&#x2019;application de la loi f&#xE9;d&#xE9;rale sur les chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre du 27 janvier 1988 (LALCPR).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34178">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Strassengesetz vom 3. September 1965 wird&#xA0;ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur les routes du 3 septembre 1965 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:5479">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:12587">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des vorliegenden Gesetzes sind auf die Verfahren, die zum Zeitpunkt der Inkraftsetzung des Gesetzes bereits eingeleitet worden sind, anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la pr&#xE9;sente loi sont applicables aux proc&#xE9;dures pendantes lors de son entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12588">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt von Absatz 3 ist jeder Weg des Freizeitverkehrs den Anforderungen des vorliegenden Gesetzes unterstellt und innerhalb von f&#xFC;nf Jahren nach dessen Inkraftsetzung einem Genehmigungsverfahren zu unterziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout itin&#xE9;raire de mobilit&#xE9; de loisirs est soumis aux exigences de la pr&#xE9;sente loi et, sous r&#xE9;serve de l&#x2019;alin&#xE9;a suivant, une proc&#xE9;dure d&#x2019;approbation doit &#xEA;tre engag&#xE9;e dans un d&#xE9;lai de cinq ans &#xE0; partir de l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:12589">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die nachstehenden F&#xE4;lle gelten die folgenden &#xDC;bergangsbestimmungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En particulier, les dispositions transitoires suivantes s&#x2019;appliquent:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6132">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">s&#xE4;mtliche Genehmigungen betreffend Fuss- und Wanderwegnetze, welche gem&#xE4;ss der Gesetzgebung &#xFC;ber die Fuss- und Wanderwege genehmigt wurden, werden anerkannt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les chemins p&#xE9;destres, les approbations donn&#xE9;es en vertu de la l&#xE9;gislation sur les chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre sont reconnues;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6133">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">s&#xE4;mtliche Genehmigungen betreffend Fahrradrouten, welche von der f&#xFC;r die Strassensignalisation zust&#xE4;ndigen kantonalen Beh&#xF6;rde genehmigt wurden, werden anerkannt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les voies cyclables, les approbations donn&#xE9;es par l'autorit&#xE9; cantonale en mati&#xE8;re de signalisation routi&#xE8;re sont reconnues;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6134">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">s&#xE4;mtliche Genehmigungen betreffend Mountainbike-Pisten, welche gem&#xE4;ss der Strassengesetzgebung genehmigt wurden, werden anerkannt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les pistes VTT, les approbations donn&#xE9;es en vertu de la l&#xE9;gislation sur les routes sont reconnues;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:6135">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">s&#xE4;mtliche Genehmigungen betreffend Rollerskate-Pisten, welche von der f&#xFC;r die Strassensignalisation zust&#xE4;ndigen kantonalen Beh&#xF6;rde genehmigt wurden, werden anerkannt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les pistes de roller, les approbations donn&#xE9;es par l'autorit&#xE9; cantonale en mati&#xE8;re de signalisation routi&#xE8;re sont reconnues.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2012-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 38/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

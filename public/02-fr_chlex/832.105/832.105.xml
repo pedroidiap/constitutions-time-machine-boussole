@@ -1,0 +1,2393 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:205</normID>
+      <number>832.105</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">V&amp;#xFC;IVP</abbreviation>
+      <abbreviation lang="fr">OcRIP</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die obligatorische Krankenversicherung und die individuellen Pr&#xE4;mienverbilligungen</title>
+      <title lang="fr">Ordonnance concernant l'assurance-maladie obligatoire et les r&#xE9;ductions individuelles des primes</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-11-16</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2017-01-01</dateLastChange>
+      <dateVersion>2017-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 17 des kantonalen Gesetzes &#xFC;ber die Krankenversicherung vom 22. Juni 1995 (KGKV);</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen, Institutionen und Gesundheit,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 17 de la loi cantonale sur l'assurance-maladie du 22 juin 1995 (LcAM);</basis> <basis>sur la proposition du D&#xE9;partement des finances, des institutions et de la sant&#xE9;;</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 48/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="739">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die obligatorische Krankenversicherung und die individuellen Pr&#xE4;mienverbilligungen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant l'assurance-maladie obligatoire et les r&#xE9;ductions individuelles des primes</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="741">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Obligatorische Versicherung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Assurance obligatoire</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2489">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle und Beitritt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;les et affiliation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5693">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden sind auf ihrem Gebiet f&#xFC;r die Einhaltung der Versicherungspflicht f&#xFC;r Krankenpflege verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes veillent &#xE0; l'application, sur leur territoire, de l'assurance-maladie obligatoire des soins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5694">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie sind insbesondere verpflichtet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles doivent notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2482">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zu &#xFC;berpr&#xFC;fen, dass alle in der Gemeinde wohnhaften Personen bei einem im Sinne des Bundesgesetzes &#xFC;ber die Krankenpflegeversicherung vom 18. M&#xE4;rz 1994 (KVG) anerkannten Versicherer f&#xFC;r Krankenpflege versichert sind (nachfolgend: anerkannter schweizerischer Versicherer);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">v&#xE9;rifier que toute personne domicili&#xE9;e dans la commune est assur&#xE9;e pour les soins en cas de maladie aupr&#xE8;s d'un assureur autoris&#xE9; &#xE0; pratiquer au sens de la loi f&#xE9;d&#xE9;rale sur l'assurance-maladie du 18 mars 1994 (LAMal) (ci-apr&#xE8;s: assureur suisse reconnu);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2483">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sicherzustellen, dass alle neu in der Gemeinde wohnhaften Personen, sowohl schweizerische als auch ausl&#xE4;ndische Staatsangeh&#xF6;rige, innert der in der eidgen&#xF6;ssischen Gesetzgebung vorgesehenen Frist einem anerkannten schweizerischen Versicherer beitreten. Vorbehalten bleiben von Bundesrecht vorgesehene Vorgaben namentlich im Bereich der bilateralen Abkommen (EU und EFTA);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'assurer que toute personne nouvellement domicili&#xE9;e, suisse ou &#xE9;trang&#xE8;re, est affili&#xE9;e aupr&#xE8;s d'un assureur suisse reconnu, dans les d&#xE9;lais pr&#xE9;vus par la l&#xE9;gislation f&#xE9;d&#xE9;rale. Demeurent r&#xE9;serv&#xE9;es les prescriptions pr&#xE9;vues par le droit f&#xE9;d&#xE9;ral, notamment celles relatives aux accords bilat&#xE9;raux (UE et AELE);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2484">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Beitritt von Amtes wegen f&#xFC;r Personen zu veranlassen, die es verweigern, sich dem vom KVG vorgeschriebenen Versicherungspflicht zu unterstellen, wobei eine gerechte Aufteilung zwischen den Versicherern zu ber&#xFC;cksichtigen ist;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">proc&#xE9;der &#xE0; l'affiliation d'office des personnes refusant de se soumettre &#xE0; l'obligation pr&#xE9;vue dans la LAMal, en veillant &#xE0; une r&#xE9;partition &#xE9;quitable entre les assureurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2485">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Dienststelle f&#xFC;r Gesundheitswesen jeweils bis am 31. M&#xE4;rz einen Jahresbericht &#xFC;ber die Anwendung des vorliegenden Artikels zuzustellen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">adresser, pour le 31 mars, un rapport annuel au Service de la sant&#xE9; publique sur l'application du pr&#xE9;sent article.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5695">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gemeinden, die es unterlassen, die von der Bundesgesetzgebung und der vorliegenden Verordnung verlangten Kontrollen und von Amtes wegen durchgef&#xFC;hrten Beitritte auszuf&#xFC;hren, sind verpflichtet, f&#xFC;r die Bezahlung der Pflegekosten bei einem Notfall aufzukommen, die nicht von einem anerkannten Versicherer gedeckt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes qui omettent de proc&#xE9;der aux contr&#xF4;les et &#xE0; l'affiliation d'office requis par la l&#xE9;gislation f&#xE9;d&#xE9;rale et la pr&#xE9;sente ordonnance sont responsables du paiement des frais des soins urgents non couverts par un assureur reconnu.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5696">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sistierung oder Aufhebung eines Versicherungsvertrags f&#xFC;r eine vermisste Person unterliegt der Bewilligung durch die Dienststelle f&#xFC;r Sozialwesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La suspension ou la r&#xE9;siliation du contrat d'assurance en cas de disparition de l'assur&#xE9; est soumise &#xE0; autorisation du Service de l'action sociale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="742">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Individuelle Pr&#xE4;mienverbilligung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>R&#xE9;duction individuelle des primes</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2490">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beg&#xFC;nstigte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">B&#xE9;n&#xE9;ficiaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5697">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Versicherte in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen kann eine finanzielle Unterst&#xFC;tzung gew&#xE4;hrt werden, um einen Teil oder die gesamte Pr&#xE4;mie f&#xFC;r die obligatorische Krankenversicherung zu bezahlen (individuelle Pr&#xE4;mienverbilligung).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assur&#xE9;s de condition &#xE9;conomique modeste peuvent b&#xE9;n&#xE9;ficier d'un subside pour le paiement de tout ou d&#x2019;une partie de leurs primes d&#x2019;assurance obligatoire des soins (r&#xE9;duction individuelle des primes).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5698">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Versicherte in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen gelten alle Personen, deren Einkommen gleich oder kleiner ist, als das gem&#xE4;ss Artikel 8 berechnete massgebende Einkommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont consid&#xE9;r&#xE9;es comme assur&#xE9;s de condition &#xE9;conomique modeste les personnes dont le revenu est &#xE9;gal ou inf&#xE9;rieur au revenu d&#xE9;terminant calcul&#xE9; conform&#xE9;ment &#xE0; l&#x2019;article 8.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5699">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nicht als Versicherte in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen gelten namentlich Personen, die aus freiem Willen &#xFC;ber ungen&#xFC;gend finanzielle Mittel verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ne sont notamment pas consid&#xE9;r&#xE9;es comme assur&#xE9;s de condition &#xE9;conomique modeste les personnes disposant de ressources financi&#xE8;res insuffisantes en raison d'un choix d&#xE9;lib&#xE9;r&#xE9; de leur part.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2491">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anspruchsvoraussetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Condition d'octroi</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5700">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine individuelle Pr&#xE4;mienverbilligung kann allen Personen gew&#xE4;hrt werden, die:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peut b&#xE9;n&#xE9;ficier d'une r&#xE9;duction individuelle des primes toute personne qui remplit les conditions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2486">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei einem anerkannten schweizerischen Versicherer f&#xFC;r Krankenpflege versichert sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xEA;tre assur&#xE9;e pour les soins en cas de maladie aupr&#xE8;s d'un assureur suisse reconnu;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2487">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">am 1. Januar des Jahres, f&#xFC;r das eine individuelle Pr&#xE4;mienverbilligung angestrebt wird, im Wallis wohnhaft sind. Vorbehalten bleiben von Bundesrecht vorgesehene Vorgaben namentlich im Bereich der bilateralen Abkommen (EU und EFTA);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xEA;tre domicili&#xE9;e en Valais au 1<format upper="true">er</format> janvier de l'ann&#xE9;e pour laquelle une r&#xE9;duction individuelle de primes est envisag&#xE9;e. Demeurent r&#xE9;serv&#xE9;es les prescriptions pr&#xE9;vues par le droit f&#xE9;d&#xE9;ral, notamment celles relatives aux accords bilat&#xE9;raux (UE et AELE);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2488">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die vom Staatsrat gem&#xE4;ss vorliegender Verordnung festgesetzten Einkommensgrenzen nicht &#xFC;berschreiten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ne pas d&#xE9;passer les limites de revenus fix&#xE9;es par le Conseil d'Etat selon la pr&#xE9;sente ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5701">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Personen, die sich im Laufe des Jahres im Wallis niederlassen und bereits Erg&#xE4;nzungsleistungen der AHV/IV oder kantonale Sozialhilfe erhalten, kann die Pr&#xE4;mienverbilligung ab dem Zeitpunkt der Niederlassung im Wallis gew&#xE4;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes arriv&#xE9;es en Valais en cours d&#x2019;ann&#xE9;e, d&#xE9;j&#xE0; au b&#xE9;n&#xE9;fice d&#x2019;une prestation compl&#xE9;mentaire AVS/AI ou d&#x2019;une aide sociale cantonale, peuvent b&#xE9;n&#xE9;ficier des subsides depuis leur &#xE9;tablissement en Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5702">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Versicherte, die am 31. Dezember des Jahres vor der gew&#xE4;hrten Pr&#xE4;mienverbilligung 20 Jahre alt sind, werden individuell behandelt. Vorbehalten bleibt Artikel 9 Absatz 2.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assur&#xE9;s &#xE2;g&#xE9;s de 20 ans au 31 d&#xE9;cembre de l'ann&#xE9;e pr&#xE9;c&#xE9;dant l&#x2019;octroi d&#x2019;une r&#xE9;duction individuelle des primes sont consid&#xE9;r&#xE9;s &#xE0; titre individuel. Demeure r&#xE9;serv&#xE9; l&#x2019;article 9 alin&#xE9;a 2.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5703">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausl&#xE4;ndische Studierende, die allein in die Schweiz einreisen, m&#xFC;ssen gem&#xE4;ss Verordnung &#xFC;ber die Begrenzung der Zahl der Ausl&#xE4;nder vom 6. Oktober 1986 (BVO) &#xFC;ber die n&#xF6;tigen finanziellen Mittel verf&#xFC;gen und haben grunds&#xE4;tzlich kein Anrecht auf finanzielle Unterst&#xFC;tzung. Vorbehalten bleiben dabei die gem&#xE4;ss Artikel 4 ausserordentlichen F&#xE4;lle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tudiants &#xE9;trangers qui vivent seuls en Suisse devant disposer des moyens financiers n&#xE9;cessaires au sens de l'ordonnance limitant le nombre des &#xE9;trangers du 6 octobre 1986 (OLE) n'ont en principe pas droit au subside, sous r&#xE9;serve de la survenance d&#x2019;un cas extraordinaire pr&#xE9;vu &#xE0; l'article 4.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2492">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausserordentliche F&#xE4;lle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cas extraordinaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5704">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf begr&#xFC;ndetes Gesuch hin kann das Departement im H&#xE4;rtefall unabh&#xE4;ngig vom massgebenden Einkommen eine zeitlich begrenzte individuelle Pr&#xE4;mienverbilligung gew&#xE4;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ind&#xE9;pendamment du revenu d&#xE9;terminant, sur requ&#xEA;te motiv&#xE9;e, une r&#xE9;duction individuelle des primes de dur&#xE9;e limit&#xE9;e peut &#xEA;tre accord&#xE9;e par le d&#xE9;partement dans des cas particuli&#xE8;rement p&#xE9;nibles et dignes d'int&#xE9;r&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2493">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referenzpr&#xE4;mien f&#xFC;r kantonale Pr&#xE4;mienverbilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Primes de r&#xE9;f&#xE9;rence pour les r&#xE9;ductions de primes cantonales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5705">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Referenzpr&#xE4;mien, die f&#xFC;r die Berechnung der Pr&#xE4;mienverbilligung f&#xFC;r die Bez&#xFC;ger von AHV/IV-Erg&#xE4;nzungsleistungen und f&#xFC;r Sozialhilfeempf&#xE4;nger ben&#xFC;tzt werden, sind diejenigen, die j&#xE4;hrlich vom Bund f&#xFC;r die Berechnung der Erg&#xE4;nzungsleistungen bestimmt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prime de r&#xE9;f&#xE9;rence utilis&#xE9;e pour le calcul de la r&#xE9;duction des primes des b&#xE9;n&#xE9;ficiaires de prestations compl&#xE9;mentaires &#xE0; l'AVS/AI et pour les b&#xE9;n&#xE9;ficiaires de l'aide sociale est celle d&#xE9;termin&#xE9;e chaque ann&#xE9;e par la Conf&#xE9;d&#xE9;ration pour le calcul des prestations compl&#xE9;mentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5706">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Referenzpr&#xE4;mien f&#xFC;r die Berechnung der Pr&#xE4;mienverbilligung f&#xFC;r die anderen Bez&#xFC;ger sind diejenigen, die vom Bund j&#xE4;hrlich f&#xFC;r die Berechnung der Erg&#xE4;nzungsleistungen bestimmt werden und die durch einen Koeffizient von 0.95 multipliziert und auf einen Franken gerundet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prime de r&#xE9;f&#xE9;rence utilis&#xE9;e pour le calcul de la r&#xE9;duction des primes des autres b&#xE9;n&#xE9;ficiaires est celle d&#xE9;termin&#xE9;e chaque ann&#xE9;e par la Conf&#xE9;d&#xE9;ration pour le calcul des prestations compl&#xE9;mentaires multipli&#xE9;e par un coefficient de 0.95 et arrondie au franc.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2494">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5707">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Prozents&#xE4;tze der individuellen Pr&#xE4;mienverbilligung werden auf Grundlage der Referenzpr&#xE4;mie gem&#xE4;ss einer vom Staatsrat festgelegten degressiven Einkommensskala berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les taux de r&#xE9;duction individuelle des primes sont calcul&#xE9;s sur les primes de r&#xE9;f&#xE9;rence, selon une &#xE9;chelle d&#xE9;gressive &#xE9;tablie par le Conseil d'Etat en fonction des revenus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5708">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Familien, denen eine Pr&#xE4;mienverbilligung gew&#xE4;hrt wird, liegt die finanzielle Unterst&#xFC;tzung an Kinder und junge Erwachsene bis 20 Jahren nicht unter 50 Prozent der durchschnittlichen Referenzpr&#xE4;mie.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les familles au b&#xE9;n&#xE9;fice d'une r&#xE9;duction des primes, le subside attribu&#xE9; aux enfants et aux jeunes adultes jusqu'&#xE0; 20 ans ne peut pas &#xEA;tre inf&#xE9;rieur &#xE0; 50 pour cent de la prime moyenne de r&#xE9;f&#xE9;rence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5709">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Junge Erwachsene zwischen 21 und 25 Jahren, die sich noch in Ausbildung befinden und denen eine Pr&#xE4;mienverbilligung von weniger als 50 Prozent gew&#xE4;hrt wird, k&#xF6;nnen bei der Ausgleichskasse des Kantons Wallis (nachfolgend: Ausgleichskasse) zus&#xE4;tzliche finanzielle Unterst&#xFC;tzung bis zu 50 Prozent der durchschnittlichen Referenzpr&#xE4;mie beantragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les jeunes adultes encore en formation, &#xE2;g&#xE9;s de 21 &#xE0; 25 ans, au b&#xE9;n&#xE9;fice d&#x2019;une r&#xE9;duction des primes inf&#xE9;rieure &#xE0; 50 pour cent, peuvent demander un subside compl&#xE9;mentaire &#xE0; la Caisse de compensation du canton du Valais (ci-apr&#xE8;s: la Caisse de compensation), jusqu&#x2019;&#xE0; concurrence de 50 pour cent de la prime moyenne de r&#xE9;f&#xE9;rence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5710">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Durchschnittspr&#xE4;mien gelten auch f&#xFC;r Versicherte, die eine Versicherung mit Franchise abgeschlossen haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les primes moyennes sont &#xE9;galement prises en consid&#xE9;ration pour les assur&#xE9;s ayant conclu une assurance avec franchise.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5711">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Empf&#xE4;ngern von AHV/IV-Erg&#xE4;nzungsleistungen und Sozialhilfeempf&#xE4;ngern wird eine Pr&#xE4;mienverbilligung gew&#xE4;hrt, die 100 Prozent der Referenzpr&#xE4;mie entspricht. Das Anrecht auf Pr&#xE4;mienverbilligung beginnt ab dem ersten Tag des Monats, nachdem die Erg&#xE4;nzungsleistungen oder Sozialhilfe anerkannt wurden. Falls das Anrecht auf Erg&#xE4;nzungsleistungen oder Sozialhilfe beendet wird, bleibt das Anrecht auf Pr&#xE4;mienverbilligung bis zum Ende des laufenden Jahres g&#xFC;ltig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les b&#xE9;n&#xE9;ficiaires des prestations compl&#xE9;mentaires &#xE0; l'AVS/AI et les b&#xE9;n&#xE9;ficiaires de l'aide sociale obtiennent une r&#xE9;duction correspondant aux 100 pour cent de la prime de r&#xE9;f&#xE9;rence. Le droit &#xE0; la r&#xE9;duction de prime d&#xE9;bute le 1<format upper="true">er</format> du mois lors duquel la reconnaissance du droit &#xE0; la prestation compl&#xE9;mentaire ou &#xE0; l'aide sociale a &#xE9;t&#xE9; reconnue. Lorsque la fin du droit &#xE0; la prestation compl&#xE9;mentaire ou &#xE0; l'aide sociale est communiqu&#xE9;e, le droit &#xE0; la r&#xE9;duction de prime est valable jusqu'&#xE0; la fin de l'ann&#xE9;e en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5712">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die individuelle Pr&#xE4;mienverbilligung darf die tats&#xE4;chliche obligatorische Krankenversicherungspr&#xE4;mie nicht &#xFC;berschreiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;duction individuelle de primes ne peut exc&#xE9;der le montant de la prime effective de l'assurance-maladie obligatoire des soins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2495">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einkommensgrenzen und degressive Skala</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Limites de revenus et &#xE9;chelle d&#xE9;gressive</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5713">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt j&#xE4;hrlich die Einkommensgrenzen zur Gew&#xE4;hrung der individuellen Pr&#xE4;mienverbilligung und die degressive Skala. Er st&#xFC;tzt sich dabei namentlich auf:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe annuellement les limites de revenus donnant droit &#xE0; la r&#xE9;duction individuelle des primes et l'&#xE9;chelle d&#xE9;gressive. Il se fonde notamment sur:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2489">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die zur Verf&#xFC;gung stehenden finanziellen Mittel;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les moyens financiers &#xE0; disposition;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2490">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Gesetzgebung &#xFC;ber die Erg&#xE4;nzungsleistungen (EL) der Alters- und Hinterbliebenenversicherung (AHV) und der Invalidenversicherung (IV);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la l&#xE9;gislation sur les prestations compl&#xE9;mentaires (PC) &#xE0; l'assurance vieillesse et survivants (AVS) et &#xE0; l'assurance-invalidit&#xE9; (AI);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2491">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die famili&#xE4;ren Verh&#xE4;ltnisse der betreffenden Personen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la situation familiale des personnes concern&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2496">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Massgebendes Einkommen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Revenu d&#xE9;terminant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5714">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das massgebende Einkommen f&#xFC;r eine Gew&#xE4;hrung der finanziellen Unterst&#xFC;tzung entspricht dem Nettoeinkommen vor den pers&#xF6;nlichen Abz&#xFC;gen (Ziffer 2400) der Steuerrechnung. Dabei wird die Steuerperiode ber&#xFC;cksichtigt, die zwei Jahre vor dem Jahr liegt, f&#xFC;r welches eine individuelle Pr&#xE4;mienverbilligung angestrebt wird (Jahr x - 2 Jahre). Zum Einkommen wird:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le revenu d&#xE9;terminant le droit au subside est bas&#xE9; sur le revenu net avant les d&#xE9;ductions personnelles (chiffre 2400) tel qu'il ressort du bordereau d'imp&#xF4;t de la p&#xE9;riode fiscale qui pr&#xE9;c&#xE8;de de deux ans l'ann&#xE9;e pour laquelle une r&#xE9;duction individuelle de primes est envisag&#xE9;e (ann&#xE9;e x - 2 ans), auquel:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2492">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;nf Prozent des eingesch&#xE4;tzten Nettoverm&#xF6;gens sowie die Beitr&#xE4;ge f&#xFC;r die verschiedenen, anerkannten individuellen Altersvorsorgen (3. S&#xE4;ule) bis zum Maximalbetrag des Angestelltenlohns, den im Ausland erworbenen Einkommens- und Verm&#xF6;genselementen sowie der negativen Einkommen aus Liegenschaften dazugerechnet;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'ajoutent les cinq pour cent de la fortune revaloris&#xE9;e nette, les cotisations &#xE0; des formes reconnues de pr&#xE9;voyance individuelle li&#xE9;e (pilier 3a) jusqu'&#xE0; concurrence du montant maximal admis pour les salari&#xE9;s, les &#xE9;l&#xE9;ments de revenus et de fortune acquis &#xE0; l'&#xE9;tranger ainsi que les revenus de la fortune immobili&#xE8;re n&#xE9;gatifs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2493">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die aufgrund des Familienrechts oder einer Vereinbarung bezahlten Unterhaltsbeitr&#xE4;ge sowie die erhaltenen Kapitalleistungen abgezogen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">se d&#xE9;duisent les pensions alimentaires vers&#xE9;es en vertu du droit de la famille ou d'une convention ainsi que les prestations en capital re&#xE7;ues.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5715">
+                    <partNumber>1bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5716">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das eingesch&#xE4;tzte Nettoverm&#xF6;gen entspricht dem eingesch&#xE4;tzten Bruttoverm&#xF6;gen abz&#xFC;glich Schulden und Pauschalabz&#xFC;ge. Der Wert der Geb&#xE4;ude und der Grundg&#xFC;ter wird auf der Grundlage eines durch den Staatsrat festgelegten Koeffizienten eingesch&#xE4;tzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fortune revaloris&#xE9;e nette correspond &#xE0; la fortune fiscale revaloris&#xE9;e brute diminu&#xE9;e des dettes et des d&#xE9;ductions forfaitaires. La valeur des b&#xE2;timents et des biens-fonds est r&#xE9;&#xE9;valu&#xE9;e sur la base d'un coefficient fix&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5717">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versicherten oder Familien, deren eingesch&#xE4;tztes Bruttoverm&#xF6;gen einen durch den Staatsrat festgelegten Betrag &#xFC;berschreitet, haben kein Anrecht auf finanzielle Unterst&#xFC;tzung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assur&#xE9;s ou familles dont la fortune revaloris&#xE9;e brute exc&#xE8;de un montant fix&#xE9; par le Conseil d'Etat n'ont pas droit au subside.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5718">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das massgebende Einkommen basierend auf der Ermessenseinsch&#xE4;tzung gibt keinen Anlass zu einer Pr&#xE4;mienverbilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le revenu d&#xE9;terminant bas&#xE9; sur une taxation d'office ne donne pas lieu &#xE0; une r&#xE9;duction de primes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5719">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r quellenbesteuerte Personen entspricht das Einkommen 80 Prozent des im Vorjahr oder im laufenden Jahr der Steuer unterliegenden Bruttoeinkommens zuz&#xFC;glich der Verm&#xF6;genselemente.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les personnes impos&#xE9;es &#xE0; la source, le revenu d&#xE9;terminant correspond aux 80 pour cent du revenu brut soumis &#xE0; l'imp&#xF4;t l'ann&#xE9;e pr&#xE9;c&#xE9;dente ou l'ann&#xE9;e en cours auquel s'ajoutent les &#xE9;l&#xE9;ments de fortune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5720">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleibt die massgebende Steuerperiode bei Sondergesuchen gem&#xE4;ss Artikel 12 der vorliegenden Verordnung oder f&#xFC;r Personen, die gem&#xE4;ss Artikel 10 Absatz 4 der vorliegenden Verordnung nach einer Ausbildung erwerbst&#xE4;tig werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e la p&#xE9;riode fiscale retenue en cas de demande sp&#xE9;ciale au sens de l'article 12 de la pr&#xE9;sente ordonnance ou pour les personnes entamant une activit&#xE9; lucrative &#xE0; l'issue d'une formation au sens de l'article 10 alin&#xE9;a 4 de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5721">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2497">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ber&#xFC;cksichtigte Personen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnes prises en compte</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5722">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Berechnung der finanziellen Unterst&#xFC;tzung der Eltern werden Kinder bis zum 20. Altersjahr mit einbezogen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont inclus dans le calcul du droit des parents au subside les enfants jusqu'&#xE0; l'&#xE2;ge de 20 ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5723">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen zwischen 18 und 20 Jahren, die nicht denselben gesetzlichen und steuerlichen Wohnort wie die Eltern haben, k&#xF6;nnen eine individuelle Pr&#xE4;mienverbilligung beantragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque des personnes &#xE2;g&#xE9;es de 18 &#xE0; 20 ans n&#x2019;ont pas le m&#xEA;me domicile l&#xE9;gal et fiscal que leurs parents, une demande de r&#xE9;duction individuelle des primes peut &#xEA;tre d&#xE9;pos&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5724">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r getrennt lebende Ehegatten ohne Kinderlasten kommt die Einkommensgrenze f&#xFC;r alleinstehende Personen zur Anwendung und das massgebende Einkommen wird individuell berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque deux &#xE9;poux vivent s&#xE9;par&#xE9;s sans enfants &#xE0; charge, la limite de revenu pour personnes seules leur est appliqu&#xE9;e et leur revenu d&#xE9;terminant est calcul&#xE9; individuellement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5725">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ehegatten werden als getrennt lebend betrachtet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;poux sont consid&#xE9;r&#xE9;s comme vivant s&#xE9;par&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2494">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Falle einer gesetzlichen Trennung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en cas de s&#xE9;paration de droit;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2495">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Falle einer tats&#xE4;chlichen Trennung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en cas de s&#xE9;paration durable de fait.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5726">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei geteilter Obhut der Kinder von geschiedenen, getrennten oder im Konkubinat lebenden Eltern, werden die Kinder dem entsprechenden Elternteil wie folgt zugerechnet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de garde partag&#xE9;e des enfants de parents divorc&#xE9;s, s&#xE9;par&#xE9;s ou concubins, la prise en consid&#xE9;ration des enfants est effectu&#xE9;e:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2496">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Elternteil, der Unterhaltsbeitr&#xE4;ge vom anderen Elternteil erh&#xE4;lt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour le parent qui re&#xE7;oit une contribution d'entretien de la part de l'autre parent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2497">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Elternteil mit dem h&#xF6;heren steuerbaren Nettoeinkommen, wenn keine Unterhaltsbeitr&#xE4;ge geleistet werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'il n'y a pas de contribution d'entretien, pour le parent qui a le revenu net imposable le plus &#xE9;lev&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5727">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn das Obhutsrecht der Kinder von geschiedenen, getrennten oder im Konkubinat lebenden Eltern nicht gemeinsam ausge&#xFC;bt wird, werden die Kinder dem Elternteil zugerechnet, welcher die alleinige Obhut hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de garde non partag&#xE9;e des enfants de parents divorc&#xE9;s, s&#xE9;par&#xE9;s ou concubins, la prise en consid&#xE9;ration des enfants est effectu&#xE9;e pour le parent qui a la garde des enfants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2498">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bestimmung des Anrechts auf finanzielle Unterst&#xFC;tzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;termination du droit au subside</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5728">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Bestimmung des Anrechts auf Gew&#xE4;hrung von individuellen Pr&#xE4;mienverbilligungen werden die anwendbaren Bestimmungen f&#xFC;r die Berechnung der Kantonssteuer herangezogen, vorbehalten bleiben die in folgenden Abs&#xE4;tzen vorgesehenen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions applicables pour le calcul de l'imp&#xF4;t cantonal sont retenues pour la d&#xE9;termination du droit &#xE0; la r&#xE9;duction individuelle des primes, sous r&#xE9;serve des dispositions pr&#xE9;vues aux alin&#xE9;as suivants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5729">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Massgebend ist das famili&#xE4;re Verh&#xE4;ltnis am 31. Dezember des Vorjahres, f&#xFC;r welche eine individuelle Pr&#xE4;mienverbilligung angestrebt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La situation familiale d&#xE9;terminante est celle qui pr&#xE9;vaut au 31 d&#xE9;cembre pr&#xE9;c&#xE9;dant l'ann&#xE9;e pour laquelle une r&#xE9;duction individuelle de primes est envisag&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5730">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend des Jahres eingetretene &#xC4;nderungen der famili&#xE4;ren oder pers&#xF6;nlichen Verh&#xE4;ltnisse werden im folgenden Jahr ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les changements dans la situation familiale ou personnelle intervenant en cours d'ann&#xE9;e sont pris en compte l'ann&#xE9;e suivante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5731">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn sich seit der Mitteilung der Gew&#xE4;hrung der individuellen Pr&#xE4;mienverbilligung das massgebende Einkommen gegen&#xFC;ber dem vorangegangenen Jahr wesentlich und dauernd erh&#xF6;ht hat, beispielsweise bei Personen, die nach einer Ausbildung erwerbst&#xE4;tig werden, wird die Gew&#xE4;hrung einer Pr&#xE4;mienverbilligung aufgrund der Steuerperiode berechnet, die dem Jahr der finanziellen Unterst&#xFC;tzung vorangeht (Jahr X - 1 Jahr).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si, lors de la notification du droit &#xE0; une r&#xE9;duction individuelle des primes, le revenu pris en compte a augment&#xE9; de fa&#xE7;on essentielle et durable l'ann&#xE9;e pr&#xE9;c&#xE9;dente, par exemple pour les personnes entamant une activit&#xE9; lucrative &#xE0; l'issue d'une formation, le droit &#xE0; la r&#xE9;duction de primes est examin&#xE9; d'apr&#xE8;s la p&#xE9;riode fiscale qui pr&#xE9;c&#xE8;de l'ann&#xE9;e du subside (ann&#xE9;e x - 1 an).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5733">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die finanzielle Situation im Jahr vor der finanziellen Unterst&#xFC;tzung im Sinne von Artikel 8 um 30 Prozent oder mehr vom massgebenden Einkommen wesentlich und dauernd gesunken ist, kann aus Billigkeitsgr&#xFC;nden auf begr&#xFC;ndetes Gesuch hin das massgebende Einkommen auf der Grundlage der vom Gesuchsteller ausgef&#xFC;llten Steuererkl&#xE4;rung des Jahres vor der angestrebten individuellen Pr&#xE4;mienverbilligung berechnet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la situation financi&#xE8;re de l'ann&#xE9;e pr&#xE9;c&#xE9;dant le subside a diminu&#xE9; de fa&#xE7;on essentielle et durable de 30 pour cent ou plus du revenu d&#xE9;terminant au sens de l'article 8, il est possible, pour des motifs d'&#xE9;quit&#xE9;, sur demande motiv&#xE9;e, de se fonder sur cette situation en calculant le revenu d&#xE9;terminant sur la base de la d&#xE9;claration fiscale &#xE9;tablie par le requ&#xE9;rant l'ann&#xE9;e pr&#xE9;c&#xE9;dant l'ann&#xE9;e pour laquelle une r&#xE9;duction individuelle des primes est envisag&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34394">
+                    <partNumber>5bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als wesentliche und dauerhafte Senkung wird angesehen: die Berufs&#xE4;nderung, der &#xDC;bergang von einer Vollzeit- zu einer Teilzeitt&#xE4;tigkeit, der &#xDC;bergang von einer unselbst&#xE4;ndigen zu einer selbst&#xE4;ndigen T&#xE4;tigkeit (oder umgekehrt), die Aufgabe einer T&#xE4;tigkeit, die Pensionierung, die Einstellung von AHV/IV-Rentenzahlungen und/oder von Alimenten sowie das Ende des Bezugsrechts f&#xFC;r Arbeitslosenentsch&#xE4;digungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est consid&#xE9;r&#xE9; comme diminution essentielle et durable: le changement de profession, le passage d'une activit&#xE9; &#xE0; plein temps &#xE0; une activit&#xE9; &#xE0; temps partiel, le passage d'une activit&#xE9; d&#xE9;pendante &#xE0; une activit&#xE9; ind&#xE9;pendante (ou vice versa), la cessation d'activit&#xE9;, la mise &#xE0; la retraite, la cessation du versement des rentes AVS/AI et/ou des pensions alimentaires ainsi que la fin de droit aux indemnit&#xE9;s de ch&#xF4;mage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5734">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn sich die finanzielle Situation w&#xE4;hrend des Jahres, f&#xFC;r das eine finanzielle Unterst&#xFC;tzung gew&#xE4;hrt wurde, stark verschlechtert, befindet die Gemeindebeh&#xF6;rde &#xFC;ber den Anspruch auf Sozialhilfe. F&#xFC;r diese Personen wird die finanzielle Unterst&#xFC;tzung aufgrund dieses Entscheids gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la situation financi&#xE8;re s&#x2019;est fortement d&#xE9;grad&#xE9;e durant l&#x2019;ann&#xE9;e du subside, l&#x2019;autorit&#xE9; communale statue sur le droit &#xE0; l&#x2019;aide sociale. Pour ces personnes, le subside est octroy&#xE9; sur la base de cette d&#xE9;cision.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5735">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn das ber&#xFC;cksichtigte Einkommen w&#xE4;hrend des Jahres, f&#xFC;r das eine individuelle Pr&#xE4;mienverbilligung gew&#xE4;hrt wird, wesentlich und dauerhaft zunimmt, bleibt die Pr&#xE4;mienverbilligung erhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cas o&#xF9; le revenu d&#xE9;terminant a augment&#xE9; de fa&#xE7;on essentielle et durable au cours de l'ann&#xE9;e pour laquelle une r&#xE9;duction individuelle des primes est octroy&#xE9;e, la r&#xE9;duction accord&#xE9;e reste acquise.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5736">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn ein Versicherter seinen Wohnsitz in einen anderen Kanton verlegt, bleibt das Anrecht auf Pr&#xE4;mienverbilligung w&#xE4;hrend dem ganzen betreffenden Kalenderjahr bestehen. Ausgenommen sind Empf&#xE4;nger von Erg&#xE4;nzungsleistungen der AHV/IV und Sozialhilfeempf&#xE4;nger.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'un assur&#xE9; transf&#xE8;re son domicile dans un autre canton, le droit &#xE0; la r&#xE9;duction des primes existe pour toute la dur&#xE9;e de l'ann&#xE9;e civile consid&#xE9;r&#xE9;e, except&#xE9; pour les b&#xE9;n&#xE9;ficiaires de la prestation compl&#xE9;mentaire AVS/AI et les b&#xE9;n&#xE9;ficiaires de l&#x2019;aide sociale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2499">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mitteilung der Gew&#xE4;hrung der individuellen Pr&#xE4;mienverbilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notification du droit &#xE0; la r&#xE9;duction individuelle des primes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5737">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die die Bedingungen f&#xFC;r eine Gew&#xE4;hrung der individuellen Pr&#xE4;mienverbilligung erf&#xFC;llen, erhalten einen entsprechenden aufgrund der Steuerdaten ausgestellten Entscheid. Die betroffenen Personen k&#xF6;nnen ihren Anspruch innerhalb der zwingenden Frist von f&#xFC;nf Jahren nach der Mitteilung des Entscheids bei der Ausgleichskasse geltend machen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes satisfaisant aux conditions d&#x2019;une r&#xE9;duction individuelle des primes re&#xE7;oivent une d&#xE9;cision relative &#xE0; leur droit, rendue sur la base des donn&#xE9;es fiscales. Les int&#xE9;ress&#xE9;s doivent exercer ce droit aupr&#xE8;s de la Caisse de compensation dans un d&#xE9;lai imp&#xE9;ratif de cinq ans apr&#xE8;s la notification de la d&#xE9;cision.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5738">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, welche davon ausgehen, die Subventionsbedingungen zu erf&#xFC;llen und keinen Entscheid &#xFC;ber die Gew&#xE4;hrung einer individuellen Pr&#xE4;mienerh&#xF6;hung erhalten, m&#xFC;ssen bei der Ausgleichskasse innerhalb der zwingenden Frist von f&#xFC;nf Jahren ab dem 31. Dezember des Jahres, in dem eine finanzielle Unterst&#xFC;tzung gew&#xE4;hrt werden k&#xF6;nnte, ein begr&#xFC;ndetes Gesuch einreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes susceptibles de satisfaire aux conditions d&#x2019;une r&#xE9;duction individuelle des primes n'ayant pas re&#xE7;u de d&#xE9;cision &#xE0; ce sujet doivent pr&#xE9;senter une requ&#xEA;te motiv&#xE9;e aupr&#xE8;s de la Caisse de compensation, dans un d&#xE9;lai imp&#xE9;ratif de cinq ans &#xE0; compter du 31 d&#xE9;cembre de l&#x2019;ann&#xE9;e pour laquelle un subside aurait pu &#xEA;tre vers&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2500">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sondergesuche</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Demandes sp&#xE9;ciales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5739">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Besondere Situationen werden aufgrund eines begr&#xFC;ndeten Sondergesuchs bearbeitet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les situations particuli&#xE8;res sont trait&#xE9;es sur la base d&#x2019;une demande sp&#xE9;ciale motiv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5740">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sondergesuche betreffen namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes sp&#xE9;ciales concernent notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2498">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xC4;nderung der famili&#xE4;ren Verh&#xE4;ltnisse im Sinne von Artikel 10 Absatz 3 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les changements de situation familiale au sens de l'article 10 alin&#xE9;a 3 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2499">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wesentliche und dauerhafte &#xC4;nderung des Einkommens im Sinne von Artikel 10 Absatz 5 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modifications essentielles et durables du revenu au sens de l'article 10 alin&#xE9;a 5 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2500">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Versicherte im Alter von 18 bis 20 Jahren, die nicht den gleichen steuerlichen und gesetzlichen Wohnsitz haben wie ihre Eltern im Sinne von Artikel 9 Absatz 2 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les assur&#xE9;s &#xE2;g&#xE9;s entre 18 et 20 ans n'ayant pas le m&#xEA;me domicile fiscal et l&#xE9;gal que leurs parents au sens de l'article 9 alin&#xE9;a 2 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2501">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verlegung des Wohnsitzes in den Kanton Wallis f&#xFC;r Empf&#xE4;nger von Erg&#xE4;nzungsleistungen der AHV/IV und Sozialhilfeempf&#xE4;nger im Sinne von Artikel 10 Absatz 8 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le transfert de domicile en Valais pour les b&#xE9;n&#xE9;ficiaires de la prestation compl&#xE9;mentaire AVS/AI et les b&#xE9;n&#xE9;ficiaires de l'aide sociale au sens de l'article 10 alin&#xE9;a 8 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2502">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ausserordentliche F&#xE4;lle im Sinne von Artikel 4 der vorliegenden Verordnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les cas extraordinaires au sens de l'article 4 de la pr&#xE9;sente ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2501">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allgemeine Informationspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation g&#xE9;n&#xE9;rale de renseigner</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5741">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, denen eine individuelle Pr&#xE4;mienverbilligung gew&#xE4;hrt wird, m&#xFC;ssen die Ausgleichskasse unverz&#xFC;glich &#xFC;ber alle dauerhaften &#xC4;nderungen der pers&#xF6;nlichen oder materiellen Situation informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le b&#xE9;n&#xE9;ficiaire d&#x2019;une r&#xE9;duction individuelle des primes doit communiquer sans retard &#xE0; la Caisse de compensation tout changement durable dans sa situation personnelle ou mat&#xE9;rielle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="743">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2502">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Versicherer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches incombant aux assureurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5742">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versicherer &#xFC;bermitteln die Daten der Ausgleichskasse gem&#xE4;ss den Bestimmungen der Verordnung &#xFC;ber die Krankenversicherung vom 27. Juni 1995&#xA0;(KVV).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assureurs transmettent &#xE0; la Caisse de compensation les fichiers selon les dispositions pr&#xE9;vues dans l&#x2019;Ordonnance f&#xE9;d&#xE9;rale sur l&#x2019;assurance-maladie du 27 juin 1995&#xA0;(OAMal).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5743">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beteiligt sich der Arbeitgeber an der Bezahlung der Pr&#xE4;mie der obligatorischen Krankenpflegeversicherung, muss der Versicherer die tats&#xE4;chliche, zu Lasten des Versicherten gehende Pr&#xE4;mie mitteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'employeur participe au paiement de la prime de l'assurance obligatoire des soins, l&#x2019;assureur doit communiquer la prime effectivement &#xE0; la charge de l'assur&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5744">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die gew&#xE4;hrte finanzielle Unterst&#xFC;tzung f&#xFC;r Versicherte wird von den geschuldeten Pr&#xE4;mien abgezogen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subsides accord&#xE9;s aux assur&#xE9;s sont port&#xE9;s en d&#xE9;duction des primes dues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5745">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versicherer nehmen folgende in vorliegender Verordnung auferlegten Aufgaben unentgeltlich wahr:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assureurs accomplissent gratuitement les t&#xE2;ches qui leur sont d&#xE9;volues au sens de la pr&#xE9;sente ordonnance, &#xE0; savoir:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2503">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erhalten die den Versicherten gew&#xE4;hrte finanzielle Unterst&#xFC;tzung, ziehen diese von den im laufenden Jahr geschuldeten Pr&#xE4;mien ab und stellen den Versicherten eine Abrechnung zu;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils re&#xE7;oivent les subsides accord&#xE9;s &#xE0; leurs assur&#xE9;s, les portent en d&#xE9;duction des primes dues par ceux-ci pour l'ann&#xE9;e en cours et leur donnent le d&#xE9;compte;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2504">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erstatten die gew&#xE4;hrte finanzielle Unterst&#xFC;tzung zur&#xFC;ck, die namentlich wegen Tod, Wegzug ins Ausland oder einem l&#xE4;nger als 60 Tage w&#xE4;hrenden Milit&#xE4;rdienst im laufenden Jahr nicht von den Pr&#xE4;mien in Abzug gebracht werden konnte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils remboursent les subsides qui ne peuvent pas &#xEA;tre port&#xE9;s en d&#xE9;duction des primes de l'ann&#xE9;e en cours, notamment en raison d'un d&#xE9;c&#xE8;s, d'un d&#xE9;part &#xE0; l'&#xE9;tranger ou d'un service militaire de plus de 60 jours;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2505">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">auf Anfrage &#xFC;bergeben sie dem Kanton Personendaten im Sinne von Artikel 105g KVV sowie Daten aller ihrer Versicherten im Wallis in Zusammenhang mit der Deckung der KVG-Versicherung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils transmettent, sur demande, les donn&#xE9;es personnelles au sens de l'article 105g de l'OAMal et celles relatives &#xE0; la couverture d'assurance LAMal de l'ensemble de leurs assur&#xE9;s valaisans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2503">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Ausgleichskasse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches incombant &#xE0; la Caisse de compensation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5746">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausgleichskasse nimmt folgende Aufgaben wahr:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse de compensation effectue les t&#xE2;ches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2506">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie nimmt unter Ber&#xFC;cksichtigung der Referenzpr&#xE4;mien und der vorhandenen finanziellen Mittel die Berechnungen zur Festsetzung der Einkommensgrenzen vor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle proc&#xE8;de aux calculs permettant de d&#xE9;finir les limites de revenus en fonction des primes de r&#xE9;f&#xE9;rence et compte tenu des moyens financiers &#xE0; disposition;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2507">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erstellt die Entscheide aufgrund der Steuerdaten und der vom Staatsrat festgelegten Einkommensgrenzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle &#xE9;tablit les d&#xE9;cisions sur la base des donn&#xE9;es fiscales et des limites de revenus fix&#xE9;es par le Conseil d'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2508">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie bearbeitet die in Artikel 12 aufgef&#xFC;hrten Sondergesuche;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle examine les demandes sp&#xE9;ciales pr&#xE9;vues &#xE0; l'article 12;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2509">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie teilt den Beg&#xFC;nstigten den Entscheid des Departements mit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle notifie les d&#xE9;cisions du d&#xE9;partement aux b&#xE9;n&#xE9;ficiaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2510">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie bereitet die Zahlungsauftr&#xE4;ge f&#xFC;r die individuelle Pr&#xE4;mienverbilligung und die Zahlungsausst&#xE4;nde vor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle pr&#xE9;pare les bordereaux de paiement des r&#xE9;ductions individuelles de primes et du contentieux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2511">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie informiert gem&#xE4;ss KVV die Versicherer der Beg&#xFC;nstigten einer finanziellen Unterst&#xFC;tzung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle informe les assureurs des b&#xE9;n&#xE9;ficiaires de subsides selon l'OAMal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2512">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erteilt Ausk&#xFC;nfte an die Versicherten, die Versicherer und die Gemeindeverwaltungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle renseigne les assur&#xE9;s, les assureurs et les administrations communales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2513">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erstellt eine Abrechnung &#xFC;ber die Verwaltungskosten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle &#xE9;tablit le d&#xE9;compte de ses frais administratifs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2514">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie stellt der Dienststelle f&#xFC;r Gesundheitswesen alle n&#xF6;tigen Informationen f&#xFC;r die Erstellung eines j&#xE4;hrlichen T&#xE4;tigkeitsberichts zu.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle transmet au Service de la sant&#xE9; les renseignements n&#xE9;cessaires &#xE0; l'&#xE9;tablissement du rapport annuel de gestion.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5747">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Ausf&#xFC;hrung der &#xFC;bertragenen Aufgaben im Sinne von Artikel 63 Absatz 4 des AHVG verg&#xFC;tet der Kanton der Ausgleichskasse die verursachten Ausgaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'ex&#xE9;cution des t&#xE2;ches d&#xE9;l&#xE9;gu&#xE9;es au sens de l&#x2019;article 63 alin&#xE9;a 4 LAVS, l'Etat rembourse &#xE0; la Caisse de compensation le montant des d&#xE9;penses occasionn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2504">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben des Departements</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches incombant au d&#xE9;partement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5748">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Gesundheitswesen f&#xFC;hrt die vom Departement &#xFC;bertragenen Aufgaben aus, namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de la sant&#xE9; ex&#xE9;cute les t&#xE2;ches d&#xE9;l&#xE9;gu&#xE9;es par le d&#xE9;partement; en particulier il:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2515">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie informiert die Versicherten gem&#xE4;ss Artikel 23 dieser Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">informe les assur&#xE9;s conform&#xE9;ment &#xE0; l'article 23 ci-apr&#xE8;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2516">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie schl&#xE4;gt dem Staatsrat die Einkommensgrenzen und die anzuwendende Skala f&#xFC;r die finanzielle Unterst&#xFC;tzung vor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">propose au Conseil d'Etat les limites de revenus et l'&#xE9;chelle de subventionnement &#xE0; retenir;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2517">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie zahlt die finanzielle Unterst&#xFC;tzung gem&#xE4;ss den durch die Ausgleichskasse erstellten Zahlungsauftr&#xE4;ge aus;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">paie les subsides sur la base des bordereaux &#xE9;tablis par la Caisse de compensation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2518">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie zieht unrechtm&#xE4;ssig &#xFC;berwiesene Beitr&#xE4;ge ein;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encaisse les subsides vers&#xE9;s ind&#xFB;ment;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2519">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie zahlt Vorsch&#xFC;sse f&#xFC;r die Verwaltungskosten an die Ausgleichskasse;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">effectue les avances des frais administratifs &#xE0; la Caisse de compensation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2520">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie kann &#xFC;ber die Bedingungen der Gew&#xE4;hrung der finanziellen Unterst&#xFC;tzung und ihrer Verwendung Kontrollen bei den Versicherern durchf&#xFC;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">peut proc&#xE9;der &#xE0; des contr&#xF4;les aupr&#xE8;s des assureurs sur les conditions d'octroi des subsides, ainsi que sur leur utilisation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2505">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungskosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais administratifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5749">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwaltungskosten der Ausgleichskasse sind in den Betriebskosten der Dienststelle f&#xFC;r Gesundheitswesen inbegriffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais administratifs de la Caisse de compensation sont inclus dans les frais de fonctionnement du Service de la sant&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5750">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton leistet der Ausgleichskasse quartalsweise Vorauszahlungen f&#xFC;r die vorsehbaren Ausgaben. Die Schlussabrechnung wird am Ende des Rechnungsjahres aufgrund der von der kantonalen Ausgleichskasse erstellten Rechnung vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat fait &#xE0; la Caisse de compensation des avances trimestrielles correspondant aux d&#xE9;penses pr&#xE9;visibles. Le r&#xE8;glement final intervient en fin d'exercice, sur la base de la facture &#xE9;tablie par la Caisse de compensation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2506">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;berweisung der finanziellen Unterst&#xFC;tzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s de versement des subsides</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5751">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton &#xFC;berweist die finanzielle Unterst&#xFC;tzung durch regelm&#xE4;ssige Anzahlungen an die Versicherer, die diese ihren Versicherten im laufenden Jahr in Form einer Pr&#xE4;mienerm&#xE4;ssigung gutschreiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat verse par acomptes r&#xE9;guliers les subsides aux assureurs qui en cr&#xE9;ditent leurs affili&#xE9;s en d&#xE9;duction des primes de l'ann&#xE9;e en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5752">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausgleichskasse muss gem&#xE4;ss den Bestimmungen der KVV im laufenden Jahr &#xFC;ber die finanzielle Unterst&#xFC;tzung informiert werden, die namentlich aufgrund Tod, Wegzug ins Ausland oder eines l&#xE4;nger als 60 Tage w&#xE4;hrenden Milit&#xE4;rdienstes nicht von den Pr&#xE4;mien des laufenden Jahres abgezogen werden k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse de compensation doit &#xEA;tre inform&#xE9;e, en cours d&#x2019;ann&#xE9;e, des subsides qui ne peuvent pas &#xEA;tre port&#xE9;s en d&#xE9;duction des primes de l'ann&#xE9;e en cours, en raison notamment d&#x2019;un d&#xE9;c&#xE8;s, d&#x2019;un d&#xE9;part &#xE0; l'&#xE9;tranger d'un assur&#xE9; ou d&#x2019;un service militaire de plus de 60 jours, conform&#xE9;ment aux dispositions figurant dans l&#x2019;OAMal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2507">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckerstattung der finanziellen Unterst&#xFC;tzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Restitution des subsides</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5753">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die insbesondere durch falsche oder unrichtige Angaben oder durch Unterlassung der Meldung von wesentlichen &#xC4;nderungen der pers&#xF6;nlichen oder materiellen Situation unrechtm&#xE4;ssig bezogene finanzielle Unterst&#xFC;tzung muss vom Empf&#xE4;nger oder dessen Erben zur&#xFC;ckerstattet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subsides ind&#xFB;ment touch&#xE9;s, notamment apr&#xE8;s avoir communiqu&#xE9; des indications fausses ou incompl&#xE8;tes ou omis de signaler un changement important dans la situation personnelle ou mat&#xE9;rielle, doivent &#xEA;tre restitu&#xE9;s par le b&#xE9;n&#xE9;ficiaire ou ses h&#xE9;ritiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5754">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die R&#xFC;ckerstattung wird nicht verlangt, wenn die betreffende Person gutgl&#xE4;ubig war und die R&#xFC;ckerstattung sie &#xFC;berm&#xE4;ssig belasten w&#xFC;rde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La restitution ne sera toutefois pas exig&#xE9;e lorsque la personne concern&#xE9;e &#xE9;tait de bonne foi et qu&#x2019;il en r&#xE9;sulterait une charge trop lourde pour elle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5755">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Information der Ausgleichskasse sind die Krankenversicherungen beauftragt, die R&#xFC;ckerstattungsgesuche des laufenden Jahres zu verwalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur information de la Caisse de compensation, les assureurs-maladie sont charg&#xE9;s de g&#xE9;rer les demandes de restitution de l'ann&#xE9;e en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5756">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausgleichskasse wird in Zusammenarbeit mit der Dienststelle f&#xFC;r Gesundheitswesen mit der Behandlung der R&#xFC;ckerstattungsgesuche beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse de compensation est charg&#xE9;e de g&#xE9;rer les demandes de restitution r&#xE9;troactives, en collaboration avec le Service de la sant&#xE9; publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="744">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Nichtbezahlung der Pr&#xE4;mien und Regelung von Zahlungsausst&#xE4;nden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Non-paiement des primes et gestion du contentieux</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2508">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; comp&#xE9;tente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5757">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Gesundheitswesen ist die zust&#xE4;ndige Beh&#xF6;rde bei Nichtbezahlung der Pr&#xE4;mien und bei der Regelung von Zahlungsausst&#xE4;nden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En mati&#xE8;re de non-paiement des primes et de gestion du contentieux, le Service de la sant&#xE9; publique est l&#x2019;autorit&#xE9; cantonale comp&#xE9;tente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2509">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz und Vorgehen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes et proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5758">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen im Bereich der Nichtbezahlung der Pr&#xE4;mien und der Regelung von Zahlungsausst&#xE4;nden gelten f&#xFC;r alle Versicherten, die zum Zeitpunkt der Ausstellung des Verlustscheins im Wallis wohnhaft sind und bei einem anerkannten schweizerischen Versicherer &#xFC;ber eine obligatorische Krankenpflegeversicherung verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions en mati&#xE8;re de non-paiement des primes et de gestion du contentieux s&#x2019;appliquent &#xE0; tous les assur&#xE9;s domicili&#xE9;s dans le canton du Valais au moment de la d&#xE9;livrance de l&#x2019;acte de d&#xE9;faut de biens, et ayant une couverture d&#x2019;assurance obligatoire des soins aupr&#xE8;s d&#x2019;un assureur suisse reconnu.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5759">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement pr&#xE4;zisiert mittels Richtlinien die Grunds&#xE4;tze und das Vorgehen bei ausstehenden Pr&#xE4;mien, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten. Die Richtlinien legen namentlich fest:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement pr&#xE9;cise, par voie de directives, les principes et la proc&#xE9;dure en mati&#xE8;re de prise en charge des arri&#xE9;r&#xE9;s de primes, de participations aux co&#xFB;ts, d&#x2019;int&#xE9;r&#xEA;ts moratoires et de frais de l&#x2019;office des poursuites. Les directives d&#xE9;finissent notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2521">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Personen, die nicht betrieben werden k&#xF6;nnen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes ne devant pas faire l'objet de poursuites;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2522">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vorgehen bei der Ank&#xFC;ndigung einer Betreibung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modalit&#xE9;s des annonces relatives aux poursuites;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2523">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vorgehen bei der Ank&#xFC;ndigung eines Verlustscheins;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modalit&#xE9;s des annonces relatives aux actes de d&#xE9;faut de biens;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2524">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einem Verlustschein gleichzusetzende Rechtstitel;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les titres consid&#xE9;r&#xE9;s comme &#xE9;quivalents &#xE0; un acte de d&#xE9;faut de biens;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2525">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">r&#xFC;ckwirkende finanzielle Unterst&#xFC;tzung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'attribution r&#xE9;troactive d'un subside;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2526">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zahlungsmodalit&#xE4;ten zwischen Versicherern und dem Kanton;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modalit&#xE9;s de paiement entre les assureurs et le canton;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2527">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Inhalt der Abrechnung und des Berichts der externen Revisionsstelle der Versicherer &#xFC;ber die Zahlungsausst&#xE4;nde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le contenu du d&#xE9;compte et du rapport de l'organe de r&#xE9;vision externe de l'assureur relatifs au contentieux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2510">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5760">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Am Ende der Inkasso- und Eintreibungsverfahren durch die Versicherer &#xFC;bernimmt gem&#xE4;ss den Bundesbestimmungen die Dienststelle f&#xFC;r Gesundheitswesen die strittigen ausstehenden Forderungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une fois les proc&#xE9;dures de recouvrement men&#xE9;es &#xE0; terme par les assureurs, le Service de la sant&#xE9; publique prend en charge les cr&#xE9;ances li&#xE9;es au contentieux, conform&#xE9;ment aux dispositions f&#xE9;d&#xE9;rales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5761">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versicherer m&#xFC;ssen die Forderungen der obligatorischen Krankenversicherung getrennt von jenen der Zusatzversicherung weiter behandeln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assureurs doivent poursuivre s&#xE9;par&#xE9;ment les cr&#xE9;ances li&#xE9;es &#xE0; l&#x2019;assurance obligatoire des soins et celles li&#xE9;es &#xE0; l&#x2019;assurance compl&#xE9;mentaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5762">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Sozialwesen und die Gemeinden &#xFC;bernehmen als F&#xFC;rsorgebeh&#xF6;rde gem&#xE4;ss der Gesetzgebung &#xFC;ber die Sozialhilfe den Pr&#xE4;mienanteil, der die Referenzpr&#xE4;mie &#xFC;bersteigt, sowie die Beteiligungen an den ausstehenden Kosten einschliesslich Verzugszinsen und Betreibungskosten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de l&#x2019;action sociale et les communes interviennent en tant qu'autorit&#xE9;s d'assistance conform&#xE9;ment &#xE0; la l&#xE9;gislation sur l'aide sociale pour la prise en charge de la part de prime exc&#xE9;dant la prime de r&#xE9;f&#xE9;rence ainsi que pour les participations aux co&#xFB;ts arri&#xE9;r&#xE9;s, y compris les int&#xE9;r&#xEA;ts de retard et les frais de poursuites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5763">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Gesundheitswesen stellt diese Leistungen der Dienststelle f&#xFC;r Sozialwesen gem&#xE4;ss einem vom Staatsrat festgelegten Pauschalsatz in Rechnung. Der Staatsrat ist beauftragt, diesen gem&#xE4;ss dem Gesetz &#xFC;ber die Harmonisierung der Finanzierung der Sozialsysteme sowie der Systeme f&#xFC;r die soziale und berufliche Eingliederung zwischen den Gemeinden aufzuteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de la sant&#xE9; publique facture ces prestations au Service de l&#x2019;action sociale, sur la base d&#x2019;un taux forfaitaire d&#xE9;fini par le Conseil d&#x2019;Etat, qui est charg&#xE9; de les r&#xE9;partir entre les communes, en application de la loi sur l'harmonisation du financement des r&#xE9;gimes sociaux et d'insertion socio-professionnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="745">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions diverses</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2511">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Information</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5764">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Gesundheitswesen informiert mindestens einmal im Jahr im Amtsblatt &#xFC;ber die Versicherungspflicht sowie die Bedingungen f&#xFC;r die Gew&#xE4;hrung von individuellen Pr&#xE4;mienverbilligungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de la sant&#xE9; fait para&#xEE;tre au moins une fois par an dans le Bulletin officiel les informations sur l'obligation d'assurance et sur les conditions d'obtention des r&#xE9;ductions individuelles de primes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5765">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Bedarf erteilen die kantonalen und kommunalen Verwaltungen sowie die Versicherer unentgeltlich zus&#xE4;tzliche Ausk&#xFC;nfte.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au besoin, les administrations cantonales et communales ainsi que les assureurs fournissent&#xA0; gratuitement les renseignements compl&#xE9;mentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2512">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsweg</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5766">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheide &#xFC;ber die Gew&#xE4;hrung einer individuellen Pr&#xE4;mienverbilligung k&#xF6;nnen innert 30 Tagen nach ihrer Mitteilung Gegenstand einer Einsprache beim Departement bilden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions de r&#xE9;duction individuelle de primes&#xA0; peuvent faire l'objet d'une r&#xE9;clamation aupr&#xE8;s du&#xA0; d&#xE9;partement, dans les 30 jours &#xE0; compter de leur notification.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5767">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die auf Einsprache hin getroffenen Entscheide kann gem&#xE4;ss den Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege innert 30 Tagen nach deren Zustellung beim Staatsrat Beschwerde erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises sur r&#xE9;clamation peuvent faire l'objet d'un recours aupr&#xE8;s du Conseil d'Etat dans les 30 jours &#xE0; compter de leur notification, dans les formes pr&#xE9;vues par la l&#xE9;gislation cantonale sur la proc&#xE9;dure et la juridiction administrative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2513">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangs- und Schlussbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires et finales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5768">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung &#xFC;ber die obligatorische Krankenversicherung und die kantonalen Subventionen vom 19. Januar 2005 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ordonnance concernant l&#x2019;assurance-maladie obligatoire et les subventions cantonales du 19 janvier 2005 est abrog&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5769">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verfahren, die vor dem 31. Dezember 2011 eine Gew&#xE4;hrung einer individuellen Pr&#xE4;mienverbilligung oder deren Fortf&#xFC;hrung anstreben, werden nach altem Recht behandelt, das heisst, gem&#xE4;ss der Verordnung &#xFC;ber die obligatorische Krankenversicherung und die kantonalen Subventionen vom 19. Januar 2005.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les proc&#xE9;dures qui visent &#xE0; &#xE9;tablir l&#x2019;existence d&#x2019;un droit &#xE0; une r&#xE9;duction individuelle des primes ou l&#x2019;&#xE9;tendue de ce droit avant le 31 d&#xE9;cembre 2011 sont trait&#xE9;es en ex&#xE9;cution de l&#x2019;ancien droit, soit de l&#x2019;ordonnance concernant l&#x2019;assurance-maladie obligatoire et les subventions cantonales du 19 janvier 2005.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5770">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement ist f&#xFC;r die Anwendung der vorliegenden Verordnung zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est charg&#xE9; de l&#x2019;application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5771">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt ver&#xF6;ffentlicht und tritt am 1. Januar 2012 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance est publi&#xE9;e au Bulletin officiel et entre en vigueur le 1<format upper="true">er</format> janvier 2012.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2017-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 44/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

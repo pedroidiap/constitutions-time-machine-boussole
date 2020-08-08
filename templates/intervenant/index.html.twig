@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container p-5">
+        <div class="row">
+            <div class="col">
+                <h3 class="mb-3">Recherche par intervenant</h3>
+                <hr class="cons-hr-title">
+                <p>
+                    Lors de la mise en place de la Constitution valaisanne de 1907, le Grand Conseil a procédé à la
+                    création des textes des articles. La rédaction de ces derniers a soulevé des débats auxquels ont
+                    pris part un grand nombre d'intervenants, membre du Grand Conseil à l'époque. Cette page permet
+                    d'apprendre des informations sur les différents intervenants et de comprendre quels étaient leurs
+                    thèmes favoris et leurs idées politiques, en fonction des interventions qu'ils ont effectuées.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            {% for intervenant in intervenants %}
+                {% if intervenant.debats|length > 0 %}
+                    <div class="card m-3" style="width: 14rem;">
+                        <div class="d-flex align-content-center m-auto">
+                            <img class="card-img-top cons-card-img" alt="{{ intervenant.nom }} {{ intervenant.prenom }}"
+                                 src="{{ assetExists(intervenant.photo) ? (ABSURL ~ '/' ~ intervenant.photo) : "http://datastory.ch/constitutions-time-machine/boussole/img/intervenant_photo_placeholder.jpg" }}">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">{{ intervenant.titre }}
+                                {{ intervenant.nom }}{{ intervenant.prenom != '' ? ', ' ~ intervenant.prenom : '' }}
+                            </h5>
+                            <p class="card-text">{{ intervenant.debats.count }} {{ intervenant.debats.count == 1 ? 'intervention' : 'interventions' }}</p>
+                            <a href="{{ path('intervenant-details', {'id': intervenant.id}) }}"
+                               class="btn btn-outline-dark">
+                                En savoir plus
+                            </a>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

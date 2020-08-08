@@ -1,0 +1,1801 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1063</normID>
+      <number>211.605</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber Geoinformation</title>
+      <title lang="fr">Ordonnance sur l'information g&#xE9;ographique</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2006-06-29</dateAdoption>
+      <dateForce>2006-07-01T00:00:00</dateForce>
+      <dateLastChange>2006-07-01</dateLastChange>
+      <dateVersion>2006-07-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen von den Artikeln 2 und 9 des kantonalen Gesetzes &#xFC;ber die amtliche Vermessung und Geoinformation vom 16. M&#xE4;rz 2006;</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft und Raumentwicklung,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 2&#xA0;et 9&#xA0;de la loi cantonale sur la mensuration officielle et l'information g&#xE9;ographique du 16 mars 2006;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;conomie et du territoire,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 27/2006</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3351">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber Geoinformation</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur l'information g&#xE9;ographique</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3353">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeines</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11406">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26138">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung bezweckt die Festlegung der Organisation und der Funktionsmodalit&#xE4;ten des kantonalen Geoinformationssystems (GIS-Wallis).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance a pour but de d&#xE9;finir l'organisation et les modalit&#xE9;s de fonctionnement du syst&#xE8;me cantonal d'information du territoire (SIT-Valais).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26139">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie ist anwendbar f&#xFC;r alle Geodaten von kantonalem Interesse.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est applicable &#xE0; toutes les g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11407">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26140">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geodaten sind alle digitalen Daten mit einem Raumbezug.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es sont toutes les donn&#xE9;es &#xE0; r&#xE9;f&#xE9;rence spatiale sous forme digitale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26141">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geoinformation ist das Ergebnis einer Kombination von Geodaten, die f&#xFC;r den Gebrauch durch Benutzer bestimmt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La g&#xE9;oinformation est le r&#xE9;sultat d'une combinaison de g&#xE9;odonn&#xE9;es destin&#xE9;es &#xE0; des utilisateurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26142">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Geoinformationssystem (GIS) ist ein System f&#xFC;r die Speicherung, Verwaltung und Verarbeitung von Geodaten. Es beinhaltet Informatik, Geodaten, Partner und Fachwissen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'information du territoire (SIT) est un syst&#xE8;me destin&#xE9; au stockage, &#xE0; la gestion et au traitement des g&#xE9;odonn&#xE9;es. Il englobe l'informatique, les g&#xE9;odonn&#xE9;es, les partenaires et le savoir-faire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26143">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das GIS-Wallis ist ein Geoinformationssystem, das alle f&#xFC;r die kantonale Verwaltung zur Erf&#xFC;llung des gesetzlichen Auftrags ben&#xF6;tigten Geodaten sammelt, verwaltet, bearbeitet und bereitstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le SIT-Valais est un syst&#xE8;me d'information du territoire qui enregistre, g&#xE8;re, traite et met &#xE0; disposition toutes les g&#xE9;odonn&#xE9;es n&#xE9;cessaires &#xE0; l'administration cantonale pour l'accomplissement de ses t&#xE2;ches l&#xE9;gales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26144">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geomatik ist die Wissenschaft der Geoinformation.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La g&#xE9;omatique est la science de la g&#xE9;oinformation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26145">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Geomatikprojekt ist ein Projekt, das die Erarbeitung von Pl&#xE4;nen beziehungsweise Karten oder die Produktion von Geodaten zum Ziel hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un projet g&#xE9;omatique est un projet qui a pour but l'&#xE9;laboration de plans/cartes ou la production de g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26146">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Metadaten sind Informationen &#xFC;ber Daten, beispielsweise Herkunft, Inhalt, Struktur, G&#xFC;ltigkeit, Stand, Genauigkeit, Nutzungsrechte, Zugriffsm&#xF6;glichkeiten oder Erfassungsmethode.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les m&#xE9;tadonn&#xE9;es sont des informations sur les donn&#xE9;es, par exemple la provenance, le contenu, la structure, la validit&#xE9;, l'actualit&#xE9;, l'exactitude, les droits d'utilisation, les possibilit&#xE9;s d'acc&#xE8;s ou les m&#xE9;thodes de saisie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26147">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Datenmodell ist ein Konzept zur Strukturierung von Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le mod&#xE8;le de donn&#xE9;es est un concept de structuration de donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26148">
+                    <partNumber>9</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Darstellungsmodell legt die kartographische Darstellung von Geodaten fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le mod&#xE8;le de repr&#xE9;sentation d&#xE9;finit la repr&#xE9;sentation cartographique des g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26149">
+                    <partNumber>10</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Datenverwaltung beinhaltet die Speicherung, L&#xF6;schung und die Nachf&#xFC;hrung von Geodaten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La gestion des donn&#xE9;es comprend l'enregistrement, l'effacement et la mise &#xE0; jour de donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26150">
+                    <partNumber>11</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kantonale Geodaten sind im Eigentum des Kantons.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es cantonales sont propri&#xE9;t&#xE9; du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26151">
+                    <partNumber>12</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kommunale Geodaten sind im Eigentum der Gemeinde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es communales sont propri&#xE9;t&#xE9; de la commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26152">
+                    <partNumber>13</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geodaten von kantonalem Interesse sind alle Geodaten, die f&#xFC;r den effizienten Vollzug der kantonalen Gesetzgebung notwendig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal comprennent toutes les g&#xE9;odonn&#xE9;es n&#xE9;cessaires &#xE0; l'ex&#xE9;cution des bases l&#xE9;gales cantonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26153">
+                    <partNumber>14</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geodienste sind vernetzbare Anwendungen, welche die Nutzung von elektronischen Dienstleistungen im Bereich Geodaten vereinfachen und Geodaten in strukturierter Form zug&#xE4;nglich machen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;oservices sont des applications aptes &#xE0; &#xEA;tre mises en r&#xE9;seau, simplifiant l'utilisation des prestations de services informatis&#xE9;s dans le domaine des g&#xE9;odonn&#xE9;es et permettant l'acc&#xE8;s aux g&#xE9;odonn&#xE9;es sous une forme structur&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26154">
+                    <partNumber>15</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Informationsebene ist eine Menge von Geodaten, die die Erdoberfl&#xE4;che nur ein einziges Mal beschreibt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une couche d'information est un ensemble de g&#xE9;odonn&#xE9;es ne d&#xE9;crivant le territoire qu'une seule fois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3354">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11408">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Steuerungsausschuss GIS-Wallis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil de direction SIT-Valais</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26155">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Steuerungsausschuss GIS-Wallis ist das Aufsichtsorgan des GIS-Wallis. Er hat folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil de direction SIT-Valais est l'organe de surveillance du SIT-Valais. Ses t&#xE2;ches sont les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12431">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er bereitet die Strategie und die Ziele des GIS-Wallis vor und stellt die Aufsicht sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;parer la strat&#xE9;gie et les objectifs du SIT-Valais et en assurer la surveillance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12432">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er erl&#xE4;sst Richtlinien und Empfehlungen betreffend GIS-Wallis;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;dicter les directives et recommandations du SIT-Valais;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12433">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er gibt seine Vormeinung zu den vom Geomatik-Kompetenzzentrum (CC GEO) ben&#xF6;tigten Ressourcen ;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;aviser les ressources n&#xE9;cessaires au centre de comp&#xE9;tence g&#xE9;omatique (CC GEO);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12434">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er stellt die F&#xF6;rderung des GIS-Wallis bei externen Partnern sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la promotion du SIT-Valais aupr&#xE8;s des partenaires externes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12435">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er legt die Priorit&#xE4;ten bei den Geomatikprojekten von allgemeinem Interesse fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">fixer les priorit&#xE9;s des projets g&#xE9;omatiques d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26156">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Steuerungsausschuss GIS-Wallis ist direkt dem Staatsrat unterstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil de direction SIT-Valais est directement subordonn&#xE9; au Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26157">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zusammensetzung des Steuerungsausschusses GIS-Wallis liegt in der Kompetenz des Staatsrates.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La composition du Conseil de direction SIT-Valais est de la comp&#xE9;tence du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11409">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geomatik-Kompetenzzentrum (CC GEO)</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Centre de comp&#xE9;tence g&#xE9;omatique (CC GEO)</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26158">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist beauftragt, das GIS-Wallis zu realisieren. Dies umfasst folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est charg&#xE9; de la r&#xE9;alisation du SIT-Valais. Dans ce but, il doit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12436">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es entwirft, entwickelt und f&#xFC;hrt das GIS-Wallis ein und stellt den permanenten Betrieb sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">concevoir, r&#xE9;aliser, mettre en oeuvre le SIT-Valais et en assurer son fonctionnement permanent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12437">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die Integration des GIS-Wallis in die nationale Geodaten-Infrastruktur sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer l'int&#xE9;gration du SIT-Valais dans l'infrastructure nationale de g&#xE9;odonn&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12438">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die Integration des GIS-Wallis in die Informatikumgebung der kantonalen Verwaltung sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer l'int&#xE9;gration du SIT-Valais dans l'environnement informatique de l'administration cantonale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12439">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xF6;rdert die Nutzung des GIS-Wallis bei den Departementen und den Dienststellen der kantonalen Verwaltung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la promotion interne de l'utilisation du SIT-Valais pour les d&#xE9;partements et les services de l'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26159">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist beauftragt, die Dienststellen der kantonalen Verwaltung im Geomatik-Bereich zu koordinieren. Dies umfasst folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est charg&#xE9; de coordonner les services de l'administration cantonale dans le domaine de la g&#xE9;omatique. Dans ce but, il doit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12440">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es verwaltet einen Katalog der Geodatens&#xE4;tze von kantonalem Interesse und stellt die Nachf&#xFC;hrung der Metadaten sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">g&#xE9;rer le catalogue des jeux de g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal et assurer la mise &#xE0; jour des m&#xE9;tadonn&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12441">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es gibt seine Vormeinung bez&#xFC;glich Beschaffung von GIS-Software f&#xFC;r die Dienststellen ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;aviser l'acquisition de logiciels SIT par les services de l'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12442">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es organisiert die Ausbildung im Geomatik-Bereich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">organiser la formation dans le domaine de la g&#xE9;omatique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12443">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es legt Richtlinien f&#xFC;r Geomatikprojekte fest;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;finir des directives pour les projets g&#xE9;omatiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12444">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xFC;hrt Geomatikprojekte von allgemeinen Interesse durch, beaufsichtigt und unterst&#xFC;tzt die Verwirklichung der Geomatikprojekte der Dienststellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;aliser les projets g&#xE9;omatiques d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral, superviser et donner l'appui &#xE0; la r&#xE9;alisation de projets g&#xE9;omatiques des services de l'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12445">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es beschafft Geodaten von Dritten je nach Bed&#xFC;rfnis der kantonalen Dienststellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">acqu&#xE9;rir les g&#xE9;odonn&#xE9;es des tiers en fonction des besoins des services de l'administration cantonale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12446">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es informiert regelm&#xE4;ssig die kantonalen Dienststellen &#xFC;ber die Aktivit&#xE4;ten des Bundes und des Kantons im Geomatik-Bereich</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">informer r&#xE9;guli&#xE8;rement les services de l'Etat au sujet des activit&#xE9;s f&#xE9;d&#xE9;rales et cantonales dans le domaine de la g&#xE9;omatique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26160">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist beauftragt, Synergien zwischen den &#xF6;ffentlichen Verwaltungen im Geomatik-Bereich aufzuzeigen. Dies umfasst folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est charg&#xE9; de cr&#xE9;er une synergie entre les administrations publiques dans le domaine de la g&#xE9;omatique. Dans ce but, il doit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12447">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die regelm&#xE4;ssige Information zu den Gemeinden betreffend den Aktivit&#xE4;ten des Bundes und des Kantons mit GIS-Bezug sicher und koordiniert diese im Geomatik-Bereich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer l'information r&#xE9;guli&#xE8;re des communes au sujet des activit&#xE9;s f&#xE9;d&#xE9;rales et cantonales en relation avec le SIT et les coordonner dans le domaine de la g&#xE9;omatique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12448">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die regelm&#xE4;ssige Information des Bundes sicher betreffend den kantonalen und kommunalen Aktivit&#xE4;ten mit GIS-Bezug;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer l'information r&#xE9;guli&#xE8;re de la Conf&#xE9;d&#xE9;ration au sujet des activit&#xE9;s cantonales et communales en relation avec le SIT;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12449">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die Abgabe der Geodaten von kantonalem Interesse an die kantonalen Dienststellen und an die Gemeinden sicher;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la diffusion des g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal aux services de l'Etat et aux communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12450">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es stellt die Abgabe von Geodaten an Dritte sicher.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la diffusion des g&#xE9;odonn&#xE9;es cantonales aux tiers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26161">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist beauftragt, das Sekretariat des Steuerungsausschusses GIS-Wallis sicherzustellen und ihm die notwendigen Entscheidungsgrundlagen betreffend GIS-Wallis zu liefern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est charg&#xE9; d'assurer le secr&#xE9;tariat du Conseil de direction SIT-Valais et de lui fournir les instruments d'aide &#xE0; la d&#xE9;cision en relation avec le SIT-Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26162">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist administrativ der mit der Geomatik beauftragten Dienststelle unterstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est rattach&#xE9; administrativement au service charg&#xE9; de la g&#xE9;omatique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26163">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Steuerungsausschuss GIS-Wallis &#xFC;bt die strategische und die f&#xFC;r die Geomatik zust&#xE4;ndige Dienststelle die administrative Leitung aus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil de direction SIT-Valais assure la direction strat&#xE9;gique, alors que le service charg&#xE9; de la g&#xE9;omatique assure la direction administrative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11410">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonale Verwaltung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Administration cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26164">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststellen der kantonalen Verwaltung stellen die regelm&#xE4;ssige Nachf&#xFC;hrung und die Qualit&#xE4;t der f&#xFC;r die Ausf&#xFC;hrung des gesetzlichen Auftrages notwendigen Geodaten. Sie haben folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les services de l'administration cantonale sont responsables de la mise &#xE0; jour r&#xE9;guli&#xE8;re et de la qualit&#xE9; des g&#xE9;odonn&#xE9;es n&#xE9;cessaires &#xE0; l'accomplissement de leurs t&#xE2;ches l&#xE9;gales. Ils sont charg&#xE9;s des t&#xE2;ches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12451">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erstellen und aktualisieren Geodaten gem&#xE4;ss den Richtlinien des CC GEO;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">constituer et actualiser les g&#xE9;odonn&#xE9;es selon les directives du CC GEO;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12452">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie liefern Geodaten und Metadaten dem CC GEO gem&#xE4;ss den Richtlinien des CC GEO;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">fournir les g&#xE9;odonn&#xE9;es et les m&#xE9;tadonn&#xE9;es au CC GEO selon les directives du CC GEO;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12453">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie melden alle Geomatikprojekte aus Koordinationsgr&#xFC;nden an die CC GEO;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">annoncer tous les projets g&#xE9;omatiques au CC GEO pour des raisons de coordination;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12454">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie beteiligen sich an der Erarbeitung von Richtlinien von spezifischen Richtlinien, insbesondere bez&#xFC;glich Daten- und Darstellungsmodelle;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">participer &#xE0; l'&#xE9;tablissement des directives, notamment en relation avec les mod&#xE8;les de donn&#xE9;es et de repr&#xE9;sentation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12455">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie melden ihre Bed&#xFC;rfnisse bez&#xFC;glich Geodaten an die CC GEO;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">transmettre au CC GEO leurs besoins en g&#xE9;odonn&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12456">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie geben Ihre Vormeinung betreffend Abgabe an Dritte von Geodaten, deren Nachf&#xFC;hrung in ihrer Verantwortung liegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;aviser la transmission aux tiers des g&#xE9;odonn&#xE9;es dont la mise &#xE0; jour leur incombe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26165">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststellen der kantonalen Verwaltung sind verantwortlich f&#xFC;r die Digitalisierung Ihrer Papierpl&#xE4;ne.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les services de l'administration cantonale sont responsables de la num&#xE9;risation de leurs plans sur support papier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11411">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26166">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden sind verantwortlich f&#xFC;r die Qualit&#xE4;t und Nachf&#xFC;hrung der kommunalen Geodaten von kantonalem Interesse. Sie haben folgende Aufgaben zu erf&#xFC;llen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes sont responsables de la qualit&#xE9; et de la mise &#xE0; jour des g&#xE9;odonn&#xE9;es communales d'int&#xE9;r&#xEA;t cantonal. Elles sont charg&#xE9;es des t&#xE2;ches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12457">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie liefern dem CC GEO die kommunalen Geodaten von kantonalem Interesse;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">transmettre au CC GEO les g&#xE9;odonn&#xE9;es communales d'int&#xE9;r&#xEA;t cantonal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12458">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie stellen die Anwendung der kantonalen Richtlinien betreffend Datenmodelle, Darstellungsmodelle und Datenqualit&#xE4;t in Geomatikprojekten sicher.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer l'application des directives cantonales relatives aux mod&#xE8;les de donn&#xE9;es, aux mod&#xE8;les de repr&#xE9;sentation et &#xE0; la qualit&#xE9; des donn&#xE9;es dans leurs projets g&#xE9;omatiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26167">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden k&#xF6;nnen die kantonale Geodaten beziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes peuvent acc&#xE9;der aux g&#xE9;odonn&#xE9;es cantonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3355">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Verwaltung der Geodaten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Gestion des g&#xE9;odonn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11412">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Eigent&#xFC;mer der Geodaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Propri&#xE9;taire des g&#xE9;odonn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26168">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton oder die Gemeinden, die f&#xFC;r die Erarbeitung von Pl&#xE4;nen/Karten gem&#xE4;ss spezifischer Gesetzgebung verantwortlich sind, sind auch Eigent&#xFC;mer der erhobenen und erfassten Geodaten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton ou les communes charg&#xE9;s d'&#xE9;tablir des plans/cartes selon la base l&#xE9;gale sp&#xE9;cifique sont &#xE9;galement propri&#xE9;taires de toutes les g&#xE9;odonn&#xE9;es relev&#xE9;es et saisies.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26169">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Eigent&#xFC;mer der Geodaten ist verantwortlich f&#xFC;r die Sicherheit, den Datenschutz, die Qualit&#xE4;t und die Nachf&#xFC;hrung seiner Geodaten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le propri&#xE9;taire des g&#xE9;odonn&#xE9;es est responsable de la s&#xE9;curit&#xE9;, de la protection, de la qualit&#xE9; et de la mise &#xE0; jour de ses g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11413">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26170">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO ist verantwortlich f&#xFC;r den Entwurf und die Entwicklung der Infrastruktur des GIS-Wallis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO est responsable du concept et de la mise en oeuvre de l'infrastructure du SIT-Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26171">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Betrieb der technischen Infrastruktur des GIS-Wallis liegt in der Verantwortung der f&#xFC;r die Informatik zust&#xE4;ndigen Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exploitation de l'infrastructure technique du SIT-Valais incombe au service charg&#xE9; de l'informatique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26172">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Benutzer, der die Daten direkt &#xFC;ber den Computer zugreift, ist verpflichtet, selbst sich &#xFC;ber den Aktualit&#xE4;tsstand, die Qualit&#xE4;t und die Vollst&#xE4;ndigkeit zu vergewissern. Der Eigent&#xFC;mer der Geodaten ist nicht verantwortlich f&#xFC;r diese Unterlassung seitens des Benutzers.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'utilisateur acc&#xE9;dant directement par ordinateur est tenu de s'assurer de l'actualit&#xE9;, de la qualit&#xE9; et de l'int&#xE9;gralit&#xE9; des g&#xE9;odonn&#xE9;es. Le propri&#xE9;taire des g&#xE9;odonn&#xE9;es n'est pas responsable d'un manquement de la part de l'utilisateur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11414">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geodaten von kantonalem Interesse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">G&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26173">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat nimmt regelm&#xE4;ssig den im Anhang festgelegten Katalog der Geodaten von kantonalem Interesse zur Kenntnis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat prend acte p&#xE9;riodiquement du catalogue actualis&#xE9; des g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal d&#xE9;finies dans l'annexe.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26174">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Katalog ist evolutif, wird aktualisiert vom CC GEO und bei jeder Nachf&#xFC;hrung abgegeben an die kantonalen Dienststellen und an die Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ce catalogue est &#xE9;volutif, maintenu &#xE0; jour par le CC GEO et distribu&#xE9; aux services de l'Etat et aux communes &#xE0; chaque mise &#xE0; jour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3356">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Bereitstellung und Austausch von Geodaten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Mise &#xE0; disposition et &#xE9;change des g&#xE9;odonn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11415">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereitstellung von Geodaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mise &#xE0; disposition des g&#xE9;odonn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26175">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das CC GEO stellt die Geodaten von kantonalem Interesse f&#xFC;r die kantonalen Dienststellen und die kantonalen Geodaten f&#xFC;r die Gemeinden ohne Geb&#xFC;hr bereit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le CC GEO met &#xE0; disposition des services de l'Etat les g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal du SIT-Valais et &#xE0; disposition des communes les g&#xE9;odonn&#xE9;es cantonales, sans encaisser d'&#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26176">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden stellen dem CC GEO die kommunalen Geodaten von kantonalem Interesse ohne Geb&#xFC;hr bereit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes mettent &#xE0; disposition du CC GEO les g&#xE9;odonn&#xE9;es communales d'int&#xE9;r&#xEA;t cantonal, sans encaisser d'&#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26177">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Modalit&#xE4;ten betreffend Nutzung und Abgabe von kommunalen Daten von kantonalem Interesse werden in einer Vereinbarung zwischen dem Kanton, vertreten durch das CC GEO, und der Gemeinde geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les modalit&#xE9;s d'utilisation et de diffusion des g&#xE9;odonn&#xE9;es communales d'int&#xE9;r&#xEA;t cantonal aux tiers seront r&#xE9;gl&#xE9;es par une convention entre le canton, repr&#xE9;sent&#xE9; par le CC GEO, et la commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26178">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Abgabe von kantonalen Geodaten an Dritte ben&#xF6;tigt eine Bewilligung des CC GEO und der f&#xFC;r die Nachf&#xFC;hrung verantwortlichen Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La transmission de g&#xE9;odonn&#xE9;es cantonales &#xE0; des tiers est soumise &#xE0; autorisation du CC GEO et du service responsable de la mise &#xE0; jour des g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26179">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim direkten Zugriff mit Informatikhilfsmitteln muss sich der Benutzer selber Klarheit &#xFC;ber Aktualit&#xE4;t, Qualit&#xE4;t und Vollst&#xE4;ndigkeit der Daten beschaffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'un acc&#xE8;s direct aux donn&#xE9;es &#xE0; l'aide de moyens informatiques, l'utilisateur doit s'informer lui-m&#xEA;me de l'actualit&#xE9;, de la qualit&#xE9; et de l'exhaustivit&#xE9; de celles-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11416">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren f&#xFC;r die Abgabe von Geodaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emolument pour la remise des g&#xE9;odonn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26180">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geb&#xFC;hr f&#xFC;r die Abgabe von Geodaten von kantonalem Interesse wird folgendermassen errechnet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;molument pour la remise des g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal est calcul&#xE9; de la mani&#xE8;re suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17183">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">administrativer Aufwand<tab/>Fr. 50</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">administration<tab/>Fr. 50</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17184">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Material<tab/>Fr. 20</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mat&#xE9;riel<tab/>Fr. 20</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17185">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bearbeitung pro Informationsebene<tab/>Fr. 5 pro Ebene</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">traitement par couches d'information<tab/>Fr. 5 par couche</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17186">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bearbeitung pro Datenvolumen<tab/>Fr. 10 f&#xFC;r das erste Gigabyte und Fr. 10 pro zus&#xE4;tzliches Gigabyte oder Teil eines Gigabytes</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">traitement par volume de donn&#xE9;es<tab/>Fr. 10 pour le premier gigabyte et Fr. 10 par gigabyte ou fraction de gigabyte suppl&#xE9;mentaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26181">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Nutzungsgeb&#xFC;hr f&#xFC;r den direkten Zugriff auf die Geodaten von kantonalem Interesse &#xFC;ber einen Geodienst betr&#xE4;gt j&#xE4;hrlich 1'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;molument d'utilisation pour l'acc&#xE8;s en direct &#xE0; l'aide de g&#xE9;oservices sur les g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal s'&#xE9;l&#xE8;ve &#xE0; 1'000 francs par an.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26182">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konsultation per Computer der vom Kanton &#xFC;ber das GIS-Wallis dargestellten Geodaten ist kostenlos.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La consultation des g&#xE9;odonn&#xE9;es du SIT-Valais accessible par ordinateur est gratuite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26183">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geb&#xFC;hr f&#xFC;r die Abgabe von beglaubigten A3 oder A4-Planausz&#xFC;gen betr&#xE4;gt 70 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;molument pour la remise des plans approuv&#xE9;s au format A4 s'&#xE9;l&#xE8;ve &#xE0; 70 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26184">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geb&#xFC;hr f&#xFC;r die Beglaubigung von Pl&#xE4;nen betr&#xE4;gt 30 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;molument pour l'authentification de plans s'&#xE9;l&#xE8;ve &#xE0; 30 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11417">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bedingungen f&#xFC;r die Nutzung von kantonalen Geodaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions d'utilisation de g&#xE9;odonn&#xE9;es cantonales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26185">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bedingungen f&#xFC;r die Nutzung von kantonalen Geodaten durch Dritte werden durch einen Vertrag zwischen dem Dritten und dem CC GEO geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions d'utilisation de g&#xE9;odonn&#xE9;es cantonales par des tiers sont r&#xE9;gl&#xE9;es dans un contrat conclu entre le tiers et le CC GEO.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11418">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Austausch von Geodaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Echange de g&#xE9;odonn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26186">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schnittstelle f&#xFC;r Geodaten von kantonalem Interesse st&#xFC;tzt sich auf INTERLIS gem&#xE4;ss der Schweizer Norm SN612030.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'interface pour l'&#xE9;change des g&#xE9;odonn&#xE9;es d'int&#xE9;r&#xEA;t cantonal se base sur INTERLIS selon la norme suisse SN612030.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3357">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11419">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allf&#xE4;lliger Konflikt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conflit &#xE9;ventuel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26187">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jeden Rechtsstreit zwischen dem Eigent&#xFC;mer der Geodaten und dem Steuerungsausschuss GIS-Wallis entscheidet der Staatsrat durch Verf&#xFC;gung gem&#xE4;ss Verwaltungsverfahrensgesetz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout litige entre le propri&#xE9;taire des g&#xE9;odonn&#xE9;es et le Conseil de direction du SIT-Valais est tranch&#xE9; par d&#xE9;cision du Conseil d'Etat selon la loi sur la proc&#xE9;dure et la juridiction administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11420">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26188">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung wird im Amtsblatt publiziert und tritt mit dem Gesetz &#xFC;ber die amtliche Vermessung und Geoinformation in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance sera publi&#xE9;e au Bulletin officiel et entrera en vigueur en m&#xEA;me temps que la loi sur la mensuration officielle et l'information g&#xE9;ographique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5154">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17097">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39128">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geodaten (Stand 28. Juni 2006):<table><tableContent><row rowType="header"><cell>Datenherr</cell><cell>Kantonales Interesse</cell><cell>Kommunales Interesse</cell></row><row rowType="data"><cell>Kanton</cell><cell>Allgemeine Daten: 1. Amtliche Vermessung gem&#xE4;ss der eidg. Verordnung &#xFC;ber die amtliche Vermessung; 2. &#xDC;bersichtsplan (Art. 5 des kantonalen Gesetzes &#xFC;ber die amtliche Vermessung und Geoinformation), 3. Daten des kantonalen Richtplans (Art. 7 des kRPG), 4. Daten des statistischen Jahrbuches, 5. Vom Kanton erhobenen Daten zur Dokumentation von Staatsratsbeschl&#xFC;ssen</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>A. Siedlung</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>B. &#xD6;ffentliche Bauten und Anlagen: 1. Daten betreffend Geb&#xE4;uden des Kantons (Spit&#xE4;ler, Altersund Pflegeheime, Museen, usw.)</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>C. Verkehr und Telekommunikation: 1. Daten betreffend Unterhalt von kantonalen Strassen und Wege (Art. 14 StrG), 2. Im Rahmen von kantonalen Projekten erhobene Daten (Autobahn, 3. Rhonekorrektion usw.). 3. &#xD6;V-Netz (G&#xF6;V), 4. Seilbahnanlagen (G&#xF6;V), 5. Velowege (Art. 9a StrG)</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>D. Tourismus und Erholung</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>E. Landwirtschaft: 1. Daten betreffend Direktzahlungen gem&#xE4;ss Verordnung &#xFC;ber die Direktzahlungen an die Landwirtschaft), 2. Rebkataster (Art. 3 der kantonalen Verordnung &#xFC;ber den Rebbau und Wein), 3. Fruchtfolgefl&#xE4;chen (Art. 28 der eidg. Verordnung &#xFC;ber die Raumplanung)</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>F. Natur, Landschaft und Wald: 1. Inventar der Schutzobjekte (Art. 8. des kNHG), 2. Inventar der Schutzw&#xE4;lder (ForstG), 3. Daten betreffend Rodungen (ForstG), 4. &#xD6;kologische Ausgleichsfl&#xE4;chen (NHG), 5. Daten betreffend Wildbeobachtungen (Art 27 des kJSG), 6. Daten betreffend kantonale Banngebiete (Art. 35 des kJSG), 7. Daten betreffend Fischereikarte</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>G. Versorgung: 1. Tankkataster, 2. Daten betreffend Wasseratlas gem&#xE4;ss Verordnung &#xFC;ber die Sicherstellung des Trinkwassers in Krisenzeiten (VTN), 3. Daten betreffend Hochspannungsleitungen, 4. Daten betreffend Gas- und &#xD6;lleitung, 5. Daten betreffend Hindernissen f&#xFC;r die Flugnavigation</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>H. Umwelt: 1. Kataster der belasteten Standorte (Art. 34 des GVGSch), 2. Station&#xE4;re Anlagen, die den Anforderungen der LRV nicht gen&#xFC;gen (Art. 14 des GAUSG), 3. Kataster der Emissionsquellen (Art. 15 des GAUSG), 4. Messnetz der Luftverschmutzung (Art. 15 des GAUSG), 5. L&#xE4;rmkataster f&#xFC;r Kantonsstrassen (Art 21 des GAUSG), 6. Plan betreffend Ausstreuen und Verspr&#xFC;hen von Stoffen aus der Luft (Art. 28 des GAUSG). 7. Deponienregister (Art. 34 des GAUSG), 8. Beobachtungsnetz der Bodenbelastung (Art. 36 des GAUSG), 9. Sektoren und Areale f&#xFC;r den Gew&#xE4;sserschutz (Art. 7 des GVGSch), 10. Daten betreffend Lagerung von D&#xFC;ngemittel (Art. 28 des GAUSG), 11. Daten betreffend &#xF6;komorphologischen Eigenschaften der Wasserl&#xE4;ufe (Art. 7 GVGSch), 12. Daten betreffend Kies- und Sandausbeutung (kantonaler Beschluss betreffend Kiesund Sandausbeutung)</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row><row rowType="data"><cell>Kanton</cell><cell>I. Gefahren: 1. Messstationen des Kantons, 2. Gefahrenkataster (Art. 15 der WaV), 3. Seismische Mikrozonen - Daten betreffend der StFV-unterstellten Betriebe</cell><cell>Alle Daten des Kantons, sofern diese nicht dem Datenschutz unterliegen</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">G&#xE9;odonn&#xE9;es (Etat 28 juin 2006):<table><tableContent><row rowType="header"><cell>Propri&#xE9;taire</cell><cell>Int&#xE9;r&#xEA;t cantonal</cell><cell>Int&#xE9;r&#xEA;t communal</cell></row><row rowType="data"><cell>Canton</cell><cell>Donn&#xE9;es g&#xE9;n&#xE9;rales: 1. Mensuration officielle selon l&amp;#39;Ordonnance f&#xE9;d&#xE9;ral sur la mensuration officielle, 2. Plan d&amp;#39;ensemble (art. 5 de la loi cantonale sur la mensuration officielle et sur l&amp;#39;information g&#xE9;ographique), 3. Donn&#xE9;es du plan directeur cantonal (art. 7 de la LcAT), 4. Donn&#xE9;es de l&amp;#39;annuaire statistique, 5. Donn&#xE9;es relev&#xE9;es pour la documentation des d&#xE9;cisions du Conseil d&amp;#39;Etat</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>A. Urbanisation</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>B. Constructions et installations d&amp;#39;int&#xE9;r&#xEA;t public: 1. Donn&#xE9;es li&#xE9;es aux b&#xE2;timents propri&#xE9;t&#xE9;s du canton (h&#xF4;pitaux, EMS, &#xE9;coles cantonales, mus&#xE9;es, etc.)</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>C. Transport et communication: 1. Donn&#xE9;es li&#xE9;es &#xE0; l&amp;#39;entretien des routes et chemins cantonaux (art. 14 de la LR), 2. Donn&#xE9;es relev&#xE9;es dans le cadre des projets cantonaux (autoroute, 3&lt;format upper="true"&gt;e&lt;/format&gt; correction du Rh&#xF4;ne etc.), 3. R&#xE9;seau de transport public (LTP), 4. Remont&#xE9;es m&#xE9;caniques (LTP), 5. Voies cyclables (art. 9a de la LR)</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>D. Tourisme et loisir</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>E. Agriculture: 1. Donn&#xE9;es concernant les paiements directs selon l&amp;#39;Ordonnance sur les paiements directs vers&#xE9;s dans l&amp;#39;agriculture, 2. Cadastre viticole (art. 3 de l&amp;#39;Ordonnance cantonale sur la vigne et le vin), 3. Surfaces d&amp;#39;assolement selon l&amp;#39;article 28 de l&amp;#39;Ordonnance f&#xE9;d&#xE9;rale sur l&amp;#39;am&#xE9;nagement du territoire (OAT)</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>F. Nature, paysage et for&#xEA;t: 1. Inventaire des objets de protection (art. 8 de la LcPN), 2. Inventaire des for&#xEA;ts de protection (LFo), 3. Donn&#xE9;es li&#xE9;es aux d&#xE9;frichements (LFo), 4. Surfaces de compensation &#xE9;cologiques (LPN), 5. Donn&#xE9;es li&#xE9;es aux observations du gibier (art. 27 de la LcChP), 6. Donn&#xE9;es li&#xE9;es aux districts francs cantonaux et aux zones de r&#xE9;gulation de la chasse (art. 35 de la LcChP), 7. Donn&#xE9;es li&#xE9;es &#xE0; la carte piscicole</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>G. Approvisionnement: 1. Cadastre des citernes, 2. Donn&#xE9;es li&#xE9;es &#xE0; l&amp;#39;Atlas de l&amp;#39;eau selon l&amp;#39;Ordonnance sur la garantie d&#x2019;approvisionnement en eau potable en temps de crise (OAEC), 3. Donn&#xE9;es li&#xE9;es aux lignes &#xE0; haute tension, 4. Donn&#xE9;es li&#xE9;es aux gazoduc et ol&#xE9;oduc, 5. Donn&#xE9;es li&#xE9;es aux obstacles &#xE0; la navigation a&#xE9;rienne</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>H. Environnement: 1. Cadastre des sites pollu&#xE9;s ou pr&#xE9;sum&#xE9;s pollu&#xE9;s (art. 34 de la LALPE), 2. Installations stationnaires qui ne respectent pas les exigences de l&amp;#39;OPair (art. 14 de la LALPE), 3. Cadastre des sources d&amp;#39;&#xE9;mission (art. 15 de la LALPE), 4. R&#xE9;seau fixe de mesures des immissions de polluants atmosph&#xE9;riques (art. 15 de la LALPE), 5. Cadastre du bruit des routes cantonales (art. 21 de la LALPE), 6. Plans d&amp;#39;&#xE9;pandage des substances par a&#xE9;ronefs (art. 28 de la LALPE), 7. Registre des d&#xE9;charges (art. 34 de la LALPE), 8. R&#xE9;seau d&amp;#39;observation de la charge du sol en polluants (art. 36 de la LALPE), 9. Secteurs et p&#xE9;rim&#xE8;tres de protection des eaux (art. 7 de la LALPEP), 10. Donn&#xE9;es li&#xE9;es au stockage d&amp;#39;engrais (art. 28 de la LALPE), 11. Donn&#xE9;es li&#xE9;es aux caract&#xE9;ristiques &#xE9;comorphologiques des cours d&amp;#39;eau (art. 7 de la LALPEP), 12. Donn&#xE9;es li&#xE9;es aux gravi&#xE8;res et carri&#xE8;res (arr&#xEA;t&#xE9; cantonal concernant l&amp;#39;exploitation des gra-vi&#xE8;res)</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row><row rowType="data"><cell>Canton</cell><cell>I. Dangers: 1. Donn&#xE9;es des stations de mesure du canton, 2. Cadastre des dangers (art. 15 de l&amp;#39;OFo), 3. Microzonage sismique, 4. Donn&#xE9;es li&#xE9;es aux entreprises soumises &#xE0; l&amp;#39;OPAM</cell><cell>Toutes les donn&#xE9;es du canton sauf si la protection des donn&#xE9;es l&amp;#39;emp&#xEA;che</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39129">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Datenherr</cell>
+                              <cell>Kantonales Interesse</cell>
+                              <cell>Kommunales Interesse</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>Allgemeine Daten: 1. Daten betreffend den Nutzungszonen (Artikel 21, 27, 31, 32 des kRPG), 2. Adressen gem&#xE4;ss der eidg. Verordnung f&#xFC;r das eidg. Geb&#xE4;ude- und Wohnregister</cell>
+                              <cell>Allgemeine Daten: 1. Daten betreffend Baulinien (Art. 6 des kBauG), 2. Daten betreffend Zonen- und Baureglement (Art. 13 des kRPG), 3. Von der Gemeinde erhobene Daten zur Dokumentation von Entscheiden des Gemeinderates, 4. Von der Gemeinde erhobene Daten f&#xFC;r Projekte der Gemeinden, 5. Kommunale Statistiken</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>A. Siedlung: 1. Daten der eidg. Geb&#xE4;udeund Wohnregister gem&#xE4;ss Verordnung &#xFC;ber das eidg. Geb&#xE4;ude- und Wohnregister</cell>
+                              <cell>A. Siedlung</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>B. &#xD6;ffentliche Bauten und Anlagen</cell>
+                              <cell>B. &#xD6;ffentliche Bauten und Anlagen: 1. Einkaufszentren, 2. &#xD6;ffentliche Anlagen, 3. Friedhofbewirtschaftung</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>C. Verkehr und Telekommunikation: 1. Daten betreffend Fuss- und Wanderwege (Art. 1 des AGFWG)</cell>
+                              <cell>C. Verkehr und Telekommunikation: 1. Daten betreffend Unterhalt von kommunalen Strassen und Wege, 2. Schultransporte, 3. Parkplatzbewirtschaftung</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>D. Tourismus und Erholung</cell>
+                              <cell>D. Tourismus und Erholung: 1. Touristische Daten</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>E. Landwirtschaft: 1. Rebsektoren gem&#xE4;ss kantonale Verordnung &#xFC;ber Rebbau und Wein</cell>
+                              <cell>E. Landwirtschaft</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>F. Natur, Landschaft und Wald: 1. Waldkataster (Art. 39 der kantonalen Forstver-ordnung)</cell>
+                              <cell>F. Natur, Landschaft und Wald</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>G. Versorgung</cell>
+                              <cell>G. Versorgung: 1. Leitungskataster</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>H. Umwelt: 1. Gew&#xE4;sserschutzzonen (Art. 7 des GVGSch), 2. Daten betreffend generellem Entw&#xE4;sserungsplan (Art. 7 des GVGSch)</cell>
+                              <cell>H. Umwelt: 1. Daten betreffend Abfalltransporte</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeinde</cell>
+                              <cell>I. Gefahren: 1. Gefahrenkarten (Art. 42 des ForstG)</cell>
+                              <cell>I. Gefahren: 1. usw.</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Propri&#xE9;taire</cell>
+                              <cell>Int&#xE9;r&#xEA;t cantonal</cell>
+                              <cell>Int&#xE9;r&#xEA;t communal</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>Donn&#xE9;es g&#xE9;n&#xE9;rales: 1. Donn&#xE9;es li&#xE9;es aux zones d&amp;#39;affectation (art. 21, 27, 31, 32 de la LcAT), 2. Adresses selon l&amp;#39;Ordonnance f&#xE9;d&#xE9;rale sur le Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et logements</cell>
+                              <cell>Donn&#xE9;es g&#xE9;n&#xE9;rales: 1. Donn&#xE9;es li&#xE9;es aux alignements (art. 6 de la loi cantonale sur les constructions), 2. Donn&#xE9;es li&#xE9;es aux r&#xE8;glements communaux des constructions et des zones (art. 13 de la LcAT), 3. Donn&#xE9;es relev&#xE9;es par la commune pour documenter les d&#xE9;cisions du Conseil municipal, 4. Donn&#xE9;es relev&#xE9;es par la commune pour les projets communaux, 5. Statistiques communales</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>A. Urbanisation: 1. Donn&#xE9;es du Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et des logements selon l&amp;#39;Ordonnance f&#xE9;d&#xE9;rale sur Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et logements</cell>
+                              <cell>A. Urbanisation</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>B. Constructions et installations d&amp;#39;int&#xE9;r&#xEA;t public</cell>
+                              <cell>B. Constructions et installations d&amp;#39;int&#xE9;r&#xEA;t public: 1. Centres d&amp;#39;achat, 2. Installations publiques, 3. Gestion du cimeti&#xE8;re</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>C. Transport et communication: 1. Donn&#xE9;es li&#xE9;es aux chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre (art. 1 de la LALCPR)</cell>
+                              <cell>C. Transport et communication: 1. Entretien des routes et chemins communaux, 2. Transports &#xE9;coliers, 3. Gestion des places de stationnement</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>D. Tourisme et loisir</cell>
+                              <cell>D. Tourisme et loisir: 1. Donn&#xE9;es touristiques</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell/>
+                              <cell>E. Agriculture: 1. Secteur d&amp;#39;enc&#xE9;pagement selon l&amp;#39;Ordonnance cantonale sur la vigne et le vin</cell>
+                              <cell>E. Agriculture</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>F. Nature, paysage et for&#xEA;t: 1. Cadastre forestier (art. 39 Loi cantonale sur les for&#xEA;ts)</cell>
+                              <cell>F. Nature, paysage et for&#xEA;t</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>G. Approvisionnement</cell>
+                              <cell>G. Approvisionnement: 1. Cadastre souterrain</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>H. Environnement: 1. Zones de protection des eaux (art. 7e de la LALPEP) 2. Donn&#xE9;es li&#xE9;es au plan g&#xE9;n&#xE9;ral d&amp;#39;&#xE9;vacuation des eaux (art. 7 de la LALPEP)</cell>
+                              <cell>H. Environnement: 1. Donn&#xE9;es li&#xE9;es au transport des d&#xE9;chets</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Commune</cell>
+                              <cell>I. Dangers: 1. Cartes de danger (art. 42 de la LFo)</cell>
+                              <cell>I. Dangers: 1. etc.</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2006-07-01</dateForce>
+      <dateVersion>2006-07-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 27/2006</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

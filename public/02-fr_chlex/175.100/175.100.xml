@@ -1,0 +1,825 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1111</normID>
+      <number>175.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">FusV</abbreviation>
+      <abbreviation lang="fr">OFus</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber Gemeindefusionen</title>
+      <title lang="fr">Ordonnance sur les fusions de communes</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2012-01-25</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2014-10-31</dateLastChange>
+      <dateVersion>2014-10-31</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 57 der Kantonsverfassung;</basis> <basis>eingesehen die Artikel 129 bis 143 des Gemeindegesetzes vom 5. Februar 2004;</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen, Institutionen und Gesundheit,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 de la Constitution cantonale;</basis> <basis>vu les articles 129 &#xE0; 143 de la loi sur les communes du 5 f&#xE9;vrier 2004;</basis> <basis>sur la proposition du D&#xE9;partement des finances, des institutions et de la sant&#xE9;,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 5/2012, 52/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3614">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber Gemeindefusionen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur les fusions de communes</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:12266">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anwendungsbereich</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Champ d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28269">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Diese Verordnung regelt die finanzielle Beteiligung des Kantons an Fusionsprojekten von Einwohnergemeinden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance fixe la participation financi&#xE8;re du canton aux projets de fusions des communes municipales.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28270">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es besteht kein Rechtsanspruch auf den Erhalt einer Finanzhilfe.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il n&#x2019;existe aucun droit &#xE0; l&#x2019;obtention d&#x2019;une aide financi&#xE8;re.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12267">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Spezialfonds</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Fonds sp&#xE9;cial</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28271">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es wird ein Spezialfonds zur F&#xF6;rderung von Gemeindefusionen gebildet.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il est institu&#xE9; un fonds sp&#xE9;cial d&#x2019;encouragement aux fusions de communes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28272">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Fonds wird ge&#xE4;ufnet durch den Zuschuss von Mitteln aus dem ordentlichen Budget.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le fonds est aliment&#xE9; par l&#x2019;allocation de ressources tir&#xE9;es du budget ordinaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28273">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sofern notwendig, ist die Nachfinanzierung des Fonds erlaubt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le postfinancement du fonds est autoris&#xE9; si n&#xE9;cessaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12268">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Beg&#xFC;nstigte der Finanzhilfe</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">B&#xE9;n&#xE9;ficiaire de l'aide</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28274">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die neue Gemeinde, die aus der Fusion entstanden ist, erh&#xE4;lt eine einmalige Finanzhilfe, welche vom Grossen Rat endg&#xFC;ltig festgelegt wird, wenn er die Fusion oder den Fusionsvertrag genehmigt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La nouvelle commune issue de la fusion re&#xE7;oit une aide financi&#xE8;re unique fix&#xE9;e d&#xE9;finitivement par le Grand Conseil lorsqu&#x2019;il approuve la fusion ou le contrat de fusion.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28275">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Finanzhilfe wird grunds&#xE4;tzlich in jenem Jahr gew&#xE4;hrt, das dem In-Kraft-Treten der Fusion folgt, und zwar im Rahmen der Mittel des gebildeten Fonds. Bei Knappheit des Fonds kann der Grosse Rat auf vier Jahre gestaffelte Auszahlungen vorsehen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L&#x2019;aide financi&#xE8;re est, en principe, vers&#xE9;e dans l&#x2019;ann&#xE9;e qui suit l&#x2019;entr&#xE9;e en vigueur de la fusion, dans les limites des moyens du fonds institu&#xE9;. En cas d&#x2019;insuffisance du fonds, le Grand Conseil peut pr&#xE9;voir des versements &#xE9;chelonn&#xE9;s sur quatre ans.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12269">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Basishilfe</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Aide de base</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28276">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Finanzhilfe f&#xFC;r Gemeindefusionen berechnet sich f&#xFC;r jede einzelne Gemeinde anhand der st&#xE4;ndigen Wohnbev&#xF6;lkerung gem&#xE4;ss j&#xFC;ngster amtlicher Statistik, die vorg&#xE4;ngig der Genehmigung der Fusion durch den Grossen Rat erstellt wurde:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'aide financi&#xE8;re aux fusions de communes est calcul&#xE9;e pour chaque commune comme suit sur la base de la population r&#xE9;sidante ressortant de la derni&#xE8;re statistique officielle pr&#xE9;c&#xE9;dent l'approbation de la fusion par le Grand Conseil:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17158">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bis und mit 100 Einwohner: 300'000 Franken;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">jusqu'&#xE0; concurrence et y compris 100 habitants: 300'000 francs;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17159">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich von 101 bis 500 Einwohner: 500 Franken pro Einwohner, (h&#xF6;chstens 500'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus de 101 &#xE0; 500 habitants: 500 francs par habitant, (maximum 500'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17160">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich von 501 bis 1'000 Einwohner: 400 Franken pro Einwohner, (h&#xF6;chstens 700'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus de 501 &#xE0; 1'000 habitants: 400 francs par habitant, (maximum 700'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17161">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich von 1'001 bis 2'000 Einwohner: 100 Franken pro Einwohner, (h&#xF6;chstens 800'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus de 1'001 &#xE0; 2'000 habitants: 100 francs par habitant, (maximum 800'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17162">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich von 2'001 bis 5'000 Einwohner: 33 1/3 Franken pro Einwohner, (h&#xF6;chstens 900'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus de 2'001 &#xE0; 5'000 habitants: 33 1/3 francs par habitant, (maximum 900'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17163">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich von 5'001 bis 10'000 Einwohner: 20 Franken pro Einwohner, (h&#xF6;chstens 1'000'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus de 5'001 &#xE0; 10'000 habitants: 20 francs par habitant, (maximum 1'000'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17164">
+                    <partNumber>g)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich und ab 10'000 Einwohnern: 10 Franken pro Einwohner.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus au-del&#xE0; de 10'000 habitants: 10 francs par habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12270">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Weitere Hilfe</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Aide additionnelle</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28278">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Falls die Bev&#xF6;lkerung der fusionierten Gemeinde 500 Einwohner &#xFC;bersteigt, wird ihr eine weitere Hilfe zugesprochen von:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Si la population de la commune fusionn&#xE9;e d&#xE9;passe les 500 habitants, il lui est allou&#xE9; une aide additionnelle de:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13575">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">300 Franken pro Einwohner f&#xFC;r die ersten 1'000 Einwohner (h&#xF6;chstens 300'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">300 francs par habitant pour les 1'000 premiers habitants (maximum 300'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13576">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich 600 Franken pro Einwohner zwischen 1'001 und 1'500 Einwohner (h&#xF6;chstens 600'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus 600 francs par habitant entre 1'001 et 1'500 habitants (maximum 600'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13577">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">zus&#xE4;tzlich 800 Franken pro Einwohner zwischen 1'501 und 2'000 Einwohner (h&#xF6;chstens 1'000'000 Franken);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">et en sus 800 francs par habitant entre 1'501 et 2'000 habitants (maximum 1'000'000 francs);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13578">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">1'000'000 Franken f&#xFC;r die fusionierte Gemeinde mit mehr als 2'000 Einwohner.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">1'000'000 francs pour la commune fusionn&#xE9;e de plus de 2'000 habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12271">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Herabsetzung der Hilfe</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">R&#xE9;duction de l'aide</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28279">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">In Ber&#xFC;cksichtigung besonderer F&#xE4;lle kann der Grosse Rat auch die Globalhilfe k&#xFC;rzen, die der neuen Gemeinde zugesprochen wurde.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour tenir compte des cas particuliers, le Grand Conseil peut aussi diminuer l&#x2019;aide globale allou&#xE9;e &#xE0; la nouvelle commune.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12272">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Multiplikationskoeffizient</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Coefficient multiplicateur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28280">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Betrifft die Fusion mehr als drei Gemeinden, wird der Totalbetrag der Hilfe, der auf der Grundlage von Artikel 4 festgelegt wurde, mit folgendem Koeffizient multipliziert:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Lorsque la fusion concerne plus de trois communes, le montant total de l&#x2019;aide fix&#xE9; sur la base de l&#x2019;article 4 est multipli&#xE9; par le coefficient suivant:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13579">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">vier Gemeinden: Koeffizient von 1.5;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">quatre communes: coefficient de 1.5;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13580">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">f&#xFC;nf Gemeinden: Koeffizient von 1.75;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">cinq communes: coefficient de 1.75;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:13581">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">sechs Gemeinden: Koeffizient von 2; usw. bis 3.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">six communes: coefficient de 2; etc. jusqu'&#xE0; concurrence de 3.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12273">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Fusionsstudie</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Etude de fusion</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28281">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinden, welche eine Fusion beabsichtigen, richten an den Staatsrat ein Gesuch um &#xDC;bernahme der Kosten der Studie.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les communes qui envisagent une fusion adressent au Conseil d&#x2019;Etat une demande de prise en charge des frais d&#x2019;&#xE9;tude.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28282">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Kosten der Studie werden vom Kanton bis maximal 30'000 Franken pro Gemeinde &#xFC;bernommen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les frais d&#x2019;&#xE9;tude sont pris en charge par le canton jusqu&#x2019;&#xE0; concurrence de 30&#x2019;000 francs par commune au maximum.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28283">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sobald ein Gesuch um &#xDC;bernahme der Kosten der Studie an den Staatsrat eingereicht ist, stellt der Kanton den Gemeinden eine technische und juristische Unterst&#xFC;tzung zur Verf&#xFC;gung. Alle Dienststellen der Verwaltung k&#xF6;nnen zur Mitarbeit verpflichtet werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">D&#xE8;s qu&#x2019;une demande de prise en charge des frais d&#x2019;&#xE9;tude est adress&#xE9;e au Conseil d&#x2019;Etat, l&#x2019;Etat met &#xE0; disposition des communes une assistance technique et juridique. Tous les services de l&#x2019;administration peuvent &#xEA;tre contraints &#xE0; pr&#xEA;ter leur concours.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28284">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat kann eine Gemeinde zwingen, sich an eine Fusionsstudie anzuschliessen, namentlich dann, wenn diese Gemeinde in dem vom Staatsrat genehmigten Fusionskonzept integriert ist.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d&#x2019;Etat peut contraindre une commune &#xE0; adh&#xE9;rer &#xE0; une &#xE9;tude de fusion de communes, notamment si cette commune est int&#xE9;gr&#xE9;e dans le concept de fusion approuv&#xE9; par le Conseil d&#x2019;Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28285">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinden senden ein Exemplar der Studie an den Staatsrat.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les communes adressent un exemplaire de l&#x2019;&#xE9;tude au Conseil d&#x2019;Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12274">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Vorentscheid</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">D&#xE9;cision pr&#xE9;alable</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28286">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinden, welche eine Fusion beabsichtigen, k&#xF6;nnen vor der Befragung der Urversammlungen ein formelles Gesuch an den Staatsrat richten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les communes qui envisagent une fusion peuvent adresser une requ&#xEA;te formelle au Conseil d&#x2019;Etat avant la consultation des assembl&#xE9;es primaires.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:28287">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">In diesem Fall erl&#xE4;sst der Staatsrat einen Vorentscheid, der den voraussichtlichen Betrag der Finanzhilfe des Kantons enth&#xE4;lt. Dieser Indikativbetrag bindet den Grossen Rat nicht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans ce cas, le Conseil d&#x2019;Etat rend une d&#xE9;cision pr&#xE9;alable comprenant le montant pr&#xE9;sum&#xE9; de l&#x2019;aide financi&#xE8;re du canton. Ce montant indicatif n&#x2019;engage pas le Grand Conseil.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12275">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>10</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#x2026;</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">&#x2026;</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28288">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Aufgehoben</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12276">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>11</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufeinander folgende Fusionen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Fusions successives</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28289">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei aufeinander folgenden Fusionen werden die auf der Grundlage von Artikel 4 gesprochenen Hilfen nur ein Mal in zwanzig Jahren ber&#xFC;cksichtigt. Jedenfalls k&#xF6;nnen die Gemeinden, welche in den Genuss einer Hilfe nach Artikel 4 der Verordnung &#xFC;ber Gemeindefusionen vom 8. Juni 2005, aufgehoben am 25. Januar 2012, kamen, bei einer neuen Fusion eine zus&#xE4;tzliche Entsch&#xE4;digung verlangen, wenn die gesprochene Hilfe niedriger ist als jene, die auf der Grundlage der vorliegenden Verordnung festgesetzt wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de fusions successives, les aides allou&#xE9;es sur la base de l'article 4 ne sont prises en consid&#xE9;ration qu'une seule fois en vingt ans. Toutefois, les communes ayant b&#xE9;n&#xE9;fici&#xE9; d'une aide selon l'article 4 de l'ordonnance sur les fusions de communes de 8 juin 2005, abrog&#xE9;e le 25 janvier 2012, peuvent pr&#xE9;tendre, en cas de nouvelle fusion, &#xE0; une indemnit&#xE9; compl&#xE9;mentaire si l'aide allou&#xE9;e est inf&#xE9;rieure &#xE0; celle fix&#xE9;e sur la base de la pr&#xE9;sente ordonnance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12277">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>12</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufhebung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Abrogation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28290">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung hebt die gleichnamige Verordnung vom 8. Juni 2005 auf.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance abroge l&#x2019;ordonnance du 8 juin 2005 du m&#xEA;me nom.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:12278">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>13</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">In-Kraft-Treten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:28291">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt ver&#xF6;ffentlicht, um gleichzeitig mit der &#xC4;nderung vom 15. September 2011 des Gemeindegesetzes in Kraft zu treten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e dans le Bulletin officiel pour entrer en vigueur en m&#xEA;me temps que la modification du 15 septembre 2011 de la loi sur les communes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2014-10-31</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 44/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

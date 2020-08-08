@@ -1,0 +1,1571 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:591</normID>
+      <number>611.104</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung zum Inkasso- und Eintreibungsverfahren</title>
+      <title lang="fr">Ordonnance concernant les proc&#xE9;dures d'encaissement et de recouvrement</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2006-06-28</dateAdoption>
+      <dateForce>2006-10-01T00:00:00</dateForce>
+      <dateLastChange>2006-10-01</dateLastChange>
+      <dateVersion>2006-10-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 57 der Kantonsverfassung;</basis> <basis>eingesehen die Artikel 34a und 52 des Gesetzes &#xFC;ber die Gesch&#xE4;ftsf&#xFC;hrung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980;</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen, Institutionen und Sicherheit,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du Canton du Valais</authorityDescription><basis>vu l'article 57 de la Constitution cantonale;</basis> <basis>vu les articles 34a et 52 de la loi&#xA0;sur la gestion et le contr&#xF4;le administratifs et financiers du canton du 24 juin 1980;</basis> <basis>sur la proposition du D&#xE9;partement des finances, de la s&#xE9;curit&#xE9; et des institutions,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 39/2006</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1909">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>zum Inkasso- und Eintreibungsverfahren</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant les proc&#xE9;dures d'encaissement et de recouvrement</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:6501">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anwendungsbereich</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Champ d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14914">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung regelt die Verfahren zum Inkasso und zur Eintreibung von Forderungen des Staates Wallis (nachfolgend: Staat).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance r&#xE9;git les proc&#xE9;dures d'encaissement et de recouvrement des cr&#xE9;ances de l'Etat du Valais (ci-apr&#xE8;s: l'Etat).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14915">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Abgesehen von den Ausnahmen in anderen Gesetzesbestimmungen, den spezifischen Vorbehalten in der vorliegenden Verordnung und den Spezialentscheiden des Staatsrates findet sie Anwendung auf alle Forderungen des Staates.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Elle s'applique &#xE0; toutes les cr&#xE9;ances de l'Etat, hormis les exceptions pr&#xE9;vues par d'autres textes l&#xE9;gaux, les r&#xE9;serves sp&#xE9;cifiques de la pr&#xE9;sente ordonnance et les d&#xE9;cisions sp&#xE9;ciales du Conseil d'Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6502">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Fakturierung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Facturation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14916">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Fakturierung erfolgt mit Sorgfalt durch die von der Einnahme betroffene Dienststelle (fakturierende Dienststelle).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La facturation est effectu&#xE9;e avec diligence par le service concern&#xE9; par la recette (service &#xE9;metteur).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14917">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Diese Dienststelle ist verantwortlich f&#xFC;r die Genauigkeit und die Begr&#xFC;ndetheit der Rechnung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Ce service est responsable de l'exactitude et du bien-fond&#xE9; de la facture.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14918">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Rechnung muss in der Regel auf einem Entscheid oder einem Dokument basieren, das als Schuldanerkennung gilt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale, la facture doit se fonder sur une d&#xE9;cision ou un document valant reconnaissance de dette.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14919">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Rechnung enth&#xE4;lt die Angabe der Zahlungsfrist von 30 Tagen und den Vermerk des Verzugszinssatzes, der nach Ablauf dieser Frist erhoben wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La facture contient l'indication du d&#xE9;lai de paiement de 30 jours, et la mention du taux de l'int&#xE9;r&#xEA;t moratoire pr&#xE9;lev&#xE9; apr&#xE8;s l'expiration de ce d&#xE9;lai.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14920">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Bezeichnung des Schuldners muss den Anforderungen des Schuldbetreibungs- und Konkursrechts gen&#xFC;gen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La d&#xE9;signation du d&#xE9;biteur doit correspondre aux exigences du droit des poursuites et faillites.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6503">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inkasso</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Encaissement</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14921">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Schuldner ist eingeladen, den geschuldeten Betrag durch Verwendung des Einzahlungsscheins mit Referenz-Nummer (ESR) zu bezahlen, welcher der Rechnung beigelegt wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;biteur est invit&#xE9; &#xE0; s'acquitter de la somme due en utilisant le bulletin de versement avec r&#xE9;f&#xE9;rence (BVR) remis avec la facture.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14922">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Zahlung gilt am Datum der Einzahlung bei der Schweizer Post als get&#xE4;tigt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le paiement est consid&#xE9;r&#xE9; comme intervenu &#xE0; la date du versement aupr&#xE8;s de la poste suisse.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14923">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der ausl&#xE4;ndische Schuldner begleicht seine Rechnung grunds&#xE4;tzlich durch Einzahlung des geschuldeten Betrags auf das IBAN-Konto (International Bank Account Number) des Staates.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;biteur &#xE9;tranger r&#xE8;gle en principe sa facture en versant la somme due sur le compte IBAN (International Bank Account Number) de l'Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14924">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Zahlung auf anderem Wege (Barzahlung, Postanweisung, Bank-/Posteinzahlung oder &#xDC;berweisung, Post- oder Bankscheck) gilt als massgebendes Valutadatum f&#xFC;r die Anrechnung einer Zahlung jenes Datum, an dem der Staat das Geld erh&#xE4;lt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de paiement par un autre moyen (esp&#xE8;ces, mandat postal, versement ou virement bancaire ou postal, ch&#xE8;que postal ou bancaire), la date valeur d&#xE9;terminante pour l'imputation de l'encaissement est celle &#xE0; laquelle l'Etat re&#xE7;oit l'argent.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14925">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Anrechnung einer Zahlung wird in analoger Anwendung der Bestimmungen von Artikel 85, 86 und 87 des Obligationenrechts (OR) geregelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'imputation d'un encaissement est r&#xE9;gie, par analogie, par les dispositions des articles 85, 86 et 87 du Code des Obligations (CO).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6504">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Verzugszins</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Int&#xE9;r&#xEA;t moratoire</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14926">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Nichtbezahlung innerhalb der 30-t&#xE4;gigen Frist ist ab F&#xE4;lligkeitsdatum ein Verzugszins von f&#xFC;nf Prozent geschuldet.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de non-paiement dans le d&#xE9;lai de trente jours, un int&#xE9;r&#xEA;t moratoire de cinq pour cent est d&#xFB; d&#xE8;s l'&#xE9;ch&#xE9;ance de ce d&#xE9;lai.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6505">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Mahnung und Zahlungsaufforderung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Rappel et sommation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14927">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Nichtbezahlung der Rechnung innert der 30-t&#xE4;gigen Frist wird zehn Tage nach dem F&#xE4;lligkeitstermin eine Mahnung mit Einladung zur sofortigen Zahlung des geschuldeten Betrages zugestellt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de non-paiement de la facture dans le d&#xE9;lai de 30 jours, il est adress&#xE9;, dix jours apr&#xE8;s l'&#xE9;ch&#xE9;ance, un rappel invitant &#xE0; verser de suite la somme due.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14928">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Nichtbezahlung bis zum 40. Tag nach der F&#xE4;lligkeit der Rechnung wird eine Aufforderung zur Zahlung des geschuldeten Betrages innerhalb einer 10-t&#xE4;gigen Frist zugestellt, bevor die Betreibung eingeleitet wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de non-paiement le 40&#xE8;me jour qui suit l'&#xE9;ch&#xE9;ance de la facture, il est adress&#xE9; une sommation de payer la somme due et fixant un d&#xE9;lai de dix jours avant que n'intervienne l'introduction d'une poursuite.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14929">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Diese Massnahmen erfolgen grunds&#xE4;tzlich automatisch &#xFC;ber die Informatiksysteme.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Ces mesures sont effectu&#xE9;es en principe de mani&#xE8;re automatique au moyen de syst&#xE8;mes informatiques.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6506">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Bestreitung der Forderung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Contestation de la cr&#xE9;ance</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14930">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Bestreitung einer &#xF6;ffentlich-rechtlichen Forderung sistiert die fakturierende Dienststelle das Inkassoverfahren bis f&#xFC;r die Forderung eine vollstreckbare Verf&#xFC;gung vorliegt, sofern der Staat nicht &#xFC;ber einen anderen Rechts&#xF6;ffnungstitel verf&#xFC;gt (Vereinbarung, Schuldanerkennung usw.).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de contestation d'une cr&#xE9;ance de droit public, le service &#xE9;metteur suspend la proc&#xE9;dure d'encaissement jusqu'&#xE0; ce que la cr&#xE9;ance puisse se fonder sur une d&#xE9;cision ex&#xE9;cutoire, &#xE0; moins que l'Etat ne dispose d'un autre titre de mainlev&#xE9;e (convention, reconnaissance de dette, etc.).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14931">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Bestreitung einer privatrechtlichen Forderung erfolgt die Sistierung nur, wenn der Staat keinen Rechts&#xF6;ffnungstitel hat. In diesem Fall beurteilen die fakturierende Dienststelle beziehungsweise das betroffene Departement oder der Staatsrat im Rahmen ihrer jeweiligen Zust&#xE4;ndigkeiten die Zweckm&#xE4;ssigkeit einer Feststellung der Forderung durch die Gerichte.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Lorsque la contestation porte sur une cr&#xE9;ance de droit priv&#xE9;, une suspension n'intervient que si l'Etat ne dispose pas d'un titre de mainlev&#xE9;e. En un tel cas, le service &#xE9;metteur, respectivement le d&#xE9;partement concern&#xE9; ou le Conseil d'Etat, dans le cadre de leurs comp&#xE9;tences respectives, appr&#xE9;cient l'opportunit&#xE9; de faire constater la cr&#xE9;ance par les tribunaux.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6507">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zahlungserleichterungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Facilit&#xE9;s de paiement</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14932">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Wenn die Zahlung der Forderung innert der vorgesehenen Frist f&#xFC;r den Schuldner besonders schwerwiegende Folgen hat oder gar nicht m&#xF6;glich ist, kann die fakturierende Dienststelle Zahlungserleichterungen gew&#xE4;hren, solange keine Betreibung eingeleitet wurde.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Si le paiement de la cr&#xE9;ance, dans le d&#xE9;lai pr&#xE9;vu, a pour le d&#xE9;biteur des cons&#xE9;quences particuli&#xE8;rement dures, ou n'est pas possible, le service &#xE9;metteur peut accorder des facilit&#xE9;s de paiement, tant qu'une poursuite n'est pas introduite.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14933">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Als Zahlungserleichterungen sind Abschlagszahlungen (regelm&#xE4;ssige Anzahlungen), die Verl&#xE4;ngerung der Zahlungsfrist oder die vor&#xFC;bergehende Sistierung des Inkassoverfahrens m&#xF6;glich.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Ces facilit&#xE9;s peuvent consister en la possibilit&#xE9; de payer de mani&#xE8;re &#xE9;chelonn&#xE9;e (acomptes r&#xE9;guliers), la prolongation du d&#xE9;lai de paiement, ou la suspension provisoire de la proc&#xE9;dure d'encaissement.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14934">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gew&#xE4;hrung von Zahlungserleichterungen kann von angemessenen Sicherheitsleistungen abh&#xE4;ngig gemacht werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'octroi de facilit&#xE9;s de paiement peut &#xEA;tre subordonn&#xE9; &#xE0; la fourniture de garanties appropri&#xE9;es.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14935">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei Nichteinhaltung der gew&#xE4;hrten Erleichterungen werden diese aufgehoben, sofern nicht besondere Umst&#xE4;nde die Nichteinhaltung entschuldigen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de non-respect des facilit&#xE9;s accord&#xE9;es, celles-ci sont r&#xE9;voqu&#xE9;es, sauf circonstances particuli&#xE8;res excusant ce non-respect.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14936">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat erl&#xE4;sst Spezialbestimmungen &#xFC;ber die Beziehungen mit den Gemeinden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te par d&#xE9;cision sp&#xE9;ciale les dispositions concernant les rapports avec les communes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6508">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Schulderlass</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Remise de dette</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14937">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Schuldnern, die in Not geraten oder aus anderen Gr&#xFC;nden in eine Lage versetzt worden sind, in der die Bezahlung der Forderung und/oder der Zinsen zu einer grossen H&#xE4;rte w&#xFC;rde, k&#xF6;nnen die geschuldeten Betr&#xE4;ge ganz oder teilweise erlassen werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Tout ou partie de la cr&#xE9;ance et/ou des int&#xE9;r&#xEA;ts peuvent &#xEA;tre remis au d&#xE9;biteur qui est tomb&#xE9; dans le d&#xE9;nuement, ou qui, pour toute autre raison, se trouve dans une situation telle que le paiement ou le maintien de la cr&#xE9;ance auraient des cons&#xE9;quences excessivement dures.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14938">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei der Behandlung der Erlassgesuche wird nicht nur der finanziellen Situation des Schuldners Rechnung getragen, sondern auch seinem Verhalten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans le traitement des demandes de remise, il sera tenu compte non seulement de la situation financi&#xE8;re du d&#xE9;biteur, mais &#xE9;galement du comportement de celui-ci.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14939">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bevor das kantonale Inkassoamt f&#xFC;r Schuldbetreibungs- und Konkursverfahren (IBK) das Dossier behandelt, liegt die Zust&#xE4;ndigkeit zur Behandlung von Erlassgesuchen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La comp&#xE9;tence pour statuer sur les demandes de remise appartient, avant que l'office cantonal du contentieux financier (OCCF) ne soit saisi du dossier:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17648">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bis 5'000 Franken beim Dienstchef;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">jusqu'&#xE0; 5'000 francs au chef de service;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17649">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">von 5'001 bis 50'000 Franken beim Departementsvorsteher;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">de 5'001 francs &#xE0; 50'000 francs au chef de d&#xE9;partement;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8019">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xFC;ber 50'000 Franken beim Staatsrat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">au-del&#xE0; de 50'000 francs au Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14940">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sobald das IBK das Dossier behandelt, liegt die Zust&#xE4;ndigkeit:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Lorsque l'OCCF est saisi du dossier, cette comp&#xE9;tence appartient:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17650">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bis 20'000 Franken beim IBK;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">jusqu'&#xE0; 20'000 francs &#xE0; l'OCCF;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17651">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">von 20'001 bis 50'000 Franken beim Vorsteher des mit den Finanzen beauftragten Departements;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">de 20'001 francs &#xE0; 50'000 francs au chef du d&#xE9;partement en charge des finances;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8020">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xFC;ber 50'000 Franken beim Staatsrat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">au-del&#xE0; de 50'000 francs au Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14941">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat erl&#xE4;sst Spezialbestimmungen &#xFC;ber die Beziehungen mit den Gemeinden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te par d&#xE9;cision sp&#xE9;ciale les dispositions concernant les rapports avec les communes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6509">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Verrechnung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Compensation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14942">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staat kann Forderungen Dritter gegen ihn nach den Regeln, die sich aus einer analogen Anwendung der Artikel 120 und folgende des Obligationenrechts (OR) ergeben, mit Forderungen, die er gegen&#xFC;ber denselben Dritten hat, verrechnen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'Etat peut compenser des cr&#xE9;ances de tiers envers lui par des cr&#xE9;ances qu'il d&#xE9;tient envers ces m&#xEA;mes tiers, conform&#xE9;ment aux r&#xE8;gles d&#xE9;coulant d'une application par analogie des articles 120 et suivants du code des obligations (CO).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14943">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Verrechnung von Forderungen anderer &#xF6;ffentlicher K&#xF6;rperschaften gegen&#xFC;ber dem Staat erfordert kein Einverst&#xE4;ndnis Letzterer.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La compensation des cr&#xE9;ances d'autres collectivit&#xE9;s publiques envers l'Etat ne n&#xE9;cessite pas l'accord de ces derni&#xE8;res.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6510">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>10</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Gesuch um die Einleitung oder den R&#xFC;ckzug einer Betreibung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Demande d'introduction et de retrait d'une poursuite</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14944">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Nach Ablauf der Zahlungsaufforderungsfrist stellt die fakturierende Dienststelle dem kantonalen Inkassoamt f&#xFC;r Schuldbetreibungs- und Konkursverfahren (IBK) ein vollst&#xE4;ndig ausgef&#xFC;lltes, datiertes und unterzeichnetes Gesuch um Einleitung der Betreibung mit den entsprechenden Beilagen und Beweismitteln zu.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Apr&#xE8;s l'&#xE9;ch&#xE9;ance du d&#xE9;lai de sommation, le service &#xE9;metteur adresse &#xE0; l'OCCF une demande d'introduction de poursuite d&#xFB;ment remplie, dat&#xE9;e et sign&#xE9;e, accompagn&#xE9;e des pi&#xE8;ces justificatives utiles.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14945">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Auf schriftliches und begr&#xFC;ndetes Gesuch hin kann die fakturierende Dienststelle jederzeit den R&#xFC;ckzug der Betreibung verlangen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Sur requ&#xEA;te &#xE9;crite et motiv&#xE9;e, le service &#xE9;metteur peut en tout temps demander le retrait d'une poursuite.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6511">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>11</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Schuldbetreibungs- und Konkursverfahren</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Proc&#xE9;dures de poursuite et de faillite</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14946">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das IBK ist beauftragt, den Staat in seiner Eigenschaft als Gl&#xE4;ubiger im Rahmen der Verfahren im Bereich des Schuldbetreibungs- und Konkursrechts zu vertreten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'OCCF est charg&#xE9; de repr&#xE9;senter l'Etat en sa qualit&#xE9; de cr&#xE9;ancier dans le cadre des proc&#xE9;dures en mati&#xE8;re du droit de la poursuite et de la faillite.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14947">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">In diesem Rahmen hat es insbesondere folgende Aufgaben:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans ce cadre, ses attributions sont notamment les suivantes:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8021">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einleitung und Fortf&#xFC;hrung der Betreibungs- und Arrestierungsverfahren;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">introduction et suivi des proc&#xE9;dures de poursuite et de s&#xE9;questre;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8022">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eingabe in Konkurs- und Nachlassverfahren;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">production dans le cadre des proc&#xE9;dures de faillite et de concordat;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8023">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Fortf&#xFC;hrung der Konkurs- und Nachlassverfahren;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">suivi des proc&#xE9;dures de faillite et de concordat;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8024">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sorgf&#xE4;ltige Bewirtschaftung der Verlustscheine.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">gestion diligente des actes de d&#xE9;faut de biens.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14948">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Im Rahmen der Nachlassverfahren (Zustimmung) und der Verfahren zum R&#xFC;ckkauf von Verlustscheinen werden die Entscheidkompetenzen gem&#xE4;ss Artikel 8 Absatz 4 der vorliegenden Verordnung geregelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans le cadre des proc&#xE9;dures de concordat (adh&#xE9;sion) et de rachat d'actes de d&#xE9;faut de biens, les comp&#xE9;tences de d&#xE9;cision sont r&#xE9;gl&#xE9;es conform&#xE9;ment &#xE0; l'article 8 alin&#xE9;a 4 de la pr&#xE9;sente ordonnance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14949">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r alle Forderungen, welche dem IBK nicht bekannt sind, sind die fakturierenden Dienststellen beauftragt, die Schuldenrufverfahren sorgf&#xE4;ltig zu beachten und dieses Amt unverz&#xFC;glich &#xFC;ber einzugebende Forderungen zu informieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour les cr&#xE9;ances non connues de l'OCCF, les services &#xE9;metteurs sont charg&#xE9;s de suivre avec diligence les proc&#xE9;dures d'appel aux cr&#xE9;anciers et d'informer sans d&#xE9;lai ledit office des cr&#xE9;ances &#xE0; produire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6512">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>12</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Verfahren beim Inventarrecht und beim Schuldenruf</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Proc&#xE9;dures de b&#xE9;n&#xE9;fice d'inventaire et d'appel aux cr&#xE9;anciers</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14950">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das IBK ist beauftragt, im Rahmen des Schuldenrufs nach OR und des &#xF6;ffentlichen Inventars nach dem Schweizerischen Zivilgesetzbuch (ZGB) die erforderlichen Forderungseingaben vorzunehmen und die Verfahren durchzuf&#xFC;hren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'OCCF est charg&#xE9; d'effectuer les productions et de suivre les proc&#xE9;dures dans le cadre des appels aux cr&#xE9;anciers au sens du CO, et des b&#xE9;n&#xE9;fices d'inventaire au sens du code civil suisse (CC).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14951">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r alle Forderungen, welche dem IBK nicht bekannt sind, sind die fakturierenden Dienststellen beauftragt, die Schuldenrufverfahren sorgf&#xE4;ltig zu beachten und dieses Amt unverz&#xFC;glich &#xFC;ber einzugebende Forderungen zu informieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour les cr&#xE9;ances non connues de l'OCCF, les services &#xE9;metteurs sont charg&#xE9;s de suivre avec diligence les proc&#xE9;dures d'appel aux cr&#xE9;anciers et d'informer sans d&#xE9;lai ledit office des cr&#xE9;ances &#xE0; produire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6513">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>13</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Sicherheitsleistung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Garantie</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14952">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Im Falle von Sicherheitsleistung durch einen Dritten (Pfand, Sicherstellung, B&#xFC;rgschaft, usw.) f&#xFC;r Forderungen, die bei Inkrafttreten der vorliegenden Verordnung bereits bestehen, &#xFC;bergibt die fakturierende Dienststelle dem IBK eine Liste mit folgenden Angaben: Forderung, Hauptschuldner, Sicherheitsleistung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de garantie (gage, s&#xFB;ret&#xE9;, caution, etc.) fournie par un tiers, de cr&#xE9;ances existant lors de l'entr&#xE9;e en vigueur de la pr&#xE9;sente ordonnance, le service &#xE9;metteur remet &#xE0; l'OCCF une liste nominative comprenant les &#xE9;l&#xE9;ments suivants: cr&#xE9;ance, d&#xE9;biteur principal, garantie.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14953">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r neue Forderungen m&#xFC;ssen diese Angaben bereits bei der Entstehung der Forderung mitgeteilt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour les nouvelles cr&#xE9;ances, ces &#xE9;l&#xE9;ments doivent &#xEA;tre communiqu&#xE9;s d&#xE8;s la naissance de la cr&#xE9;ance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6514">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>14</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Annullierung der Rechnung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Annulation de facture</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14954">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Eine Rechnung kann nur im Falle eines Irrtums ganz oder teilweise annulliert werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une facture ne peut &#xEA;tre annul&#xE9;e, totalement ou partiellement, qu'en cas d'erreur.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6515">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>15</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Abschreibung der Forderung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Amortissement de cr&#xE9;ance</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14955">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Eine g&#xE4;nzliche oder teilweise Abschreibung der Forderung wird vorgenommen bei:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il est proc&#xE9;d&#xE9; &#xE0; l'amortissement total ou partiel d'une cr&#xE9;ance en cas de:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8025">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausstellung eines Verlustscheins nach Pf&#xE4;ndung;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d&#xE9;livrance d'un acte de d&#xE9;faut de biens apr&#xE8;s saisie;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8026">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausstellung eines Verlustscheins nach Konkurs;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d&#xE9;livrance d'un acte de d&#xE9;faut de biens apr&#xE8;s faillite;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8027">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erl&#xF6;schen der Forderung aufgrund eines Nachlassvertrages;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">extinction de la cr&#xE9;ance &#xE0; la suite d'un concordat;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8028">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">starker Vermutung der Uneinbringlichkeit der Forderung;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">forte pr&#xE9;somption du caract&#xE8;re irr&#xE9;couvrable de la cr&#xE9;ance;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8029">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">ausl&#xE4;ndischem Wohnsitz oder unbekanntem Aufenthalt des Schuldners, es sei denn, die Anwendung spezifischer Gesetzesbestimmungen rechtfertige die Nicht-Abschreibung;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d&#xE9;biteur domicili&#xE9; &#xE0; l'&#xE9;tranger ou sans domicile connu, sauf si l'application de dispositions l&#xE9;gales sp&#xE9;cifiques justifie le non-amortissement;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8030">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">nicht einbringbare Zinsdifferenz;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">diff&#xE9;rence d'int&#xE9;r&#xEA;t non recouvrable;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8031">
+                    <partNumber>g)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verzugszinsen und Kosten, die dem Schuldner nicht auferlegt werden k&#xF6;nnen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">int&#xE9;r&#xEA;ts moratoires et frais engag&#xE9;s non imputables au d&#xE9;biteur;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8032">
+                    <partNumber>h)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schulderlass;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">remise de dette;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8033">
+                    <partNumber>i)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausschlagung der Erbschaft;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">succession r&#xE9;pudi&#xE9;e;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8034">
+                    <partNumber>j)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">unverh&#xE4;ltnism&#xE4;ssig hohen Aufwendungen im Verh&#xE4;ltnis zum erhofften Eintreibungsergebnis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">frais &#xE0; engager paraissant excessifs par rapport aux esp&#xE9;rances de recouvrement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14956">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Entscheidkompetenz zur Abschreibung von Forderungen wird analog von Artikel 8 der vorliegenden Verordnung geregelt. F&#xFC;r die F&#xE4;lle nach den Buchstaben a, b und i vorstehend verf&#xFC;gen die die fakturierende Dienststelle bzw. das IBK &#xFC;ber eine unbeschr&#xE4;nkte Kompetenz.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les comp&#xE9;tences de d&#xE9;cision en mati&#xE8;re d'amortissement de cr&#xE9;ance sont r&#xE9;gl&#xE9;es conform&#xE9;ment &#xE0; l'article 8 de la pr&#xE9;sente ordonnance. Pour les cas mentionn&#xE9;s aux lettres a, b et i ci-dessus, le service &#xE9;metteur, respectivement l'OCCF, b&#xE9;n&#xE9;ficient d'une comp&#xE9;tence illimit&#xE9;e</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6516">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>16</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Einsichtsrecht in die Steuerdaten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Droit de consultation des donn&#xE9;es fiscales</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14957">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Personal des IBK hat das Recht, die informatisierten Steuerdaten der Schuldner direkt zu konsultieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le personnel de l'OCCF a le droit de consulter directement les donn&#xE9;es fiscales informatis&#xE9;es concernant les d&#xE9;biteurs.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14958">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Falls notwendig, kann es bei den Veranlagungsbeh&#xF6;rden die Einsichtnahme in die umfassenden Steuerakten beantragen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Si n&#xE9;cessaire, il peut requ&#xE9;rir des autorit&#xE9;s de taxation la consultation des dossiers fiscaux dans leur int&#xE9;gralit&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14959">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Personal der kantonalen Finanzverwaltung, das mit der Anrechnung eines Zahlungseinganges beauftragt ist, ist berechtigt, die informatisierten Steuerdaten der Schuldner direkt zu konsultieren, mit Ausnahme der Veranlagungsprotokolle.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le personnel de l'administration cantonale des finances charg&#xE9; de l'imputation des encaissements a le droit de consulter directement les donn&#xE9;es fiscales informatis&#xE9;es des d&#xE9;biteurs, &#xE0; l'exception des proc&#xE8;s-verbaux de taxation.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14960">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Was die fakturierenden Dienststellen betrifft, so kann deren Personal, das speziell mit Inkassoaufgaben beauftragt ist, die informatisierten Steuerdaten zur Feststellung der Identit&#xE4;t und des Wohnsitzes des Schuldners einsehen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">S'agissant des services &#xE9;metteurs, le personnel sp&#xE9;cialement charg&#xE9; des t&#xE2;ches d'encaissement peut consulter directement les donn&#xE9;es fiscales informatis&#xE9;es concernant la d&#xE9;termination de l'identit&#xE9; et du domicile du d&#xE9;biteur.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6517">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>17</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Richtlinien</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Directives</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14961">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die zur Anwendung der Bestimmungen der vorliegenden Verordnung notwendigen Richtlinien werden erlassen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les directives n&#xE9;cessaires &#xE0; l'application des dispositions de la pr&#xE9;sente ordonnance sont &#xE9;dict&#xE9;es:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17652">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">durch die kantonale Finanzverwaltung f&#xFC;r die Fakturierungs- und Inkassoverfahren sowie f&#xFC;r die Debitorenbuchhaltung;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">par l'administration cantonale des finances pour les proc&#xE9;dures de facturation et d'encaissement, ainsi que pour la comptabilit&#xE9; d&#xE9;biteurs;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8035">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">durch das IBK f&#xFC;r die Eintreibungsverfahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">par l'OCCF en ce qui concerne les proc&#xE9;dures de recouvrement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6518">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>18</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Geb&#xFC;hren</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Emoluments</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14962">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Im Rahmen der Inkasso- und Eintreibungsverfahren werden nachfolgende Verwaltungsgeb&#xFC;hren erhoben:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans le cadre des proc&#xE9;dures d'encaissement et de recouvrement, sont per&#xE7;us les &#xE9;moluments administratifs suivants:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17653">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">f&#xFC;r die Zustellung einer Zahlungsaufforderung: 20 Franken;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pour l'envoi d'une sommation: 20 francs;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17654">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">f&#xFC;r die Zustellung eines Betreibungsbegehrens: 30 Franken;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pour l'envoi d'une r&#xE9;quisition de poursuite: 30 francs;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17655">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">f&#xFC;r die Ausstellung eines Kataster- oder Grundbuchauszugs: 10 Franken;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pour la production d'un extrait de cadastre ou de registre foncier: 10 francs;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8036">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">f&#xFC;r die Erstellung einer Sicherstellungsverf&#xFC;gung oder eines Arrestbefehls: 50 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pour l'&#xE9;tablissement d'une demande ou d'une ordonnance de s&#xE9;questre: 50&#xA0;francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14963">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die dem Staat im Rahmen der Inkasso- und Eintreibungsverfahren entstandenen Kosten k&#xF6;nnen aus folgenden Gr&#xFC;nden auf den Schuldner &#xFC;berw&#xE4;lzt werden:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les frais encourus par l'Etat dans le cadre des proc&#xE9;dures d'encaissement et de recouvrement peuvent &#xEA;tre mis &#xE0; la charge du d&#xE9;biteur pour les motifs suivants:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17656">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">wenn der Schuldner den geschuldeten Betrag freiwillig durch Abschlagszahlungen bezahlt;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">lorsque le d&#xE9;biteur paie volontairement de mani&#xE8;re fractionn&#xE9;e la somme due;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17657">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">wenn der Schuldner eine andere Zahlungsart w&#xE4;hlt als mit dem ESR und dadurch zus&#xE4;tzliche Spesen verursacht;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">lorsque le d&#xE9;biteur choisit de payer par un autre mode de paiement que le BVR et occasionne de ce fait des frais suppl&#xE9;mentaires;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:8037">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bei Nachforschungen auf Gesuch des Schuldners.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">lors de recherches effectu&#xE9;es &#xE0; la demande du d&#xE9;biteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:6519">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>19</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Schlussbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions finales</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14964">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Unter Vorbehalt von Artikel 1 Absatz 2 hebt die vorliegende Verordnung alle ihr widersprechenden Bestimmungen auf, insbesondere den Beschluss des Staatsrates vom 28. August 1991.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Sous r&#xE9;serve de l'article premier alin&#xE9;a 2, la pr&#xE9;sente ordonnance abroge toutes les dispositions contraires, et notamment la d&#xE9;cision du Conseil d'Etat du 28 ao&#xFB;t 1991.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14965">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt publiziert um auf den 1. Oktober 2006 in Kraft zu treten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e au Bulletin officiel, pour entrer en vigueur au 1<format upper="true">er</format> octobre 2006.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2006-10-01</dateForce>
+      <dateVersion>2006-10-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 39/2006</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,2083 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:567</normID>
+      <number>620.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">Kantonalbankgesetz, GWKB</abbreviation>
+      <abbreviation lang="fr">LBCVs</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Walliser Kantonalbank</title>
+      <title lang="fr">Loi sur la Banque cantonale du Valais</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1991-10-01</dateAdoption>
+      <dateForce>1993-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription>
+        <basis>auf Antrag des Staatsrates,</basis>
+        <formal>beschliesst:</formal>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription>
+        <basis>sur la proposition du Conseil d'Etat,</basis>
+        <formal>d&#xE9;cide:</formal>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1992 f 35, 371 | d 37, 390</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1843">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Walliser Kantonalbank</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur la Banque cantonale du Valais</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1845">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6325">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsform und Sitz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Forme juridique et si&#xE8;ge</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14544">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Walliser Kantonalbank (nachfolgend: Bank) ist eine &#xF6;ffentlich-rechtliche Aktiengesellschaft gem&#xE4;ss Artikel 763 OR mit Sitz in Sitten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Banque cantonale du Valais (ci-apr&#xE8;s: la banque) est une soci&#xE9;t&#xE9; anonyme de droit public selon l'article 763 CO et a son si&#xE8;ge &#xE0; Sion.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14545">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann Niederlassungen und Agenturen errichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut avoir des succursales et agences.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6326">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14546">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank bietet im Interesse des gesamten Kantons die Dienstleistungen einer Universalbank an. Sie tr&#xE4;gt in den Grenzen der Vorsichtsregeln der Branche zu einer ausgewogenen Entwicklung der Walliser Wirtschaft bei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque offre les services d'une banque universelle conform&#xE9;ment aux int&#xE9;r&#xEA;ts g&#xE9;n&#xE9;raux du canton. Elle contribue au d&#xE9;veloppement harmonieux de l'&#xE9;conomie valaisanne, dans les limites des r&#xE8;gles prudentielles de la branche.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6327">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bankgesch&#xE4;fte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Activit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14547">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank t&#xE4;tigt alle Bankgesch&#xE4;fte, die es ihr gestatten, ihren Zweck zu erreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque accomplit toutes les op&#xE9;rations bancaires lui permettant d'atteindre son but.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14548">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank entfaltet ihre T&#xE4;tigkeit unter Beachtung der allgemein g&#xFC;ltigen Regeln der Sorgfaltspflicht. Im speziellen achtet sie auf eine angemessene Risikoverteilung und die Sicherstellung der Liquidit&#xE4;t.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque d&#xE9;veloppe son activit&#xE9; en respectant les r&#xE8;gles g&#xE9;n&#xE9;rales de prudence. En particulier, elle veille &#xE0; maintenir une r&#xE9;partition des risques appropri&#xE9;e et &#xE0; assurer l'&#xE9;quilibre des &#xE9;ch&#xE9;ances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6328">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesch&#xE4;ftskreis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rayon d'activit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14549">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Gesch&#xE4;ftskreis umfasst das Gebiet des Kantons Wallis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque d&#xE9;ploie normalement son activit&#xE9; en Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14550">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann auch Bankgesch&#xE4;fte in anderen Kantonen und im Ausland t&#xE4;tigen und mit anderen Finanzinstituten oder Dienstleistungsbetrieben zusammenarbeiten, kooperieren, Verbindungen eingehen oder Netze aufbauen. Diese Bankgesch&#xE4;fte m&#xFC;ssen jedoch im direkten oder indirekten Interesse der Walliser Wirtschaft liegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut agir dans d'autres cantons et &#xE0; l'&#xE9;tranger, et collaborer, coop&#xE9;rer, s'allier, cr&#xE9;er des r&#xE9;seaux avec d'autres instituts financiers ou des soci&#xE9;t&#xE9;s de services. Ces op&#xE9;rations doivent &#xEA;tre dans l'int&#xE9;r&#xEA;t direct ou indirect de l'&#xE9;conomie valaisanne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14551">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6329">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Staatsgarantie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Garantie de l'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14552">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat haftet f&#xFC;r alle Verbindlichkeiten der Bank.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat garantit les engagements de la banque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14553">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank entsch&#xE4;digt diese Garantie durch die j&#xE4;hrliche Zahlung eines Betrags an den Staat, der 0.7 Prozent der erforderlichen Eigenmittel im Sinne der Bundesgesetzgebung &#xFC;ber die Banken entspricht und aufgrund der Vorjahresrechnung der Bank festgelegt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque r&#xE9;mun&#xE8;re cette garantie en versant annuellement &#xE0; l'Etat un montant correspondant au 0.7 pour cent de ses fonds propres n&#xE9;cessaires au sens de la l&#xE9;gislation f&#xE9;d&#xE9;rale sur les banques, d&#xE9;termin&#xE9;s sur la base des comptes de la banque de l'ann&#xE9;e pr&#xE9;c&#xE9;dente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6330">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;brige anwendbare Bestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autres dispositions applicables</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14554">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nebst dem vorliegenden Gesetz wird die Bank geregelt durch die anwendbaren Bestimmungen des Bundesgesetzes &#xFC;ber die Banken und Sparkassen, des Bundesgesetzes &#xFC;ber die B&#xF6;rsen und den Effektenhandel, durch ihre Statuten, durch das Organisations- und Gesch&#xE4;ftsreglement, sowie erg&#xE4;nzend durch das Obligationenrecht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Outre la pr&#xE9;sente loi, la banque est r&#xE9;gie par les dispositions de la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne, et de la loi f&#xE9;d&#xE9;rale sur les bourses et le commerce des valeurs mobili&#xE8;res, qui lui sont applicables, par ses statuts, par le r&#xE8;glement d'organisation et de gestion ainsi que par le code des obligations &#xE0; titre suppl&#xE9;tif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1846">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Finanzierung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Financement</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6331">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aktienkapital</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Capital social</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14555">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Aktienkapital wird in Namenaktien und/oder Inhaberaktien aufgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le capital social de la banque est divis&#xE9; en actions nominatives et/ou au porteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14556">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mindestens 51 Prozent der Anzahl Aktien und des Stimmrechts bleiben im Besitz des Kantons und d&#xFC;rfen nicht ver&#xE4;ussert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton d&#xE9;tient une participation donnant droit &#xE0; au moins 51 pour cent du nombre des actions et du droit de vote; il ne peut ali&#xE9;ner cette participation minimale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6332">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausgabe von Aktien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emission d'actions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14557">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank ist erm&#xE4;chtigt, neue Aktien, mit oder ohne Bezugsrecht der bisherigen Aktion&#xE4;re, herauszugeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque peut &#xE9;mettre de nouvelles actions, avec ou sans droit pr&#xE9;f&#xE9;rentiel de souscription des actions existantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14558">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einer Herausgabe neuer Aktien ohne Bezugsrecht muss der Grundsatz der rechtsgleichen Behandlung gewahrt bleiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;mission d'actions sans droit pr&#xE9;f&#xE9;rentiel de souscription doit respecter le principe de l'&#xE9;galit&#xE9; de traitement des actionnaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6333">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Andere Finanzierungsformen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autres formes de financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14559">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank kann sich weitere Betriebsmittel in allen bank&#xFC;blichen Formen oder auf dem Finanzmarkt beschaffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque peut se procurer d'autres fonds, sous toutes les formes bancaires ou sur le march&#xE9; financier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14560">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank kann Titel herausgeben die einen Anspruch auf den Gewinn und den Liquidationssaldo verleihen, beispielsweise Partizipationsscheine.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque peut &#xE9;mettre des titres comportant des droits sur le b&#xE9;n&#xE9;fice ou sur le produit de liquidation, par exemple des bons de participation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1847">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation und Kontrolle</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation et contr&#xF4;le</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6334">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organe der Bank</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organes de la banque</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14561">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Organe der Bank sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les organes de la banque sont:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16282">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Generalversammlung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'assembl&#xE9;e g&#xE9;n&#xE9;rale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16283">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Verwaltungsrat;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le conseil d'administration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16281">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Generaldirektion;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la direction g&#xE9;n&#xE9;rale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7872">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Revisor gem&#xE4;ss Obligationenrecht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE9;viseur selon le Code des obligations.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30197">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30198">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30199">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6335">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Generalversammlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assembl&#xE9;e g&#xE9;n&#xE9;rale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14562">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Generalversammlung ist das oberste Organ der Bank.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e g&#xE9;n&#xE9;rale est l'organe sup&#xE9;rieur de la banque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14563">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Generalversammlung hat insbesondere folgende Kompetenzen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e g&#xE9;n&#xE9;rale dispose notamment des comp&#xE9;tences suivantes :</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7873">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie beschliesst und &#xE4;ndert die Statuten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle adopte et modifie les statuts;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7874">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7875">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie genehmigt den Jahresbericht und die Jahresrechnung nach Kenntnisnahme des Berichts des Revisors gem&#xE4;ss OR;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle approuve le rapport annuel et les comptes annuels, apr&#xE8;s avoir pris connaissance du rapport du r&#xE9;viseur selon le CO;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7876">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie erteilt dem Verwaltungsrat Entlastung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle donne d&#xE9;charge au conseil d'administration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7877">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie beschliesst &#xFC;ber die Verwendung des Reingewinnes und legt insbesondere die auszusch&#xFC;ttende Dividende fest;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle d&#xE9;termine l'emploi du b&#xE9;n&#xE9;fice net et fixe, en particulier, le dividende distribu&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7878">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie beschliesst &#xFC;ber die Herausgabe von Titeln mit Anspruch auf den Gewinn und den Liquidationssaldo;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle d&#xE9;cide les &#xE9;missions de titres comportant des droits sur le b&#xE9;n&#xE9;fice ou le produit de liquidation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7879">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie w&#xE4;hlt die Mitglieder des Verwaltungsrates und bezeichnet auf Vorschlag des Staatsrates seinen Pr&#xE4;sidenten und seinen Vizepr&#xE4;sidenten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle &#xE9;lit les membres du conseil d'administration et d&#xE9;signe, sur proposition du Conseil d'Etat, son pr&#xE9;sident et son vice-pr&#xE9;sident;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7880">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie ernennt den Revisor gem&#xE4;ss OR;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle nomme le r&#xE9;viseur selon le CO;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7881">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie beschliesst &#xFC;ber Antr&#xE4;ge des Verwaltungsrates und der Aktion&#xE4;re.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle d&#xE9;cide sur les propositions du conseil d'administration et des actionnaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14564">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Bestellung des Verwaltungsrates achtet die Generalversammlung auf eine angemessene Vertretung der Minderheitsaktion&#xE4;re; diese Vertretung darf jedoch aus h&#xF6;chstens drei Mitgliedern bestehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e g&#xE9;n&#xE9;rale assure une repr&#xE9;sentation &#xE9;quitable des actionnaires minoritaires au sein du conseil d'administration; cette repr&#xE9;sentation se compose au maximum de trois membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6336">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil d'administration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14565">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem Verwaltungsrat obliegt die Oberleitung und die Aufsicht &#xFC;ber die Bank und die Gesch&#xE4;ftsf&#xFC;hrung. Er legt die allgemeine Gesch&#xE4;ftspolitik der Bank fest und definiert in den F&#xFC;hrungsgrunds&#xE4;tzen die Art und Weise der Umsetzung des Bankauftrages zugunsten der Walliser Wirtschaft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conseil d'administration exerce la haute direction et la surveillance de la banque et de la gestion des affaires. Il d&#xE9;termine la politique g&#xE9;n&#xE9;rale de la banque et d&#xE9;finit dans des principes directeurs la mani&#xE8;re dont se concr&#xE9;tise la mission de la banque en faveur de l'&#xE9;conomie valaisanne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14566">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Verwaltungsrat setzt sich aus neun Mitgliedern zusammen und umfasst einen Pr&#xE4;sidenten, einen Vizepr&#xE4;sidenten und sieben weitere Mitglieder.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conseil d'administration se compose de neuf membres et comprend un pr&#xE9;sident, un vice-pr&#xE9;sident et sept autres membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30200">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30201">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14567">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die verschiedenen Wirtschaftsbereiche und die drei Regionen des Kantons m&#xFC;ssen im Verwaltungsrat angemessen vertreten sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les diverses branches de l'activit&#xE9; &#xE9;conomique et les trois r&#xE9;gions du canton doivent y &#xEA;tre &#xE9;quitablement repr&#xE9;sent&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14568">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Personen, die dem Verwaltungsrat angeh&#xF6;ren, m&#xFC;ssen in wirtschaftlichen Fragen qualifiziert und erfahren sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes appartenant au conseil d'administration doivent &#xEA;tre qualifi&#xE9;es et exp&#xE9;riment&#xE9;es en mati&#xE8;re &#xE9;conomique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6337">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14569">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6338">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dauer der Mandate</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e du mandat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14570">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitglieder des Verwaltungsrates werden f&#xFC;r eine Vierjahresperiode gew&#xE4;hlt und sind wiederw&#xE4;hlbar. Die Amtsdauer ist auf zw&#xF6;lf Jahre beschr&#xE4;nkt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres du conseil d'administration sont nomm&#xE9;s pour une p&#xE9;riode de quatre ans et sont r&#xE9;&#xE9;ligibles. La dur&#xE9;e totale de leur mandat ne peut exc&#xE9;der douze ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14571">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitglieder sind gehalten, ihr Amt am Ende der Verwaltungsperiode, in der sie das vollendete 70. Altersjahr erreichen, niederzulegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les administrateurs sont tenus de se d&#xE9;mettre de leur fonction au terme de la p&#xE9;riode administrative durant laquelle ils atteignent l'&#xE2;ge de 70 ans r&#xE9;volus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6339">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Generaldirektion</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Direction g&#xE9;n&#xE9;rale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14572">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generaldirektion obliegt die gesamte Gesch&#xE4;ftsf&#xFC;hrung der Bank und deren Vertretung gegen&#xFC;ber Dritten. Sie f&#xE4;llt alle Entscheide, die nicht einem anderen Organ &#xFC;bertragen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction g&#xE9;n&#xE9;rale a la charge de l'ensemble de la gestion de la banque et la repr&#xE9;sente &#xE0; l'&#xE9;gard des tiers. Elle prend toutes les d&#xE9;cisions qui ne sont pas du ressort d'un autre organe.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14573">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Generaldirektion wird vom Verwaltungsrat ernannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction g&#xE9;n&#xE9;rale est nomm&#xE9;e par le conseil d'administration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6340">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anforderungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Qualit&#xE9;s exig&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14574">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die mit der Verwaltung und Gesch&#xE4;ftsf&#xFC;hrung der Bank betrauten Personen m&#xFC;ssen einen guten Ruf geniessen und Gew&#xE4;hr f&#xFC;r eine einwandfreie Gesch&#xE4;ftst&#xE4;tigkeit bieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes charg&#xE9;es d'administrer et de g&#xE9;rer la banque doivent jouir d'une bonne r&#xE9;putation et pr&#xE9;senter toutes garanties d'une activit&#xE9; irr&#xE9;prochable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6341">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Revisor gem&#xE4;ss OR</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;viseur selon le CO</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14575">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank wird von einem unabh&#xE4;ngigen Revisor kontrolliert, der von der Generalversammlung ernannt wird und dessen Auftrag sich nach dem Obligationenrecht richtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque est contr&#xF4;l&#xE9;e par un r&#xE9;viseur ind&#xE9;pendant nomm&#xE9; par l'assembl&#xE9;e g&#xE9;n&#xE9;rale dont la mission est celle pr&#xE9;vue par le Code des obligations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14576">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Bankrevisor kann mit dieser Funktion beauftragt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE9;viseur bancaire peut &#xEA;tre charg&#xE9; de cette fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39138">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6342">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Interner Revisor (Inspektorat)</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;viseur interne (inspectorat)</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14577">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der interne Revisor (Inspektorat) f&#xFC;hrt regelm&#xE4;ssig Kontrollen &#xFC;ber die gesamte T&#xE4;tigkeit der Bank durch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE9;viseur interne (inspectorat) effectue des contr&#xF4;les r&#xE9;guliers portant sur toute l'activit&#xE9; de la banque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14578">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er wird vom Verwaltungsrat ernannt und untersteht diesem direkt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est nomm&#xE9; par le conseil d'administration auquel il est directement subordonn&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6343">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bankrevisor</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;viseur bancaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14579">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank wird von einem unabh&#xE4;ngigen Bankrevisor kontrolliert, der vom Verwaltungsrat ernannt wird, und dessen Auftrag sich nach den Bestimmungen des Bundesgesetzes &#xFC;ber die Banken und Sparkassen richtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque est contr&#xF4;l&#xE9;e par un r&#xE9;viseur bancaire ind&#xE9;pendant, nomm&#xE9; par le conseil d'administration, et dont la mission est celle pr&#xE9;vue par la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39139">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1848">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Aufsicht und Vertretung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Surveillance et repr&#xE9;sentation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6344">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">FINMA</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">FINMA</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14580">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank untersteht vollumf&#xE4;nglich der Aufsicht der FINMA im Sinne der Bestimmungen des Bundesgesetzes &#xFC;ber die Banken und Sparkassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque est soumise &#xE0; la surveillance int&#xE9;grale de la FINMA au sens des dispositions de la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39137">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6345">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grosser Rat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Grand Conseil</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14581">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grosse Rat &#xFC;berwacht die Einhaltung der Bestimmungen des vorliegenden Gesetzes und pr&#xFC;ft insbesondere, ob die allgemeine Gesch&#xE4;ftspolitik der Bank mit dem gesetzlich festgelegten Zweck &#xFC;bereinstimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Grand Conseil contr&#xF4;le le respect des dispositions de la pr&#xE9;sente loi, et v&#xE9;rifie notamment si la politique g&#xE9;n&#xE9;rale de la banque correspond au but fix&#xE9; par la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14582">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14583">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6346">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Staatsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil d'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14584">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat &#xFC;bt die Rechte aus, die mit den Aktien des Kantons verbunden sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat exerce les droits li&#xE9;s aux actions d&#xE9;tenues par le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14585">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er pr&#xFC;ft den spezifischen Bericht des Bankrevisors im Sinne von Artikel 22a des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il examine le rapport sp&#xE9;cifique du r&#xE9;viseur bancaire au sens de l'article 22a de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14586">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er erstellt allj&#xE4;hrlich zuhanden des Grossen Rates einen Bericht mit einer Beurteilung der Strategie des Staates als Aktion&#xE4;r und Garant, sowie des spezifischen Berichts des Bankrevisors.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il &#xE9;tablit chaque ann&#xE9;e &#xE0; l'attention du Grand Conseil un rapport donnant son appr&#xE9;ciation quant &#xE0; la strat&#xE9;gie de l'Etat en tant qu'actionnaire et garant, et sur le rapport sp&#xE9;cifique du r&#xE9;viseur bancaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14587">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er wacht &#xFC;ber den Vollzug der rechtskr&#xE4;ftigen Verf&#xFC;gungen der FINMA durch die Bank.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il veille &#xE0; l'ex&#xE9;cution par la banque des d&#xE9;cisions entr&#xE9;es en force de la FINMA.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6347">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Spezifischer Bericht des Bankrevisors</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rapport sp&#xE9;cifique du r&#xE9;viseur bancaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14588">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgrund der Staatsgarantie erstellt der Bankrevisor allj&#xE4;hrlich zuhanden des Staatsrates einen spezifischen Bericht &#xFC;ber die Situation der Eigenmittel der Bank, die Methoden zur Festlegung und Beurteilung der Risiken, die &#xDC;berpr&#xFC;fung der R&#xFC;ckstellungen und Amortisationen sowie &#xFC;ber die M&#xF6;glichkeit zur Aussch&#xFC;ttung von Dividenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Eu &#xE9;gard &#xE0; la garantie de l'Etat, le r&#xE9;viseur bancaire &#xE9;tablit chaque ann&#xE9;e &#xE0; l'attention du Conseil d'Etat un rapport sp&#xE9;cifique portant sur la pr&#xE9;sentation de la situation des fonds propres de la banque, les m&#xE9;thodes de d&#xE9;termination et d'appr&#xE9;ciation des risques, et la v&#xE9;rification des provisions et des amortissements, ainsi que la possibilit&#xE9; de distribuer des dividendes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1849">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Jahresrechnung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Comptes annuels</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6348">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Jahresrechnung und Gewinn</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comptes annuels et b&#xE9;n&#xE9;fice</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14589">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank schliesst ihre Rechnung j&#xE4;hrlich ab. Sie wird entsprechend den Bestimmungen des Obligationenrechts, des Bundesgesetzes &#xFC;ber die Banken und Sparkassen sowie des Bundesgesetzes &#xFC;ber die B&#xF6;rsen und den Effektenhandel erstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque cl&#xF4;t ses comptes annuellement. Les comptes sont &#xE9;tablis conform&#xE9;ment aux dispositions du Code des obligations, de la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne, et de la loi sur les bourses et le commerce des valeurs mobili&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14590">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Reingewinn geht aus der Jahresrechnung hervor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le b&#xE9;n&#xE9;fice net r&#xE9;sulte des comptes annuels.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14591">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Verwaltungsrat erstellt, nach Kenntnisnahme des Berichtes des Revisors gem&#xE4;ss OR, den Jahresbericht und die Jahresrechnung und legt diese der Generalversammlung zum Beschluss vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conseil d'administration, apr&#xE8;s avoir pris connaissance du rapport du r&#xE9;viseur selon le CO, &#xE9;tablit le rapport annuel et les comptes annuels pour d&#xE9;cision par l'assembl&#xE9;e g&#xE9;n&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1850">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Verschiedene Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Divers</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6349">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unvereinbarkeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Incompatibilit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14592">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitglieder des Verwaltungsrates, der Generaldirektion und der interne Revisor (Inspektorat) sind gesamthaft den in der Kantonsverfassung und in den Artikeln 10, 12, 13 und 15 des Gesetzes &#xFC;ber die Unvereinbarkeiten vorgesehenen Bestimmungen &#xFC;ber die Unvereinbarkeiten unterstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres du conseil d'administration, de la direction g&#xE9;n&#xE9;rale et le r&#xE9;viseur interne (inspectorat) sont soumis globalement aux incompatibilit&#xE9;s pr&#xE9;vues par la Constitution cantonale et les articles 10, 12, 13 et 15 de la loi sur les incompatibilit&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14593">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zudem d&#xFC;rfen die Mitglieder des Verwaltungsrates, der Generaldirektion und des internen Revisors nicht Angestellte oder Beauftragte anderer Finanzinstitute sein, noch in deren Organen mitwirken. Der Verwaltungsrat kann in besonderen F&#xE4;llen Ausnahmen bewilligen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En outre, les membres du conseil d'administration, de la direction g&#xE9;n&#xE9;rale et le r&#xE9;viseur interne (inspectorat) ne peuvent faire partie des employ&#xE9;s, mandataires ou organes d'autres instituts financiers. Le conseil d'administration peut autoriser des exceptions dans des cas particuliers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14594">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angestellten der Bank d&#xFC;rfen dem Verwaltungsrat nicht angeh&#xF6;ren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les employ&#xE9;s de la banque ne peuvent faire partie du conseil d'administration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6350">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bank- und Berufsgeheimnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Secret bancaire et secret de fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14595">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Personen, die aufgrund ihres Amtes oder ihrer T&#xE4;tigkeit von den Gesch&#xE4;ftst&#xE4;tigkeiten der Bank Kenntnis haben, sind an das Bank- und Berufsgeheimnis gebunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toutes les personnes qui, en raison de leur fonction ou de leur emploi, ont connaissance des affaires de la banque sont li&#xE9;es par le secret bancaire et le secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6351">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14596">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verantwortlichkeit der Bankorgane, unter Vorbehalt von Absatz 3, und die Prospekthaftung wird durch die Artikel 39 bis 45 des Bundesgesetzes &#xFC;ber die Banken und Sparkassen geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; des organes de la banque, sous r&#xE9;serve de l'alin&#xE9;a 3, et des responsables des prospectus est r&#xE9;gie par les articles 39 &#xE0; 45 de la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14597">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank haftet f&#xFC;r unerlaubte Handlungen ihrer Angestellten und ihrer Beauftragten in Aus&#xFC;bung ihrer Aufgaben, soweit diese nicht den Artikeln 39 bis 45 des Bundesgesetzes &#xFC;ber die Banken und Sparkassen unterstellt sind. Falls die gesch&#xE4;digte Person direkt gegen den Urheber Klage einreicht, tritt die Bank im Einverst&#xE4;ndnis mit der gesch&#xE4;digten Person an seine Stelle. Die Bank kann gegen unrechtm&#xE4;ssig Handelnde nur im Falle von Vorsatz oder Grobfahrl&#xE4;ssigkeit R&#xFC;ckgriff nehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque est responsable des actes illicites commis dans l'exercice de leurs fonctions par son personnel et ses mandataires non soumis aux articles 39 &#xE0; 45 de la loi f&#xE9;d&#xE9;rale sur les banques et les caisses d'&#xE9;pargne. Si la personne l&#xE9;s&#xE9;e intente une action directement contre l'auteur, la banque se substitue &#xE0; ce dernier, avec l'accord de la personne l&#xE9;s&#xE9;e. La banque ne peut intenter une action r&#xE9;cursoire contre les auteurs d'actes illicites qu'en cas de faute intentionnelle ou de n&#xE9;gligence grave de leur part.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14598">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verantwortlichkeit des Revisors gem&#xE4;ss OR wird durch das Obligationenrecht geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; du r&#xE9;viseur selon le CO est r&#xE9;gie par les r&#xE8;gles de ce dernier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39140">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6352">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Personalstatut</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statut du personnel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14599">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Arbeitsverh&#xE4;ltnis zwischen der Bank und ihrem Personal wird durch das Privatrecht geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les relations entre la banque et son personnel sont r&#xE9;gies par le droit priv&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6353">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Steuerpflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assujettissement &#xE0; l'imp&#xF4;t</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14600">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank unterliegt der kantonalen und kommunalen Steuerpflicht gem&#xE4;ss den f&#xFC;r die Kapitalgesellschaften geltenden Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque est soumise &#xE0; tous les imp&#xF4;ts cantonaux et communaux selon les r&#xE8;gles valables pour les soci&#xE9;t&#xE9;s de capitaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14601">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie ist proportional zum Anteil des Kantons am Aktienkapital von den kantonalen und kommunalen Gewinn- und Kapitalsteuern befreit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est exon&#xE9;r&#xE9;e des imp&#xF4;ts cantonaux et communaux sur le b&#xE9;n&#xE9;fice et le capital proportionnellement &#xE0; la part du capital de la banque d&#xE9;tenue par le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1851">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6354">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Reprise des droits et obligations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14602">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bank ist Rechtsnachfolgerin der bisherigen Walliser Kantonalbank und &#xFC;bernimmt ihre Rechte und Pflichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La banque succ&#xE8;de &#xE0; l'ancienne Banque cantonale du Valais et reprend ses droits et obligations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6355">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Apports</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14603">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Gr&#xFC;ndung wird das Aktienkapital vollumf&#xE4;nglich vom Staat Wallis gezeichnet und durch die Einlage der Aktiven und Passiven der fr&#xFC;heren Walliser Kantonalbank gem&#xE4;ss Bilanz vom 31. Dezember 1992 einbezahlt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le capital social originel de la banque est enti&#xE8;rement souscrit et lib&#xE9;r&#xE9; par l'Etat du Valais par l'apport des actifs et passifs de l'ancienne Banque cantonale du Valais selon le bilan au 31 d&#xE9;cembre 1992.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6356">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Errichtung der Bankstrukturen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etablissement des structures</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14604">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist zust&#xE4;ndig f&#xFC;r die Errichtung der rechtlichen und gesch&#xE4;ftlichen Strukturen der Bank bis zur ersten Generalversammlung, welche sp&#xE4;testens drei Monate nach Inkrafttreten dieses Gesetzes stattfindet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est comp&#xE9;tent pour l'&#xE9;tablissement des structures juridiques et de gestion de la banque jusqu'&#xE0; la premi&#xE8;re assembl&#xE9;e g&#xE9;n&#xE9;rale, qui a lieu au plus tard trois mois apr&#xE8;s l'entr&#xE9;e en vigueur de la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14605">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist ferner zust&#xE4;ndig f&#xFC;r alle zur Errichtung der Bankstrukturen notwendigen Finanzgesch&#xE4;fte.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En outre, le Conseil d'Etat est comp&#xE9;tent pour les op&#xE9;rations financi&#xE8;res li&#xE9;es &#xE0; l'&#xE9;tablissement des structures de la banque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6357">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Volksabstimmung, Inkrafttreten, Aufhebung und &#xC4;nderung geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Votation, entr&#xE9;e en vigueur, abrogation et modification</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14606">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt der Volksabstimmung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi sera soumise &#xE0; la votation populaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14607">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt den Zeitpunkt des Inkrafttretens fest. Durch dieses Gesetz wird das Dekret vom 24. Juni 1969, welches dasjenige&#xA0;&#xFC;ber die Walliser Kantonalbank vom 14. November 1941 ab&#xE4;nderte, ausser Kraft gesetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixera la date de son entr&#xE9;e en vigueur. D&#xE8;s cette date, le d&#xE9;cret du 24 juin 1969 modifiant le d&#xE9;cret sur la Banque cantonale du Valais du 14 novembre 1941 sera abrog&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34144">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Steuergesetz vom 10. M&#xE4;rz 1976 wird ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi fiscale du 10 mars 1976 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5157">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 20.05.2001</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 20.05.2001</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17100">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39141">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen des Verfahrens zur Inkraftsetzung des vorliegenden Gesetzes kann vor&#xFC;bergehend von den Bestimmungen &#xFC;ber die Amtszeit im Verwaltungsrat und Bankpr&#xE4;sidium sowie &#xFC;ber die Anzahl Mitglieder dieser Organe abgewichen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre du processus d'entr&#xE9;e en vigueur de la pr&#xE9;sente loi, il pourra &#xEA;tre d&#xE9;rog&#xE9;, &#xE0; titre transitoire, aux dispositions concernant la dur&#xE9;e des mandats au sein du conseil d'administration et du comit&#xE9;, ainsi que le nombre de membres de ces organes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1993-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 49/2016, 34/2017</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

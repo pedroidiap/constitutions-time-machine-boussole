@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:227</normID>
+      <number>831.103</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement betreffend die Ausgleichskasse des Kantons Wallis und die AHV-Zweigstellen</title>
+      <title lang="fr">R&#xE8;glement concernant la Caisse de compensation du canton du Valais et les agences locales AVS</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2000-05-24</dateAdoption>
+      <dateForce>2001-01-01T00:00:00</dateForce>
+      <dateLastChange>2001-01-01</dateLastChange>
+      <dateVersion>2001-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber die Alters- und Hinterlassenenversicherung (AHVG);</basis> <basis>eingesehen das Ausf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber die Alters- und Hinterlassenenversicherung (AGAHVG);</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Sozialwesen und Energie,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur l'assurance-vieillesse et survivants (LAVS);</basis> <basis>vu la loi d'application de la loi f&#xE9;d&#xE9;rale sur l'assurance-vieillesse et survivants (LALAVS);</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de l'&#xE9;nergie,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 24/2000</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="803">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>betreffend die Ausgleichskasse des Kantons Wallis und die AHV-Zweigstellen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>concernant la Caisse de compensation du canton du Valais et les agences locales AVS</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="805">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Ausgleichskasse des Kantons Wallis (nachstehend: Kasse)</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Caisse de compensation du canton du Valais (ci-apr&#xE8;s: Caisse)</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2676">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6104">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als selbst&#xE4;ndige &#xF6;ffentliche Anstalt f&#xFC;hrt die Kasse alle, insbesondere mit den Sozialversicherungen gebundenen Aufgaben aus, welche ihr durch die Bundes- oder Kantonsgesetzgebung &#xFC;bertragen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse, en tant qu'&#xE9;tablissement autonome de droit public, ex&#xE9;cute toutes les t&#xE2;ches li&#xE9;es essentiellement aux assurances sociales qui lui sont confi&#xE9;es en vertu du droit f&#xE9;d&#xE9;ral ou cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2677">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6105">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kasse organisiert sich nach den Grunds&#xE4;tzen der Unternehmungsf&#xFC;hrung aufgrund der eidgen&#xF6;ssischen und kantonalen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse s'organise selon les principes de la gestion d'entreprise compte tenu des prescriptions f&#xE9;d&#xE9;rales et cantonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6106">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion vertritt die Kasse gegen&#xFC;ber Dritten und unterh&#xE4;lt direkte Kontakte mit den Bundes- und Kantonsbeh&#xF6;rden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction repr&#xE9;sente la Caisse vis-&#xE0;-vis des tiers et entretient des rapports directs avec les autorit&#xE9;s f&#xE9;d&#xE9;rales et cantonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6107">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion kann im Hinblick auf die Reduzierung der Verwaltungskosten Partnervertr&#xE4;ge abschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction peut conclure des accords de partenariat en vue de g&#xE9;n&#xE9;rer des synergies destin&#xE9;es &#xE0; r&#xE9;duire ses frais administratifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6108">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein dem Departement f&#xFC;r Sozialwesen zur Genehmigung unterbreitetes internes Reglement bestimmt die Organisation der Kasse. Die Direktion kann weitere zus&#xE4;tzliche Weisungen erlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un r&#xE8;glement interne, soumis &#xE0; l'approbation du d&#xE9;partement charg&#xE9; des affaires sociales, fixe l'organisation de la Caisse. La direction peut &#xE9;mettre des directives compl&#xE9;mentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2678">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Personal</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6109">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das interne Reglement, das sich an dasjenige des Personals der kantonalen Verwaltung anlehnt, regelt die Bestimmungen f&#xFC;r das Personal.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE8;glement interne d&#xE9;finit les dispositions relatives au personnel, qui s'inspirent de celles du personnel de l'administration cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2679">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6110">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion der Kasse muss dem Departement f&#xFC;r Sozialwesen alle f&#xFC;r die Aufsicht notwendigen Dokumente aush&#xE4;ndigen, insbesondere den Gesch&#xE4;ftsf&#xFC;hrungsbericht und das Personalorganigramm.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de la Caisse doit fournir au d&#xE9;partement charg&#xE9; des affaires sociales les documents n&#xE9;cessaires &#xE0; sa surveillance notamment&#xA0;le rapport de gestion et l'organigramme du personnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="806">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>AHV-Zweigstellen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Agences locales AVS</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2680">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Integrierung der AHV-Zweigstelle in die Gemeindeverwaltung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rattachement de l'agence locale AVS &#xE0; l'administration communale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6111">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xFC;r Sozialwesen ist f&#xFC;r eine Abweichung der Integrierung der AHV-Zweigstelle in die Gemeindeverwaltung zust&#xE4;ndig. Einer Abweichung kann nur unter speziellen Umst&#xE4;nden zugestimmt werden, zum Beispiel f&#xFC;r Gemeinden mit weniger als hundert Einwohner und denen ein Zusammenschluss mit einer Nachbargemeinde nicht zugemutet werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement charg&#xE9; des affaires sociales est comp&#xE9;tent pour accorder une d&#xE9;rogation au rattachement de l'agence locale AVS &#xE0; l'administration communale. La d&#xE9;rogation ne pourra &#xEA;tre accord&#xE9;e que, dans des circonstances particuli&#xE8;res, pour des communes comprenant moins de cent habitants et pour lesquelles un regroupement avec une commune avoisinante n'est pas ais&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2681">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allgemeine Verpflichtungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations g&#xE9;n&#xE9;rales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6112">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die AHV-Zweigstellen wirken bei den der Kasse &#xFC;bertragenen Aufgaben mit und befolgen ihre Weisungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les agences locales AVS collaborent &#xE0; l'accomplissement des t&#xE2;ches confi&#xE9;es &#xE0; la Caisse en se conformant &#xE0; ses instructions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6113">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie sind verpflichtet &#xFC;ber ihre Wahrnehmungen im Sinne von Artikel 50 AHVG Verschwiegenheit zu bewahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles sont tenues &#xE0; respecter l'obligation de garder le secret au sens de l'article 50 LAVS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2682">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Zweigstellen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches des agences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6114">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die AHV- Zweigstellen haben unter anderem folgende Aufgaben zu &#xFC;bernehmen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les agences locales AVS doivent notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2589">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auskunftserteilung &#xFC;ber die durch die Kasse verwalteten Sozialleistungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">donner les renseignements de base concernant les prestations sociales g&#xE9;r&#xE9;es par la Caisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2590">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Abgabe der Leistungsanmeldungen und, n&#xF6;tigenfalls, den Versicherten oder den Beitragspflichtigen beim Ausf&#xFC;llen der Formulare behilflich sein;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;livrer les formules de demandes de prestations et au besoin aider les assur&#xE9;s ou les affili&#xE9;s &#xE0; les remplir;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2591">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mitteilung der wichtigen &#xC4;nderungen in den pers&#xF6;nlichen Verh&#xE4;ltnissen der Versicherten oder der Beitragspflichtigen und Auskunftserteilung auf Anfragen der Kasse;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">signaler les changements importants touchant la situation des assur&#xE9;s ou des affili&#xE9;s et r&#xE9;pondre aux demandes de renseignements de la Caisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2592">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Teilnahme an von der Kasse organisierten Informationssitzungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">participer aux cours de formation mis sur pied par la Caisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2593">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Durchf&#xFC;hrung von Abkl&#xE4;rungen f&#xFC;r von der Kasse verlangte Sonderf&#xE4;lle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">effectuer des enqu&#xEA;tes demand&#xE9;es par la Caisse dans des cas particuliers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6115">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Pflichtenheft der auszuf&#xFC;hrenden Arbeiten, f&#xFC;r die verschiedenen der Kasse &#xFC;bertragenen T&#xE4;tigkeiten, wird jeder AHV-Zweigstelle &#xFC;bergeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un cahier des charges, comportant les travaux &#xE0; accomplir pour les diff&#xE9;rentes activit&#xE9;s confi&#xE9;es &#xE0; la Caisse sera remis au titulaire de chaque agence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6116">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion der Kasse wird f&#xFC;r die Zweigstellen regelm&#xE4;ssig Weisungen und Zirkulare erlassen und ihnen die notwendigen Informationen erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de la Caisse &#xE9;dictera r&#xE9;guli&#xE8;rement des directives et des circulaires &#xE0; l'intention des agences et transmettra les informations n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2683">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Entl&#xF6;hnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;mun&#xE9;ration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6117">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xFC;r Sozialwesen erteilt die Weisung &#xFC;ber den Entl&#xF6;hnungsmodus der AHV-Zweigstellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement charg&#xE9; des affaires sociales &#xE9;dicte la directive fixant le mode de r&#xE9;mun&#xE9;ration des agences locales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6118">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entl&#xF6;hnung wird festgesetzt aufgrund der letzten verf&#xFC;gbaren Statistiken in Bezug auf die Anzahl Dossiers der Beitragspflichtigen, der Rentnerbez&#xFC;ger(-innen), der Bez&#xFC;ger(-innen) von Familienzulagen und von Erg&#xE4;nzungsleistungen. Die wohnhafte Bev&#xF6;lkerung k&#xF6;nnte in einer Proportion, die 20 Prozent nicht &#xFC;bersteigt, einbezogen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;mun&#xE9;ration sera d&#xE9;termin&#xE9;e en fonction des derni&#xE8;res statistiques disponibles concernant le nombre de dossiers d'affili&#xE9;s, de rentiers, de familles b&#xE9;n&#xE9;ficiaires d'allocations familiales et de b&#xE9;n&#xE9;ficiaires de prestations compl&#xE9;mentaires. La population r&#xE9;sidante pourra &#xEA;tre prise en compte dans le calcul dans une proportion ne d&#xE9;passant pas 20 pour cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6119">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um die besonderen Verh&#xE4;ltnissen der kleinen Gemeinden und der Gemeinde, wo sich die Kasse befindet, zu ber&#xFC;cksichtigen, k&#xF6;nnten Pauschalbetr&#xE4;ge festgesetzt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des montants forfaitaires pourront &#xEA;tre fix&#xE9;s pour tenir compte de la situation particuli&#xE8;re des petites communes et de la commune o&#xF9; se trouve le si&#xE8;ge de la Caisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6120">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einer Erh&#xF6;hung von 5 Prozent des Landesindexes der Konsumentenpreise, werden die Entl&#xF6;hnungen der Teuerung angepasst.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE9;mun&#xE9;rations seront adapt&#xE9;es au rench&#xE9;rissement lorsque l'indice suisse des prix &#xE0; la consommation aura subi une augmentation de 5 pour cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6121">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entl&#xF6;hnung der Zweigstellen betreffend die Dossiers der kantonalen Aufgaben wird aufgrund dieser Aufgaben in Verh&#xE4;ltnis der Gesamtzahl behandelter Akten belastet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;mun&#xE9;ration des agences concernant les dossiers des t&#xE2;ches cantonales sera mise &#xE0; charge des dites t&#xE2;ches en proportion du total des dossiers trait&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2684">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle und Einhaltung der Weisungen durch die AHV-Zweigstellen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le et respect des directives par les agences AVS</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6122">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zweigstellen werden periodisch durch die Revisoren der Kasse &#xFC;berpr&#xFC;ft und es wird ein Bericht erstellt, mit Kopie an die Gemeindeverwaltung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les agences seront contr&#xF4;l&#xE9;es p&#xE9;riodiquement par les r&#xE9;viseurs de la Caisse et un rapport sera &#xE9;tabli, avec copie &#xE0; l'autorit&#xE9; communale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6123">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sollten die Zweigstellen die Weisungen nicht befolgen oder werden die Aufgaben nicht zufriedenstellend ausgef&#xFC;hrt, kann die Direktion der Kasse, nach R&#xFC;cksprache mit der Gemeindebeh&#xF6;rde oder, wenn n&#xF6;tig, mit dem Vorsteher des Departements f&#xFC;r Sozialwesen, die Absetzung der AHV-Zweigstellenleiter(-innen) verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les agences ne respectent pas les directives ou que les t&#xE2;ches ne sont pas ex&#xE9;cut&#xE9;es de fa&#xE7;on satisfaisante, la direction de la Caisse pourra, apr&#xE8;s avoir rendu attentive l'autorit&#xE9; communale, demander, si n&#xE9;cessaire, au chef du d&#xE9;partement charg&#xE9; des affaires sociales la r&#xE9;vocation du titulaire de l'agence AVS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2685">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangs- und Schlussbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires et finales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6124">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Anwendung des Artikels 20 Absatz 2 des AGAHVG, wird die Kasse die AHV-Zweigstellenleiter und die Gemeindebeh&#xF6;rde, mindestens 9 Monate vor dem Datum der Integrierung der Zweigstelle in die Gemeindeverwaltung, informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En application de l'article 20 alin&#xE9;a 2 de la LALAVS, la Caisse informera les agents locaux AVS et l'autorit&#xE9; communale, au minimum 9 mois avant, de la date du transfert de l'agence &#xE0; l'administration communale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6125">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dem vorliegenden Reglement werden aufgehoben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21588">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Reglement betreffend die Organisation der kantonalen Ausgleichskasse und ihrer Zweigstellen vom 11. April 1949;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE8;glement organisant la caisse cantonale de compensation et ses agences du 11 avril 1949;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2594">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beschluss des Staatsrates betreffend die Entl&#xF6;hnung der Leiter der Zweigstellen der kantonalen Ausgleichskasse vom 11. Dezember 1968.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; du Conseil d'Etat relative &#xE0; la r&#xE9;mun&#xE9;ration des agents du 11 d&#xE9;cembre 1968.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6126">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement wird im Amtsblatt ver&#xF6;ffentlicht. Es tritt am 1.&#xA0;Januar 2001 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement sera publi&#xE9; au Bulletin officiel et entre en vigueur le 1<format upper="true">er</format> janvier 2001.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2001-01-01</dateForce>
+      <dateVersion>2001-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 24/2000</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

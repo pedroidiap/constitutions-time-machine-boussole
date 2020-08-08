@@ -1,0 +1,2055 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1021</normID>
+      <number>312.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GAgPol</abbreviation>
+      <abbreviation lang="fr">LDPolJ</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Akten der gerichtlichen Polizei</title>
+      <title lang="fr">Loi concernant les dossiers de police judiciaire</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1984-06-28</dateAdoption>
+      <dateForce>1987-07-01T00:00:00</dateForce>
+      <dateLastChange>2017-01-01</dateLastChange>
+      <dateVersion>2017-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 4 Absatz 1 der Kantonsverfassung;</basis> <basis>eingesehen die Botschaft des Staatsrates,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 4 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>vu le message du Conseil d'Etat,</basis><formal>d&#xE9;cr&#xE8;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1984 f 23, 205 | d 23, 217</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3220">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Akten der gerichtlichen Polizei</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>concernant les dossiers de police judiciaire</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3222">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:10990">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25220">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Akten der gerichtlichen Polizei sind alle personenbezogenen Angaben, die von der Polizei aufbewahrt werden und die sich auf ein Verbrechen, ein Vergehen oder eine &#xDC;bertretung des Strafrechts des Bundes oder des Kantons beziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont consid&#xE9;r&#xE9;es comme dossiers de police judiciaire toutes les informations personnelles conserv&#xE9;es par la police et relatives &#xE0; un crime, &#xE0; un d&#xE9;lit ou &#xE0; une contravention relevant du droit p&#xE9;nal f&#xE9;d&#xE9;ral ou cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25221">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Gesetz findet keine Anwendung auf die Akten der Verwaltungspolizei und die Akten der Strassenpolizei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ne tombent pas sous le coup de la pr&#xE9;sente loi les dossiers de la police administrative et les dossiers de la police routi&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25222">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Akten umfassen die schriftlichen oder fotografischen Unterlagen (Akten im eigentlichen Sinn) und die Datensammlungen, seien sie von herk&#xF6;mmlicher Art oder seien sie in einer Datenverarbeitungsanlage enthalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers comprennent les documents litt&#xE9;raux ou photographiques (dossiers proprement dits) et les fichiers, que leur support soit de type conventionnel ou de type informatis&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10991">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inhalt der Akten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contenu des dossiers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25223">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es d&#xFC;rfen nur Angaben eingetragen werden, die geeignet sind f&#xFC;r die Verh&#xFC;tung und Ahndung von Rechtsverletzungen sowie f&#xFC;r die Fahndung nach deren Urhebern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Seules les informations utiles &#xE0; la pr&#xE9;vention et &#xE0; la r&#xE9;pression des infractions, ainsi qu'&#xE0; la recherche de leurs auteurs peuvent &#xEA;tre enregistr&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25224">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist namentlich unzul&#xE4;ssig, Angaben &#xFC;ber die politischen, moralischen oder religi&#xF6;sen Ansichten von Personen zusammenzutragen und aufzubewahren, es sei denn, diese stehen in Zusammenhang mit einem Verbrechen oder einem Vergehen. Ist diese Voraussetzung gegeben, sind Sondermassnahmen zum Schutz dieser Daten zu treffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est notamment interdit de r&#xE9;unir et de conserver des informations sur les convictions politiques, morales ou religieuses des individus, &#xE0; moins que celles-ci ne soient en relation avec un crime ou un d&#xE9;lit. Dans cette hypoth&#xE8;se, des mesures particuli&#xE8;res de protection de ces donn&#xE9;es doivent &#xEA;tre prises.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25225">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unzutreffende, ungeeignete Daten oder solche, die unverh&#xE4;ltnism&#xE4;ssig sind hinsichtlich der Zweckbestimmung, f&#xFC;r die sie eingetragen wurden, m&#xFC;ssen vernichtet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es sans pertinence, inad&#xE9;quates ou excessives par rapport aux finalit&#xE9;s pour lesquelles elles sont enregistr&#xE9;es, doivent &#xEA;tre d&#xE9;truites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10992">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Richtigkeit und Nachtrag</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exactitude et mise &#xE0; jour</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25226">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die gerichtliche Polizei hat daf&#xFC;r zu sorgen, dass nur richtige Daten eingetragen werden und dass jeder entdeckte Fehler sofort berichtigt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police judiciaire veillera &#xE0; n'enregistrer que des donn&#xE9;es exactes et corrigera imm&#xE9;diatement toute erreur d&#xE9;couverte.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25227">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angaben m&#xFC;ssen regelm&#xE4;ssig nachgetragen werden. Sie d&#xFC;rfen nur solange aufbewahrt werden, wie es f&#xFC;r die Erreichung des Zieles, f&#xFC;r das sie eingetragen wurden, notwendig ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les informations doivent &#xEA;tre r&#xE9;guli&#xE8;rement mises &#xE0; jour, elles ne seront pas conserv&#xE9;es pendant une dur&#xE9;e exc&#xE9;dant celle n&#xE9;cessaire aux finalit&#xE9;s pour lesquelles elles sont enregistr&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25228">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck kann die Polizei von der gerichtlichen Folge, die der Ermittlung gegeben wurde, Kenntnis nehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cette fin, la police pourra prendre connaissance de la suite judiciaire donn&#xE9;e &#xE0; l'enqu&#xEA;te.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10993">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vernichtung von Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Destruction des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25229">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Daten der gerichtlichen Polizei werden soweit erforderlich von Amtes wegen vernichtet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es de la police judiciaire sont d&#xE9;truites d'office, dans la mesure n&#xE9;cessaire:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12085">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12086">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei Ablauf der f&#xFC;r die Strafklage geltenden Verj&#xE4;hrungsfrist;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; l'expiration du d&#xE9;lai de prescription de l'action p&#xE9;nale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12087">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">nach dem Tod der betroffenen Person;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">apr&#xE8;s le d&#xE9;c&#xE8;s de la personne concern&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12088">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in &#xDC;bereinstimmung mit den Grunds&#xE4;tzen, welche die Entfernung der Eintr&#xE4;ge, welche im Strafregister infolge Verurteilung enthalten sind, betreffen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en conformit&#xE9; des principes r&#xE9;gissant l'&#xE9;limination des inscriptions du casier judiciaire, en cas de condamnation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39079">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25230">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Entscheid des Polizeikommandanten betreffend die Vernichtung von Daten kann innert 30 Tagen seit Zustellung an den Pr&#xE4;sidenten der Strafkammer weitergezogen werden, welcher als letzte kantonale Instanz entscheidet. Das Verfahren findet unter Ausschluss der &#xD6;ffentlichkeit statt; &#xFC;berdies sind die Bestimmungen &#xFC;ber die Beschwerde gem&#xE4;ss der Schweizerischen Strafprozessordnung anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision du commandant de la police relative &#xE0; la destruction des donn&#xE9;es peut &#xEA;tre d&#xE9;f&#xE9;r&#xE9;e dans les 30 jours d&#xE8;s sa notification au pr&#xE9;sident de la chambre p&#xE9;nale qui statue en derni&#xE8;re instance cantonale. La proc&#xE9;dure se d&#xE9;roule &#xE0; huis clos; les dispositions sur le recours selon le code de proc&#xE9;dure p&#xE9;nale suisse s'appliquent pour le surplus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25231">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anl&#xE4;sslich der Vernichtung muss die Polizei unverz&#xFC;glich alle Beh&#xF6;rden oder Organe, an welche die Daten &#xFC;bermittelt wurden (Art. 10) orientieren und diese zur L&#xF6;schung derselben auffordern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En proc&#xE9;dant &#xE0; la destruction, la police doit avertir imm&#xE9;diatement toute autorit&#xE9; ou organe &#xE0; qui les donn&#xE9;es ont &#xE9;t&#xE9; communiqu&#xE9;es (art. 10) et lui enjoindre de proc&#xE9;der &#xE0; leur radiation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10994">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwendung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Utilisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25232">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Akten d&#xFC;rfen nur f&#xFC;r Zwecke der gerichtlichen Polizei verwendet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers ne peuvent &#xEA;tre exploit&#xE9;s qu'&#xE0; des fins de police judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25233">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erfordert die Bearbeitung der Daten spezielle Kenntnisse, kann die Polizei die Mitarbeit eines Experten beantragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'exploitation des donn&#xE9;es exige des connaissances sp&#xE9;ciales, la police peut solliciter la collaboration d'un expert.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25234">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personendaten d&#xFC;rfen jedoch f&#xFC;r statistische Zwecke verwendet werden, sofern alle Vorsichtsmassnahmen f&#xFC;r die Verunm&#xF6;glichung der Identifizierung der betroffenen Personen getroffen wurden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es personnelles peuvent cependant &#xEA;tre utilis&#xE9;es &#xE0; des fins de statistiques, &#xE0; condition que toute pr&#xE9;caution soit prise pour que les personnes concern&#xE9;es ne puissent &#xEA;tre identifi&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10995">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftsrecht nach Abschluss des Strafverfahrens
+a) Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit d'acc&#xE8;s apr&#xE8;s la cl&#xF4;ture de la proc&#xE9;dure p&#xE9;nale
+a) Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25235">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedermann kann Auskunft &#xFC;ber die ihn betreffenden Daten verlangen, welche in den Polizeiakten enthalten sind und deren Berichtigung beantragen, sofern diese falsch sind. Das Auskunftsrecht &#xFC;ber die pers&#xF6;nlichen Daten beinhaltet auch die Auskunft &#xFC;ber deren Benutzung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne a le droit d'&#xEA;tre renseign&#xE9;e sur les donn&#xE9;es personnelles la concernant qui sont contenues dans les dossiers de police et en requ&#xE9;rir la rectification lorsque celles-ci sont inexactes. Le droit d'&#xEA;tre renseign&#xE9; sur les donn&#xE9;es personnelles s'&#xE9;tend &#xE0; l'usage qui en est fait.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25236">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Beweis der Richtigkeit einer Angabe muss durch die Polizei erbracht werden. Wenn weder der Beweis der Richtigkeit noch der Unrichtigkeit erbracht werden kann, wird dies in der Akte vermerkt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La preuve de l'exactitude d'une donn&#xE9;e doit &#xEA;tre apport&#xE9;e par la police. Si ni l'exactitude ni l'inexactitude ne peut &#xEA;tre prouv&#xE9;e, mention en est faite dans le dossier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25237">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Niemand kann zum vornherein auf das Recht der Akteneinsicht verzichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Nul ne peut renoncer d'avance au droit d'acc&#xE8;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25238">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Person, welche Auskunft verlangt, Gegenstand einer Voruntersuchung oder eines Strafverfahrens bildet, welches von der Staatsanwaltschaft oder der zust&#xE4;ndigen Beh&#xF6;rde eines anderen Kantons, des Bundes oder eines ausl&#xE4;ndischen Staats angeordnet wurde, wird ihr Recht von der auf sie anwendbaren Strafprozessordnung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la personne qui demande des renseignements fait l'objet d'une enqu&#xEA;te pr&#xE9;liminaire ou d'une proc&#xE9;dure p&#xE9;nale ordonn&#xE9;e par le minist&#xE8;re public ou par l'autorit&#xE9; comp&#xE9;tente d'un autre canton, de la Conf&#xE9;d&#xE9;ration ou d'un Etat &#xE9;tranger, son droit est r&#xE9;gi par les r&#xE8;gles de proc&#xE9;dure p&#xE9;nale qui lui sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25239">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn weder eine Ermittlung noch ein Strafverfahren im Sinne von Absatz 4 h&#xE4;ngig ist, kann das Auskunftsrecht eingeschr&#xE4;nkt, aufgeschoben oder verweigert werden, wenn ein &#xFC;berwiegendes &#xF6;ffentliches Interesse, insbesondere die wirksame Vorbeugung von Verbrechen und Vergehen durch die Polizei, es verlangen. Dasselbe gilt, wenn der Mitteilung von Informationen ein &#xFC;berwiegendes legitimes Interesse Dritter entgegensteht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si aucune enqu&#xEA;te ou proc&#xE9;dure p&#xE9;nale, au sens de l'alin&#xE9;a 4, n'est pendante, le droit d'obtenir des renseignements peut &#xEA;tre limit&#xE9;, suspendu ou refus&#xE9; si un int&#xE9;r&#xEA;t public pr&#xE9;pond&#xE9;rant, en particulier la pr&#xE9;vention efficace des crimes et d&#xE9;lits par la police l'exige. Il en va de m&#xEA;me si la communication des renseignements est contraire &#xE0; des int&#xE9;r&#xEA;ts pr&#xE9;pond&#xE9;rants et l&#xE9;gitimes de tiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25240">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die pers&#xF6;nlichen Daten der Polizei durch Verfolgungsbeh&#xF6;rden oder Polizeiorgane anderer Kantone, des Bundes oder eines ausl&#xE4;ndischen Staates mitgeteilt wurden, kann die Polizei das Gesuch an diese Beh&#xF6;rden oder Organe zum Entscheid weiterleiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les donn&#xE9;es personnelles ont &#xE9;t&#xE9; communiqu&#xE9;es &#xE0; la police par des autorit&#xE9;s de poursuite ou des organes de police d'autres cantons, par la Conf&#xE9;d&#xE9;ration ou par un Etat &#xE9;tranger, la police peut transmettre la requ&#xEA;te pour d&#xE9;cision &#xE0; ces autorit&#xE9;s ou organes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10996">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">b) Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">b) Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25241">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Auskunfts- oder Berichtigungsgesuch ist vom Gesuchsteller oder von seinem Anwalt schriftlich beim Polizeikommandanten einzureichen. Dieser kann vom Gesuchsteller verlangen, dass er sich durch ein amtliches Dokument ausweist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La demande de renseignements ou de rectification est formul&#xE9;e par le requ&#xE9;rant ou son avocat, et adress&#xE9;e par &#xE9;crit au commandant de la police. Celui-ci peut demander au requ&#xE9;rant qu'il justifie de son identit&#xE9; par la production d'une pi&#xE8;ce de l&#xE9;gitimation officielle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25242">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kommandant teilt den Personen, die Auskunft oder eine Berichtigung von Daten verlangt haben, seinen Entscheid schriftlich mit. Der Verweigerungsentscheid ist begr&#xFC;ndet und enth&#xE4;lt die Rechtsmittelbelehrung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le commandant de la police communique par &#xE9;crit sa d&#xE9;cision aux personnes qui ont demand&#xE9; des renseignements ou une rectification des donn&#xE9;es. La d&#xE9;cision de refus est motiv&#xE9;e et indique les voies de droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25243">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn eine pers&#xF6;nliche Angabe berichtigt wird, hat der Polizeikommandant alle Beh&#xF6;rden und Organe, welchen er diese Angaben mitteilte, unverz&#xFC;glich zu informieren (Art. 10).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si une donn&#xE9;e personnelle est rectifi&#xE9;e, le commandant de la police doit en avertir imm&#xE9;diatement toute autorit&#xE9; ou organe &#xE0; qui la donn&#xE9;e a &#xE9;t&#xE9; communiqu&#xE9;e (art. 10) par ses services.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25244">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren ist unter Vorbehalt des Missbrauchs unentgeltlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure est gratuite sauf en cas de d&#xE9;marche abusive.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10997">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5b</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">c) Beschwerde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">c) Recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34120">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in Anwendung der Artikel 5 und 5a erlassenen Entscheide des Polizeikommandanten k&#xF6;nnen innert 30 Tagen seit Zustellung an den Pr&#xE4;sidenten der Strafkammer weitergezogen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises par le commandant de la police en application des articles 5 et 5a peuvent &#xEA;tre d&#xE9;f&#xE9;r&#xE9;es dans les 30 jours d&#xE8;s leur notification au pr&#xE9;sident de la chambre p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25245">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn der angefochtene Entscheid die Mitteilung pers&#xF6;nlicher Daten in Anwendung von Artikel 5, Absatz 5 einschr&#xE4;nkt, aufschiebt oder verweigert, ist nur der Pr&#xE4;sident der Strafkammer erm&#xE4;chtigt, die Polizeiakten des Betroffenen einzusehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la d&#xE9;cision attaqu&#xE9;e limite, suspend ou refuse la communication de donn&#xE9;es personnelles en application de l'article 5 alin&#xE9;a 5, seul le pr&#xE9;sident de la chambre p&#xE9;nale est autoris&#xE9; &#xE0; consulter le dossier de police de l'int&#xE9;ress&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25246">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Pr&#xE4;sident der Strafkammer, der sich mit einer Beschwerde befasst, kann von Amtes wegen oder auf Gesuch hin die Einvernahme Dritter anordnen, deren legitime Interessen durch die Mitteilung von in der Polizeiakte enthaltenen Informationen beeintr&#xE4;chtigt werden k&#xF6;nnten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sident de la chambre p&#xE9;nale saisi d'un recours peut ordonner, d'office ou sur requ&#xEA;te, l'audition de tiers dont les int&#xE9;r&#xEA;ts l&#xE9;gitimes sont susceptibles d'&#xEA;tre affect&#xE9;s par la communication des renseignements contenus dans les dossiers de la police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25247">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren findet unter Ausschluss der &#xD6;ffentlichkeit statt. Gegen den Entscheid des Pr&#xE4;sidenten der Strafkammer, der als letzte kantonale Instanz entscheidet, ist keine Beschwerde m&#xF6;glich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure se d&#xE9;roule &#xE0; huis clos. Aucun recours n'est ouvert contre la d&#xE9;cision du pr&#xE9;sident de la chambre p&#xE9;nale qui statue en derni&#xE8;re instance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10998">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Automatisiertes Bearbeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Traitement informatique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25249">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r das Speichern und das automatisierte Bearbeiten der Daten kann der Staatsrat die Walliser Polizei erm&#xE4;chtigen, von der Informatikabteilung einer anderen Polizei eine Datenverarbeitungsanlage zu mieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le stockage et le traitement automatis&#xE9; des donn&#xE9;es, le Conseil d'Etat peut autoriser la police valaisanne &#xE0; louer un ordinateur aupr&#xE8;s du service informatique d'une autre police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25250">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In diesem Fall hat die Walliser Polizei die Eintragung ihrer Daten in die gemietete Datenverarbeitungsanlage selbst vorzunehmen und sie hat sich zu vergewissern, dass das Bearbeiten der Angaben nach dem Grundsatz des Eigentums erfolgt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans cette &#xE9;ventualit&#xE9;, la police valaisanne proc&#xE9;dera elle-m&#xEA;me &#xE0; l'enregistrement de ses donn&#xE9;es dans l'ordinateur lou&#xE9; et s'assurera que le traitement des informations se fasse selon le principe de la propri&#xE9;t&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10999">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datensicherung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">S&#xE9;curit&#xE9; des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25251">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die elektronischen Anlagen f&#xFC;r das Speichern und Bearbeiten von polizeilichen Daten sind derart anzulegen und zu betreiben, dass ihre missbr&#xE4;uchliche Verwendung, insbesondere das Eintragen, das Verbreiten, das Ver&#xE4;ndern und das Unterdr&#xFC;cken von Daten durch unbefugte Personen unm&#xF6;glich ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les installations &#xE9;lectroniques de stockage et de traitement des donn&#xE9;es de police doivent &#xEA;tres con&#xE7;ues et exploit&#xE9;es de mani&#xE8;re &#xE0; emp&#xEA;cher leur utilisation abusive, en particulier l'enregistrement, la diffusion, la modification et la suppression des donn&#xE9;es par des personnes non autoris&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25252">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;berdies sind geeignete Sicherheitsmassnahmen gegen das absichtliche oder zuf&#xE4;llige Vernichten der elektronischen Anlagen f&#xFC;r das Speichern und Bearbeiten von polizeilichen Daten zu treffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">De plus, des mesures de s&#xE9;curit&#xE9; appropri&#xE9;es doivent &#xEA;tre prises contre la destruction volontaire ou accidentelle des installations &#xE9;lectroniques de stockage et de traitement des donn&#xE9;es de police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3223">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Einsichtnahme in die Akten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Consultation des dossiers</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11000">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25253">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zugang zu den Akten haben nur das vereidigte Personal der Informatikabteilung der Polizei, die Beamten der gerichtlichen Polizei des Kantons Wallis und der Pr&#xE4;sident der Strafkammer.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le personnel asserment&#xE9; de la section informatique et documentation, les fonctionnaires de la police judiciaire valaisanne et le pr&#xE9;sident de la chambre p&#xE9;nale peuvent seuls consulter un dossier de police judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25254">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Recht auf Zugang ist streng beschr&#xE4;nkt auf die Bed&#xFC;rfnisse der elektronischen Datenbearbeitung, die Zwecke der gerichtlichen Polizei und zur Pr&#xFC;fung von Beschwerden, mit welchen sich der Pr&#xE4;sident der Strafkammer befasst.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit d'acc&#xE8;s est strictement limit&#xE9; aux besoins du traitement informatique des donn&#xE9;es, aux fins de police judiciaire et &#xE0; l'examen des recours dont est saisi le pr&#xE9;sident de la chambre p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11001">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Form</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25255">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Akten sind in den R&#xE4;umlichkeiten der gerichtlichen Polizei einzusehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers sont consult&#xE9;s dans les locaux de la police judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25256">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es d&#xFC;rfen weder unmittelbar den Akten entnommene Dokumente noch irgendwelche Karteien mitgenommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucun document tir&#xE9; directement d'un dossier, ni aucune fiche ne peuvent &#xEA;tre emport&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25257">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt der Auskunftserteilung (Kapitel 3) sind Fotokopien nicht gestattet, ausser bei Vorliegen eines aussergew&#xF6;hnlichen Umstandes und aufgrund einer Bewilligung des Kommandos der Kantonspolizei in Form einer schriftlichen und begr&#xFC;ndeten Verf&#xFC;gung, die mit einer Ordnungsnummer in ein Spezialregister einzutragen ist. Ein Doppel dieser Verf&#xFC;gung ist der kantonalen Datenschutzkommission zuzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de la communication de renseignements (chapitre 3), les photocopies sont interdites, sauf circonstance exceptionnelle et sur la base d'une autorisation accord&#xE9;e par le Commandement de la police cantonale, sous la forme d'une d&#xE9;cision &#xE9;crite et motiv&#xE9;e, qui sera inscrite, avec un num&#xE9;ro d'ordre, sur un registre sp&#xE9;cial. Un double de cette d&#xE9;cision doit &#xEA;tre adress&#xE9; &#xE0; la commission cantonale de protection des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3224">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Auskunftserteilung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Communication de renseignements</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11002">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Empf&#xE4;nger</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Destinataires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25258">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter der Verantwortung des Kommandanten der Kantonspolizei k&#xF6;nnen Ausk&#xFC;nfte erteilt werden an:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous la responsabilit&#xE9; du commandant de la police cantonale, des renseignements peuvent &#xEA;tre communiqu&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12090">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Gerichtsbeh&#xF6;rden und die Staatsanwaltschaft des Kantons Wallis;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux autorit&#xE9;s judiciaires et au minist&#xE8;re public du canton du Valais;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12091">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verwaltungsbeh&#xF6;rde, die mit der Ahndung von Zuwiderhandlungen gegen das Strafrecht des Bundes und des Kantons beauftragt ist;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; l'autorit&#xE9; administrative charg&#xE9;e de la r&#xE9;pression des contraventions pr&#xE9;vues par le droit p&#xE9;nal f&#xE9;d&#xE9;ral et cantonal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12092">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bundesanwaltschaft;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au minist&#xE8;re public de la Conf&#xE9;d&#xE9;ration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12093">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Bundesamt f&#xFC;r Polizeiwesen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; l'Office f&#xE9;d&#xE9;ral de la police;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12094">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Milit&#xE4;rgerichtsbarkeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; la justice militaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12095">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Kommando der gerichtlichen Polizei- und Strafgerichtsbeh&#xF6;rden eines anderen Kantons oder des Auslandes im Rahmen der internationalen Rechtshilfe in Strafsachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au commandement des polices judiciaires et aux autorit&#xE9;s judiciaires p&#xE9;nales d'un autre canton ou d'un Etat &#xE9;tranger dans le cadre de l'entraide judiciaire p&#xE9;nale en mati&#xE8;re internationale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12096">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Gemeindepolizei und das Polizeigericht bei Widerhandlungen, die in der Zust&#xE4;ndigkeit des Polizeigerichts liegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; la police municipale et au tribunal de police pour la r&#xE9;pression des contraventions relevant du tribunal de police.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25259">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter der Verantwortung des Kommandanten der Kantonspolizei k&#xF6;nnen Ausk&#xFC;nfte erteilt werden an:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous la responsabilit&#xE9; du commandant de la police cantonale, des renseignements peuvent &#xEA;tre communiqu&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12097">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef des Verwaltungs- und Rechtsdienstes des Departements f&#xFC;r Sicherheit und Institutionen insoweit es erforderlich ist f&#xFC;r den Straf- und Massnahmenvollzug, die Ausf&#xFC;hrung der Schutzaufsicht und die Vorbehandlung der Begnadigungsgesuche;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service administratif et juridique du d&#xE9;partement dont rel&#xE8;ve la s&#xE9;curit&#xE9; dans la mesure n&#xE9;cessaire &#xE0; l'ex&#xE9;cution des peines et mesures, &#xE0; la mise en oeuvre de la probation et &#xE0; l'instruction des recours en gr&#xE2;ce;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12098">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef der kantonalen mit der Fremdenpolizei beauftragten Dienststelle f&#xFC;r den Vollzug der gesetzlichen Vorschriften des Bundes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service cantonal en charge de la police des &#xE9;trangers en ex&#xE9;cution des prescriptions l&#xE9;gales f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12099">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef der kantonalen mit den Einb&#xFC;rgerungen beauftragten Dienststelle f&#xFC;r den Vollzug der gesetzlichen Vorschriften des Bundes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service cantonal en charge des naturalisations et en ex&#xE9;cution des prescriptions l&#xE9;gales f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12100">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef der kantonalen Dienststelle f&#xFC;r den Strassenverkehr im Rahmen der Zulassung der Personen im Strassenverkehr;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service cantonal en charge de la circulation routi&#xE8;re dans le cadre de l'admission des personnes &#xE0; la circulation routi&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12101">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Direktor der Strafanstalten im Rahmen des Straf- und Massnahmenvollzuges;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au directeur des &#xE9;tablissements p&#xE9;nitentiaires dans le cadre de l'ex&#xE9;cution des peines et mesures;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12102">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Direktor der kantonalen Ausgleichskasse f&#xFC;r den Vollzug der gesetzlichen Vorschriften des Bundes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au directeur de la caisse cantonale de compensation en ex&#xE9;cution des prescriptions l&#xE9;gales f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12103">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef der kantonalen mit dem Milit&#xE4;rwesen beauftragten Dienststelle f&#xFC;r den Vollzug der gesetzlichen Vorschriften des Bundes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service cantonal en charge des affaires militaires en ex&#xE9;cution des prescriptions l&#xE9;gales f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12104">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef des Personalamtes f&#xFC;r die Anstellung von Bewerbern f&#xFC;r gewisse Stellen im &#xF6;ffentlichen Dienst. Das Reglement bezeichnet diese Stellen und bestimmt die Bedingungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service du personnel pour l'engagement de candidats &#xE0; certaines fonctions publiques &#xE0; d&#xE9;terminer par le r&#xE8;glement et aux conditions fix&#xE9;es par celui-ci;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12105">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Untersuchungskommission des Grossen Rates in Anwendung von Artikel 133 des Gesetzes &#xFC;ber die Organisation der R&#xE4;te und die Beziehungen zwischen den Gewalten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux commissions d'enqu&#xEA;te du Grand Conseil en application de l'article 133 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12106">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Chef der kantonalen Dienststelle, die mit der Jugend betraut ist, im Rahmen des Gesetzes &#xFC;ber h&#xE4;usliche Gewalt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du service cantonal en charge de la jeunesse dans le cadre de la loi sur les violences domestiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12107">
+                        <partNumber>k)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den zust&#xE4;ndigen Departementsvorsteher betreffend einen Beamten, der eine heikle Position bekleidet, indem er als Experte oder im Zusammenhang mit der Jugend t&#xE4;tig ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">au chef du d&#xE9;partement concern&#xE9; &#xE0; propos d'un fonctionnaire occupant un poste sensible, exer&#xE7;ant des fonctions d'expert ou en contact avec la jeunesse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25260">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grosse Rat kann auf dem Dekretswege die Liste der Verwaltungsbeh&#xF6;rden gem&#xE4;ss Absatz 2 ausweiten oder einschr&#xE4;nken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par voie de d&#xE9;cret, le Grand Conseil peut &#xE9;largir ou restreindre la liste des autorit&#xE9;s administratives selon l'alin&#xE9;a 2.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25261">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Soweit es n&#xF6;tig ist, kann der Staatsrat zur Erf&#xFC;llung seiner verfassungsm&#xE4;s-sigen und gesetzlichen Aufgaben jedes Mal dann Ausk&#xFC;nfte aus einer Akte der gerichtlichen Polizei erhalten, wenn diese Befugnis einem Abteilungsvorsteher gem&#xE4;ss Absatz 2 zuerkannt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la mesure n&#xE9;cessaire &#xE0; l'accomplissement de ses t&#xE2;ches constitutionnelles et l&#xE9;gales, le Conseil d'Etat peut obtenir des renseignements tir&#xE9;s d'un dossier de police judiciaire chaque fois que cette facult&#xE9; est reconnue &#xE0; un chef de service selon l'alin&#xE9;a 2.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25262">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Drittpersonen d&#xFC;rfen keine Ausk&#xFC;nfte erteilt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucun renseignement ne peut &#xEA;tre communiqu&#xE9; &#xE0; des tiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11003">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Voraussetzungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25263">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausk&#xFC;nfte d&#xFC;rfen nur &#xFC;bermittelt werden, wenn der Empf&#xE4;nger im Rahmen seiner gesetzlichen Befugnisse ein rechtlich anerkanntes Interesse f&#xFC;r deren Erlangung glaubhaft macht und soweit diese Bekanntgabe nicht durch eine gesetzliche Bestimmung untersagt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les renseignements ne peuvent &#xEA;tre transmis que si, dans le cadre de ses attributions l&#xE9;gales, le destinataire justifie d'un int&#xE9;r&#xEA;t l&#xE9;gitime &#xE0; leur obtention et pour autant que cette communication ne soit interdite par une disposition l&#xE9;gale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25264">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;berdies muss das angerufene &#xF6;ffentliche Interesse das Interesse der betroffenen Person &#xFC;berwiegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">De plus, il faut que l'int&#xE9;r&#xEA;t public invoqu&#xE9; l'emporte sur l'int&#xE9;r&#xEA;t de la personne concern&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11004">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25265">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesuch um Auskunftserteilung ist schriftlich einzureichen und ordnungsgem&#xE4;ss zu begr&#xFC;nden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La demande de renseignements doit &#xEA;tre pr&#xE9;sent&#xE9;e en la forme &#xE9;crite et &#xEA;tre d&#xFB;ment motiv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25266">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Telefonischen Anfragen wird nur im Dringlichkeitsfall Folge geleistet und nur, wenn der Anrufer mit Sicherheit identifiziert werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il ne sera donn&#xE9; suite &#xE0; une demande t&#xE9;l&#xE9;phonique qu'en cas d'urgence et si le correspondant peut &#xEA;tre identifi&#xE9; avec certitude.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3225">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Informationssystem betreffend Prostitution</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Syst&#xE8;me d'information en mati&#xE8;re de prostitution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11005">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Informationssystem</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Syst&#xE8;me d'information</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34118">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonspolizei betreibt ein Datenbearbeitungssystem bez&#xFC;glich Personen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police cantonale g&#xE8;re un syst&#xE8;me de traitement de donn&#xE9;es relatives:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16099">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die der Prostitution nachgehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux personnes s'adonnant &#xE0; la prostitution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16100">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Widerhandlungen begangen haben oder im Rahmen eines Ermittlungsverfahrens (Art. 299 StPO) verd&#xE4;chtigt werden, solche begangen zu haben, die mit der Aus&#xFC;bung der Prostitution im Zusammenhang stehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux personnes ayant commis des infractions li&#xE9;es &#xE0; la pratique de la prostitution ou soup&#xE7;onn&#xE9;es de telles infractions dans le cadre d'une proc&#xE9;dure d'investigation (art. 299 CPP).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34119">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Informationssystem hat den Zweck, die polizeiliche Pr&#xE4;ventions- und Repressionst&#xE4;tigkeit gegen Widerhandlungen, die mit der Prostitution im Zusammenhang stehen oder stehen k&#xF6;nnten, zu erleichtern, im Besonderen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le but de ce syst&#xE8;me d'information est de faciliter le travail de la police cantonale dans sa mission de pr&#xE9;vention et de r&#xE9;pression des infractions pr&#xE9;sentant ou pouvant pr&#xE9;senter un lien de connexit&#xE9; avec la prostitution, en particulier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16101">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wucher (Art. 157 StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'usure (art. 157 CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16102">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Menschenhandel (Art. 182 StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la traite d'&#xEA;tres humains (art. 182 CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16103">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausn&#xFC;tzung sexueller Handlungen oder F&#xF6;rderung der Prostitution (Art. 195 StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'exploitation de l'activit&#xE9; sexuelle ou l'encouragement &#xE0; la prostitution (art. 195 CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16104">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unzul&#xE4;ssige Aus&#xFC;bung der Prostitution (Art. 199 StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'exercice illicite de la prostitution (art. 199 CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16105">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kriminelle Organisation (Art. 260<format upper="true">ter</format> StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'organisation criminelle (art. 260<format upper="true">ter</format> CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16106">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verbrechen gegen die Menschlichkeit (Art. 264a, Abs. 1 Bst. d, g und h StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les crimes contre l'humanit&#xE9; (art. 264a al. 1 let. d, g et h CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16107">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Geldw&#xE4;scherei (Art. 305<format upper="true">bis</format> StGB);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le blanchiment d'argent (art. 305<format upper="true">bis</format> CP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16108">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nichtbefolgung der Gesetzgebung &#xFC;ber die Ausl&#xE4;nder und der Sozialgesetzgebung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'inobservation de la l&#xE9;gislation sur les &#xE9;trangers et de la l&#xE9;gislation sociale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11006">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annonce</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25275">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person, die der Prostitution nachgeht oder beabsichtigt, dieser nachzugehen, hat sich unverz&#xFC;glich bei der Kantonspolizei anzumelden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne s'adonnant &#xE0; la prostitution ou d&#xE9;sireuse de s'y adonner est tenue de s'annoncer sans d&#xE9;lai &#xE0; la police cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25276">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Meldepflicht wird durch die Gesetzgebung &#xFC;ber die Aus&#xFC;bung der Prostitution geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'obligation d'annonce est r&#xE9;gie par la l&#xE9;gislation sur la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11007">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datenbearbeitung
+a) Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Traitement des donn&#xE9;es
+a) Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25277">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Datenbearbeitung erfolgt, vorbeh&#xE4;ltlich der nachfolgenden Spezialbestimmungen, gem&#xE4;ss dem vorliegenden Gesetz, subsidi&#xE4;r gem&#xE4;ss dem Gesetz &#xFC;ber die Prostitution.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le traitement des donn&#xE9;es s'op&#xE8;re conform&#xE9;ment &#xE0; la pr&#xE9;sente loi, subsidiairement conform&#xE9;ment &#xE0; la loi sur la prostitution, sous r&#xE9;serve des dispositions sp&#xE9;cifiques pr&#xE9;vues ci-apr&#xE8;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11008">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">b) Eintragung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">b) Enregistrement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25278">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Informationssystem enth&#xE4;lt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont enregistr&#xE9;es dans le syst&#xE8;me d'information:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12108">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Daten bez&#xFC;glich der Personen, die der Prostitution nachgehen, ungeachtet deren Formen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les donn&#xE9;es concernant les personnes s'adonnant &#xE0; la prostitution, quelles qu'en soient les formes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12109">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Daten &#xFC;ber Drittpersonen oder diese betreffende Hinweise in dem Masse, als dass diese Personen verd&#xE4;chtigt werden, in Widerhandlungen im Sinne von Artikel 13 Absatz 2 dieses Gesetzes verwickelt zu sein, daran beteiligt zu sein, oder daraus Nutzen zu ziehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les donn&#xE9;es relatives &#xE0; des tierces personnes ou les indications les concernant dans la mesure o&#xF9; ces personnes sont soup&#xE7;onn&#xE9;es de se livrer aux activit&#xE9;s d&#xE9;lictueuses au sens de l'article 13 alin&#xE9;a 2 de la pr&#xE9;sente loi, d'y &#xEA;tre impliqu&#xE9;es, d'y participer ou d'en retirer b&#xE9;n&#xE9;fice.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25279">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11009">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">c) Datenschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">c) Protection des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25280">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Informationssystem enthaltenen Daten m&#xFC;ssen geeignet, treffend, richtig, vollst&#xE4;ndig und verh&#xE4;ltnism&#xE4;ssig sein in Bezug auf die Zwecke, f&#xFC;r welche sie gesammelt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es contenues dans le syst&#xE8;me d'information doivent &#xEA;tre ad&#xE9;quates, pertinentes, exactes, compl&#xE8;tes et non excessives par rapport aux finalit&#xE9;s pour lesquelles elles sont enregistr&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25281">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Informationssystem enthaltenen Daten gem&#xE4;ss Artikel 16 Absatz 1 Buchstabe b des vorliegenden Gesetzes d&#xFC;rfen nur im Rahmen der Pr&#xE4;ventions- und Repressionst&#xE4;tigkeit gegen Widerhandlungen gem&#xE4;ss Artikel 13 Absatz 2 des vorliegenden Gesetzes verwendet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es au sens de l'article 16 alin&#xE9;a 1 lettre b de la pr&#xE9;sente loi ne doivent &#xEA;tre utilis&#xE9;es que dans le cadre de la pr&#xE9;vention et de la r&#xE9;pression des infractions mentionn&#xE9;es &#xE0; l'article 13 alin&#xE9;a 2 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11010">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">d) Aufbewahrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">d) Conservation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25282">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Daten betreffend Personen, die der Prostitution nachgehen, m&#xFC;ssen von jenen, die im Rahmen einer gerichtspolizeilichen Untersuchung gesammelt werden, getrennt aufbewahrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es relatives aux personnes s'adonnant &#xE0; la prostitution doivent &#xEA;tre conserv&#xE9;es s&#xE9;par&#xE9;ment de celles recueillies dans le cadre d'une enqu&#xEA;te de police judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25283">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Daten d&#xFC;rfen nicht l&#xE4;nger aufbewahrt werden, als es die Zwecke, f&#xFC;r die sie gespeichert sind, erfordern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es doivent &#xEA;tre conserv&#xE9;es pendant une dur&#xE9;e n'exc&#xE9;dant pas celle n&#xE9;cessaire aux finalit&#xE9;s pour lesquelles elles sont enregistr&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25284">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das System ist periodisch bez&#xFC;glich Daten, die im Hinblick auf den angestrebten Zweck nicht mehr erforderlich sind, zu bereinigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me doit &#xEA;tre p&#xE9;riodiquement &#xE9;pur&#xE9; des donn&#xE9;es qui ne sont plus pertinentes par rapport au but vis&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3226">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11011">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25285">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission wird beauftragt, &#xFC;ber die Einhaltung dieser Vorschriften zu wachen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission est charg&#xE9;e de veiller au respect des pr&#xE9;sentes dispositions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11012">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzugsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25286">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die notwendigen Vollzugsbestimmungen in einem Reglement.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat adopte les dispositions d'ex&#xE9;cution n&#xE9;cessaires dans un r&#xE8;glement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11013">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungsstrafrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit p&#xE9;nal administratif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25287">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer gegen die in Artikel 14 Absatz 1 des Gesetzes und in dessen Ausf&#xFC;hrungsreglement vorgesehene Meldepflicht verst&#xF6;sst, wird mit Busse bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui contrevient &#xE0; l'obligation d'annonce pr&#xE9;vue par l'article 14 alin&#xE9;a 1 de la pr&#xE9;sente loi et par son r&#xE8;glement d'ex&#xE9;cution est passible de l'amende.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25288">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das f&#xFC;r die Polizei zust&#xE4;ndige Departement spricht die Busse aus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente pour prononcer l'amende est le d&#xE9;partement dont rel&#xE8;ve la police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11014">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25289">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11015">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Volksabstimmung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Votation populaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25290">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Gesetz unterliegt der Volksabstimmung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi sera soumise &#xE0; la votation populaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1987-07-01</dateForce>
+      <dateVersion>2017-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 4/2016, 39/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

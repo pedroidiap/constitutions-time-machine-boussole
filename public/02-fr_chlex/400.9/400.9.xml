@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1327</normID>
+      <number>400.9</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Konkordat &#xFC;ber die Schulkoordination</title>
+      <title lang="fr">Concordat sur la coordination scolaire</title>
+    </shortTitles>
+    <type>Accord intercantonal</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de"/>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1970-12-14</dateAdoption>
+      <dateForce>1972-05-01T00:00:00</dateForce>
+      <dateLastChange>1972-05-01</dateLastChange>
+      <dateVersion>1972-05-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription/>
+        <formal/>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription/>
+        <formal/>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1971 f 72 | d 91</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4719">
+        <structureContent lang="de">
+          <structureText>Konkordat &#xFC;ber die Schulkoordination<comment>
+  <commentReferencing>1</commentReferencing>
+  <number>1</number>
+</comment></structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Concordat sur la coordination scolaire<comment>
+  <commentReferencing>2</commentReferencing>
+  <number>2</number>
+</comment></structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:15695">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zweck</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">But</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:35878">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Konkordatskantone bilden eine interkantonale &#xF6;ffentliche-rechtliche Einrichtung zur F&#xF6;rderung des Schulwesens und zur Harmonisierung des entsprechenden kantonalen Rechts.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les cantons concordataires cr&#xE9;ent une institution intercantonale de droit public aux fins de d&#xE9;velopper l'&#xE9;cole et d'harmoniser leurs l&#xE9;gislations cantonales respectives.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4721">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Materielle Vorschriften</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions de fond</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15696">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verpflichtungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35879">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konkordatskantone verpflichten sich, ihre Schulgesetzgebung in den folgenden Punkten anzugleichen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons concordataires d&#xE9;cident de coordonner leurs l&#xE9;gislations scolaires de la mani&#xE8;re suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22874">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Schuleintrittsalter wird auf das vollendete 6. Altersjahr festgelegt. Stichtag ist der 30. Juni. Abweichungen im kantonalen Recht bis zu vier Monaten vor und nach diesem Datum sind zul&#xE4;ssig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'&#xE2;ge d'entr&#xE9;e &#xE0; l'&#xE9;cole obligatoire est fix&#xE9; &#xE0; 6 ans r&#xE9;volus au 30 juin. Les cantons conservent la possibilit&#xE9; d'avancer ou de retarder la date limite de quatre mois.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22875">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Schulpflicht f&#xFC;r Knaben und M&#xE4;dchen dauert bei mindestens 38 Schulwochen mindestens 9 Jahre.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La dur&#xE9;e de la scolarit&#xE9; obligatoire est d'au moins neuf ans, pour filles et gar&#xE7;ons, &#xE0; raison de trente-huit semaines d'&#xE9;cole par an, au minimum.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22876">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die ordentliche Ausbildungszeit vom Eintritt in die Schulpflicht bis zur Maturit&#xE4;tspr&#xFC;fung dauert mindestens 12, h&#xF6;chstens 13 Jahre.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La dur&#xE9;e normale de la scolarit&#xE9;, depuis l'entr&#xE9;e &#xE0; l'&#xE9;cole obligatoire jusqu'&#xE0; l'examen de maturit&#xE9;, est de douze ans au moins, et de treize ans au plus.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22877">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Schuljahr beginnt zwischen Mitte August und Mitte Oktober.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'ann&#xE9;e scolaire commence dans tous les cantons &#xE0; une date comprise entre la mi-ao&#xFB;t et la mi-octobre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15697">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Empfehlungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Recommandations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35880">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konkordatskantone arbeiten zuhanden aller Kantone Empfehlungen aus, insbesondere f&#xFC;r folgende Bereiche:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons concordataires &#xE9;laborent des recommandations &#xE0; l'intention de l'ensemble des cantons, notamment dans les domaines suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22878">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Rahmenlehrpl&#xE4;ne;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">plans d'&#xE9;tudes cadres;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22879">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gemeinsame Lehrmittel;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mat&#xE9;riel d'enseignement commun;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22880">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sicherstellung des freien &#xDC;bertritts zwischen gleichwertigen Schulen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">libre passage entre &#xE9;coles &#xE9;quivalentes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22881">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xDC;bertritt in die aufgegliederten Oberstufen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">passage au cycle secondaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22882">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Anerkennung von Examensabschl&#xFC;ssen und Diplomen, die in gleichwertigen Ausbildungsg&#xE4;ngen erworben wurden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">reconnaissance sur le plan intercantonal des certificats de fin d'&#xE9;tudes et des dipl&#xF4;mes obtenus par des formations &#xE9;quivalentes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22883">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einheitliche Bezeichnung der gleichen Schulstufen und gleichen Schultypen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;signation uniforme des m&#xEA;mes degr&#xE9;s scolaires et types d'&#xE9;coles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22884">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gleichwertige Lehrerausbildung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">formation &#xE9;quivalente des enseignants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35881">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konferenz schweizerischer Lehrerorganisationen ist bei der Ausarbeitung dieser Empfehlungen anzuh&#xF6;ren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Conf&#xE9;rence suisse des associations d'enseignants sera consult&#xE9;e lors de l'&#xE9;laboration de ces recommandations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15698">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Coop&#xE9;ration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35882">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konkordatskantone arbeiten im Bereich der Bildungsplanung undforschung sowie der Schulstatistik unter sich und mit dem Bund zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons concordataires coop&#xE8;rent entre eux et avec la Conf&#xE9;d&#xE9;ration en mati&#xE8;re de planification de l'&#xE9;ducation, de recherche p&#xE9;dagogique et de statistique scolaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35883">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cet effet:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22885">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r diese Zusammenarbeit notwendige Institutionen gef&#xF6;rdert und unterst&#xFC;tzt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils soutiennent et d&#xE9;veloppent les institutions n&#xE9;cessaires &#xE0; cette coop&#xE9;ration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22886">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Richtlinien f&#xFC;r j&#xE4;hrliche oder periodische schweizerische Schulstatistiken ausgearbeitet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils &#xE9;laborent des directives pour l'&#xE9;tablissement d'une statistique scolaire suisse, annuelle ou p&#xE9;riodique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4722">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisatorische Vorkehrungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Dispositions organiques</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15699">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schweizerische Konferenz der kantonalen Erziehungsdirektoren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conf&#xE9;rence suisse des directeurs cantonaux de l'instruction publique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35884">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konkordatskantone &#xFC;bertragen der Konferenz der kantonalen Erziehungsdirektoren die Durchf&#xFC;hrung der unter Artikel 2 bis Artikel 4 festgelegten Aufgaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons concordataires d&#xE9;l&#xE8;guent &#xE0; la Conf&#xE9;rence des directeurs cantonaux de l'instruction publique l'ex&#xE9;cution des t&#xE2;ches mentionn&#xE9;es aux articles 2 &#xE0; 4 du pr&#xE9;sent concordat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35885">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kompetenzen und Arbeitsweise werden in einem Gesch&#xE4;ftsreglement niedergelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Conf&#xE9;rence d&#xE9;termine ses comp&#xE9;tences et son organisation dans un r&#xE8;glement interne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35887">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der Konkordatst&#xE4;tigkeit werden nach Massgabe der Einwohnerzahl unter die Kantone verteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais inh&#xE9;rents &#xE0; la coordination sont r&#xE9;partis entre les cantons selon le nombre de leurs habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35888">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nicht Konkordatskantone haben in Konkordatsgesch&#xE4;ften beratende Stimme.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons non concordataires ont voix consultative en mati&#xE8;re de concordat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15700">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Regionalkonferenzen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conf&#xE9;rences r&#xE9;gionales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35889">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Erleichterung und F&#xF6;rderung der Zusammenarbeit schliessen sich die Kantone zu vier Regionalkonferenzen zusammen (Westschweiz und Tessin, Nordwestschweiz, Innerschweiz, Ostschweiz). &#xDC;ber den Beitritt zu einer Regionalkonferenz entscheidet jeder Kanton selbst.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour faciliter et d&#xE9;velopper la coordination en mati&#xE8;re scolaire, les cantons se groupent en quatre conf&#xE9;rences r&#xE9;gionales (Suisse romande et Tessin, Suisse du nord-ouest, Suisse centrale, Suisse orientale). Chaque canton d&#xE9;cide lui-m&#xEA;me de son adh&#xE9;sion aux conf&#xE9;rences r&#xE9;gionales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35890">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xA0;
+<break type="line"/>Die Regionalkonferenzen beraten die Gesch&#xE4;fte der Plenarkonferenz vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conf&#xE9;rences r&#xE9;gionales servent d'organes consultatifs &#xE0; l'intention de la Conf&#xE9;rence suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15701">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organe de recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35892">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Streitigkeiten, die sich aus dem Konkordat zwischen Kantonen ergeben, entscheidet auf Klage hin das Bundesgericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout diff&#xE9;rend entre cantons au sujet de l'application du concordat peut &#xEA;tre d&#xE9;f&#xE9;r&#xE9; au Tribunal f&#xE9;d&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4723">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15702">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fristen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lai d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35893">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angleichung der Schulgesetzgebungen im Sinne von Artikel 2 dieses Konkordats wird etappenweise vollzogen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'harmonisation des dispositions scolaires pr&#xE9;vue &#xE0; l'article 2 du pr&#xE9;sent concordat est r&#xE9;alis&#xE9;e par &#xE9;tapes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35895">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konkordatskantone verpflichten sich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En adh&#xE9;rant au concordat, les cantons s'engage &#xE0; adopter:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22887">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in einem Zeitraum von 6 Jahren das Schuleintrittsalter im Sinne von Artikel 2 a) festzulegen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans un d&#xE9;lai de six ans: l'&#xE2;ge d'entr&#xE9;e &#xE0; l'&#xE9;cole pr&#xE9;vu &#xE0; l'article 2 a) du pr&#xE9;sent concordat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:22888">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Schulpflicht in einer angemessenen Zeitspanne auf 9 Jahre auszudehnen. Die Kantone mit nur 7j&#xE4;hriger Schulpflicht k&#xF6;nnen dies in zwei Etappen verwirklichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans un d&#xE9;lai raisonnable une dur&#xE9;e de scolarit&#xE9; obligatoire de neuf ans. Les cantons qui n'ont encore que sept ans de scolarit&#xE9; obligatoire peuvent proc&#xE9;der &#xE0; cet ajustement en deux &#xE9;tapes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35896">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Festsetzung des Schuljahrbeginns im Sinne von Artikel 2 d) soll grunds&#xE4;tzlich auf den Beginn des Schuljahres 1973-1974 erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;but de l'ann&#xE9;e scolaire selon l'article 2 d) doit, en principe intervenir au cours de l'ann&#xE9;e scolaire 1973-1974.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15703">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitritt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Adh&#xE9;sion</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35897">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Beitritt zum Konkordat wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegen&#xFC;ber erkl&#xE4;rt, der dem Bundesrat Mitteilung macht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'adh&#xE9;sion au concordat est communiqu&#xE9;e au comit&#xE9; de la Conf&#xE9;rence suisse des directeurs cantonaux de l'instruction publique, qui en informe le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15704">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Austritt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;nonciation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35898">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Austritt aus dem Konkordat muss dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegen&#xFC;ber erkl&#xE4;rt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute d&#xE9;nonciation doit &#xEA;tre communiqu&#xE9;e au comit&#xE9; de la Conf&#xE9;rence suisse des directeurs cantonaux de l'instruction publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35899">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er tritt in Kraft auf Ende des dritten der Austrittserkl&#xE4;rung folgenden Kalenderjahres.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle prend effet &#xE0; la fin de la troisi&#xE8;me ann&#xE9;e civile qui suit celle de la communication.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15705">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35900">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Konkordat tritt in Kraft, wenn ihm zehn Kantone beigetreten sind und wenn es vom Schweizerischen Bundesrat genehmigt worden ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent concordat entrera en vigueur d&#xE8;s qu'il aura re&#xE7;u l'adh&#xE9;sion de dix cantons et qu'il aura &#xE9;t&#xE9; approuv&#xE9; par le Conseil f&#xE9;d&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <normComments>
+    <normComment>
+      <commentReferenced>1</commentReferenced>
+      <commentNumber>1</commentNumber>
+      <commentText>Beitritt des Kantons Wallis am 12.05.1971. Inkrafttreten am 01.05.1972.</commentText>
+    </normComment>
+    <normComment>
+      <commentReferenced>2</commentReferenced>
+      <commentNumber>2</commentNumber>
+      <commentText>Adh&#xE9;sion par le canton du Valais le 12.05.1971. Entr&#xE9;e en vigueur le 01.05.1972.</commentText>
+    </normComment>
+  </normComments>
+  <history>
+    <info>
+      <dateForce>1972-05-01</dateForce>
+      <dateVersion>1972-05-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1971 f 72 | d 91</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

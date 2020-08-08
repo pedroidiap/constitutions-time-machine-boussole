@@ -1,0 +1,2087 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1209</normID>
+      <number>170.3</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GBetSt</abbreviation>
+      <abbreviation lang="fr">LPartEt</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Beteiligung des Staates an juristischen Personen und anderen Einrichtungen</title>
+      <title lang="fr">Loi sur les participations de l'Etat &#xE0; des personnes morales et autres entit&#xE9;s</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-03-17</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-01-01</dateLastChange>
+      <dateVersion>2012-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31 Absatz 1&#xA0;Buchstabe a, 40 Absatz 1 und 42 Absatz 1 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31 alin&#xE9;a 1 lettre a, 40 alin&#xE9;a 1 et 42 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d&#x2019;Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 15/2011, 52/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4064">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Beteiligung des Staates an juristischen Personen und anderen Einrichtungen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les participations de l'Etat &#xE0; des personnes morales et autres entit&#xE9;s</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4066">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13807">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31797">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt die Beteiligung des Staates an juristischen Personen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE9;git les participations de l&#x2019;Etat &#xE0; des personnes morales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31798">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es findet zudem analog Anwendung auf die Beteiligungen des Staates an Einrichtungen, die keine Rechtspers&#xF6;nlichkeit aufweisen, soweit die Merkmale dieser Einrichtungen diesbez&#xFC;glich kein Hindernis darstellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle s&#x2019;applique en sus par analogie aux participations de l&#x2019;Etat &#xE0; des entit&#xE9;s ne jouissant pas de la personnalit&#xE9; juridique, dans la mesure o&#xF9; les caract&#xE9;ristiques de ces entit&#xE9;s n&#x2019;y font pas obstacle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13808">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31799">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Beteiligung im Sinne des vorliegenden Gesetzes gilt jede finanzielle oder nicht finanzielle Beteiligung des Staates an privatrechtlichen oder &#xF6;ffentlich-rechtlichen juristischen Personen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La participation au sens de la pr&#xE9;sente loi d&#xE9;signe toute participation financi&#xE8;re ou non financi&#xE8;re de l&#x2019;Etat &#xE0; une personne morale de droit priv&#xE9; ou de droit public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31800">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beteiligung des Staates kann zum Verwaltungs- oder Finanzverm&#xF6;gen des Staates geh&#xF6;ren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La participation peut appartenir au patrimoine administratif ou au patrimoine financier de l&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31801">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ebenfalls als Beteiligung betrachtet wird die Beteiligung des Staates in der Oberleitung einer juristischen Person, ohne finanzielle Verpflichtung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est &#xE9;galement consid&#xE9;r&#xE9;e comme une participation, la participation de l&#x2019;Etat &#xE0; la haute direction d&#x2019;une personne morale, sans engagement financier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31802">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Subventionen im Sinne des Subventionsgesetzes vom 13. November 1995 stellen keine Beteiligungen dar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subventions au sens de la loi sur les subventions du 13 novembre 1995 ne constituent pas des participations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4067">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Erwerb und Ver&#xE4;usserung von Beteiligungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Acquisition et ali&#xE9;nation de participations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13809">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31803">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zust&#xE4;ndigkeit zum Erwerb einer Beteiligung liegt im Rahmen ihrer jeweiligen ordentlichen finanziellen Zust&#xE4;ndigkeiten beim Grossen Rat oder beim Staatsrat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La comp&#xE9;tence de d&#xE9;cider de l&#x2019;acquisition d&#x2019;une participation rel&#xE8;ve du Grand Conseil ou du Conseil d&#x2019;Etat, dans le cadre de leurs comp&#xE9;tences financi&#xE8;res ordinaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31804">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r die Zust&#xE4;ndigkeit massgebende Ausgabe schliesst die Kosten allf&#xE4;llig beschlossener Subventionen des Staates an die juristische Person mit ein, dies f&#xFC;r eine Dauer von vier Jahren ab dem Zeitpunkt des Erwerbs.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;pense d&#xE9;terminante pour la comp&#xE9;tence comprend le co&#xFB;t d&#x2019;&#xE9;ventuelles subventions de l&#x2019;Etat &#xE0; la personne morale, d&#xE9;cid&#xE9;es, et ce sur une dur&#xE9;e de quatre ans &#xE0; compter de l&#x2019;acquisition.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31805">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Statuten der betroffenen juristischen Person eine allf&#xE4;llige Verpflichtung zur Vornahme von zus&#xE4;tzlichen Kapitaleinlagen vorsehen, werden die m&#xF6;glichen Kosten im Zusammenhang mit dieser Verpflichtung f&#xFC;r die Bestimmung der Zust&#xE4;ndigkeit ebenfalls ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les statuts de la personne morale concern&#xE9;e pr&#xE9;voient une &#xE9;ventuelle obligation de proc&#xE9;der &#xE0; des apports suppl&#xE9;mentaires en capital, le co&#xFB;t &#xE9;ventuel li&#xE9; &#xE0; cette obligation est &#xE9;galement pris en consid&#xE9;ration pour la d&#xE9;termination de la comp&#xE9;tence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31806">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zust&#xE4;ndigkeit zur Ver&#xE4;usserung einer Beteiligung wird aufgrund des gesch&#xE4;tzten Wertes der Beteiligung gem&#xE4;ss den ordentlichen Kriterien der finanziellen Kompetenz analog geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La comp&#xE9;tence de d&#xE9;cider de l&#x2019;ali&#xE9;nation d&#x2019;une participation est r&#xE9;gl&#xE9;e par analogie selon les crit&#xE8;res ordinaires de comp&#xE9;tence financi&#xE8;re en fonction de la valeur estim&#xE9;e de la participation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31807">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die Zust&#xE4;ndigkeiten des mit den Finanzen beauftragten Departements im Zusammenhang mit der Verwaltung und Anlage von Finanzverm&#xF6;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les comp&#xE9;tences du d&#xE9;partement en charge des finances concernant la gestion et le placement du patrimoine financier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13810">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Voraussetzungen f&#xFC;r den Erwerb</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions d'acquisition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31808">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann eine Beteiligung des Verwaltungsverm&#xF6;gens nur dann erwerben, wenn an diesem Erwerb ein &#xF6;ffentliches Interesse besteht und wenn die Grunds&#xE4;tze der Gesch&#xE4;ftsf&#xFC;hrung und des Finanzhaushalts eingehalten werden (namentlich Leistungsf&#xE4;higkeit, Zweckm&#xE4;ssigkeit, Sparsamkeit und Wirtschaftlichkeit).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat ne peut acqu&#xE9;rir une participation relevant du patrimoine administratif que si cette acquisition r&#xE9;pond &#xE0; un int&#xE9;r&#xEA;t public et respecte de plus les principes de la gestion administrative et financi&#xE8;re (notamment efficacit&#xE9;, rationalit&#xE9;, emploi &#xE9;conomique et judicieux des fonds).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31809">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Erwerb einer Beteiligung des Finanzverm&#xF6;gens muss vern&#xFC;nftigen Anspr&#xFC;chen der Sicherheit und des Ertrags gen&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;acquisition d&#x2019;une participation relevant du patrimoine financier doit r&#xE9;pondre &#xE0; des conditions judicieuses de s&#xE9;curit&#xE9; et de rapport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13811">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Voraussetzungen f&#xFC;r die Ver&#xE4;usserung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions d'ali&#xE9;nation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31810">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Bedingungen f&#xFC;r den Erwerb einer Beteiligung des Verwaltungsverm&#xF6;gens nicht mehr erf&#xFC;llt sind, wird die Beteiligung nach &#xDC;bertragung ins Finanzverm&#xF6;gen ver&#xE4;ussert, es sei denn, die Beibehaltung im Finanzverm&#xF6;gen w&#xE4;re unter dem Gesichtspunkt der Sicherheit und des Ertrags gerechtfertigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les conditions d'acquisition d'une participation relevant du patrimoine administratif ne sont plus r&#xE9;unies, la participation, apr&#xE8;s transfert au patrimoine financier, est ali&#xE9;n&#xE9;e, &#xE0; moins que son maintien au sein de ce patrimoine r&#xE9;ponde &#xE0; une gestion judicieuse sous les aspects de s&#xE9;curit&#xE9; et de rapport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31811">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ver&#xE4;usserung einer Beteiligung des Finanzverm&#xF6;gens muss vern&#xFC;nftigen Anspr&#xFC;chen der Sicherheit und des Ertrags gen&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ali&#xE9;nation d&#x2019;une participation relevant du patrimoine financier doit r&#xE9;pondre &#xE0; des conditions judicieuses de s&#xE9;curit&#xE9; et de rapport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13812">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schaffung, Aufl&#xF6;sung und Zusammenlegung von juristischen Personen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cr&#xE9;ation, dissolution et regroupement de personnes morales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31812">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schaffung und die Aufl&#xF6;sung einer juristischen Person durch den Staat unterliegen den gleichen Bedingungen wie der Erwerb beziehungsweise die Ver&#xE4;usserung von Beteiligungen des Verwaltungsverm&#xF6;gens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La cr&#xE9;ation et la dissolution d&#x2019;une personne morale par l&#x2019;Etat sont soumises aux m&#xEA;mes conditions que celles r&#xE9;gissant l&#x2019;acquisition, respectivement l&#x2019;ali&#xE9;nation de participations relevant du patrimoine administratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31813">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die &#xF6;ffentlich-rechtlichen juristischen Personen bleiben die Anforderungen im Zusammenhang mit dem Legalit&#xE4;tsprinzip vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es, pour les personnes morales de droit public, les exigences pos&#xE9;es par le principe de la l&#xE9;galit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31814">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In diesem Rahmen richtet der Staat ein besonderes Augenmerk auf die Zusammenlegung oder Fusion von juristischen Personen mit &#xE4;hnlicher Zielsetzung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans ce cadre, l&#x2019;Etat porte une attention particuli&#xE8;re au regroupement ou &#xE0; la fusion de personnes morales poursuivant des buts semblables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4068">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Vertretung des Staates</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Repr&#xE9;sentation de l'Etat</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4069">
+                <structureContent lang="de">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Allgemeines</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13813">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Strategie</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Strat&#xE9;gie</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31815">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bei Beteiligungen des Verwaltungsverm&#xF6;gens werden die mit der Beteiligung verfolgten strategischen und finanziellen Ziele vom Staatsrat festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">S&#x2019;agissant des participations relevant du patrimoine administratif, le Conseil d&#x2019;Etat fixe les objectifs strat&#xE9;giques et financiers qui sont poursuivis au moyen de la participation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31816">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Ziele werden regelm&#xE4;ssig neu beurteilt und angepasst.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces objectifs sont &#xE9;valu&#xE9;s et mis &#xE0; jour r&#xE9;guli&#xE8;rement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13814">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aus&#xFC;bung der Beteiligungsrechte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exercice des droits de participation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31817">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat achtet auf die zweckm&#xE4;ssige Aus&#xFC;bung der Beteiligungsrechte des Staates.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d&#x2019;Etat veille &#xE0; l&#x2019;exercice ad&#xE9;quat des droits de participation de l&#x2019;Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4070">
+                <structureContent lang="de">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Vertretung in Oberleitungsorganen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Repr&#xE9;sentation au sein des organes de haute direction</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13815">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31818">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat pr&#xFC;ft, ob es m&#xF6;glich, sinnvoll oder notwendig ist, dass der Staat im Oberleitungsorgan der betroffenen juristischen Person vertreten ist, namentlich unter Ber&#xFC;cksichtigung der gesetzlichen und statutarischen Bestimmungen des Privatrechts und/oder des &#xF6;ffentlichen Rechts, welche auf die betreffende juristische Person anwendbar sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d&#x2019;Etat examine s&#x2019;il est possible, judicieux ou n&#xE9;cessaire que l&#x2019;Etat soit repr&#xE9;sent&#xE9; au sein de l&#x2019;organe de haute direction de la personne morale concern&#xE9;e, compte tenu notamment des dispositions l&#xE9;gales et statutaires de droit priv&#xE9; et/ou de droit public applicables aux dites personnes morales.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31819">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Staat eine mehrheitliche oder wichtige Beteiligung h&#xE4;lt, muss er zwingend vertreten sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si l&#x2019;Etat d&#xE9;tient une participation majoritaire ou importante, sa repr&#xE9;sentation est obligatoire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31820">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Grundsatz einer Vertretung beschlossen wird, setzt der Staatsrat unter Beachtung der in den Artikeln 10 bis 12 genannten Bedingungen die Vertreter des Staates ein und beruft sie ab.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le principe de la repr&#xE9;sentation est retenu, le Conseil d&#x2019;Etat d&#xE9;signe et r&#xE9;voque les repr&#xE9;sentants de l&#x2019;Etat aux conditions expos&#xE9;es ci-apr&#xE8;s aux articles 10 &#xE0; 12.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31821">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vorbehalten bleiben die gesetzlichen und statutarischen Bestimmungen, welche auf die betroffenen juristischen Personen anwendbar sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions statutaires et l&#xE9;gales applicables aux personnes morales concern&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13816">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Allgemeine Auswahlkriterien</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Crit&#xE8;res g&#xE9;n&#xE9;raux de choix</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31822">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter des Staates werden namentlich gem&#xE4;ss folgenden Kriterien ausgew&#xE4;hlt:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants de l&#x2019;Etat sont notamment choisis en fonction des crit&#xE8;res g&#xE9;n&#xE9;raux suivants:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15207">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">berufliche F&#xE4;higkeiten und Erfahrungen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">comp&#xE9;tences et exp&#xE9;rience professionnelles;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15208">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">pers&#xF6;nliche F&#xE4;higkeiten;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">comp&#xE9;tences personnelles;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15209">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Verf&#xFC;gbarkeit;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">disponibilit&#xE9;;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15210">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Unabh&#xE4;ngigkeit und Fehlen von Interessenkonflikten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">ind&#xE9;pendance et absence de conflit d'int&#xE9;r&#xEA;ts.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31823">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Werden die betroffenen juristischen Personen vom Staat bedeutend subventioniert, m&#xFC;ssen dessen Vertreter von der oder dem f&#xFC;r die Subventionsgew&#xE4;hrung zust&#xE4;ndigen Beh&#xF6;rde oder Organ unabh&#xE4;ngig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque les personnes morales concern&#xE9;es re&#xE7;oivent des subventions importantes de l&#x2019;Etat, les repr&#xE9;sentants de celui-ci doivent &#xEA;tre ind&#xE9;pendants de l&#x2019;autorit&#xE9; ou de l&#x2019;organe comp&#xE9;tent pour l&#x2019;attribution des subventions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13817">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Besondere Auswahlkriterien</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Crit&#xE8;res particuliers de choix</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31824">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat erstellt, gegebenenfalls in Zusammenarbeit mit der betroffenen juristischen Person, eine Liste mit zus&#xE4;tzlichen spezifischen Kriterien f&#xFC;r die konkrete Funktion.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d&#x2019;Etat, cas &#xE9;ch&#xE9;ant en collaboration avec la personne morale concern&#xE9;e, &#xE9;tablit une liste de crit&#xE8;res compl&#xE9;mentaires sp&#xE9;cifiques &#xE0; la fonction concern&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31825">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er achtet auf eine interdisziplin&#xE4;re und erg&#xE4;nzende Zusammensetzung des Oberleitungsorgans, insbesondere was die notwendigen F&#xE4;higkeiten und Erfahrungen anbelangt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il veille &#xE0; une composition interdisciplinaire et compl&#xE9;mentaire de l'organe de haute direction, en particulier en ce qui concerne les comp&#xE9;tences et exp&#xE9;riences n&#xE9;cessaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13818">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Dauer und Beendigung des Mandats</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Dur&#xE9;e et fin du mandat</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31826">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter des Staates werden f&#xFC;r die in den anwendbaren Bestimmungen vorgesehene Dauer oder mangels solcher Bestimmungen f&#xFC;r eine Dauer von vier Jahren ernannt und sind wieder w&#xE4;hlbar. Ihr Mandat ist allerdings auf maximal zw&#xF6;lf Jahre begrenzt, ausser wenn ihr Amt als Vertreter des Staates mit einer Funktion innerhalb des Staates zusammenh&#xE4;ngt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants de l&#x2019;Etat sont nomm&#xE9;s pour la dur&#xE9;e pr&#xE9;vue par les dispositions applicables &#xE0; la personne morale ou &#xE0; d&#xE9;faut pour une dur&#xE9;e de quatre ans, renouvelable. Toutefois la dur&#xE9;e du mandat est limit&#xE9;e &#xE0; douze ans au maximum, sauf si la qualit&#xE9; de repr&#xE9;sentant est li&#xE9;e &#xE0; une fonction au sein de l&#x2019;Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31827">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter werden im Anschluss an die erste Sitzung des h&#xF6;chsten Organs nach jenem Kalenderjahr, in dem sie das vollendete 70. Altersjahr erreichen, von Amtes wegen ihres Mandats enthoben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants sont relev&#xE9;s d&#x2019;office de leur mandat &#xE0; l&#x2019;issue de la premi&#xE8;re s&#xE9;ance de l&#x2019;organe supr&#xEA;me suivant l'ann&#xE9;e civile au cours de laquelle ils atteignent l&#x2019;&#xE2;ge de 70 ans r&#xE9;volus.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31828">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter k&#xF6;nnen jederzeit von ihrem Amt enthoben werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants peuvent &#xEA;tre relev&#xE9;s de leur mission en tout temps.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31829">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie k&#xF6;nnen auch demissionieren, wenn triftige Gr&#xFC;nde daf&#xFC;r vorliegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils peuvent &#xE9;galement d&#xE9;missionner, si des motifs pertinents le justifient.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31830">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die auf die betroffene juristische Person anwendbaren statutarischen und gesetzlichen Bestimmungen bleiben vorbehalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions statutaires et l&#xE9;gales applicables &#xE0; la personne morale concern&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13819">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Pflichten der Vertreter</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Obligations des repr&#xE9;sentants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31831">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter des Staates verteidigen bei der Strategie der juristischen Person das &#xF6;ffentliche Interesse und wachen &#xFC;ber die Einhaltung der vom Staatsrat festgelegten strategischen und finanziellen Ziele.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants de l&#x2019;Etat d&#xE9;fendent l&#x2019;int&#xE9;r&#xEA;t public dans la strat&#xE9;gie de la personne morale et veillent au respect des objectifs strat&#xE9;giques et financiers fix&#xE9;s par le Conseil d&#x2019;Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31832">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn n&#xF6;tig, m&#xFC;ssen sie Weisungen anfordern. Gegebenenfalls kann der Staatsrat solche Weisungen auch von Amtes wegen erteilen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils doivent, si n&#xE9;cessaire, requ&#xE9;rir des instructions. Cas &#xE9;ch&#xE9;ant, le Conseil d&#x2019;Etat peut donner d&#x2019;office de telles instructions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31833">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter berichten regelm&#xE4;ssig &#xFC;ber ihre Verwaltungst&#xE4;tigkeit.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants rendent compte r&#xE9;guli&#xE8;rement de leur gestion.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31834">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die zwingenden Bestimmungen, welche auf die betreffende juristische Person anwendbar sind, bleiben vorbehalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions imp&#xE9;ratives applicables &#xE0; la personne morale concern&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31835">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter m&#xFC;ssen in den Ausstand treten, wenn die Umst&#xE4;nde an ihrer Unbefangenheit zweifeln lassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants doivent se r&#xE9;cuser s&#x2019;il existe des circonstances de nature &#xE0; faire suspecter leur impartialit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13820">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Auftragsschreiben oder Nachtrag zum Pflichtenheft</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Lettre de mission ou avenant au cahier des charges</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31836">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Beziehungen zwischen dem Staat und seinen Vertretern werden in einem Auftragsschreiben oder, wenn die Vertreter Mitglieder der kantonalen Verwaltung sind, in einem Nachtrag zum Pflichtenheft festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les relations entre l&#x2019;Etat et ses repr&#xE9;sentants sont consign&#xE9;es dans une lettre de mission &#xE9;crite ou un avenant au cahier des charges si les repr&#xE9;sentants sont membres de l&#x2019;administration cantonale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31837">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Dokumente beschreiben insbesondere:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces documents d&#xE9;crivent notamment:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15211">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die strategischen und finanziellen Zielsetzungen, die der Staat mit der Beteiligung verfolgt;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les objectifs strat&#xE9;giques et financiers que l'Etat poursuit au moyen de la participation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15212">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Modalit&#xE4;ten, nach denen die Vertreter &#xFC;ber ihre Verwaltungst&#xE4;tigkeiten berichten;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les modalit&#xE9;s selon lesquelles les repr&#xE9;sentants rendent compte de leur gestion;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15213">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Verpflichtung, wenn n&#xF6;tig Weisungen anzufordern;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'obligation de requ&#xE9;rir, si n&#xE9;cessaire, des instructions;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15214">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die eventuelle M&#xF6;glichkeit des Staates, von Amtes wegen Weisungen zu erteilen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la possibilit&#xE9; &#xE9;ventuelle de l'Etat de donner d'office des instructions;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15215">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Umfang der Vertretungsvollmacht;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'&#xE9;tendue du pouvoir de repr&#xE9;sentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15216">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Fragen der zivilrechtlichen Verantwortlichkeit;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les questions de responsabilit&#xE9; civile;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15217">
+                            <partNumber>g)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Entsch&#xE4;digungsmodalit&#xE4;ten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les modalit&#xE9;s de r&#xE9;mun&#xE9;ration.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31838">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gest&#xFC;tzt auf die von den Departementen &#xFC;bermittelten Informationen aktualisiert die Staatskanzlei ebenfalls die Register der Auftragsschreiben beziehungsweise der Nachtr&#xE4;ge zu den Pflichtenheften der Vertreter.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sur la base des informations transmises par les d&#xE9;partements, la Chancellerie d&#x2019;Etat tient &#xE9;galement &#xE0; jour le registre des lettres de mission, respectivement les avenants aux cahiers des charges des repr&#xE9;sentants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13821">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Entsch&#xE4;digung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE9;mun&#xE9;ration</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31839">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Entsch&#xE4;digung, die von der juristischen Person an die Vertreter, deren Arbeitgeber nicht der Staat ist, entrichtet wird, k&#xF6;nnen diese behalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La r&#xE9;mun&#xE9;ration vers&#xE9;e par la personne morale aux repr&#xE9;sentants dont l&#x2019;Etat n&#x2019;est pas l&#x2019;employeur reste acquise &#xE0; ceux-ci.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31840">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ohne gegenteilige vertragliche Bestimmungen leistet der Staat keine zus&#xE4;tzliche Entsch&#xE4;digung zugunsten seiner Vertreter.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sauf disposition contractuelle contraire, l&#x2019;Etat ne s&#x2019;acquitte d&#x2019;aucune r&#xE9;mun&#xE9;ration compl&#xE9;mentaire en faveur des repr&#xE9;sentants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31841">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Entsch&#xE4;digung, die von der juristischen Person an die Vertreter, deren Arbeitgeber der Staat ist, entrichtet wird, muss an den Staat zur&#xFC;ckverg&#xFC;tet werden, mit Ausnahme der Betr&#xE4;ge, die als Spesenentsch&#xE4;digungen bezahlt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La r&#xE9;mun&#xE9;ration vers&#xE9;e par la personne morale aux repr&#xE9;sentants dont l&#x2019;Etat est l&#x2019;employeur doit &#xEA;tre r&#xE9;troc&#xE9;d&#xE9;e &#xE0; l&#x2019;Etat, &#xE0; l&#x2019;exception des montants vers&#xE9;s en remboursement de frais.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13822">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Liste der Vertreter</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Liste des repr&#xE9;sentants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31842">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Staatskanzlei aktualisiert die Liste der Vertreter des Staates in der Oberleitung der juristischen Personen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La Chancellerie d&#x2019;Etat tient &#xE0; jour la liste des repr&#xE9;sentants de l&#x2019;Etat au sein de la haute direction des personnes morales.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31843">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Liste nennt das Departement und die betroffene Dienststelle und ist &#xF6;ffentlich zug&#xE4;nglich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette liste mentionne le d&#xE9;partement et le service concern&#xE9;s et est accessible au public.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13823">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zivilrechtliche Verantwortlichkeit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Responsabilit&#xE9; civile</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31844">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unter dem Aspekt der zivilrechtlichen Verantwortlichkeit werden die Vertreter grunds&#xE4;tzlich als Amtstr&#xE4;ger im Sinne des Gesetzes &#xFC;ber die Verantwortlichkeit der &#xF6;ffentlichen Gemeinwesen und ihrer Amtstr&#xE4;ger vom 10. Mai 1978 betrachtet, und die Bestimmungen dieses Gesetzes sind daher anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sous l&#x2019;angle de la responsabilit&#xE9; civile, les repr&#xE9;sentants sont en principe consid&#xE9;r&#xE9;s comme des agents de l&#x2019;Etat au sens de la loi sur la responsabilit&#xE9; des collectivit&#xE9;s publiques et de leurs agents du 10 mai 1978, et les dispositions de cette loi sont ainsi applicables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31845">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vorbehalten bleiben die besonderen Vorschriften des Bundes- oder Kantonsrechts und insbesondere jene, die eine prim&#xE4;re Verantwortlichkeit der Vertreter vorsehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les prescriptions sp&#xE9;ciales du droit f&#xE9;d&#xE9;ral ou du droit cantonal, et notamment celles pr&#xE9;voyant une responsabilit&#xE9; primaire des repr&#xE9;sentants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31846">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staat achtet darauf, dass er und seine Vertreter gegen zivilrechtliche Anspr&#xFC;che versichert sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#x2019;Etat veille &#xE0; ce que sa responsabilit&#xE9; civile et celle de ses repr&#xE9;sentants fassent l&#x2019;objet d&#x2019;une assurance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4071">
+                <structureContent lang="de">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Vertretung des Staates in der Generalversammlung der juristischen Personen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Repr&#xE9;sentation de l'Etat au sein des assembl&#xE9;es g&#xE9;n&#xE9;rales des personnes morales</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13824">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>18</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31847">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Grunds&#xE4;tzlich l&#xE4;sst sich der Staat in allen Generalversammlungen von juristischen Personen, an denen er beteiligt ist, vertreten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En principe, l&#x2019;Etat se fait repr&#xE9;senter &#xE0; toutes les assembl&#xE9;es g&#xE9;n&#xE9;rales des personnes morales auxquelles il participe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31848">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausnahmen sind zul&#xE4;ssig, wenn diese Vertretung offensichtlich kein wesentliches Interesse f&#xFC;r den Staat darstellt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Des exceptions sont admissibles lorsque cette repr&#xE9;sentation ne pr&#xE9;sente manifestement pas d&#x2019;int&#xE9;r&#xEA;t notable pour l&#x2019;Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13825">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zust&#xE4;ndigkeit und Modalit&#xE4;ten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Comp&#xE9;tence et modalit&#xE9;s</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31849">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter des Staates sowie deren Stellvertreter werden vom Staatsrat ernannt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants de l&#x2019;Etat, ainsi que leurs rempla&#xE7;ants, sont d&#xE9;sign&#xE9;s par le Conseil d&#x2019;Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31850">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat kann diese Zust&#xE4;ndigkeit an das betroffene Departement delegieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d&#x2019;Etat peut d&#xE9;l&#xE9;guer cette comp&#xE9;tence au d&#xE9;partement concern&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13826">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Auswahl der Vertreter</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Choix des repr&#xE9;sentants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31851">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Vertreter des Staates und deren Stellvertreter sind im Allgemeinen Magistraten oder Mitarbeiter des betroffenen Departements.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les repr&#xE9;sentants de l&#x2019;Etat et leurs rempla&#xE7;ants sont en r&#xE8;gle g&#xE9;n&#xE9;rale des magistrats ou des collaborateurs du d&#xE9;partement concern&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31852">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie m&#xFC;ssen ausreichende Kenntnisse und berufliche Erfahrung aufweisen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils doivent poss&#xE9;der les connaissances et l&#x2019;exp&#xE9;rience professionnelle suffisantes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:31853">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie m&#xFC;ssen von den Vertretern des Staates in der Oberleitung der juristischen Person unabh&#xE4;ngig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils doivent &#xEA;tre ind&#xE9;pendants des repr&#xE9;sentants de l&#x2019;Etat au sein de l&#x2019;organe de haute direction de la personne morale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4072">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Beobachtung der Beteiligungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Suivi des participations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13827">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beziehungen zu den Vertretern in den Oberleitungsorganen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Relations avec les repr&#xE9;sentants au sein des organes de haute direction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31854">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat organisiert mit den Vertretern des Staates so oft Besprechungen, wie er es f&#xFC;r angebracht h&#xE4;lt, jedoch mindestens einmal pro Jahr f&#xFC;r die wichtigen Beteiligungen. Er kann diese Zust&#xE4;ndigkeit an das betroffene Departement delegieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat organise des rencontres avec les repr&#xE9;sentants de l&#x2019;Etat aussi souvent qu&#x2019;il le juge n&#xE9;cessaire, mais au moins une fois l&#x2019;an pour les participations importantes. Il peut d&#xE9;l&#xE9;guer cette comp&#xE9;tence au d&#xE9;partement concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31855">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Partei muss um zus&#xE4;tzliche Besprechungen ersuchen, wenn dies notwendig oder w&#xFC;nschenswert ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chacune des parties doit solliciter des rencontres suppl&#xE9;mentaires si cela est n&#xE9;cessaire ou souhaitable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31856">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anl&#xE4;sslich dieser Besprechungen m&#xFC;ssen insbesondere nachfolgende Themen behandelt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A l&#x2019;occasion de ces rencontres doivent notamment &#xEA;tre trait&#xE9;s les objets suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15218">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mitteilung der aktuellen strategischen und/oder finanziellen Zielsetzungen durch den Staat;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">communication par l'Etat des objectifs strat&#xE9;giques et/ou financiers mis &#xE0; jour;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15219">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bericht der Vertreter &#xFC;ber die Umsetzung der vorerw&#xE4;hnten Zielsetzungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">rapport par les repr&#xE9;sentants au sujet de la mise en &#x153;uvre des objectifs pr&#xE9;cit&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15220">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Berichterstattung &#xFC;ber die Situationen, bei denen die Interessen des Staates von jenen der betreffenden juristischen Person abweichen k&#xF6;nnten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mise en &#xE9;vidence par les repr&#xE9;sentants des situations o&#xF9; les int&#xE9;r&#xEA;ts de l'Etat pourraient diverger de ceux de la personne morale concern&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15221">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">allgemeiner Bericht der Vertreter &#xFC;ber ihre T&#xE4;tigkeit und &#xFC;ber die Situation der juristischen Person;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">rapport g&#xE9;n&#xE9;ral par les repr&#xE9;sentants au sujet de leur activit&#xE9; et sur la situation de la personne morale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15222">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mitteilung aller Situationen mit Interessenkonflikten durch die Vertreter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">communication par les repr&#xE9;sentants de toute situation de conflit d'int&#xE9;r&#xEA;ts;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15223">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mitteilung der Entsch&#xE4;digung (Gehalt, Honorare, Sitzungsgelder usw.) und der Spesenentsch&#xE4;digungen, die durch die juristische Person ausgesch&#xFC;ttet wurden, sowie der anderen mit ihr eingegangenen vertraglichen Bedingungen durch die Vertreter.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">communication par les repr&#xE9;sentants de la r&#xE9;tribution (salaire, honoraires, jetons de pr&#xE9;sence, etc.) et des indemnit&#xE9;s pour frais vers&#xE9;es par la personne morale ainsi que les autres conditions contractuelles convenues avec celle-ci.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31857">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Besprechungen bilden Gegenstand von schriftlichen Protokollen, die gem&#xE4;ss einer Standardvorlage erstellt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rencontres font l&#x2019;objet de comptes rendus &#xE9;crits &#xE9;tablis selon un mod&#xE8;le standard.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31858">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitteilungen durch die Vertreter finden unter Beachtung des zwingenden Rechts statt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communications des repr&#xE9;sentants ont lieu dans le respect du droit imp&#xE9;ratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13828">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beziehungen mit den Vertretern in der Generalversammlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Relations avec les repr&#xE9;sentants au sein d'assembl&#xE9;es g&#xE9;n&#xE9;rales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31859">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r die Bezeichnung der Vertreter zust&#xE4;ndige Beh&#xF6;rde gibt diesen die Abstimmungsinstruktionen f&#xFC;r die Generalversammlung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;autorit&#xE9; comp&#xE9;tente pour la d&#xE9;signation des repr&#xE9;sentants donne &#xE0; ceux-ci des instructions de vote pour les assembl&#xE9;es g&#xE9;n&#xE9;rales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31860">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Anschluss an diese erstatten die Vertreter der Beh&#xF6;rde Bericht, wenn die Instruktionen von der Versammlung nicht ber&#xFC;cksichtigt worden sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A l&#x2019;issue de celle-ci, les repr&#xE9;sentants font rapport &#xE0; dite autorit&#xE9;, si les instructions n&#x2019;ont pas &#xE9;t&#xE9; retenues par l&#x2019;assembl&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13829">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Standardisierter Bericht der wichtigen Beteiligungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Compte rendu standardis&#xE9; des participations importantes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31861">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Departemente, welche f&#xFC;r wichtige Beteiligungen des Staates zust&#xE4;ndig sind, haben allj&#xE4;hrlich einen Rechenschaftsbericht zuhanden des Staatsrates zu erstellen. Dieser standardisierte Bericht (Reporting-System) muss die haupts&#xE4;chlichen Informationen &#xFC;ber die besagten Beteiligungen (Ziel der Beteiligung, Umfang der finanziellen Verpflichtung, Schl&#xFC;sselindikatoren &#xFC;ber den Betrieb, wichtige Vorkommnisse im Zusammenhang mit der Strategie des Eigent&#xFC;mers und der juristischen Person, Risikoevaluation usw.) enthalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;partements auxquels sont rattach&#xE9;es les participations importantes de l'Etat sont charg&#xE9;s d&#x2019;&#xE9;tablir annuellement, &#xE0; l&#x2019;attention du Conseil d&#x2019;Etat, des comptes rendus &#xE9;tablis sous forme standardis&#xE9;e (syst&#xE8;me de reporting) et contenant les informations essentielles sur lesdites participations (but de la participation, ampleur de l&#x2019;engagement financier, indicateurs cl&#xE9;s relatifs &#xE0; l&#x2019;exploitation, &#xE9;v&#xE9;nements importants du point de vue de la strat&#xE9;gie du propri&#xE9;taire et de la strat&#xE9;gie de la personne morale, &#xE9;valuation des risques, etc.).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31862">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegebenenfalls schlagen sie den zust&#xE4;ndigen Beh&#xF6;rden die n&#xF6;tigen Korrekturmassnahmen vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cas &#xE9;ch&#xE9;ant, ils proposent aux autorit&#xE9;s comp&#xE9;tentes les mesures correctives n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13830">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltung aller Beteiligungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Administration de toutes les participations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31863">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwaltung aller Beteiligungen obliegt dem f&#xFC;r die Finanzen zust&#xE4;ndigen Departement.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'administration de toutes les participations incombe au d&#xE9;partement en charge des finances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13831">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Information des Grossen Rates</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information au Grand Conseil</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31864">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat berichtet dem Grossen Rat allj&#xE4;hrlich &#xFC;ber den Verlauf der wichtigen Beteiligungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat rapporte annuellement au Grand Conseil sur le suivi des participations importantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13832">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exceptions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31865">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Abweichungen von den Bestimmungen dieses Kapitels sind f&#xFC;r Beteiligungen, die nur eine untergeordnete Bedeutung haben, zul&#xE4;ssig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des d&#xE9;rogations aux dispositions du pr&#xE9;sent chapitre sont admissibles pour les participations ne pr&#xE9;sentant qu&#x2019;une importance mineure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13833">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Revision</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;vision</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31866">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat achtet darauf, dass die juristischen Personen, an denen er beteiligt ist, &#xFC;ber einen externen Revisor verf&#xFC;gen, der &#xFC;ber die f&#xFC;r die Erf&#xFC;llung seiner Aufgaben notwendigen Qualifikationen verf&#xFC;gt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat veille &#xE0; ce que les personnes morales auxquelles il participe soient dot&#xE9;es d&#x2019;un r&#xE9;viseur externe disposant des qualifications n&#xE9;cessaires &#xE0; l&#x2019;accomplissement de ses t&#xE2;ches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31867">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Berichte der externen Revisoren werden durch die Vertreter des Staates in den Generalversammlungen an das betroffene Departement &#xFC;bermittelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rapports des r&#xE9;viseurs externes sont transmis au d&#xE9;partement concern&#xE9; par les repr&#xE9;sentants de l&#x2019;Etat au sein des assembl&#xE9;es g&#xE9;n&#xE9;rales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4073">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13834">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31868">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen &#xFC;ber die allgemeinen und besonderen Kriterien f&#xFC;r die Auswahl der Vertreter des Staates sind fortlaufend bei den Bezeichnungen und Erneuerungen der Vertreter des Staates anwendbar, sp&#xE4;testens aber vier Jahren ab Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions concernant les crit&#xE8;res g&#xE9;n&#xE9;raux et particuliers de choix des repr&#xE9;sentants de l&#x2019;Etat sont applicables au fur et &#xE0; mesure des d&#xE9;signations et des renouvellements des repr&#xE9;sentants de l&#x2019;Etat, mais au plus tard dans un d&#xE9;lai de quatre ans d&#xE8;s l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31869">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen &#xFC;ber die Ausarbeitung der strategischen und finanziellen Zielsetzungen, die Erstellung von Auftragsschreiben oder von Nachtr&#xE4;gen zu den Pflichtenheften sind fortlaufend bei den Bezeichnungen und Erneuerungen der Vertreter des Staates anwendbar, sp&#xE4;testens aber nach einem Jahr ab Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions concernant l&#x2019;&#xE9;laboration des objectifs strat&#xE9;giques et financiers, l&#x2019;&#xE9;tablissement de lettres de missions ou d&#x2019;avenants aux cahiers des charges sont applicables au fur et &#xE0; mesure des d&#xE9;signations et des renouvellements des repr&#xE9;sentants de l&#x2019;Etat, mais au plus tard dans un d&#xE9;lai d&#x2019;une ann&#xE9;e d&#xE8;s l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31870">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen &#xFC;ber die Dauer und das Ende des Mandats der Vertreter des Staates sind sp&#xE4;testens vier Jahre nach Inkrafttreten des vorliegenden Gesetzes anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions concernant la dur&#xE9;e et la fin du mandat des repr&#xE9;sentants de l&#x2019;Etat sont applicables au plus tard dans un d&#xE9;lai de quatre ans d&#xE8;s l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13835">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausf&#xFC;hrungsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31871">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die n&#xF6;tigen Ausf&#xFC;hrungsbestimmungen auf dem Reglements- und Weisungsweg.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat arr&#xEA;te par voie de r&#xE8;glement et de directives les dispositions d&#x2019;ex&#xE9;cution n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13836">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:31872">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:31873">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat fixe l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2012-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 15/2011, 52/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,2721 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1918</normID>
+      <number>415.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber den Sport</title>
+      <title lang="fr">Loi sur le sport</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2012-09-14</dateAdoption>
+      <dateForce>2018-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:(Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann und Frau sowie f&#xFC;r gesunde Personen oder Menschen mit einer Behinderung.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31 alin&#xE9;a 1 lettre a et 42 alin&#xE9;a 1 de la Constitution cantonale;&#xA0;</basis> <basis>sur la proposition du Conseil d&#x2019;Etat,</basis><formal>ordonne:(Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l&#x2019;homme ou la femme, ainsi que les personnes valides et les personnes en situation de handicap.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 41/2012, 17/2018</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="10605">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber den Sport</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur le sport</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10607">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34189">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck des Gesetzes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts de la loi</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79427">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz hat zum Zweck:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour buts de:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53033">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">g&#xFC;nstige Rahmenbedingungen f&#xFC;r die harmonische und nachhaltige Entwicklung des Sports im Wallis zu festigen und zu garantieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">consolider et assurer un contexte favorable au d&#xE9;veloppement harmonieux et p&#xE9;renne du sport en Valais;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53034">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sport und Bewegung mit dem Fokus auf sportliche Leistung, Wohlbefinden, Erziehung, Gesundheit, Sicherheit und Integration zu f&#xF6;rdern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encourager les activit&#xE9;s sportives et physiques, en termes de performance sportive, de bien-&#xEA;tre, d&#x2019;&#xE9;ducation, de sant&#xE9;, de s&#xE9;curit&#xE9; et d&#x2019;int&#xE9;gration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53035">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Werte des Sports und die Anforderungen in Bezug auf eine nachhaltige Entwicklung hervorzuheben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir le respect des valeurs du sport et les exigences du d&#xE9;veloppement durable.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34190">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d&#x2019;application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79428">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Sportgesetz gilt f&#xFC;r Sport und Bewegung auf allen Ebenen und f&#xFC;r die gesamte Bev&#xF6;lkerung des Kantons.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi sur le sport s&#x2019;applique aux activit&#xE9;s sportives et physiques &#xE0; tous les niveaux et pour l&#x2019;ensemble de la population du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34191">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Werte des Sports</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Valeurs du sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79429">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz erachtet Sport und Bewegung als wichtige Dimensionen des menschlichen Lebens, der Erziehung und der Ausbildung; dies aufgrund der wichtigen Werte, die sie vermitteln, namentlich der Wille, Leistungen zu erbringen und Ziele zu erreichen, Selbstwertgef&#xFC;hl, Respekt, Fairplay, Ausdauer, Durchhalteverm&#xF6;gen, Solidarit&#xE4;t und Teamgeist. Es strebt ins besondere die Entwicklung regelm&#xE4;ssiger sportlicher und k&#xF6;rperlicher Bet&#xE4;tigung zur Gesundheitsf&#xF6;rderung, zur sozialen Integration und zum gesellschaftlichen Zusammenhalt an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi consid&#xE8;re les activit&#xE9;s sportives et physiques comme une dimensionimportante de la vie humaine, de l&#x2019;&#xE9;ducation et de la formation, de par lesvaleurs essentielles qu&#x2019;elles v&#xE9;hiculent, notamment, le go&#xFB;t de l&#x2019;effort,l&#x2019;estime de soi, la volont&#xE9; d&#x2019;atteindre des objectifs, le respect, le fair-play,l'endurance, la pers&#xE9;v&#xE9;rance, la solidarit&#xE9; et l&#x2019;esprit d&#x2019;&#xE9;quipe. Elle vise enparticulier le d&#xE9;veloppement d&#x2019;activit&#xE9;s sportives et physiques r&#xE9;guli&#xE8;resdans une perspective de promotion de la sant&#xE9;, d&#x2019;int&#xE9;gration et de coh&#xE9;sionsociales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34192">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ethik im Sport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ethique dans le sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79430">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Was die Ethik im Sport anbelangt, bezieht sich der Staat auf die sieben Prinzipien, die in der Ethik-Charta im Sport von Swiss Olympic aufgef&#xFC;hrt sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En mati&#xE8;re d&#x2019;&#xE9;thique dans le sport, l&#x2019;Etat se base sur les sept principes &#xE9;nonc&#xE9;s dans la Charte d&#x2019;&#xE9;thique du sport de Swiss Olympic, &#xE0; savoir:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53036">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gleichbehandlung f&#xFC;r alle;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">traiter toutes les personnes de mani&#xE8;re &#xE9;gale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53037">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sport und soziales Umfeld im Einklang;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir l&#x2019;harmonie du sport avec l&#x2019;environnement social;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53038">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xF6;rderung der Selbst- und Mitverantwortung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">favoriser le partage des responsabilit&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53039">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">respektvolle F&#xF6;rderung statt &#xDC;berforderung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">respecter pleinement les capacit&#xE9;s physiques et mentales des personnes en &#xE9;vitant de les surmener;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53040">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erziehung zu Fairness und Umweltverantwortung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;duquer &#xE0; une attitude sociale juste et &#xE0; un comportement responsable vers l&#x2019;environnement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53041">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gegen Gewalt, Ausbeutung und sexuelle &#xDC;bergriffe;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s&#x2019;opposer &#xE0; la violence, &#xE0; l&#x2019;exploitation et au harc&#xE8;lement sexuel;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53042">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Absage an Doping und Suchtmittel.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s&#x2019;opposer au dopage et aux toxico-d&#xE9;pendances.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79431">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Sport und Bewegung setzt der Staat den Akzent auf Fairplay und f&#xF6;rdert den respektvollen Umgang mit Personen, Sachen und Umwelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans toutes les activit&#xE9;s sportives et physiques, l&#x2019;Etat promeut le fair-playet encourage le respect des personnes, du mat&#xE9;riel et de l&#x2019;environnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34193">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Terminologie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Terminologie</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79432">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die verwendete Terminologie wird in Anhang&#xA0;1 zum vorliegenden Gesetz erkl&#xE4;rt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La terminologie est pr&#xE9;sent&#xE9;e dans l&#x2019;annexe&#xA0;1 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34194">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79433">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat definiert die kantonale Sportpolitik und unterst&#xFC;tzt die generelle Aus&#xFC;bung von Sport und Bewegung der gesamten Bev&#xF6;lkerung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat d&#xE9;finit la politique cantonale du sport et soutient la pratique g&#xE9;n&#xE9;rale des activit&#xE9;s sportives et physiques pour l&#x2019;ensemble de la population.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79434">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Aus&#xFC;bung von Sport und Bewegung ist jede Person in erster Linie selbst verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pratique des activit&#xE9;s sportives et physiques rel&#xE8;ve en premier lieu de la responsabilit&#xE9; individuelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79435">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">S&#xE4;mtliche Partner aus den Bereichen Schule und Jugend m&#xFC;ssen den regelm&#xE4;ssigen Sport w&#xE4;hrend der Vorschul- und Schulzeit f&#xF6;rdern, namentlich durch eine entsprechende Ausbildung des Personals.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ensemble des partenaires de l'&#xE9;cole et de la jeunesse doit favoriser une pratique sportive r&#xE9;guli&#xE8;re durant toute la pr&#xE9;scolarit&#xE9; et la scolarit&#xE9;, notamment par une formation ad&#xE9;quate du personnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79436">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der freiwillige Schulsport, der in der Zust&#xE4;ndigkeit der Gemeinden liegt, will das Engagement der Sch&#xFC;ler bei Sport und Bewegung in ihrer Freizeit verbessern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le sport scolaire facultatif, du ressort communal, vise &#xE0; am&#xE9;liorer l&#x2019;engagement des &#xE9;l&#xE8;ves dans la pratique des activit&#xE9;s sportives et physiques durant leur temps libre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79437">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;r Sport ist an der Umsetzung von Sport- und Bewegungsprogrammen in der Schule beteiligt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office du sport est associ&#xE9; &#xE0; la mise en oeuvre des programmes li&#xE9;s aux activit&#xE9;s sportives et physiques &#xE0; l'&#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79438">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sport und Bewegung in der Schule werden durch die Schulgesetzgebung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les activit&#xE9;s sportives et physiques &#xE0; l&#x2019;&#xE9;cole sont r&#xE9;gies par la l&#xE9;gislation scolaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79439">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgrund ihrer N&#xE4;he zur Bev&#xF6;lkerung &#xFC;bernehmen die Gemeinden, die Gemeindeverb&#xE4;nde und die Regionalverb&#xE4;nde die Rolle der treibenden Kraft bei der Aus&#xFC;bung und Weiterentwicklung von Sport und Bewegung der gesamten Bev&#xF6;lkerung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Du fait de leur proximit&#xE9;, les communes, les groupements de communes, les collectivit&#xE9;s r&#xE9;gionales jouent un r&#xF4;le moteur dans la r&#xE9;alisation et le d&#xE9;veloppement des activit&#xE9;s sportives et physiques pour l&#x2019;ensemble de la population.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79440">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonalen Sportverb&#xE4;nde, die aus den lokalen Sportvereinen bestehen, sind die St&#xFC;tzen des Sports und ihre Initiativen werden gef&#xF6;rdert. Ihre Autonomie muss gewahrt bleiben, selbst wenn sie von Seiten der Institutionenunterst&#xFC;tzt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations sportives cantonales, constitu&#xE9;es par les clubs sportifs locaux, sont les piliers du sport et leurs initiatives sont encourag&#xE9;es. Leur autonomie doit &#xEA;tre pr&#xE9;serv&#xE9;e, m&#xEA;me en cas de soutien de la part des institutions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79441">
+                    <partNumber>9</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Breitensport und Spitzensport fallen prim&#xE4;r in die Zust&#xE4;ndigkeit der kantonalen beziehungsweise nationalen Sportverb&#xE4;nde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le&#xA0;sport&#xA0;amateur et le sport d&#x2019;&#xE9;lite sont prioritairement la pr&#xE9;rogative des associations sportives cantonales, voire nationales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79442">
+                    <partNumber>10</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonalen Sportverb&#xE4;nde und andere Fachpersonen aus dem Sport tragen die Verantwortung f&#xFC;r Sportaktivit&#xE4;ten, die sie organisieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations sportives cantonales et d&#x2019;autres professionnels du sport portent la responsabilit&#xE9; des activit&#xE9;s sportives qu&#x2019;ils organisent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79443">
+                    <partNumber>11</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Organisation von grossen Sportveranstaltungen und/oder der Projektkonzipierung von Sportinfrastrukturen oder -anlagen von nationaler und/oder kantonaler Bedeutung beziehungsweise regionaler Bedeutung mit kantonaler Tragweite, f&#xFC;r die sich der Staat verpflichtet, wird eine Public Private Partnership angestrebt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un partenariat public-priv&#xE9; est recherch&#xE9; lors de la mise sur pied de grands &#xE9;v&#xE9;nements sportifs et/ou de la conception de projets d'infrastructures ou d'installations sportives d'importance nationale et/ou cantonale, voire r&#xE9;gionale de port&#xE9;e cantonale, dans lesquels l'Etat s'engage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10608">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufgaben</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Missions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34195">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben des Staates</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions de l&#x2019;Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79444">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat erf&#xFC;llt namentlich folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat remplit notamment les missions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53043">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er konkretisiert die kantonale Sportpolitik, indem er sich auf die kantonalen Sportverb&#xE4;nde, die Gemeinden und Gemeindeverb&#xE4;nde st&#xFC;tzt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">concr&#xE9;tiser la politique cantonale du sport en s&#x2019;appuyant sur les associations sportives cantonales, les communes et les groupements de communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53044">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er f&#xF6;rdert den Ausbau des Sport- und Bewegungsangebots f&#xFC;r die gesamte Bev&#xF6;lkerung und greift dabei auf die M&#xF6;glichkeiten zur&#xFC;ck, die von der Organisation der Schulen geboten werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">soutenir le d&#xE9;veloppement des activit&#xE9;s sportives et physiques pour l&#x2019;ensemble de la population tout en s&#x2019;appuyant sur les opportunit&#xE9;s offertes par l&#x2019;organisation des &#xE9;coles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53045">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er f&#xF6;rdert Sportveranstaltungen von nationaler oder internationaler Bedeutung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir les manifestations sportives d&#x2019;importance nationale ou internationale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53046">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er beg&#xFC;nstigt die Umsetzung von Rahmenbedingungen f&#xFC;r den Spitzenund den Nachwuchssport;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encourager la mise en place de conditions cadres pour le sport d&#x2019;&#xE9;lite et pour les espoirs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53047">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er f&#xF6;rdert und unterst&#xFC;tzt den Bau von Sportinfrastrukturen von nationaler und/oder kantonaler Bedeutung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir et soutenir la construction d&#x2019;infrastructures sportives d&#x2019;importance nationale et/ou cantonale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53048">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er koordiniert und unterst&#xFC;tzt den Bau von Sportinfrastrukturen von regionaler Bedeutung mit kantonaler Tragweite, sofern diese mit den Richtlinien des kantonalen Konzepts im Einklang stehen; dabei werden die spezifischen Bed&#xFC;rfnisse jeder Region ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">coordonner et soutenir la construction d&#x2019;infrastructures sportives d&#x2019;importance r&#xE9;gionale de port&#xE9;e cantonale si ces derni&#xE8;res entrent dans les lignes directrices du concept cantonal, tout en &#xE9;tant attentif aux besoins sp&#xE9;cifiques de chaque r&#xE9;gion;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53049">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er beg&#xFC;nstigt die optimale Nutzung der Sportinfrastrukturen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encourager l&#x2019;utilisation optimale des infrastructures sportives;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53050">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er unterst&#xFC;tzt die Ausbildung im spezifischen Bereich Sport und Bewegung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">soutenir la formation dans le domaine sp&#xE9;cifique des activit&#xE9;s sportives et physiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53051">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er f&#xF6;rdert die Freiwilligenarbeit, wobei der Fokus auf Qualit&#xE4;t gelegt wird;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir le b&#xE9;n&#xE9;volat en encourageant la qualit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53052">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er f&#xF6;rdert die Bek&#xE4;mpfung von Korruption, Doping, Gewalt und jeglicher Form von Diskriminierung und Bel&#xE4;stigung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir la lutte contre la corruption, le dopage, la violence et toutes formes de discrimination et de harc&#xE8;lement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53053">
+                        <partNumber>k)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er gew&#xE4;hrleistet die Koordination zwischen den grossen Sportveranstaltungen und den touristischen und wirtschaftlichen Zielen des Kantons.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la coordination entre les grandes manifestations sportives et les objectifs touristiques et &#xE9;conomiques du canton.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79445">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann gewisse Aufgaben dem f&#xFC;r den Sport zust&#xE4;ndigen Departement &#xFC;bertragen (nachstehend: Departement).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat peut d&#xE9;l&#xE9;guer certaines missions au D&#xE9;partement en charge du sport (ci-apr&#xE8;s: D&#xE9;partement).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34196">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben des Departements</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions du D&#xE9;partement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79446">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement, dem das Amt f&#xFC;r Sport angegliedert ist, achtet auf die Anwendung des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement, auquel est rattach&#xE9; l&#x2019;Office du sport, veille &#xE0; l&#x2019;applicationde la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79447">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;ber das Amt f&#xFC;r Sport schafft und verwaltet es eine kantonale Anlaufstelle f&#xFC;r den Sport.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il met en place et g&#xE8;re une porte d&#x2019;entr&#xE9;e cantonale pour le sport, via l&#x2019;Office du sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79448">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Beachtung der Autonomie jeder Einheit koordiniert das Departement:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le respect de l'autonomie de chaque entit&#xE9;, le D&#xE9;partement coordonne:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53054">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die T&#xE4;tigkeiten der kantonalen Sportverb&#xE4;nde und der Gemeinwesen mit den verschiedenen Dienststellen des Staates;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les actions des associations sportives cantonales et des collectivit&#xE9;s publiques avec les diff&#xE9;rents services de l&#x2019;Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53055">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">s&#xE4;mtliche Bestimmungen aus dem Sportbereich, einschliesslich jener mit Bezug zu den Schulen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l&#x2019;ensemble des dispositions prises dans le domaine du sport, y compris celles en lien avec les &#xE9;coles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34197">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben des Amts f&#xFC;r Sport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions de l&#x2019;Office du sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79449">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;r Sport &#xFC;bernimmt insbesondere folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office du sport a notamment pour t&#xE2;ches de:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53056">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es organisiert, leitet und entwickelt Jugend+Sport (J+S);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">organiser, animer et d&#xE9;velopper Jeunesse + Sport (J+S);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53057">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es beg&#xFC;nstigt die Ausbildung im Bereich Sporterziehung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encourager la formation en mati&#xE8;re d&#x2019;&#xE9;ducation sportive;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53058">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es leitet das kantonale Sportzentrum und entwickelt es weiter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">diriger le centre sportif cantonal et le d&#xE9;velopper;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53059">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xF6;rdert Aktionen im Bereich Sport und Bewegung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir les actions concernant les activit&#xE9;s sportives et physiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53060">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es gew&#xE4;hrleistet die Verbindung zwischen den kantonalen Sportverb&#xE4;nden und dem Departement;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la liaison entre les associations sportives cantonales et le D&#xE9;partement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53061">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xF6;rdert die Aktivit&#xE4;ten von "Sport f&#xFC;r alle", Erwachsenensport (ESA), Behindertensport und die Aktivit&#xE4;ten anderer Partnerinstitutionen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">promouvoir les activit&#xE9;s relevant du sport pour tous, du sport des adultes (ESA) et du sport handicap, ainsi que les activit&#xE9;s propos&#xE9;es par d&#x2019;autres institutions partenaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53062">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es wirkt an der Organisation von Sportveranstaltungen von nationaler oder internationaler Bedeutung mit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">participer &#xE0; la mise sur pied de manifestations sportives d&#x2019;importance nationale ou internationale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53063">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es wirkt an der Konzipierung und Umsetzung von Sportinfrastrukturen und -anlagen von kantonaler und/oder nationaler Bedeutung mit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">participer &#xE0; la conception et la r&#xE9;alisation d&#x2019;infrastructures et d&#x2019;installations sportives d&#x2019;importance cantonale et/ou nationale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53064">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es best&#xE4;rkt die Gemeinden und/oder Gemeindeverb&#xE4;nde, ihre Sportinfrastrukturen und -anlagen optimal zu belegen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">inciter les communes et/ou groupements de communes &#xE0; une occupation ad&#xE9;quate de leurs infrastructures et installations sportives;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53065">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xFC;hrt eine interaktive Karte mit den wichtigsten Sportinfrastrukturen und -anlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tenir &#xE0; jour une carte interactive des principales infrastructures et installations sportives;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53066">
+                        <partNumber>k)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es organisiert und f&#xF6;rdert die Information und Kommunikation im Bereich Sport und Bewegung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">organiser et promouvoir l&#x2019;information et la communication relatives aux activit&#xE9;s sportives et physiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53067">
+                        <partNumber>l)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es arbeitet mit den anderen Kantonen und dem Bundesamt f&#xFC;r Sport (BASPO) zusammen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">collaborer avec les autres cantons et l&#x2019;Office f&#xE9;d&#xE9;ral du sport (OFSPO);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53068">
+                        <partNumber>m)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es tr&#xE4;gt gemeinsam mit anderen Partnern und Institutionen und in Zusammenarbeit mit dem f&#xFC;r die Gesundheit zust&#xE4;ndigen Departement zur Gesundheitsf&#xF6;rderung durch den Sport bei.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contribuer avec d&#x2019;autres partenaires et institutions &#xE0; la promotion de la sant&#xE9; par le sport, en collaboration avec le D&#xE9;partement en charge de la sant&#xE9; publique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79450">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;r Sport ist in der Sportfonds-Kommission und in der Kommission "Sport-Kunst-Ausbildung" vertreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office du sport est repr&#xE9;sent&#xE9; au sein de la Commission du Fonds du sport et de la Commission Sport-Art-Formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34198">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Schule</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions de l&#x2019;&#xE9;cole</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79451">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um eine gesunde Entwicklung der Jugendlichen zu garantieren und diese auf die positiven Auswirkungen des Sports aufmerksam zu machen, sorgt die Schule, wie in der Gesetzgebung vorgesehen, f&#xFC;r eine regelm&#xE4;ssige Aus&#xFC;bung von Sport und Bewegung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour garantir un d&#xE9;veloppement harmonieux des jeunes et pour les sensibiliser aux bienfaits du sport, l&#x2019;&#xE9;cole assure la pratique r&#xE9;guli&#xE8;re des activit&#xE9;s sportives et physiques, selon la l&#xE9;gislation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79452">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktionen der Walliser Schulen m&#xFC;ssen Sport und Bewegung beg&#xFC;nstigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les directions des &#xE9;tablissements scolaires valaisans doivent encourager les activit&#xE9;s physiques et sportives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79453">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Absprache mit der betroffenen Dienststelle k&#xF6;nnen sie entsprechende kollektive oder individuelle Massnahmen umsetzen, mit denen sie allen Sch&#xFC;lern den Zugang zu Sport und Bewegung erm&#xF6;glichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles peuvent, avec l&#x2019;accord du Service concern&#xE9;, mettre sur pied des mesures adapt&#xE9;es, collectives ou individuelles, dans le but de favoriser l&#x2019;acc&#xE8;s aux activit&#xE9;s physiques et sportives &#xE0; tous les &#xE9;l&#xE8;ves.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79454">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Konzept "Sport-Kunst-Ausbildung" (S-K-A) erm&#xF6;glicht den Nachwuchssportlern, den Sport mit ihrer Ausbildung zu vereinbaren. Dazu ist die Zusammenarbeit mit den kantonalen beziehungsweise nationalen Sportverb&#xE4;nden zwingend.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le concept "Sport-Art-Formation" (S-A-F) du Conseil d&#x2019;Etat permet aux espoirs de concilier la pratique du sport et la poursuite de leur formation. Pour ce faire, la collaboration avec les associations sportives cantonales voire nationales est obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79455">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">M&#xF6;gliche S-K-A-Formen sind individuelle Massnahmen oder der Besuch einer Partnerschule des Sports.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les structures "S-A-F" possibles sont les Mesures Individualis&#xE9;es ou la fr&#xE9;quentation d&#x2019;une Ecole Partenaire du Sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79456">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat &#xFC;bernimmt gem&#xE4;ss dem Verteilschl&#xFC;ssel Kanton/Gemeinden die spezifischen Kosten der S-K-A-Strukturen, die im Rahmen des Unterrichtsund der Betreuung der Sportler anfallen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat prend en charge les co&#xFB;ts sp&#xE9;cifiques des structures "S-A-F" inh&#xE9;rents &#xE0; l&#x2019;enseignement et &#xE0; l&#x2019;encadrement des sportifs selon la cl&#xE9; de r&#xE9;partition canton/commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34199">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Gemeinden und Gemeindeverb&#xE4;nde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions des communes et des groupements de communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79457">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden und/oder Gemeindeverb&#xE4;nde best&#xE4;rken die gesamte Bev&#xF6;lkerungzu Sport und Bewegung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes et/ou groupements de communes incitent l&#x2019;ensemble de la population &#xE0; pratiquer des activit&#xE9;s sportives et physiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79458">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden und/oder Gemeindeverb&#xE4;nde, die dies w&#xFC;nschen, organisieren gegebenenfalls in Zusammenarbeit mit den lokalen Sportvereinen den freiwilligen Schulsport und verwalten diesen. Sie bieten den Sch&#xFC;lern damit eine zus&#xE4;tzliche M&#xF6;glichkeit, ihre k&#xF6;rperliche Kondition zu verbessern, ihre Sporterziehung zu vervollst&#xE4;ndigen und gleichzeitig ihre Freizeit gesund zu gestalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes et/ou groupements de communes qui le souhaitent organisent, le cas &#xE9;ch&#xE9;ant en collaboration avec les clubs sportifs locaux, et g&#xE8;rent le sport scolaire facultatif. Ils donnent ainsi aux &#xE9;l&#xE8;ves une occasion suppl&#xE9;mentaire d'am&#xE9;liorer leur condition physique, de parfaire leur &#xE9;ducation sportive tout en occupant sainement leurs loisirs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10609">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>F&#xF6;rderung der sportlichen Bet&#xE4;tigung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Promotion de la pratique sportive</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34200">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Jugend+Sport (J+S)</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Jeunesse + Sport (J+S)</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79459">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">J+S wird vom Amt f&#xFC;r Sport geleitet, welches die Aufgaben, die dem Kanton in der Bundesgesetzgebung &#xFC;bertragen werden, aus&#xFC;bt. Die Zusammenarbeit mit anderen Kantonen wird angestrebt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">J+S est dirig&#xE9; par l&#x2019;Office du sport qui exerce les attributions conf&#xE9;r&#xE9;es au canton par la l&#xE9;gislation f&#xE9;d&#xE9;rale. Des collaborations avec d&#x2019;autres cantons sont recherch&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79460">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen von J+S organisiert das Amt f&#xFC;r Sport Aus- und Weiterbildungskurse auf kantonaler Ebene.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des cours de formation et de perfectionnement au niveau cantonal sont organis&#xE9;s dans le cadre de J+S par l'Office du sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79461">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Entsch&#xE4;digung von Experten und Fachleuten, die im Rahmen von J+S t&#xE4;tig sind, fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;cide de la r&#xE9;mun&#xE9;ration des experts et des intervenants dans le cadre du programme J+S.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34201">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erwachsenensport - Behindertensport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sport des adultes - Sport handicap</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79462">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xF6;rdert die Aus&#xFC;bung von Sport und Bewegung im Rahmen von Erwachsenensport (ESA) und Behindertensport, wobei jede Situation ber&#xFC;cksichtigt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement encourage la pratique g&#xE9;n&#xE9;rale des activit&#xE9;s sportives et physiques pour le sport des adultes (ESA) et pour le sport handicap en tenant compte de chaque situation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79463">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;r Sport arbeitet mit Organisationen aus dem Erwachsenensport und dem Behindertensport sowie mit anderen &#xE4;hnlichen Institutionen zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office du sport collabore avec les organismes du sport des adultes et du sport handicap et avec les autres institutions analogues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79464">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das BASPO unterst&#xFC;tzt die Ausbildung des Kaders (Leiter und Experten).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;OFSPO soutient la formation des cadres (moniteurs et experts).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34202">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sport f&#xFC;r alle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sport pour tous</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79465">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xF6;rdert die allgemeine Aus&#xFC;bung von Sport und Bewegung der gesamten Bev&#xF6;lkerung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement encourage la pratique g&#xE9;n&#xE9;rale des activit&#xE9;s sportives et physiques pour l&#x2019;ensemble de la population.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79466">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es f&#xF6;rdert innovative Sportprojekte und die Schaffung von Standorten zur Aus&#xFC;bung von Sport und Bewegung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il promeut les projets sportifs novateurs et la r&#xE9;alisation d&#x2019;emplacements destin&#xE9;s &#xE0; la pratique d'activit&#xE9;s sportives et physiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79467">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden und/oder Gemeindeverb&#xE4;nde sind im Rahmen der Aktivit&#xE4;ten im Bereich Sport f&#xFC;r alle eine treibende Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes et/ou groupements de communes jouent un r&#xF4;le moteur dans les activit&#xE9;s li&#xE9;es au sport pour tous.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34203">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Breitensport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sport amateur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79468">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonalen Sportverb&#xE4;nde organisieren sportliche Aktivit&#xE4;ten, welche die Entwicklung des Breitensports beg&#xFC;nstigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations sportives cantonales organisent des activit&#xE9;s sportives favorisant le d&#xE9;veloppement du sport amateur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34204">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Spitzensport und Nachwuchsf&#xF6;rderung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sport d&#x2019;&#xE9;lite et espoirs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79469">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Spitzensport f&#xE4;llt in erster Linie in die Zust&#xE4;ndigkeit der Sportverb&#xE4;nde und privaten Organisationen, die sich auch um seine Entwicklung und Finanzierung k&#xFC;mmern. Sie achten insbesondere darauf, die Gleichbehandlung in der Selektionsphase vor dem &#xDC;bertritt in den Spitzen- und Nachwuchssport zu f&#xF6;rdern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le sport d&#x2019;&#xE9;lite rel&#xE8;ve prioritairement des associations sportives et des organisations priv&#xE9;es qui en assurent le d&#xE9;veloppement et le financement. Celles-ci veillent en particulier &#xE0; promouvoir l&#x2019;&#xE9;galit&#xE9; de traitement dans la phase de s&#xE9;lection pr&#xE9;c&#xE9;dant l&#x2019;entr&#xE9;e dans le sport d&#x2019;&#xE9;lite et de leurs espoirs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79470">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sportverb&#xE4;nde sind f&#xFC;r die F&#xF6;rderung ihrer Nachwuchssportler zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations sportives sont en charge de la promotion des espoirs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10610">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Sportfonds</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Fonds du sport</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34205">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bildung und Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Constitution et but</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79471">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds wird durch den j&#xE4;hrlichen Gewinnanteil gebildet, den die Loterie Romande dem Kanton Wallis zuweist, durch Schenkungen und allf&#xE4;llige Verm&#xE4;chtnisse, durch Zinsen sowie alle weiteren Zuwendungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport est constitu&#xE9; de la part du b&#xE9;n&#xE9;fice annuel attribu&#xE9; pour lesport par la Loterie romande au canton du Valais, de dons, de legs &#xE9;ventuels, des int&#xE9;r&#xEA;ts ainsi que de toute autre ressource.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79472">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er soll die Entwicklung von Sport und Bewegung unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est destin&#xE9; &#xE0; soutenir le d&#xE9;veloppement des activit&#xE9;s sportives et physiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79473">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds wird durch die Gesetzgebungen des Bundes und des Kantons geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport est r&#xE9;gi par les l&#xE9;gislations f&#xE9;d&#xE9;rale et cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34206">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation, Betrieb und Verwaltung des Sportfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation, fonctionnement et gestion du Fonds du sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79474">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt die Sportfonds-Kommission, die ihre Entscheide autonom trifft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat nomme la Commission du Fonds du sport qui prend ses d&#xE9;cisions de mani&#xE8;re autonome.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79475">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat genehmigt diese Entscheide entsprechend seiner im Gesetz &#xFC;ber die Gesch&#xE4;ftsf&#xFC;hrung und den Finanzhaushalt des Kantons und deren Kontrolle festgelegten Finanzkompetenz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat approuve ces d&#xE9;cisions selon les comp&#xE9;tences financi&#xE8;res fix&#xE9;es dans la loi sur la gestion et le contr&#xF4;le administratifs et financiers du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79476">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;r Sport &#xFC;bernimmt auf Mandatsbasis die administrative Leitung des Sportfonds.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Office du sport assure, sur mandat, la gestion administrative du Fonds du sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34207">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwendungszweck des Sportfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Affectation du Fonds du sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79477">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds gew&#xE4;hrt eine j&#xE4;hrliche finanzielle Unterst&#xFC;tzung f&#xFC;r Sportvereinigungen, sofern diese die Eigenschaft eines kantonalen Sport-Dachverbands haben, sowie f&#xFC;r Aktionen und spezielle Vereinigungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport octroie des aides financi&#xE8;res annuelles &#xE0; des groupements sportifs pour autant qu&#x2019;ils aient le caract&#xE8;re d&#x2019;association fa&#xEE;ti&#xE8;re sportive cantonale et &#xE0; des actions ou groupements &#xE0; caract&#xE8;re sp&#xE9;cial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79478">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds gew&#xE4;hrt punktuelle finanzielle Unterst&#xFC;tzungen, die der Finanzierung ausserschulischer Sportanlagen, dem Kauf von Sportmaterial und der Finanzierung von offiziellen und bedeutenden Sportwettk&#xE4;mpfen dienen oder als Stipendien an Walliser Nachwuchshoffnungen gehen. Die Anwendungsmodalit&#xE4;ten werden in der Verordnung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport octroie des aides financi&#xE8;res ponctuelles plus sp&#xE9;cialement destin&#xE9;es au financement d&#x2019;am&#xE9;nagements sportifs non scolaires, &#xE0; des achats de mat&#xE9;riel sportif, &#xE0; des comp&#xE9;titions sportives officielles et importantes et &#xE0; des bourses aux jeunes espoirs valaisans. L&#x2019;ordonnance r&#xE8;gle les modalit&#xE9;s d&#x2019;application.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79479">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds unterst&#xFC;tzt die Informations- und Kommunikationsmedien zugunsten von kantonalen Sportverb&#xE4;nden und Sportveranstaltungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport soutient les moyens d&#x2019;information et la communication au profit des associations sportives cantonales et des manifestations sportives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79480">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es besteht kein Anspruch darauf, einen Betrag aus dem Sportfonds zu erhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Nul ne peut se pr&#xE9;valoir d&#x2019;un droit &#xE0; l&#x2019;attribution d&#x2019;un montant en provenance du Fonds du sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79481">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sportfonds darf nicht verwendet werden, um gesetzliche Pflichten der &#xF6;ffentlichen Hand zu erf&#xFC;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Fonds du sport ne peut &#xEA;tre affect&#xE9; &#xE0; l&#x2019;ex&#xE9;cution d&#x2019;obligations legales incombant aux pouvoirs publics.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10611">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Sportveranstaltungen, Sportinfrastrukturen und Sportanlagen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Manifestations, infrastructures et installations sportives</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34208">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sportveranstaltungen und Sportanl&#xE4;sse von nationaler oder internationaler Bedeutung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Manifestations et &#xE9;v&#xE9;nements sportifs d&#x2019;envergure nationale ou internationale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79482">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat erfasst und f&#xF6;rdert Sportveranstaltungen und Sportanl&#xE4;sse von nationalem oder internationalem Charakter, die auf dem Kantonsgebiet organisiert werden k&#xF6;nnen, und kann diese unterst&#xFC;tzen. Er erarbeitet eine mittel- und langfristige Agenda und sorgt f&#xFC;r deren Betreuung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat inventorie, priorise et peut soutenir les manifestations et les &#xE9;v&#xE9;nements sportifs d&#x2019;envergure nationale ou internationale pouvant &#xEA;tre organis&#xE9;s sur le territoire cantonal. Il en &#xE9;tablit un calendrier &#xE0; moyen et long terme et en assure le suivi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79483">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement bietet den Organisatoren dieser Sportveranstaltungen im Rahmen der zur Verf&#xFC;gung stehenden Mittel technische und logistische Unterst&#xFC;tzung an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement apporte un appui technique et logistique aux organisateurs de ces manifestations sportives, dans la mesure des moyens &#xE0; disposition.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79484">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Hilfe wird f&#xFC;r Sportveranstaltungen und -anl&#xE4;sse gew&#xE4;hrt, die gem&#xE4;ss dem Staat von nationaler oder internationaler Bedeutung sind. Dabei werden insbesondere folgende Punkte gepr&#xFC;ft:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un appui est accord&#xE9; pour des manifestations et des &#xE9;v&#xE9;nements sportifs d&#xE9;clar&#xE9;s par l&#x2019;Etat d&#x2019;importance nationale ou internationale. Les &#xE9;l&#xE9;ments suivants sont notamment examin&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53069">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xF6;rderung eines attraktiven, dynamischen und positiven Images des Wallis;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la promotion d&#x2019;une image attrayante, dynamique et positive du Valais;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53070">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Entwicklung von Wirtschaft und Tourismus;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;veloppement de l'&#xE9;conomie et du tourisme;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53071">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xF6;rderung von Sport und Bewegung im Wallis auf allen Ebenen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la promotion des activit&#xE9;s sportives et physiques en Valais et &#xE0; tous les niveaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53072">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">St&#xE4;rkung des Zusammenhalts innerhalb des Kantons;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le renforcement de la coh&#xE9;sion cantonale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53073">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Aufwertung der Freiwilligenarbeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mise en valeur du travail des b&#xE9;n&#xE9;voles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53074">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xF6;rderung der Entwicklung kultureller Aktivit&#xE4;ten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l&#x2019;encouragement du d&#xE9;veloppement d'activit&#xE9;s culturelles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53075">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Best&#xE4;rken der m&#xF6;glichen Partner, ihre Ressourcen und Kompetenzen zu vereinen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l&#x2019;incitation des partenaires potentiels &#xE0; unir leurs forces et leurs comp&#xE9;tences;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53076">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Entwicklung von Synergien zwischen bestehenden Sportinfrastrukturen und -anlagen, womit die Nutzung der Anlagen optimiert wird;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;veloppement de synergies en mati&#xE8;re d&#x2019;infrastructures et d&#x2019;installations sportives existantes, afin d&#x2019;optimiser leur utilisation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53077">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Umsetzung von regelm&#xE4;ssig stattfindenden und nachhaltigen Sportanl&#xE4;ssen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mise en place d&#x2019;&#xE9;v&#xE9;nements sportifs permanents et p&#xE9;rennes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79485">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss den einschl&#xE4;gigen interkantonalen Konkordaten sind die Gemeinden f&#xFC;r die Bewilligung von Sportveranstaltungen und -anl&#xE4;ssen, die auf ihrem Gemeindegebiet durchgef&#xFC;hrt werden, zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Conform&#xE9;ment aux concordats intercantonaux en la mati&#xE8;re, les communes sont comp&#xE9;tentes pour l&#x2019;octroi des autorisations de manifestations et d&#x2019;&#xE9;v&#xE9;nements sportifs organis&#xE9;s sur leur territoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79486">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten f&#xFC;r die Sicherheit an Sportveranstaltungen werden gem&#xE4;ss den interkantonalen Vereinbarungen und dem geltenden Recht aufgeteilt. Der Staat kann jedoch je nach Art und Bedeutung der Veranstaltung gegebenenfalls f&#xFC;r die von ihm erbrachten Leistungen einen Vorzugstarif anwenden oder den Organisator von den Kosten befreien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de s&#xE9;curit&#xE9; des manifestations sportives sont r&#xE9;partis selon les accords intercantonaux et la l&#xE9;gislation en vigueur. Cependant, en fonction de la nature et de l&#x2019;envergure de la manifestation, l&#x2019;Etat peut, le cas &#xE9;ch&#xE9;ant, pour des prestations assur&#xE9;es par lui, d&#xE9;cider l&#x2019;exon&#xE9;ration ou l'application d'un tarif pr&#xE9;f&#xE9;rentiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34209">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sportinfrastrukturen und Sportanlagen - Allgemeines</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Infrastructures et installations sportives - G&#xE9;n&#xE9;ralit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79487">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sportinfrastrukturen und -anlagen k&#xF6;nnen von nationaler oder kantonaler Bedeutung beziehungsweise von regionaler Bedeutung mit kantonaler Tragweite sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infrastructures et installations sportives peuvent &#xEA;tre d&#x2019;importance nationale ou cantonale respectivement d&#x2019;importance r&#xE9;gionale de port&#xE9;e cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79488">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sportinfrastrukturen und -anlagen m&#xFC;ssen den anerkannten Normen f&#xFC;r Personen mit eingeschr&#xE4;nkter Mobilit&#xE4;t entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infrastructures et installations sportives doivent &#xEA;tre conformes aux normes reconnues pour les personnes &#xE0; mobilit&#xE9; r&#xE9;duite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79489">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wann immer beim Staat eine kantonale Unterst&#xFC;tzung beantragt wird, muss das Amt f&#xFC;r Sport schon bei der Projektkonzipierung der Anlagen konsultiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans tous les cas, lorsqu&#x2019;il y a demande de soutien &#xE0; l&#x2019;Etat, l&#x2019;Office du sport doit &#xEA;tre consult&#xE9; au niveau des installations d&#xE8;s la conception du projet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79490">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Grunds&#xE4;tzlich beteiligt sich der Staat nicht an den laufenden Kosten von Sportinfrastrukturen und -anlagen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, l&#x2019;Etat ne participe pas aux frais de fonctionnement des infrastructures et des installations sportives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79491">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Bauherr sorgt f&#xFC;r die Umsetzung von angemessenen Sportinfrastrukturen und -anlagen, die im Rahmen des M&#xF6;glichen den Wettkampfnormen der nationalen Sportverb&#xE4;nde/-f&#xF6;derationen sowie den Anforderungen einer nachhaltigen Entwicklung entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le ma&#xEE;tre d&#x2019;oeuvre veille &#xE0; la r&#xE9;alisation d&#x2019;infrastructures et d&#x2019;installations sportives appropri&#xE9;es qui correspondent, dans la mesure du possible, aux normes de comp&#xE9;tition exig&#xE9;es par les f&#xE9;d&#xE9;rations/associations sportives nationales et aux exigences du d&#xE9;veloppement durable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34210">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sportinfrastrukturen und Sportanlagen von nationaler oder kantonaler Bedeutung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Infrastructures et installations sportives d&#x2019;importance nationale ou cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79492">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat erstellt f&#xFC;r Sportinfrastrukturen und -anlagen von nationaler oder kantonaler Bedeutung ein Konzept und nimmt das Konzept nach Anh&#xF6;rung der Partner an. Er bestimmt die &#xFC;ber das gesamte Kantonsgebiet verteilten Zentren von Sportdisziplinen und ber&#xFC;cksichtigt dabei die Besonderheiten der Regionen in Bezug auf den Sport sowie die Strategie des Staates bei grossen Sportveranstaltungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat &#xE9;labore et adopte, les partenaires entendus, le concept des infrastructures et installations sportives d&#x2019;importance nationale ou cantonale. Il d&#xE9;termine les p&#xF4;les forts de disciplines sportives r&#xE9;partis sur l&#x2019;ensemble du territoire cantonal en tenant compte notamment des sp&#xE9;cificit&#xE9;s sportives des r&#xE9;gions et de la strat&#xE9;gie de l'Etat en mati&#xE8;re de grands &#xE9;v&#xE9;nements sportifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79493">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Sportinfrastruktur oder -anlage ist von nationaler oder kantonaler Bedeutung, wenn sie s&#xE4;mtliche nachfolgenden Kriterien erf&#xFC;llt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une infrastructure ou une installation sportive a une importance nationale ou cantonale lorsqu&#x2019;elle satisfait aux crit&#xE8;res cumulatifs suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53078">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie entspricht aufgrund ihres langfristigen Charakters einem vom Staat anerkannten objektiven Bedarf;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle correspond, de par son caract&#xE8;re p&#xE9;renne, &#xE0; un besoin objectif admis par l&#x2019;Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53079">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie kann f&#xFC;r Spitzensport, Erwachsenensport, Behindertensport, Sport f&#xFC;r alle und Breitensport genutzt werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle peut &#xEA;tre utilis&#xE9;e pour la pratique du sport d&#x2019;&#xE9;lite, du sport des adultes, du sport handicap, du sport pour tous et du sport amateur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53080">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie ist an die Ausbildungsziele im Bereich Sport angepasst;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle est adapt&#xE9;e aux missions de formation dans le domaine du sport;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53081">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie respektiert eine ausgeglichene Verteilung auf dem Kantonsgebiet;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle respecte une r&#xE9;partition &#xE9;quitable sur le territoire cantonal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53082">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie konkurriert mit keiner bestehenden Infrastruktur oder Anlage.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle ne concurrence pas une infrastructure ou installation existante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79494">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen seiner Budgetm&#xF6;glichkeiten unterst&#xFC;tzt der Staat den Bau und die Renovation von Sportinfrastrukturen und -anlagen von kantonaler und/oder nationaler Bedeutung bis zur H&#xF6;he von 30 Prozent der anerkannten Gesamtkosten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat soutient, selon les disponibilit&#xE9;s financi&#xE8;res, jusqu&#x2019;&#xE0; concurrence de 30 pour cent du co&#xFB;t total admis, la construction et la r&#xE9;novation d&#x2019;infrastructures ou d&#x2019;installations sportives d&#x2019;importance cantonale et/ou nationale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79495">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Planung von neuen Sportinfrastrukturen oder -anlagen von kantonaler oder nationaler Bedeutung best&#xE4;rkt der Staat die Partner zusammenzuarbeiten und bei Projektstart einen Finanzierungsplan f&#xFC;r die Investitions- und Betriebsrechnung auszuarbeiten. Diese Finanzpl&#xE4;ne m&#xFC;ssen zwingend vom Staat genehmigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque de nouvelles infrastructures ou installations sportives d&#x2019;importance cantonale ou nationale sont planifi&#xE9;es, l&#x2019;Etat incite les partenaires &#xE0; collaborer et &#xE0; &#xE9;tablir d&#xE8;s le lancement du projet les plans de financement des investissements et du fonctionnement. Ces plans financiers doivent dans tous les cas &#xEA;tre approuv&#xE9;s par l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34211">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sportinfrastrukturen und Sportanlagen von regionaler Bedeutung mit kantonaler Tragweite</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Infrastructures et installations sportives d&#x2019;importance r&#xE9;gionale de port&#xE9;e cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79496">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Sportinfrastruktur oder -anlage kann vom Staat als von regionaler Bedeutung mit kantonaler Tragweite erkl&#xE4;rt werden, wenn sie s&#xE4;mtliche nachfolgenden Kriterien erf&#xFC;llt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une infrastructure ou une installation sportive peut &#xEA;tre d&#xE9;clar&#xE9;e par l&#x2019;Etat d&#x2019;importance r&#xE9;gionale de port&#xE9;e cantonale lorsqu&#x2019;elle satisfait aux crit&#xE8;res cumulatifs suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53083">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie entspricht aufgrund ihres langfristigen Charakters einem vom Staat und der Region anerkannten objektiven Bedarf;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle correspond, de par son caract&#xE8;re p&#xE9;renne, &#xE0; un besoin objectif admis par la r&#xE9;gion et par l&#x2019;Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53084">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie kann f&#xFC;r Erwachsenensport, Behindertensport, Sport f&#xFC;r alle und Breitensport genutzt werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle peut servir &#xE0; la pratique du sport des adultes, du sport handicap, du sport pour tous et du sport amateur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53085">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie ist an die Ausbildungsziele im Bereich Sport angepasst;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle est adapt&#xE9;e aux missions de formation dans le domaine du sport;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53086">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie respektiert eine ausgeglichene Verteilung zwischen den verfassungsm&#xE4;ssigen Regionen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle respecte une r&#xE9;partition &#xE9;quitable entre les r&#xE9;gions constitutionnelles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:53087">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie konkurriert mit keiner bestehenden Infrastruktur oder Anlage.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle ne concurrence pas une infrastructure ou installation existante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79497">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen seiner Budgetm&#xF6;glichkeiten koordiniert und unterst&#xFC;tzt der Staat den Bau und die Renovierung einer Sportinfrastruktur oder -anlage von regionaler Bedeutung mit kantonaler Tragweite bis zur H&#xF6;he von 25 Prozent der anerkannten Gesamtkosten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat coordonne et soutient, selon les disponibilit&#xE9;s financi&#xE8;res, jusqu&#x2019;&#xE0; concurrence de 25 pour cent du co&#xFB;t total admis, la construction et la r&#xE9;novation d&#x2019;infrastructures ou d&#x2019;installations sportives d&#x2019;importance r&#xE9;gionale de port&#xE9;e cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79498">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat koordiniert Sportinfrastrukturprojekte von regionaler Bedeutung mit kantonaler Tragweite; davon ausgenommen sind die Schulsportinfrastrukturen, die von der Schulgesetzgebung geregelt werden. Wird beim Staat eine Unterst&#xFC;tzung beantragt, muss dieser schon bei der Projektkonzipierung miteinbezogen werden, insbesondere was die Investitions- und Betriebspl&#xE4;ne angeht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Etat coordonne les projets d&#x2019;infrastructures d'importance r&#xE9;gionale de port&#xE9;e cantonale au niveau sportif, except&#xE9; les infrastructures sportives scolaires, qui sont r&#xE9;gies par la l&#xE9;gislation scolaire. Si une aide est demand&#xE9;e &#xE0; l&#x2019;Etat, ce dernier doit &#xEA;tre associ&#xE9; d&#xE8;s la conception du projet, notamment au niveau des plans d&#x2019;investissement et de fonctionnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:34212">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sicherheit und Pr&#xE4;vention</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">S&#xE9;curit&#xE9; et pr&#xE9;vention</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79499">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Organisatoren von Aktivit&#xE4;ten im Bereich Sport und Bewegung, von Sportanl&#xE4;ssen und -veranstaltungen sind daf&#xFC;r verantwortlich, dass die anerkannten Normen in Bezug auf Sicherheit, Unfallverh&#xFC;tung, nachhaltige Entwicklung, Pr&#xE4;vention und Jugendschutz eingehalten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les organisateurs d&#x2019;activit&#xE9;s sportives et physiques, de manifestations et d&#x2019;&#xE9;v&#xE9;nements sportifs ont la responsabilit&#xE9; de l&#x2019;application des normes reconnues en mati&#xE8;re de s&#xE9;curit&#xE9;, de pr&#xE9;vention des accidents et de d&#xE9;veloppement durable, de pr&#xE9;vention et de protection de la jeunesse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10612">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34213">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausf&#xFC;hrungsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d&#x2019;ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79500">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst mittels Verordnung alle notwendigen Bestimmungen zum Vollzug des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat &#xE9;dicte par voie d&#x2019;ordonnance les dispositions n&#xE9;cessaires&#xE0; l&#x2019;ex&#xE9;cution de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="10613">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1 zu Artikel 5</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1 &#xE0; l'article 5</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:34214">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Terminologie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Terminologie</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:79503">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Begriff "Sportarten" gilt f&#xFC;r Disziplinen, die vom Bundesamt f&#xFC;r Sport (BASPO) und/oder von Swiss Olympic anerkannt werden. Der Staatsrat kann auf Antrag des Amts f&#xFC;r Sport ausnahmsweise weitere Sportarten oder sportliche T&#xE4;tigkeiten anerkennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le terme "disciplines sportives" s&#x2019;applique aux disciplines reconnues par l&#x2019;Office f&#xE9;d&#xE9;ral du sport (OFSPO) et/ou par Swiss Olympic. Exceptionnellement, le Conseil d&#x2019;Etat peut, sur proposition de l&#x2019;Office du sport, accepter d&#x2019;autres disciplines ou activit&#xE9;s sportives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79504">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Begriff "kantonaler Sportverband" umfasst die vom Staat anerkannten kantonalen Sportverb&#xE4;nde und Sportf&#xF6;derationen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le terme "association sportive cantonale" englobe les associations et les f&#xE9;d&#xE9;rations sportives cantonales reconnues par l&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79505">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Begriff "Jugend+Sport (J+S)" bezeichnet das Programm zur Sportf&#xF6;rderung, das vom Bund, von den Kantonen und von den nationalen Dachverb&#xE4;nden gemeinsam getragen wird. Das Programm richtet sich an Jugendliche von 10 bis 20 Jahren und an Kinder von 5 bis 10 Jahren (unter der Bezeichnung J+S-Kids).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le terme "Jeunesse + Sport" ("J+S") d&#xE9;signe le Programme d&#x2019;encouragement du sport, fruit d&#x2019;un engagement commun de la Conf&#xE9;d&#xE9;ration, des cantons et des f&#xE9;d&#xE9;rations nationales. Il s&#x2019;adresse aux jeunes de 10 &#xE0; 20 ans et aux enfants de 5 &#xE0; 10 ans (sous la d&#xE9;nomination J+S-Kids).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79506">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Begriff "Freiwilligenarbeit" impliziert, dass eine Person oder eine Personengruppe sich ohne Entsch&#xE4;digung zugunsten des Gemeinwesens, eines Verbands, eines Sportvereins, einer Schule oder eines Einzelsportlers engagiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le terme "b&#xE9;n&#xE9;volat" implique que la personne ou un groupe de personnes agit sans r&#xE9;mun&#xE9;ration au profit de la collectivit&#xE9; publique, d'une association, d'un club sportif, d'une &#xE9;cole ou d'un sportif individuel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79507">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter "Erwachsenensport" wird zusammengefasst, was zum Programm "Erwachsenensport Schweiz" (ESA) geh&#xF6;rt, das sich an &#xFC;ber 20-J&#xE4;hrige richtet. Diese Bezeichnung gilt ausserdem f&#xFC;r alles, was in diesem Rahmen von den anerkannten Partnerorganisationen realisiert wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport des adultes" d&#xE9;signe tout ce qui rel&#xE8;ve du programme "Sport des adultes Suisse" (ESA) et est destin&#xE9; aux plus de vingt ans. Par extension, cette d&#xE9;nomination s&#x2019;applique &#xE0; tout ce qui est r&#xE9;alis&#xE9;, dans ce cadre, par des organisations partenaires reconnues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79508">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Begriff "Sport f&#xFC;r alle" wird f&#xFC;r Sport verwendet, der ausserhalb eines Sportvereins ausge&#xFC;bt wird. Er umfasst namentlich den Volkssport, den Freizeitsport und den Gesundheitssport.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport pour tous" d&#xE9;signe le sport pratiqu&#xE9; en dehors de toute association sportive. Il comprend notamment le sport populaire, le sportloisirs et le sport-sant&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79509">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">"Behindertensport" will Kindern, Jugendlichen und Erwachsenen mit einer geistigen, sensorischen oder motorischen Behinderung unter Ber&#xFC;cksichtigung der Art ihrer Behinderung Zugang zu Sport und Bewegung erm&#xF6;glichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport handicap" a pour but de permettre aux enfants, adolescents et adultes en situation de handicap mental, sensoriel ou physique de pratiquer des activit&#xE9;s sportives et physiques en tenant compte du genre du handicap.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79510">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">"Spitzensport" bezeichnet den Leistungssport, der sich durch Spitzenleistungen auszeichnet und einen Athleten auf ein hohes Wettkampfniveau oder gar bis zu einer Profikarriere bringen kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport d&#x2019;&#xE9;lite" repr&#xE9;sente l&#x2019;excellence sportive pouvant amener l&#x2019;athl&#xE8;te &#xE0; un haut degr&#xE9; de comp&#xE9;tition, voire &#xE0; une carri&#xE8;re professionnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79511">
+                    <partNumber>9</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein "Nachwuchssportler" ist ein besonders talentierter junger Sportler, dessen Potenzial vom kantonalen oder nationalen Sportverband anerkannt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un "espoir" est un jeune sportif particuli&#xE8;rement talentueux dont le potentiel est reconnu par l&#x2019;association sportive cantonale ou nationale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79512">
+                    <partNumber>10</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">"Breitensport" umfasst die sportliche Bet&#xE4;tigung aller Personen, die ihren Sport im Rahmen eines kantonalen oder nationalen Sportverbands aus&#xFC;ben und diesen nicht gewinnorientiert betreiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport amateur" englobe les personnes qui pratiquent leur activit&#xE9; dans le cadre d&#x2019;une association sportive cantonale, voire nationale, sans but lucratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79513">
+                    <partNumber>11</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verb "beg&#xFC;nstigen" wird dann verwendet, wenn von Seiten des Staates Unterst&#xFC;tzung verlangt wird und dieser die Unterst&#xFC;tzung im Rahmen seiner Mittel erbringen kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le verbe "encourager" est utilis&#xE9; lorsqu&#x2019;un appui est demand&#xE9; &#xE0; l&#x2019;Etat qui peut y r&#xE9;pondre dans la mesure de ses moyens.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79514">
+                    <partNumber>12</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verb "best&#xE4;rken" wird dann verwendet, wenn die &#xF6;ffentlichen Instanzen in Aktion treten, um potenzielle Partner zur Lancierung von Projekten zu motivieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le verbe "inciter" est utilis&#xE9; lorsque les pouvoirs publics interviennent pour motiver des partenaires potentiels &#xE0; lancer des projets.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79515">
+                    <partNumber>13</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verb "f&#xF6;rdern" wird dann verwendet, wenn der Staat aktiv ein Projekt aus dem Bereich Sport entwickeln oder zum Erfolg f&#xFC;hren will.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le verbe "promouvoir" est utilis&#xE9; lorsque l&#x2019;Etat cherche activement &#xE0; d&#xE9;velopper ou &#xE0; mener au succ&#xE8;s un projet relevant du domaine du sport.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79516">
+                    <partNumber>14</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verb "unterst&#xFC;tzen" wird dann verwendet, wenn der Staat und/oder eine Institution im Rahmen ihrer Mittel Dienstleistungen anbieten und/oder finanzielle Hilfe leisten k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le verbe "soutenir" est utilis&#xE9; lorsque l&#x2019;Etat et/ou une Institution peuvent, selon leurs moyens, fournir des prestations et/ou des appuis financiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79517">
+                    <partNumber>15</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">"Nachhaltige Entwicklung" konkretisiert sich durch eine verantwortungsvolle Sportpolitik beziehungsweise ein verantwortungsvolles Sportmanagement, die auf allen Stufen der Planung, Umsetzung und Benutzung von Anlagen, Veranstaltungen und Material, das Wohl von Menschen und den Schutz/die Aufwertung der Umwelt in den Vordergrund stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "d&#xE9;veloppement durable" se concr&#xE9;tise par une politique et une gouvernance du sport responsables qui, &#xE0; toutes les &#xE9;tapes de la planification, de la r&#xE9;alisation et de l&#x2019;utilisation des &#xE9;quipements, des manifestations et des mat&#xE9;riels, se pr&#xE9;occupent de l&#x2019;&#xE9;panouissement de l&#x2019;humain et de la protection / valorisation de l&#x2019;environnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:79518">
+                    <partNumber>16</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der "freiwillige Schulsport" umfasst s&#xE4;mtliche sportlichen Aktivit&#xE4;ten, die im Auftrag der Gemeindebeh&#xF6;rden von einer oder von mehreren Schulen organisiert werden und nicht in der Stundentafel der Schule enthalten sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le "sport scolaire facultatif" comprend toutes les activit&#xE9;s sportives et physiques organis&#xE9;es par un ou plusieurs &#xE9;tablissements scolaires, sur mandat des autorit&#xE9;s communales, non incluses dans la grille horaire des &#xE9;coles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2018-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 41/2012, 17/2018</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

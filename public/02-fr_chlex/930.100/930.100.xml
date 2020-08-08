@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:69</normID>
+      <number>930.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung betreffend das Gesetz &#xFC;ber die Gewerbepolizei</title>
+      <title lang="fr">Ordonnance concernant la loi sur la police du commerce</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2007-08-16</dateAdoption>
+      <dateForce>2008-01-01T00:00:00</dateForce>
+      <dateLastChange>2016-01-01</dateLastChange>
+      <dateVersion>2016-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 33 des Gesetzes &#xFC;ber die Gewerbepolizei vom 8. Februar 2007;</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft und Raumentwicklung,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du Canton du Valais</authorityDescription><basis>vu l'article 33 de la loi sur la police du commerce du 8 f&#xE9;vrier 2007;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;conomie et du territoire,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 34/2007</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="183">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>betreffend das Gesetz &#xFC;ber die Gewerbepolizei</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant la loi sur la police du commerce</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:547">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zust&#xE4;ndige Dienststelle</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Service comp&#xE9;tent</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1208">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Zust&#xE4;ndige Dienststelle ist die Dienststelle f&#xFC;r Industrie, Handel und Arbeit (nachfolgend: Dienststelle).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le service comp&#xE9;tent est celui de l'industrie, du commerce et du travail (ci-apr&#xE8;s: le service).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:548">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Kontrolle und st&#xE4;ndige Beaufsichtigung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Contr&#xF4;le et surveillance permanente</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1209">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Erfordernis der Kontrolle oder st&#xE4;ndigen Beaufsichtigung im Sinne des Gesetzes ist insbesondere sichergestellt:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'exigence de contr&#xF4;le ou de surveillance permanente au sens de la loi est assur&#xE9;e notamment:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:372">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">wenn der Standort oder der Automat f&#xFC;r die verantwortliche Person einsehbar ist und ein unmittelbares Einschreiten dieser Letzteren erm&#xF6;glicht;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">lorsque l'espace ou le distributeur est visible par la personne responsable et permet une intervention imm&#xE9;diate de cette derni&#xE8;re;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:373">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">wenn der Standort oder der Automat nur durch das Dienstpersonal mittels Jetons oder Sendern zug&#xE4;nglich gemacht wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">lorsque l'espace ou le distributeur n'est rendu accessible que par le personnel de service au moyen de jetons ou par &#xE9;metteurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:549">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Bewilligung f&#xFC;r die Apparate und Warenautomaten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorisation pour les appareils et distributeurs de marchandises</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1210">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Gesuch um Erteilung einer Bewilligung f&#xFC;r einen Apparat oder einen Warenautomaten ist bei der Dienststelle mittels offiziellem Formular einzureichen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La demande tendant &#xE0; l'obtention d'une autorisation pour un appareil ou un distributeur de marchandises doit &#xEA;tre d&#xE9;pos&#xE9;e aupr&#xE8;s du service sur formule officielle.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1211">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die erteilte Bewilligung ist f&#xFC;r das laufende Kalenderjahr g&#xFC;ltig und wird durch die Dienststelle jedes Jahr erneuert.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'autorisation d&#xE9;livr&#xE9;e est valable pour l'ann&#xE9;e civile en cours et renouvel&#xE9;e chaque ann&#xE9;e par le service.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:550">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Bewilligung f&#xFC;r die Spielsalons und &#xE4;hnlichen Installationen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorisation pour les salons de jeux et installations similaires</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1212">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Gesuch um Erteilung einer Bewilligung f&#xFC;r einen Spielsalon oder eine &#xE4;hnliche Einrichtung ist bei der Dienststelle mittels offiziellem Formular einzureichen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La demande tendant &#xE0; l'obtention d'une autorisation pour un salon de jeux ou une installation similaire doit &#xEA;tre d&#xE9;pos&#xE9;e aupr&#xE8;s du service sur formule officielle.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1213">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Bewilligungsgesuch enth&#xE4;lt:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La demande d'autorisation comprend:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:374">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">das vom Gesuchsteller vollst&#xE4;ndig ausgef&#xFC;llte und unterzeichnete offizielle Formular;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la formule officielle d&#xFB;ment remplie et sign&#xE9;e par le requ&#xE9;rant;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:375">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">ein Strafregisterauszug, ausgestellt innerhalb des der Gesuchseinreichung vorangehenden Monats;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">un extrait du casier judiciaire d&#xE9;livr&#xE9; dans le mois pr&#xE9;c&#xE9;dant le d&#xE9;p&#xF4;t de la demande;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:376">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">ein Handelsregisterauszug, ausgestellt innerhalb der letzten drei der Gesuchseinreichung vorangehenden Monate, sofern der Gesuchsteller im Handelsregister eingetragen oder f&#xFC;r eine ins Handelsregister eintragungspflichtige Gesellschaft t&#xE4;tig ist;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">un extrait du registre du commerce d&#xE9;livr&#xE9; dans les trois mois pr&#xE9;c&#xE9;dant le d&#xE9;p&#xF4;t de la demande si le requ&#xE9;rant est inscrit au registre du commerce ou s'il travaille pour une soci&#xE9;t&#xE9; ayant l'obligation d'&#xEA;tre inscrite au registre du commerce;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:377">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">ein Plan oder Beschrieb der R&#xE4;umlichkeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">un plan et descriptif des locaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1214">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststelle holt bei der Standortgemeinde die Vormeinung ein.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le service demande le pr&#xE9;avis de la commune du lieu de situation.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:551">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ver&#xF6;ffentlichung im Amtsblatt</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Publication dans le Bulletin officiel</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1215">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die in Artikel 24 Absatz 2 des Gesetzes vorgesehene Ver&#xF6;ffentlichung umfasst mindestens:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La publication pr&#xE9;vue &#xE0; l'article 24 alin&#xE9;a 2 de la loi comporte au moins:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:378">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Bezeichnung des Gesuchstellers;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la d&#xE9;nomination du requ&#xE9;rant;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:379">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Bezeichnung des allf&#xE4;lligen Arbeitgebers, f&#xFC;r den der Gesuchsteller die Betriebsf&#xFC;hrung sicherstellt;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la d&#xE9;nomination de l'&#xE9;ventuel employeur pour lequel le requ&#xE9;rant assure l'exploitation;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:380">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Umschreibung der R&#xE4;umlichkeiten;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la description des locaux;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:381">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Bezeichnung des Schildes;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la d&#xE9;termination de l'enseigne;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:382">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Art und die Anzahl der in den R&#xE4;umlichkeiten betriebenen Apparate;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">le type et le nombre d'appareils de jeux exploit&#xE9;s dans les locaux;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:383">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die nachgesuchten &#xD6;ffnungs- und Schliessungszeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les heures d'ouverture et de fermeture sollicit&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:552">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Geb&#xFC;hrenbetrag f&#xFC;r die Apparate und Warenautomaten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Montant de l'&#xE9;molument pour les appareils et distributeurs de marchandises</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:34371">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die folgenden j&#xE4;hrlichen Geb&#xFC;hren werden f&#xFC;r die Apparate und die Warenautomaten erhoben:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les &#xE9;moluments annuels suivants sont per&#xE7;us pour les appareils et les distributeurs de marchandises:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17835">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">automatische Unterhaltungsspielapparate (Flipper, Videospiele, amerikanische Spiele, usw.)<tab/>300 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">appareils automatiques servant aux jeux de divertissement (flippers, jeux vid&#xE9;o, jeux am&#xE9;ricains, etc.)<tab/>300 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17836">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">nicht automatische Unterhaltungsspielapparate<tab/>70 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">appareils non automatiques servant aux jeux de divertissement<tab/>70 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17837">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">andere automatische Apparate</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">autres appareils automatiques</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17838">
+                        <partNumber>1.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Staubsauger, Waschanlagen, Solariums, usw.<tab/>70 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aspirateurs, lavages, solariums, etc.<tab/>70 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17839">
+                        <partNumber>2.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fotoapparate, Jukeboxes, usw.<tab/>170 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">appareils photos, juke-boxes, etc.<tab/>170 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17840">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">andere nicht automatische Apparate (Fernrohre, usw.)<tab/>30 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">autres appareils non automatiques (panoramas, etc.)<tab/>30 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17841">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Warenautomaten (Treibstoff, Zigaretten, alkoholfreie Getr&#xE4;nke, Schokolade, Bonbons, Kaugummi, usw.)<tab/>170 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">distributeurs de marchandises (essence, cigarettes, boissons sans alcool, chocolats, bonbons, chewing-gums, etc.)<tab/>170 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1216">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Geb&#xFC;hrenbetrag wird f&#xFC;r das laufende Jahr um die H&#xE4;lfte reduziert, falls der Apparat oder der Warenautomat nach dem 30. September in Betrieb genommen wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le montant de l'&#xE9;molument est r&#xE9;duit de moiti&#xE9; pour l'ann&#xE9;e consid&#xE9;r&#xE9;e lorsque l'appareil ou le distributeur de marchandises est mis en service apr&#xE8;s le 30 septembre.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:553">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inkasso der Geb&#xFC;hr f&#xFC;r die Apparate und Warenautomaten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Encaissement de l'&#xE9;molument pour les appareils et distributeurs de marchandises</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1217">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Geb&#xFC;hr betreffend die Apparate und Warenautomaten wird durch die Dienststelle beim Bewilligungsinhaber einkassiert.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'&#xE9;molument relatif aux appareils et distributeurs de marchandises est encaiss&#xE9; par le service aupr&#xE8;s du titulaire de l'autorisation.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1218">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Versetzen oder die Betriebsaufgabe des Apparates oder des Warenautomaten im Verlaufe des Jahres gibt keinen Anspruch auf R&#xFC;ckverg&#xFC;tung der einkassierten Jahresgeb&#xFC;hr.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;placement ou l'arr&#xEA;t de l'exploitation de l'appareil ou du distributeur de marchandises en cours d'ann&#xE9;e ne donne pas lieu au remboursement de l'&#xE9;molument annuel encaiss&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:554">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">R&#xFC;ckverg&#xFC;tung der Geb&#xFC;hren an die Gemeinden</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">R&#xE9;trocession des &#xE9;moluments aux communes</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1219">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Einmal pro Jahr verg&#xFC;tet die Dienststelle die H&#xE4;lfte der effektiv per 15. Dezember einkassierten Geb&#xFC;hren f&#xFC;r die Apparate und Warenautomaten an die Gemeinden zur&#xFC;ck. Die f&#xFC;r die R&#xFC;ckverg&#xFC;tung zu ber&#xFC;cksichtigende Gemeinde bestimmt sich nach dem Stand am 30.&#xA0;Juni.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une fois par ann&#xE9;e, le service r&#xE9;troc&#xE8;de aux communes la moiti&#xE9; des &#xE9;moluments effectivement encaiss&#xE9;s au 15 d&#xE9;cembre pour les appareils et distributeurs de marchandises. La d&#xE9;signation de la commune b&#xE9;n&#xE9;ficiaire de la r&#xE9;trocession intervient sur la base de la situation au 30 juin.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1220">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei der Erteilung einer Bewilligung f&#xFC;r einen Spielsalon oder eine &#xE4;hnliche Einrichtung verg&#xFC;tet die Dienststelle die H&#xE4;lfte der einkassierten Geb&#xFC;hr an die Standortgemeinde zur&#xFC;ck.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Lors de la d&#xE9;livrance d'une autorisation pour un salon de jeux ou une installation similaire, le service r&#xE9;troc&#xE8;de &#xE0; la commune du lieu de situation la moiti&#xE9; de l'&#xE9;molument encaiss&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:555">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#xDC;bergangsbestimmung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Disposition transitoire</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1221">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die in Anwendung von Artikel 4 und 10 des Gesetzes notwendigen Anpassungen sind innerhalb von sechs Monaten seit Inkrafttreten des Gesetzes vorzunehmen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les adaptations n&#xE9;cessaires en application des articles 4 et 10 de la loi doivent &#xEA;tre r&#xE9;alis&#xE9;es dans un d&#xE9;lai de six mois &#xE0; compter de l'entr&#xE9;e en vigueur de la loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1222">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststelle ersetzt die Jahresbewilligung f&#xFC;r den Spielsalon bei Inkrafttreten des vorliegenden Gesetzes durch eine Bewilligung im Sinne des neuen Rechts, ohne &#xF6;ffentliches Publikationsverfahren, sofern sich die in der geltenden Bewilligung festgelegten Voraussetzungen nicht ver&#xE4;ndert haben.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le service remplace l'autorisation annuelle dont b&#xE9;n&#xE9;ficie un salon de jeux &#xE0; la date de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi par une autorisation au sens du nouveau droit, sans proc&#xE9;dure de mise &#xE0; l'enqu&#xEA;te publique, pour autant que les conditions pos&#xE9;es par l'autorisation en vigueur ne sont pas modifi&#xE9;es.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:1223">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die bis am 31. Dezember 2007 geschuldeten Geb&#xFC;hren werden gem&#xE4;ss den Bestimmungen des alten Rechts einkassiert.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les &#xE9;moluments et taxes dus jusqu'au 31 d&#xE9;cembre 2007 sont encaiss&#xE9;s selon les dispositions de l'ancien droit.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:556">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>10</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ver&#xF6;ffentlichung und Inkrafttreten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Publication et entr&#xE9;e en vigueur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:1224">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt ver&#xF6;ffentlicht, um am 1. Januar 2008 in Kraft zu treten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e dans le Bulletin officiel pour entrer en vigueur au 1<format upper="true">er</format> janvier 2008.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2008-01-01</dateForce>
+      <dateVersion>2016-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 37/2015</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

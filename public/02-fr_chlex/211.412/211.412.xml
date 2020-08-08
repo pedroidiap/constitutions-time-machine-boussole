@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1069</normID>
+      <number>211.412</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GABGBB</abbreviation>
+      <abbreviation lang="fr">LALDFR</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz betreffend die Anwendung des b&#xE4;uerlichen Bodenrechts</title>
+      <title lang="fr">Loi concernant l'application du droit foncier rural</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1995-11-23</dateAdoption>
+      <dateForce>1996-01-01T00:00:00</dateForce>
+      <dateLastChange>1996-01-01</dateLastChange>
+      <dateVersion>1996-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber das b&#xE4;uerliche Bodenrecht vom 4. Oktober 1991 (BGBB);</basis> <basis>eingesehen die Artikel 31 Absatz 3 Buchstabe&#xA0;a, 42 Absatz 2, 54 und 58 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur le droit foncier rural du 4 octobre 1991 (LDFR);</basis> <basis>vu les articles 31 alin&#xE9;a 3 lettre a, 42 alin&#xE9;a 2, 54 et 58 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1995 f 52 | d 54</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3385">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>betreffend die Anwendung des b&#xE4;uerlichen Bodenrechts</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>concernant l'application du droit foncier rural</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:11498">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rde</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorit&#xE9; comp&#xE9;tente</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26402">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Volkswirtschaftsdepartement:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le D&#xE9;partement de l'&#xE9;conomie publique:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12561">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">erteilt die Bewilligung f&#xFC;r den Erwerb landwirtschaftlicher Grundst&#xFC;cke und Gewerbe (Art. 61 BGBB);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d&#xE9;livre l'autorisation pour acqu&#xE9;rir une entreprise agricole ou un immeuble agricole (art. 61 LDFR);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12562">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bewilligt Ausnahmen vom Realteilungs- und Zerst&#xFC;ckelungsverbot (Art.&#xA0;60 BGBB);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">autorise les exceptions aux interdictions de partage mat&#xE9;riel et de morcellement (art. 60 LDFR);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12563">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">bewilligt Darlehen, welche die Belastungsgrenze &#xFC;berschreiten (Art. 76 Abs. 2 BGBB);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">autorise les pr&#xEA;ts qui d&#xE9;passent la charge maximale (art. 76 LDFR);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12564">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">erl&#xE4;sst die Feststellungsverf&#xFC;gungen nach Artikel 84 BGBB;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d&#xE9;livre des d&#xE9;cisions de constatation selon l'article 84 LDFR;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12565">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">verlangt die Anmerkungen nach Artikel 86 BGBB im Grundbuch;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">requiert l'inscription au registre foncier des mentions exig&#xE9;es &#xE0; l'article 86 LDFR;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12566">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">genehmigt oder f&#xFC;hrt Ertragswertsch&#xE4;tzungen durch (Art. 87 BGBB);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">estime ou approuve la valeur de rendement (art. 87 LDFR);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12567">
+                    <partNumber>g)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">widerruft die Bewilligung, wenn der Erwerber sie durch falsche Angaben erschlichen hat (Art. 71 BGBB);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">r&#xE9;voque l'autorisation lorsque l'acqu&#xE9;reur l'a obtenue en fournissant de fausses indications (art. 71 LDFR);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12568">
+                    <partNumber>h)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">ordnet die Berichtigung des Grundbuches an, wenn ein nichtiges Gesch&#xE4;ft im Grundbuch eingetragen worden ist (Art. 72 BGBB).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">ordonne la rectification du registre foncier si l'inscription au registre foncier repose sur un acte nul (art. 72 LDFR).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:26403">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat kann Aufgaben an eine Berufsorganisation delegieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat peut d&#xE9;l&#xE9;guer des t&#xE2;ches &#xE0; une organisation professionnelle.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:11499">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufsichtsbeh&#xF6;rde</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorit&#xE9; de surveillance</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26404">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat ernennt eine aus drei Mitgliedern und zwei Suppleanten bestehende Kommission, die als Aufsichtsbeh&#xF6;rde amtet.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une commission de trois membres et deux suppl&#xE9;ants, nomm&#xE9;e par le Conseil d'Etat, est l'autorit&#xE9; de surveillance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:11500">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Auskunftspflicht</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Obligation de renseigner</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26405">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Gesuchsteller hat der zust&#xE4;ndigen Beh&#xF6;rde alle f&#xFC;r die Untersuchung des Gesuches erforderlichen Ausk&#xFC;nfte zu erteilen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le requ&#xE9;rant est tenu de fournir &#xE0; l'autorit&#xE9; comp&#xE9;tente tous les renseignements n&#xE9;cessaires &#xE0; l'examen de la requ&#xEA;te.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:11501">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Beschwerderecht</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Droit de recours</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26406">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gegen die Verweigerung der Bewilligung k&#xF6;nnen die Vertragsparteien innert 30 Tagen seit der Er&#xF6;ffnung beim Staatsrat Beschwerde f&#xFC;hren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les parties contractantes peuvent interjeter un recours aupr&#xE8;s du Conseil d'Etat, dans les 30 jours d&#xE8;s la notification, contre le refus d'autorisation.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:26407">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die kantonale Aufsichtsbeh&#xF6;rde, der P&#xE4;chter sowie Kaufs-, Vorkaufs- oder Zuweisungsberechtigte haben gegen die Erteilung der Bewilligung das gleiche Beschwerderecht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'autorit&#xE9; cantonale de surveillance, le fermier et les titulaires du droit d'emption, du droit de pr&#xE9;emption ou du droit &#xE0; l'attribution ont le m&#xEA;me droit de recours contre l'octroi de l'autorisation.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:26408">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die letztinstanzlichen kantonalen Entscheide sind dem Eidgen&#xF6;ssischen Justiz- und Polizeidepartement mitzuteilen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les d&#xE9;cisions cantonales de derni&#xE8;re instance doivent &#xEA;tre communiqu&#xE9;es au D&#xE9;partement f&#xE9;d&#xE9;ral de justice et police.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:11502">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ausnahme des Geltungsbereiches</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Exclusion du champ d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26409">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Bundesgesetz &#xFC;ber das b&#xE4;uerliche Bodenrecht findet keine Anwendung auf Anteils- und Nutzungsrechte an Allmenden, Alpen, Wald und Weiden, die im Eigentum von Allmendgenossenschaften, Alpgenossenschaften, Waldkorporationen oder &#xE4;hnlichen K&#xF6;rperschaften stehen sofern diese Rechte nicht zu einem landwirtschaftlichen Gewerbe geh&#xF6;ren (Art. 5 Bst. b BGBB).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les droits de jouissance et de participation aux allmends, alpages, for&#xEA;ts et p&#xE2;turages qui appartiennent aux soci&#xE9;t&#xE9;s d'allmends, aux corporations d'alpages, de for&#xEA;ts et aux autres collectivit&#xE9;s semblables sont exclus du champ d'application de la loi f&#xE9;d&#xE9;rale sur le droit foncier rural &#xE0; moins que ces droits ne fassent partie d'une entreprise agricole (art. 5 let. b LDFR).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:11503">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inkraftsetzung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Mise en vigueur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:26410">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das vorliegende Gesetz wird zum Vollzug des Bundesrechts erlassen und unterliegt nicht der Volksabstimmung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente loi, &#xE9;dict&#xE9;e en application du droit f&#xE9;d&#xE9;ral, n'est pas soumise au vote du peuple.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:26411">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Gesetz wird im Amtsblatt ver&#xF6;ffentlicht und tritt am 1. Januar 1996 in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La loi sera publi&#xE9;e au Bulletin officiel et entre en vigueur le 1<format upper="true">er</format> janvier 1996.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:26412">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Gesetz unterliegt der Genehmigung des Bundes.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La loi est soumise &#xE0; l'approbation de la Conf&#xE9;d&#xE9;ration.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1996-01-01</dateForce>
+      <dateVersion>1996-01-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1995 f 52 | d 54</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

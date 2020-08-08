@@ -1,0 +1,977 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:589</normID>
+      <number>611.105</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber das Finanz-, Personal- und Leistungscontrolling</title>
+      <title lang="fr">Ordonnance sur le controlling des finances, du personnel et des prestations</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2005-06-29</dateAdoption>
+      <dateForce>2005-08-01T00:00:00</dateForce>
+      <dateLastChange>2010-01-01</dateLastChange>
+      <dateVersion>2010-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;</basis> <basis>eingesehen die Artikel 15d und 52 des Gesetzes &#xFC;ber die Gesch&#xE4;ftsf&#xFC;hrung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 (FHG);</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen, Institutionen und Sicherheit,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 alin&#xE9;a 2 de la Constitution cantonale;</basis> <basis>vu les articles 15d et 52 de la loi sur la gestion et le contr&#xF4;le administratifs et financiers du 24 juin 1980 (LGCAF);</basis> <basis>sur la proposition du D&#xE9;partement des finances, des institutions et de la s&#xE9;curit&#xE9;,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 30/2005</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1903">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber das Finanz-, Personal- und Leistungscontrolling</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur le controlling des finances, du personnel et des prestations</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:6490">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Begriff und Struktur</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">D&#xE9;finition et structure</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:14894">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Controlling ist ein F&#xFC;hrungsinstrument.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le controlling est une fonction d'aide &#xE0; la direction.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14895">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es umfasst alle T&#xE4;tigkeiten, die sich mit der Festlegung, der Begleitung und der Verbesserung der Leistungsauftr&#xE4;ge auf den drei F&#xFC;hrungsebenen befassen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il regroupe l'ensemble des activit&#xE9;s li&#xE9;es &#xE0; la d&#xE9;finition, au suivi et &#xE0; l'am&#xE9;lioration des trois niveaux de mandats de prestations.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14896">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es befasst sich mit den Leistungen, den Leistungsprozessen, den Finanzressourcen und den Personalressourcen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il porte sur les prestations, les processus, les ressources financi&#xE8;res et humaines.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:14897">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Controllingorgane sind auf Regierungs-, Departements- und Dienststellenebene angesiedelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Des organes de controlling sont institu&#xE9;s au niveau du Conseil d'Etat, des d&#xE9;partements et des services.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1905">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Regierungscontrolling</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Controlling gouvernemental</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6491">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeiten und Organisation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;s et organisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14898">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Regierungscontrolling ist ein F&#xFC;hrungsinstrument zuhanden des Staatsrates.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le controlling gouvernemental est un organe d'aide &#xE0; la gouvernance du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14899">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der f&#xFC;r das Regierungscontrolling verantwortliche Mitarbeiter ist dem Staatsratspr&#xE4;sidenten unterstellt und administrativ der Staatskanzlei angegliedert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; du controlling gouvernemental est confi&#xE9;e &#xE0; un collaborateur subordonn&#xE9; au Pr&#xE9;sident du gouvernement avec rattachement administratif &#xE0; la Chancellerie d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14900">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Regierungscontrolling erf&#xFC;llt seine Aufgaben in Zusammenarbeit mit den Controllingorganen der Departemente, mit der Kantonalen Finanzverwaltung und der Dienststelle f&#xFC;r Personal und Organisation.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le controlling gouvernemental assure ses t&#xE2;ches en collaboration avec les organes de controlling d&#xE9;partementaux, l'Administration cantonale des finances et le Service du personnel et de l'organisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14901">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6492">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14902">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das mit dem Regierungscontrolling betraute Organ hat folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe charg&#xE9; du controlling gouvernemental est responsable des t&#xE2;ches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7995">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es leitet die Entwicklung und Einf&#xFC;hrung der Controllinginstrumente;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il dirige le d&#xE9;veloppement et la mise en place des instruments du controlling;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7996">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es erl&#xE4;sst technische Weisungen zuhanden der Controllingorgane der Departemente und Dienststellen und &#xFC;berwacht deren Anwendung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il formule des directives d'ordre technique &#xE0; l'intention des organes de controlling des d&#xE9;partements et des services et s'assure de leur application;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7997">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es analysiert zuhanden des Staatsrates die integrierte Mehrjahresplanung, vor allem hinsichtlich Qualit&#xE4;t der Ziele, der priorit&#xE4;ren Massnahmen und der Indikatoren und gibt eine Vormeinung ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il analyse et pr&#xE9;avise &#xE0; l'intention du Conseil d'Etat la planification int&#xE9;gr&#xE9;e pluriannuelle, plus particuli&#xE8;rement sous l'angle de la qualit&#xE9; des objectifs, des mesures prioritaires et des indicateurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7998">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Vorbereitung des Voranschlags analysiert es zuhanden des Staatsrates die politischen und strategischen Leistungsauftr&#xE4;ge vor allem hinsichtlich Qualit&#xE4;t der Ziele, der priorit&#xE4;ren Massnahmen und der Indikatoren sowie deren &#xDC;bereinstimmung mit der integrierten Mehrjahresplanung und gibt eine Vormeinung ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de la pr&#xE9;paration du budget, il analyse et pr&#xE9;avise &#xE0; l'intention du Conseil d'Etat les mandats de prestations politiques et strat&#xE9;giques, plus particuli&#xE8;rement sous l'angle de la qualit&#xE9; des objectifs, des mesures prioritaires et des indicateurs, ainsi que leur concordance avec la planification int&#xE9;gr&#xE9;e pluriannuelle;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7999">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Laufe des Rechnungsjahres gibt es zuhanden des Staatsrates eine Vormeinung zu den von den Departementen in &#xDC;bereinstimmung mit Artikel 9 unterbreiteten Antr&#xE4;gen f&#xFC;r den Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen politischen Zielen ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en cours d'exercice, il pr&#xE9;avise, pour d&#xE9;cision par le Conseil d'Etat, les demandes de compensation de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire entre objectifs politiques formul&#xE9;es par les d&#xE9;partements, conform&#xE9;ment &#xE0; l'article 9;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8000">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Erstellung der Rechnung analysiert es zuhanden des Staatsrates die Controllingberichte der politischen und strategischen Leistungsauftr&#xE4;ge und gibt eine Vormeinung ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de l'&#xE9;tablissement des comptes, il analyse et pr&#xE9;avise, &#xE0; l'intention du Conseil d'Etat, les rapports de controlling des mandats de prestations politiques et strat&#xE9;giques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8001">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es unterbreitet dem Staatsrat allf&#xE4;llige Korrektur- und Verbesserungsvorschl&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il soumet au Conseil d'Etat d'&#xE9;ventuelles propositions de corrections et d'am&#xE9;liorations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8002">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es f&#xFC;hrt die vom Pr&#xE4;sidium erteilten Aufgaben aus.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il r&#xE9;alise des mandats confi&#xE9;s par la Pr&#xE9;sidence.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1906">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Departementscontrolling</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Controlling d&#xE9;partemental</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6493">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeiten und Organisation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;s et organisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14903">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departementscontrolling ist ein F&#xFC;hrungsinstrument zuhanden des Departementsvorstehers.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le controlling d&#xE9;partemental est un organe d'aide &#xE0; la direction du chef du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14904">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verantwortung f&#xFC;r das Departementscontrolling wird einem dem Departementsvorsteher unterstellten Mitarbeiter &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; du controlling d&#xE9;partemental est confi&#xE9;e &#xE0; un collaborateur subordonn&#xE9; au chef du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6494">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14905">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departementscontrolling hat namentlich folgende Aufgaben und Befugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les t&#xE2;ches et comp&#xE9;tences du controlling d&#xE9;partemental sont notamment les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8003">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es k&#xFC;mmert sich um die Einsetzung und das reibungslose Funktionieren der Controllingorgane der Dienststellen des Departements in &#xDC;bereinstimmung mit den Weisungen des Regierungscontrollings;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il s'assure de la mise en place et du bon fonctionnement des organes de controlling des services du d&#xE9;partement conform&#xE9;ment aux directives du controlling gouvernemental;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8004">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Vorbereitung der integrierten Mehrjahresplanung und des Voranschlags analysiert es zuhanden des Departementsvorstehers die politischen, strategischen und operativen Leistungsauftr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de la pr&#xE9;paration de la planification int&#xE9;gr&#xE9;e pluriannuelle et du budget, il analyse &#xE0; l'intention du chef du d&#xE9;partement les mandats de prestations politiques, strat&#xE9;giques et op&#xE9;rationnels;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8005">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Laufe des Rechnungsjahres gibt es zuhanden des Departementsvorstehers eine Vormeinung zu den von den Dienststellen unterbreiteten Antr&#xE4;gen f&#xFC;r den Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen Produktegruppen ab und unterbreitet dem Regierungscontrolling in &#xDC;bereinstimmung mit Artikel 9 die vom Departementsvorsteher genehmigten Antr&#xE4;ge f&#xFC;r den Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen politischen Zielen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en cours d'exercice, il pr&#xE9;avise, pour d&#xE9;cision par le chef du d&#xE9;partement, les demandes de compensation de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire entre groupes de produits formul&#xE9;es par les services, et soumet au controlling gouvernemental, les propositions de compensation de d&#xE9;passement de cr&#xE9;dit budg&#xE9;taire entre objectifs politiques d&#xE9;cid&#xE9;es par le chef du d&#xE9;partement, conform&#xE9;ment &#xE0; l'article 9;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8006">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Erstellung der Rechnung analysiert es zuhanden des Departementsvorstehers die Controllingberichte der politischen, strategischen und operativen Leistungsauftr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de l'&#xE9;tablissement des comptes, il analyse &#xE0; l'intention du chef du d&#xE9;partement les rapports de controlling des mandats de prestations politiques, strat&#xE9;giques et op&#xE9;rationnels;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8007">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es unterbreitet dem Departementsvorsteher allf&#xE4;llige Korrektur- und Verbesserungsvorschl&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il soumet au chef de d&#xE9;partement d'&#xE9;ventuelles propositions de corrections et d'am&#xE9;liorations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8008">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es gew&#xE4;hrleistet f&#xFC;r das Departement die Koordination mit dem Regierungscontrolling;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il assure pour le d&#xE9;partement la coordination avec le controlling gouvernemental;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8009">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">auf Anfrage unterst&#xFC;tzt es den Grossen Rat und dessen Kommissionen im Rahmen der Pr&#xFC;fung der politischen Leistungsauftr&#xE4;ge und der entsprechenden Controllingberichte.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il fournit, sur demande, un appui au Grand Conseil et &#xE0; ses commissions dans le cadre de l'examen des mandats de prestations politiques et de leurs rapports de controlling.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1907">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Dienststellencontrolling</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Controlling du service</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6495">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeiten und Organisation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;s et organisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14906">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Dienststellencontrolling ist ein F&#xFC;hrungsinstrument zuhanden des Dienstchefs.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le controlling du service est un organe d'aide &#xE0; la direction du chef de service.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14907">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verantwortung f&#xFC;r das Dienststellencontrolling wird einem f&#xFC;r diese Aufgabe dem Dienstchef unterstellten Mitarbeiter &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; du controlling du service est confi&#xE9;e &#xE0; un collaborateur subordonn&#xE9;, pour cette t&#xE2;che, au chef de service.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6496">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14908">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Dienststellencontrolling hat namentlich folgende Aufgaben und Befugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les t&#xE2;ches et comp&#xE9;tences du controlling du service sont notamment les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8010">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Vorbereitung der integrierten Mehrjahresplanung und des Voranschlags sorgt es f&#xFC;r die Erarbeitung der Entw&#xFC;rfe der politischen, strategischen und operativen Leistungsauftr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de la pr&#xE9;paration de la planification int&#xE9;gr&#xE9;e pluriannuelle et du budget, il veille &#xE0; l'&#xE9;laboration des projets de mandats de prestations op&#xE9;rationnels, strat&#xE9;giques et politiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8011">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es &#xFC;berpr&#xFC;ft die Definition der Produkte, die entsprechenden finanziellen und personellen Ressourcen und das Vorhandensein einer Kostenrechnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il s'assure de la pertinence de la d&#xE9;finition des produits, de la mise &#xE0; disposition des ressources financi&#xE8;res et humaines n&#xE9;cessaires &#xE0; leur r&#xE9;alisation et de l'existence d'un calcul des co&#xFB;ts;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8012">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es sorgt f&#xFC;r die Einf&#xFC;hrung von Verfahren, die eine Begleitung der operativen Ziele, also die &#xDC;berwachung der Realisierung der Ziele, Priorit&#xE4;ten und Kriterien sowie der Verwendung der in den Leistungsauftr&#xE4;gen festgelegten finanziellen und personellen Ressourcen erm&#xF6;glichen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il veille &#xE0; la mise en place de processus permettant le suivi des objectifs op&#xE9;rationnels, c'est-&#xE0;-dire le suivi de la r&#xE9;alisation des objectifs, des priorit&#xE9;s et des crit&#xE8;res et de l'utilisation des ressources financi&#xE8;res et humaines fix&#xE9;s dans les mandats de prestations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8013">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Falle von Abweichungen von den festgelegten Rahmenvorgaben oder von den Leistungsauftr&#xE4;gen (Ziele, Kriterien, Priorit&#xE4;ten, finanzielle und personelle Ressourcen) informiert es unverz&#xFC;glich den Dienstchef und schl&#xE4;gt ihm entsprechende Korrekturmassnahmen vor, namentlich den Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen den Produkten in &#xDC;bereinstimmung mit Artikel 9;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il informe le chef du service sans d&#xE9;lai en cas de d&#xE9;viation par rapport aux directives-cadres fix&#xE9;es de m&#xEA;me qu'en cas d'&#xE9;cart par rapport aux mandats de prestations (objectifs, crit&#xE8;res, priorit&#xE9;s, ressources humaines et financi&#xE8;res) et lui propose les mesures correctives correspondantes, notamment les compensations de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire entre les produits, conform&#xE9;ment &#xE0; l'article 9;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8014">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen der Erstellung der Rechnung sorgt es f&#xFC;r die Erarbeitung der Entw&#xFC;rfe der Controllingberichte der operativen, strategischen und politischen Leistungsauftr&#xE4;ge, die zusammen mit allf&#xE4;lligen Korrekturmassnahmen an das Departementscontrolling &#xFC;bermittelt werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le cadre de l'&#xE9;tablissement des comptes, il veille &#xE0; l'&#xE9;laboration des projets de rapports de controlling des mandats de prestations op&#xE9;rationnels, strat&#xE9;giques et politiques qui seront transmis avec les mesures correctives &#xE9;ventuelles au controlling d&#xE9;partemental;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8015">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es gew&#xE4;hrleistet f&#xFC;r die Dienststelle die Koordination mit dem Departementscontrolling.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il assure pour le service la coordination avec le controlling d&#xE9;partemental.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1908">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Kostenrechnung und Ausgleich</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Calcul des co&#xFB;ts et compensation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6497">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kostenrechnungsgrunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes de calcul des co&#xFB;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14909">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Finanzverwaltung pr&#xE4;zisiert mittels Weisungen die Kostenrechnungsgrunds&#xE4;tze aufgrund der Empfehlungen der Konferenz der kantonalen Finanzdirektoren bez&#xFC;glich des harmonisierten Kosten- und Leistungsrechnungsmodells f&#xFC;r Kantone und Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Administration des finances pr&#xE9;cise par directives les principes de calcul des co&#xFB;ts, sur la base des recommandations de la Conf&#xE9;rence des directeurs cantonaux des finances relatives au mod&#xE8;le de comptabilit&#xE9; analytique harmonis&#xE9; pour les cantons et les communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6498">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen politischen Zielen, Produktegruppen und Produkten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Compensations de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire entre objectifs politiques, groupes de produits et produits</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14910">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten zwischen unterschiedlichen Kostenarten (zweistellige Rubriken) gem&#xE4;ss Artikel 22a FHG liegt in der alleinigen Zust&#xE4;ndigkeit des Staatsrates.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est seul comp&#xE9;tent pour les compensations de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire entre natures comptables diff&#xE9;rentes (2 positions) au sens de l'article 22a de la LGCAF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14911">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausgleich von &#xDC;berschreitungen von Voranschlagskrediten innerhalb ein und derselben Kostenart (zweistellige Rubriken) liegt in der Zust&#xE4;ndigkeit:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les compensations de d&#xE9;passements de cr&#xE9;dit budg&#xE9;taire, concernant une m&#xEA;me nature comptable (2 positions), sont de la comp&#xE9;tence:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8016">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Staatsrates f&#xFC;r den Ausgleich zwischen politischen Zielen ein und desselben Departements;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du Conseil d'Etat, pour les compensations entre objectifs politiques d'un m&#xEA;me d&#xE9;partement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8017">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Departementsvorstehers f&#xFC;r den Ausgleich zwischen Produktegruppen ein und desselben politischen Ziels;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du chef de d&#xE9;partement, pour les compensations entre groupes de produits d'un m&#xEA;me objectif politique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8018">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Dienstchefs f&#xFC;r den Ausgleich zwischen Produkten ein und derselben Produktegruppe.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du chef de service, pour les compensations entre produits d'un m&#xEA;me groupe de produits.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6499">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Planung und Stundenabrechnung pro Produkt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Planification et d&#xE9;compte horaire par produit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14912">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Regierungscontrolling pr&#xE4;zisiert mittels Weisungen die Grunds&#xE4;tze f&#xFC;r die Planung und Stundenabrechnung pro Produkt aufgrund der Empfehlungen der Konferenz der kantonalen Finanzdirektoren bez&#xFC;glich des harmonisierten Kosten- und Leistungsrechnungsmodells f&#xFC;r Kantone und Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le controlling gouvernemental pr&#xE9;cise par directives les principes de planification et de d&#xE9;compte horaire par produit, sur la base des recommandations de la Conf&#xE9;rence des directeurs cantonaux des finances relatives au mod&#xE8;le de comptabilit&#xE9; analytique harmonis&#xE9; pour les cantons et les communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6500">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14913">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt ver&#xF6;ffentlicht und tritt am 1.&#xA0;August 2005 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur le 1<format upper="true">er</format> ao&#xFB;t 2005.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2005-08-01</dateForce>
+      <dateVersion>2010-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 53/2009</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

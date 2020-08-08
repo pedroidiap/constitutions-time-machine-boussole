@@ -1,0 +1,839 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1596</normID>
+      <number>176.200</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister</title>
+      <title lang="fr">Ordonnance sur l'harmonisation des registres des habitants et d'autres registres de personnes</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2017-06-21</dateAdoption>
+      <dateForce>2017-07-07T00:00:00</dateForce>
+      <dateLastChange>2017-07-07</dateLastChange>
+      <dateVersion>2017-07-07</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 57 der Kantonsverfassung;</basis> <basis>eingesehen Artikel 9 des Gesetzes &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister vom 14. November 2008;</basis> <basis>eingesehen das Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008;</basis> <basis>auf Antrag des Departements f&#xFC;r Sicherheit, Institutionen und Sport,</basis><formal>verordnet:(In der vorliegenden Verordnung gilt jede Bezeichnubg der Person, des Status oder der Funktion in gleicher Weise f&#xFC;r Mann ubd Frau.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du Canton du Valais</authorityDescription><basis>vu l'article 57 de la Constitution cantonale;</basis> <basis>vu l'article 9 de la loi sur l'harmonisation des registres des habitants et d'autres registres de personnes du 14 novembre 2008;</basis> <basis>vu la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage du 9 octobre 2008;</basis> <basis>sur la proposition du D&#xE9;partement de la s&#xE9;curit&#xE9;, des institutions et du sport,</basis><formal>ordonne:(Dans la pr&#xE9;sente ordonnance, toute d&#xE9;signation de personne, de statuts ou de fonction vise indiff&#xE9;remment l'homme ou la femme.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 27/2017</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="7123">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur l'harmonisation des registres des habitants et d'autres registres de personnes</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:23568">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zweck</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">But</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54529">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung regelt den Inhalt der Informatikplattform des Einwohnerregisters, die Lieferung und den Zugang zu den Einwohnerdaten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance r&#xE8;gle le contenu de la plate-forme informatique du registre des habitants, la transmission et l'acc&#xE8;s aux donn&#xE9;es des habitants.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23569">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Gegenstand</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Objet</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54530">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung findet Anwendung:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance s'applique:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37771">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">auf die kommunalen Einwohnerregister;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">aux registres communaux des habitants;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37772">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">auf die Informatikplattform des Einwohnerregisters.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#xE0; la plate-forme informatique du registre des habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54531">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die numerischen Einwohnerdaten bilden integrierenden Bestandteil der Informatikplattform des Einwohnerregisters.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les donn&#xE9;es num&#xE9;riques des habitants sont parties int&#xE9;grantes de la plate-forme informatique du registre des habitants.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54532">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Entsprechend den Anforderungen des Bundesamtes f&#xFC;r Statistik dient die genannte Plattform dazu, die Datenlieferung an das Bundesamt f&#xFC;r Statistik zu gew&#xE4;hrleisten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En fonction des exigences de l'Office f&#xE9;d&#xE9;ral de la statistique, la dite plate-forme sert &#xE0; assurer la livraison des donn&#xE9;es &#xE0; l'Office f&#xE9;d&#xE9;ral de la statistique.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23570">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Definitionen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">D&#xE9;finitions</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54533">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Im Sinne der vorliegenden Verordnung versteht man unter:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Au sens de la pr&#xE9;sente ordonnance, on entend par:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37773">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Informatikplattform: die Plattform, auf der die von den Gemeinden &#xFC;bermittelten Daten des Einwohnerregisters gespeichert werden;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">plate-forme informatique: la plate-forme sur laquelle sont enregistr&#xE9;es les donn&#xE9;es du registre des habitants transmises par les communes;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37774">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verein eCH: Verein von &#xF6;ffentlichem Interesse zur F&#xF6;rderung des E-Government in der Schweiz, der Normen erarbeitet zur Vereinfachung der Zusammenarbeit zwischen den Beh&#xF6;rden untereinander als auch zwischen Beh&#xF6;rden und Unternehmen, Organisationen, Forschungs- und Bildungsanstalten, sowie Einzelpersonen, durch Ver&#xF6;ffentlichung von Normen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">association eCH: association d'int&#xE9;r&#xEA;t public destin&#xE9;e &#xE0; promouvoir la cyberadministration en Suisse et &#xE9;tablissant des normes pour faciliter la collaboration &#xE9;lectronique entre les autorit&#xE9;s elles-m&#xEA;mes de m&#xEA;me qu'entre les autorit&#xE9;s et les entreprises, organisations, institutions de recherche et d'enseignement ainsi que particuliers par la publication de normes;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37775">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Protokollierung: numerische Registrierung von Ereignissen, welche in einem Informatiksystem auftreten, unter Angabe von Uhrzeit und Datum des Ereignisses, seiner Natur sowie Angabe des Programmes und des verwendeten Zugangskontos;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">journalisation: enregistrement num&#xE9;rique des &#xE9;v&#xE8;nements se produisant dans un syst&#xE8;me informatique et contenant l'heure et la date de l'&#xE9;v&#xE8;nement, sa nature ainsi que le programme et le compte d'acc&#xE8;s utilis&#xE9;s;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37776">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zugangskonto: einem Nutzer zugeteiltes Mittel, welches ihm erlaubt, die Funktionen eines Informatikprogrammes zu nutzen, f&#xFC;r welche er &#xFC;ber eine Zugangserm&#xE4;chtigung verf&#xFC;gt. Es setzt sich zusammen aus einem Identifikator, dem Benutzernamen und einer Authentifizierung durch ein Passwort;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">compte d'acc&#xE8;s: moyen remis &#xE0; un utilisateur pour lui permettre d'utiliser les fonctions d'un programme informatique pour lesquelles il dispose d'une autorisation. Il se compose d'un identificateur, le nom d'utilisateur et d'un authentifiant, le mot de passe;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37777">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schnittstellenverbindung: zwischen zwei Informatikprogrammen bestehende Verbindung, welche den Austausch von Daten zwischen den beiden erm&#xF6;glicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">interfa&#xE7;age: connexion r&#xE9;alis&#xE9;e entre deux programmes informatiques et permettant l'&#xE9;change de donn&#xE9;es entre ceux-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23571">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inhalt der Informatikplattform des Einwohnerregisters</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Contenu de la plate-forme informatique du registre des habitants</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54534">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Informatikplattform des Einwohnerregisters enth&#xE4;lt jene Daten, welche in Artikel 6 des Bundesgesetzes &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister vom 23. Juni 2006 figurieren (RHG).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La plate-forme informatique du registre des habitants contient les donn&#xE9;es figurant &#xE0; l'article 6 de la loi f&#xE9;d&#xE9;rale sur l'harmonisation des registres du 23 juin 2006 (LHR).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54535">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Zudem enth&#xE4;lt die genannte Plattform die im Standard eCH-0020 durch Verein eCH bearbeitet vorgesehenen Daten zum elektronischen Austausch von Ereignissen zwischen den kommunalen Einwohnerregistern und der Informatikplattform des Einwohnerregisters.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En outre, la dite plate-forme contient les donn&#xE9;es pr&#xE9;vues dans la norme eCH-0020 &#xE9;dit&#xE9;e par l'assocation eCH pour l'&#xE9;change &#xE9;lectronique d'&#xE9;v&#xE9;nements entre les registres communaux des habitants et la plate-forme informatique du registre des habitants.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23572">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Datenlieferung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Transmission des donn&#xE9;es</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54536">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das von der Eidgenossenschaft eingerichtete System Sedex (Secure Data Exchange) f&#xFC;r den gesicherten Datenaustausch gew&#xE4;hrleistet den verschl&#xFC;sselten Datenaustausch zwischen dem Kanton und der Gemeinde. Das Einwohnerregister der Gemeinde muss mit einem Sedex-Adapter verbunden sein.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le syst&#xE8;me sedex pour l'&#xE9;change s&#xE9;curis&#xE9; de donn&#xE9;es (Secure Data Exchange) mis en place par la Conf&#xE9;d&#xE9;ration assure l'&#xE9;change crypt&#xE9; des donn&#xE9;es entre la commune et le canton. Le registre des habitants de la commune doit &#xEA;tre connect&#xE9; &#xE0; un adaptateur sedex.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54537">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinde muss die vorstehend in Artikel 2 erw&#xE4;hnten Daten f&#xFC;r die Einrichtung und die Aktualisierung der Informatikplattform des Einwohnerregisters. Die Lieferfrequenz wird durch die Qualit&#xE4;tsanforderungen der Daten der Plattform bestimmt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La commune doit transmettre les donn&#xE9;es figurant &#xE0; l'article 2 ci-dessus pour l'&#xE9;tablissement et la mise &#xE0; jour de la plate-forme informatique du registre des habitants. La fr&#xE9;quence de transmission est d&#xE9;termin&#xE9;e par les besoins de qualit&#xE9; des donn&#xE9;es de la plate-forme.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54538">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Mutationsereignisse der Einwohnerkontrolle werden an die Informatikplattform der Einwohner geliefert. Die Meldegr&#xFC;nde sowie die zu liefernden Eigenschaften folgen den Empfehlungen des Standard eCH-0020.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les &#xE9;v&#xE9;nements de mutation du contr&#xF4;le des habitants sont transmis &#xE0; la plate-forme informatique des habitants. Les motifs d'annonce ainsi que les attributs &#xE0; transmettre suivent les recommandations de la norme eCH-0020.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23573">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zugang zu den Daten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Acc&#xE8;s aux donn&#xE9;es</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54539">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Zugangskonten f&#xFC;r die Informatikplattform des Einwohnerregisters sind namentlich und pers&#xF6;nlich. Die Plattform gew&#xE4;hrleistet die Sicherheit und die R&#xFC;ckverfolgbarkeit aller Zugriffe, namentlich durch Protokollierung (Art. 25 ff. und Art. 28 ff. Ausf&#xFC;hrungsreglement zum Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 16. Dezember 2010, ARGIDA).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les comptes d'acc&#xE8;s &#xE0; la plate-forme informatique du registre des habitants sont nominatifs et personnels. La plate-forme garantit la s&#xE9;curit&#xE9; et la tra&#xE7;abilit&#xE9; de tous les acc&#xE8;s notamment par le biais de la journalisation (art. 25 ss et 28 ss du r&#xE8;glement d'ex&#xE9;cution de la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage du 16 d&#xE9;cembre 2010, RELIPDA).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54540">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die zugelassenen kantonalen und kommunalen Dienststellen haben Zugang zu den Daten gem&#xE4;ss Datentyp und den in der erteilten Zugangserm&#xE4;chtigung festgelegten Rechten. Sie werden informiert &#xFC;ber die Protokollierung und die Archivierungsdauer der Protokolle (ein Jahr) gem&#xE4;ss Artikel 30 ARGIDA.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les services cantonaux et communaux autoris&#xE9;s ont acc&#xE8;s aux donn&#xE9;es selon les domaines de donn&#xE9;es et les droits d&#xE9;finis dans l'autorisation accord&#xE9;e. Ils sont inform&#xE9;s de la journalisation et de la dur&#xE9;e de conservation des proc&#xE8;s-verbaux de journalisation (une ann&#xE9;e) conform&#xE9;ment &#xE0; l'article 30 RELIPDA.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23574">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Verfahren zur Zugangserm&#xE4;chtigung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Proc&#xE9;dure d'autorisation d'acc&#xE8;s</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54541">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gesuche um Erteilung der Zugangserm&#xE4;chtigung zum Informatikeinwohnerregister sind mit dem einschl&#xE4;gigen Formular an die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration zu richten. Der Gesuchsteller hat die Art der Nutzung der Daten anzugeben (Einsichtnahme, Herunterladen oder Schnittstellenverbindung).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les demandes d'autorisation d'acc&#xE8;s au registre informatique des habitants sont adress&#xE9;es au Service de la population et des migrations au moyen de la formule ad hoc. Le requ&#xE9;rant pr&#xE9;cise le mode d'utilisation des donn&#xE9;es (consultation, t&#xE9;l&#xE9;chargement ou interfa&#xE7;age).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54542">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Gesuch, versehen mit einer Vormeinung der Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration, wird zur Entscheidf&#xE4;llung an den Vorsteher des Departementes f&#xFC;r Sicherheit &#xFC;bermittelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La demande, pr&#xE9;avis&#xE9;e par le Service de la population et des migrations, est transmise au Chef du d&#xE9;partement en charge de la s&#xE9;curit&#xE9; pour d&#xE9;cision.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54543">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Entscheid wird dem Gesuchsteller kostenlos er&#xF6;ffnet, unter Vorbehalt allf&#xE4;lliger Informatikkosten. Die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration, der kantonale Datenschutzbeauftragte und die Dienststelle f&#xFC;r Informatik werden informiert.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La d&#xE9;cision est notifi&#xE9;e au requ&#xE9;rant sans frais, sous r&#xE9;serve d'&#xE9;ventuels frais de d&#xE9;veloppement informatique. Le Service de la population et des migrations, le Pr&#xE9;pos&#xE9; cantonal &#xE0; la protection des donn&#xE9;es et le Service cantonal de l'informatique sont inform&#xE9;s.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54544">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration hatnoch folgende Kompetenzen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Service de la population et des migrations, a &#xE9;galement les comp&#xE9;tences suivantes:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37778">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xFC;berpr&#xFC;fen der gesetzlichen Grundlage bei Dienststellen, welche Zugang zu den Daten w&#xFC;nschen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">v&#xE9;rifier les bases l&#xE9;gales des services souhaitant avoir acc&#xE8;s aux bases de donn&#xE9;es;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37779">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">aufheben, reduzieren der Zug&#xE4;nge und Aufsicht &#xFC;ber die Einhaltung der Verh&#xE4;ltnism&#xE4;ssigkeit;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">engager une proc&#xE9;dure de suppression, de r&#xE9;duction des acc&#xE8;s et veiller au respect de la proportionnalit&#xE9;;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:37780">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">nachf&#xFC;hren der Liste und der Entscheide betreffend den Zugang.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">tenir &#xE0; jour la liste et les d&#xE9;cisions des acc&#xE8;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54545">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Vorbehalten bleiben die im Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG) vorgesehenen Rechtsmittel und jene welche im Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA) enthalten sind.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les voies de droit pr&#xE9;vue dans la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976 (LPJA) et celles figurant dans la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage du 9 octobre 2008 (LIPDA).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23575">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufgaben und Zust&#xE4;ndigkeiten der Gemeindebeh&#xF6;rde</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">T&#xE2;ches et responsabilit&#xE9; de l'autorit&#xE9; communale</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54546">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die kommunale Beh&#xF6;rde ist zust&#xE4;ndig f&#xFC;r die Genauigkeit der Daten ihres eigenen Registers. Die Daten der Einwohnerkontrollregister m&#xFC;ssen aktuell, genau und vollst&#xE4;ndig sein. Die zust&#xE4;ndigen Beh&#xF6;rden achten darauf, dass sie nachgef&#xFC;hrt sind. Im Falle von qualitativ schlechten Daten kann der Kanton verlangen, dass die weitergeleiteten Daten den festgelegten Kriterien entsprechen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'autorit&#xE9; communale est responsable de l'exactitude des donn&#xE9;es de son propre registre. Les donn&#xE9;es des registres des contr&#xF4;les de l'habitant doivent &#xEA;tre actuelles, exactes et compl&#xE8;tes. Les autorit&#xE9;s comp&#xE9;tentes veillent &#xE0; ce qu'elles soient &#xE0; jour. En cas de mauvaise qualit&#xE9; des donn&#xE9;es, le canton peut exiger que les donn&#xE9;es transmises remplissent les crit&#xE8;res fix&#xE9;s.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54547">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die kommunale Beh&#xF6;rde ist ebenfalls daf&#xFC;r zust&#xE4;ndig, &#xC4;nderungen hinsichtlich der Zugangserm&#xE4;chtigung von ihr angeschlossenen Personen abzuwickeln, insbesondere bei Beendigung des Anstellungsverh&#xE4;ltnisses oder in jedem anderen Fall, bei dem die &#xFC;ber eine Zugangserm&#xE4;chtigung verf&#xFC;gende Person ihre Aktivit&#xE4;t beendet oder f&#xFC;r eine lange Dauer unterbricht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'autorit&#xE9; communale est &#xE9;galement responsable d'op&#xE9;rer les v&#xE9;rifications relatives aux droits d'acc&#xE8;s des personnes qui lui sont li&#xE9;es, notamment en cas fin de p&#xE9;riode d'emploi ou dans toute autre hypoth&#xE8;se o&#xF9; la personne au b&#xE9;n&#xE9;ficie d'une autorisation d'acc&#xE8;s cesse son activit&#xE9; ou l'interrompt pour une longue dur&#xE9;e.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23576">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufgaben und Zust&#xE4;ndigkeiten der Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">T&#xE2;ches et responsabilit&#xE9; du Service de la population et des migrations</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54548">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration ist verantwortlich f&#xFC;r die Informatikplattform des Einwohnerregisters. Sie garantiert die Qualit&#xE4;t der Daten der Plattform und die Koh&#xE4;renz mit den Registern der Gemeinden, denen die Daten geh&#xF6;ren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Service de la population et des migrations est responsable de la plate-forme informatique du registre des habitants. Il est garant de la qualit&#xE9; des donn&#xE9;es de la plate-forme ainsi que de la coh&#xE9;rence entre les registres communaux propri&#xE9;taires des donn&#xE9;es.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54549">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sie koordiniert die in Zusammenhang mit der kantonalen Plattform des Einwohnerregisters stehenden technischen und administrativen Interaktionen. Sie steuert die administrative Koordination zwischen den Daten produzierenden Dienststellen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il coordonne les interactions techniques et administratives en lien avec la plate-forme informatique du registre des habitants. Il contribue &#xE0; la coordination administrative entre les services producteurs de donn&#xE9;es.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54550">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration ist die kantonale Kontaktstelle des Bundesamts f&#xFC;r Statistik (BFS) f&#xFC;r die viertelj&#xE4;hrlichen Datenlieferungen der Einwohnerkontrollen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Service de la population et des migrations est le r&#xE9;pondant cantonal de Office f&#xE9;d&#xE9;ral de la statistique pour les livraisons trimestrielles des donn&#xE9;s des contr&#xF4;les de l'habitant.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23577">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>10</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufgaben und Zust&#xE4;ndigkeiten der kantonalen Dienststelle f&#xFC;r Informatik</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">T&#xE2;ches et responsabilit&#xE9; du Service cantonal de l'informatique</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54551">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die kantonale Dienststelle f&#xFC;r Informatik ist verantwortlich f&#xFC;r den Betrieb und die technische und organisatorische Sicherheit (Art. 25 ff. und Art. 28 ff. ARGIDA), f&#xFC;r die Protokollierung, sowie f&#xFC;r die Ausarbeitung der technischen Normen f&#xFC;r den Anschluss und die Lieferung der Daten an die kantonale Informatikplattform.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Service cantonal de l'informatique est responsable du fonctionnement et de la s&#xE9;curit&#xE9; technique et organisationnelle (art. 25 ss et 28 ss RELIPDA), de la journalisation, ainsi que de l'&#xE9;laboration des normes techniques pour la connexion et la transmission des donn&#xE9;es &#xE0; la plate-forme cantonale.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23578">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>11</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">AHV Versichertennummer (AHVN13)</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Num&#xE9;ro AVS (NAVS13)</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54552">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dienststellen der Verwaltung, die Personen oder andere, die Zugang zur Informatikplattform des Einwohnerregisters haben, sowie die Gemeinden k&#xF6;nnen von der AHVN13 Kenntnis haben und sie exklusiv f&#xFC;r die Erf&#xFC;llung ihrer Aufgaben gem&#xE4;ss AHVG und sofern die Bedingungen der Bundesgesetzgebung erf&#xFC;llt sind systematisch nutzen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les services de l'administration, les personnes ou autres qui se sont vus attribuer un acc&#xE8;s &#xE0; la plate-forme informatique des habitants, ainsi que les communes peuvent avoir connaissance du NAVS13 et l'utiliser syst&#xE9;matiquement pour l'accomplissement de leurs t&#xE2;ches en application exclusive de la loi f&#xE9;d&#xE9;rale sur l'assurance-vieillesse et survivants du 20 d&#xE9;cembre 1946 (LAVS) et dans la mesure o&#xF9; les conditions du droit f&#xE9;d&#xE9;ral sont remplies.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23579">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>12</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Finanzierung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Financement</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54553">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Kosten der Leistungen f&#xFC;r die Dienststellen der Verwaltung und externe Beh&#xF6;rden k&#xF6;nnen in Rechnung gestellt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le co&#xFB;t des prestations aux services de l'administration et aux autorit&#xE9;s externes peut &#xEA;tre factur&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:54554">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Nutzung durch die Gemeinden ist nicht kostenpflichtig.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'utilisation par les communes n'est pas payante.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:23580">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>13</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Datenschutz</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Protection des donn&#xE9;es</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:54555">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Departement und die gem&#xE4;ss der vorliegenden Verordnung f&#xFC;r die Register zust&#xE4;ndigen Dienststellen sind im Rahmen der Haltung der Register verantwortlich f&#xFC;r den Datenschutz. Sie treffen insbesondere alle juristisch, technisch und organisatorisch notwendigen Massnahmen zur Gew&#xE4;hrleistung der Datensicherheit. Sie wenden die GIDA und ARGIDA an.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;partement et les services charg&#xE9;s des registres au sens de la pr&#xE9;sente ordonnance sont responsables de la protection des donn&#xE9;es dans le cadre de la tenue de ces registres. Ils prennent en particulier toutes les mesures, juridiques, techniques et organisationnelles n&#xE9;cessaires pour assurer la s&#xE9;curit&#xE9; des donn&#xE9;es. Ils appliquent la LIPDA et le RELIPDA.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2017-07-07</dateForce>
+      <dateVersion>2017-07-07</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 27/2017</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

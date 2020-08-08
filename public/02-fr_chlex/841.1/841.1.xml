@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:181</normID>
+      <number>841.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber das Wohnungswesen</title>
+      <title lang="fr">Loi sur le logement</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1988-06-30</dateAdoption>
+      <dateForce>1990-03-01T00:00:00</dateForce>
+      <dateLastChange>1996-05-01</dateLastChange>
+      <dateVersion>1996-05-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Bestimmungen des Bundesgesetzes &#xFC;ber die Wohnungssanierung im Berggebiet vom 20. M&#xE4;rz 1970;</basis> <basis>eingesehen die Bestimmungen des Wohnbau- und Eigentumsf&#xF6;rderungsgesetzes des Bundes vom 4. Oktober 1974;</basis> <basis>eingesehen die Bestimmungen des Gesetzes zur F&#xF6;rderung der Wirtschaft vom 28. M&#xE4;rz 1984;</basis> <basis>eingesehen den Artikel 30 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les dispositions de la loi f&#xE9;d&#xE9;rale sur l'am&#xE9;lioration du logement dans les r&#xE9;gions de montagne du 20 mars 1970;</basis> <basis>vu les dispositions de la loi f&#xE9;d&#xE9;rale encourageant la construction et l'accession &#xE0; la propri&#xE9;t&#xE9; de logements du 4 octobre 1974;</basis> <basis>vu les dispositions de la loi sur l'encouragement &#xE0; l'&#xE9;conomie du 28 mars 1984;</basis> <basis>vu l'article 30 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1990 f 3, 110 | d 3, 107</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="644">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber das Wohnungswesen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur le logement</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:2193">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ziel und Zweck</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Buts et objectifs</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5065">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das vorliegende Gesetz bezweckt die F&#xF6;rderung des Wohnungsbaus sowie die Unterst&#xFC;tzung der Verbesserung von bestehenden Bauten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente loi a pour but de promouvoir la construction de logements et de favoriser l'assainissement de constructions existantes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5066">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es bezweckt insbesondere:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Elle vise notamment les objectifs suivants:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2268">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die F&#xF6;rderung des Erwerbs von Wohnungseigentum;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">favoriser l'accession &#xE0; la propri&#xE9;t&#xE9; de logements;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2269">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Erhaltung g&#xFC;nstiger Wohnungen auf dem Markt;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">maintenir sur le march&#xE9; des logements &#xE0; loyer mod&#xE9;r&#xE9;;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2270">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">eine ausgewogene Verteilung der Bev&#xF6;lkerung auf die Gesamtheit der Gemeinden zu sichern, insbesondere in den Berggebieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">favoriser une r&#xE9;partition judicieuse de la population sur l'ensemble des communes, sp&#xE9;cialement dans les zones de montagne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2194">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1a</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Vorbehalt des Subventionsgesetzes</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">R&#xE9;serve de la loi sur les subventions</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5067">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Bestimmungen des Subventionsgesetzes vom 13. November 1995 sind auf alle in diesem Erlass vorgesehenen Subventionen unmittelbar und vollumf&#xE4;nglich anwendbar. Die Bestimmungen des vorliegenden Erlasses bleiben nur insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht entgegenstehen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les dispositions de la loi cantonale sur les subventions du 13&#xA0;novembre 1995 sont applicables directement et dans leur int&#xE9;gralit&#xE9; aux subventions pr&#xE9;vues par le pr&#xE9;sent texte l&#xE9;gal. Les dispositions de ce dernier demeurent applicables dans la mesure o&#xF9; elles ne sont pas contraires &#xE0; la loi sur les subventions.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2195">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Berechtigte</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">B&#xE9;n&#xE9;ficiaire</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5068">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die in diesem Gesetz vorgesehenen Hilfen k&#xF6;nnen von allen nat&#xFC;rlichen und juristischen Personen des privaten und &#xF6;ffentlichen Rechts beansprucht werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Toute personne physique ou morale de droit priv&#xE9; ou de droit public peut &#xEA;tre mise au b&#xE9;n&#xE9;fice des aides pr&#xE9;vues par cette loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2196">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Massnahmen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Mesures</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5069">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Um die vorgegebenen Ziele zu erreichen, kann der Kanton:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour atteindre les objectifs fix&#xE9;s, le canton peut:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2271">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">B&#xFC;rgschaften und r&#xFC;ckzahlbare Vorsch&#xFC;sse f&#xFC;r den Bau, die Renovation und den Erwerb zum Wohnungseigentum gew&#xE4;hren;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">accorder des cautionnements et des avances remboursables pour la construction, la r&#xE9;novation et l'accession &#xE0; la propri&#xE9;t&#xE9; de logements;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2272">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">j&#xE4;hrliche oder einmalige Subventionen ausrichten;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">accorder des subventions p&#xE9;riodiques ou uniques;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2273">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Hypothekarakte zugunsten des Kantons und des Bundes, Eigentums&#xFC;bertragungsakte, Hypotheken und B&#xFC;rgschaften f&#xFC;r den Kauf von Wohnungen durch Personen, die in den Genuss der in Artikel 6 und 7 vorgesehenen Hilfen kommen, von den Stempelabgaben befreien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">exon&#xE9;rer du droit de timbre les actes hypoth&#xE9;caires pris en faveur du canton et de la Conf&#xE9;d&#xE9;ration et les actes translatifs de propri&#xE9;t&#xE9;, constitutifs d'hypoth&#xE8;ques et de cautionnements pour l'acquisition de logements par les personnes b&#xE9;n&#xE9;ficiaires des subventions pr&#xE9;vues aux articles 6 et 7.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5070">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vom Kanton eingeleiteten Massnahmen sind unabh&#xE4;ngig oder erg&#xE4;nzend zu den Massnahmen des Bundes oder der Gemeinden zu ergreifen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les mesures prises par le canton sont appliqu&#xE9;es ind&#xE9;pendamment ou en compl&#xE9;ment des mesures prises par la Conf&#xE9;d&#xE9;ration ou par les communes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5071">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die in Artikel 10 und folgende des Gesetzes zur F&#xF6;rderung der Wirtschaft vorgesehenen Hilfen k&#xF6;nnen &#xF6;ffentlichen K&#xF6;rperschaften auch zur F&#xF6;rderung des Erwerbs, der Ausscheidung und Bereitstellung von Grund und Boden f&#xFC;r den Bau von Wohnungen gew&#xE4;hrt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les aides pr&#xE9;vues aux articles 10 et suivants de la loi sur l'encouragement &#xE0; l'&#xE9;conomie peuvent &#xEA;tre accord&#xE9;es &#xE0; des collectivit&#xE9;s publiques pour favoriser l'acquisition, la r&#xE9;servation et la mise &#xE0; disposition de terrains destin&#xE9;s &#xE0; la construction de logements.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2197">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">B&#xFC;rgschaft</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Cautionnement</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5072">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die grundpfandrechtlich gesicherte B&#xFC;rgschaft des Kantons &#xFC;bersteigt in der Regel die 30 Prozent&#xA0;der Anlagekosten nicht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale, le cautionnement des pr&#xEA;ts garantis par gages immobiliers ne d&#xE9;passe pas 30 pour cent&#xA0;du co&#xFB;t de revient admissible.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2198">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">R&#xFC;ckzahlbare Vorsch&#xFC;sse</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Avances remboursables</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5073">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Um die Differenz zwischen dem zul&#xE4;ssigen Mietzins und der Belastung des Eigent&#xFC;mers zu decken, gew&#xE4;hrt der Kanton r&#xFC;ckzahlbare, verzinsliche und durch Grundpfand gesicherte Vorsch&#xFC;sse.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour couvrir la diff&#xE9;rence entre les charges du propri&#xE9;taire et le loyer admissible, le canton offre des avances remboursables, portant int&#xE9;r&#xEA;t et garanties par des gages immobiliers.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2199">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">J&#xE4;hrliche Subvention</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Subventions p&#xE9;riodiques</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5074">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Es kann eine j&#xE4;hrliche Subvention von 0.6 Prozent&#xA0;der anrechenbaren Gestehungskosten w&#xE4;hrend zehn Jahren gew&#xE4;hrt werden. Wenn nach zehn Jahren der Mietzins immer noch 33 Prozent des Netto-Einkommens &#xFC;bersteigt, kann diese Hilfe um f&#xFC;nf Jahre verl&#xE4;ngert werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une subvention annuelle de 0.6 pour cent&#xA0;du co&#xFB;t de revient admissible peut &#xEA;tre accord&#xE9;e pour dix ans. Au cas o&#xF9; le rapport entre le loyer et le revenu net des personnes occupant le logement d&#xE9;passe 33 pour cent&#xA0;apr&#xE8;s les dix premi&#xE8;res ann&#xE9;es, l'aide peut &#xEA;tre accord&#xE9;e pour une nouvelle p&#xE9;riode de cinq ans.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5075">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r Wohnungen, die &#xE4;lteren, invaliden, in Ausbildung stehenden, pflegenden und pflegebed&#xFC;rftigen Personen dienen, kann eine j&#xE4;hrliche Subvention von 1.2 Prozent der anrechenbaren Gestehungskosten w&#xE4;hrend 25 Jahren gew&#xE4;hrt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une subvention annuelle de 1.2 pour cent&#xA0;du co&#xFB;t de revient admissible peut &#xEA;tre accord&#xE9;e pour 25 ans pour les logements destin&#xE9;s &#xE0; des personnes &#xE2;g&#xE9;es, &#xE0; des invalides, &#xE0; des personnes en formation, au personnel soignant ainsi qu'&#xE0; des personnes exigeant des soins.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5076">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">An Familien mit bescheidenen Einkommen kann eine zus&#xE4;tzliche, j&#xE4;hrliche Subvention von 0.3 Prozent der anrechenbaren Gestehungskosten w&#xE4;hrend zehn Jahren gew&#xE4;hrt werden. Im Berggebiet kann diese zus&#xE4;tzliche Subvention bis zu 0.6 Prozent betragen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Une subvention annuelle compl&#xE9;mentaire, pouvant s'&#xE9;lever jusqu'&#xE0; 0.3 pour cent&#xA0;du co&#xFB;t de revient admissible, peut &#xEA;tre accord&#xE9;e pour une p&#xE9;riode de dix ans &#xE0; des familles de revenu modeste. La subvention compl&#xE9;mentaire peut s'&#xE9;lever jusqu'&#xE0; 0.6 pour cent&#xA0;en zone de montagne.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2200">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Einmalige Subvention</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Subvention unique</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5077">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die j&#xE4;hrliche Subvention kann in eine einmalige Subvention umgewandelt werden. Sie betr&#xE4;gt h&#xF6;chstens 5 Prozent der anrechenbaren Gestehungskosten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les subventions p&#xE9;riodiques peuvent &#xEA;tre remplac&#xE9;es par une subvention unique. Cette subvention ne d&#xE9;passe pas 5 pour cent&#xA0;du co&#xFB;t pris en consid&#xE9;ration.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5078">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r die Verbesserung der Wohnverh&#xE4;ltnisse in Berggebieten betr&#xE4;gt die kantonale Subvention h&#xF6;chstens 30 Prozent der anrechenbaren Kosten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pour l'am&#xE9;lioration du logement dans les zones de montagne, la subvention s'&#xE9;l&#xE8;ve au maximum &#xE0; 30 pour cent&#xA0;du co&#xFB;t pris en consid&#xE9;ration.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2201">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Abgrenzung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Ayants droit</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5079">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Einkommens- und Verm&#xF6;gensgrenzen der Bezugsberechtigten von j&#xE4;hrlichen oder einmaligen Subventionen werden in einem Reglement des Staatsrates festgelegt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les limites de fortune et de revenu des b&#xE9;n&#xE9;ficiaires de subventions uniques ou p&#xE9;riodiques sont fix&#xE9;es dans un arr&#xEA;t&#xE9; du Conseil d'Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5080">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieser Beschluss legt auch die Bedingungen f&#xFC;r die Gew&#xE4;hrung von Hilfen in H&#xE4;rtef&#xE4;llen fest.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Cet arr&#xEA;t&#xE9; fixe &#xE9;galement les conditions d'octroi d'aide pour les cas de rigueur.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2202">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anpassung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Adaptation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5081">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Bei &#xC4;nderungen der Bundesgesetzgebung oder wenn es die wirtschaftlichen und sozialen Verh&#xE4;ltnisse des Kantons verlangen, ist der Grosse Rat erm&#xE4;chtigt, die Ans&#xE4;tze anzupassen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Grand Conseil est habilit&#xE9; &#xE0; modifier les taux des aides d&#xE9;crites, en fonction des modifications de la l&#xE9;gislation f&#xE9;d&#xE9;rale ou de l'&#xE9;volution de la situation &#xE9;conomique et sociale du canton.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2203">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>10</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Massnahmen der Gemeinden</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Mesures communales</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5082">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Um die Ziele dieses Gesetzes zu erreichen, k&#xF6;nnen Gemeinden selbst&#xE4;ndige oder erg&#xE4;nzende Massnahmen zu jenen des Kantons oder des Bundes ergreifen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les communes peuvent prendre des mesures pour favoriser la r&#xE9;alisation des objectifs de la loi ind&#xE9;pendamment ou en compl&#xE9;ment de celles du canton ou de la Conf&#xE9;d&#xE9;ration.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2204">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>11</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Finanzierung ohne Hilfe der &#xF6;ffentlichen Hand</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Financement sans aide des pouvoirs publics</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5083">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">In Gemeinden, in denen Mangel an g&#xFC;nstigen Wohnungen herrscht, kann der Verkauf an Personen im Ausland bewilligt werden, sofern das Grundst&#xFC;ck f&#xFC;r den sozialen Wohnungsbau ohne Hilfe der &#xF6;ffentlichen Hand bestimmt ist oder wenn es sich um solche Wohnungen neueren Baus handelt. Die Bestimmungen der Spezialgesetzgebung bleiben vorbehalten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Dans les communes o&#xF9; s&#xE9;vit la p&#xE9;nurie de logements locatifs &#xE0; loyer mod&#xE9;r&#xE9;, l'autorisation d'acquisition par des personnes &#xE0; l'&#xE9;tranger peut &#xEA;tre accord&#xE9;e lorsque l'immeuble est destin&#xE9; &#xE0; la construction de logements &#xE0; caract&#xE8;re social sans aide des pouvoirs publics ou lorsqu'il comprend de tels logements s'ils sont de construction r&#xE9;cente. La l&#xE9;gislation sp&#xE9;cifique en la mati&#xE8;re demeure r&#xE9;serv&#xE9;e.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2205">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>12</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anwendungsbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5084">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat erl&#xE4;sst die Anwendungsbestimmungen, insbesondere legt er fest:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te les modalit&#xE9;s d'attribution des aides, il fixe notamment:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2274">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Art und H&#xF6;he der Leistungen sowie deren Dauer;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">le genre et le montant des prestations ainsi que leur dur&#xE9;e;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2275">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Lasten und Einschr&#xE4;nkungen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les charges et les restrictions;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2276">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die R&#xFC;ckzahlungsbedingungen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les conditions de restitution;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:2277">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">das Verfahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la proc&#xE9;dure appliqu&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5085">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat legt die technischen Vorschriften und die H&#xF6;he der anrechenbaren Kosten fest.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat r&#xE8;gle les conditions techniques et les limites de co&#xFB;t admissibles.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2206">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>13</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zust&#xE4;ndiges Departement</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">D&#xE9;partement comp&#xE9;tent</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5086">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Durchf&#xFC;hrung der vorgesehenen Massnahmen obliegt dem zust&#xE4;ndigen Departement, das ebenfalls mit der Pr&#xFC;fung der Gesuche an den Bund beauftragt ist.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La gestion des mesures pr&#xE9;vues dans cette loi incombe au d&#xE9;partement comp&#xE9;tent qui examine &#xE9;galement les demandes destin&#xE9;es &#xE0; la Conf&#xE9;d&#xE9;ration.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2207">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>14</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">R&#xFC;ckerstattung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Remboursement</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5087">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Wenn die Bedingungen nicht mehr erf&#xFC;llt und die Belastungsgrenzen nicht mehr erreicht sind, kann das Departement die vollst&#xE4;ndige oder teilweise R&#xFC;ckerstattung der Leistungen verlangen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;partement peut exiger le remboursement total ou partiel des aides lorsque les conditions et charges ne sont plus remplies.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5088">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Wenn falsche Angaben gemacht oder die Unterst&#xFC;tzung nicht f&#xFC;r den vorgesehenen Zweck verwendet wurden, verlangt das Departement die R&#xFC;ckzahlung innert Monatsfrist, unter Einhaltung einer Anzeigefrist von zwei Monaten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas de renseignements fallacieux ou lorsque l'aide n'est pas affect&#xE9;e aux fins pour lesquelles elle a &#xE9;t&#xE9; consentie, le d&#xE9;partement exige le remboursement des aides dans un d&#xE9;lai d'un mois, avec pr&#xE9;avis de deux mois.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2208">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>15</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Beschwerdeinstanz</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorit&#xE9; de recours</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5089">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gegen Verf&#xFC;gungen des zust&#xE4;ndigen Departements kann beim Staatsrat Beschwerde eingereicht werden. Dar&#xFC;ber hinaus sind die Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976&#xA0;anwendbar.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les d&#xE9;cisions du d&#xE9;partement comp&#xE9;tent peuvent &#xEA;tre attaqu&#xE9;es aupr&#xE8;s du Conseil d'Etat par un recours administratif. Pour le surplus, la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976&#xA0;s'applique.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2209">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>16</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufgehobene Bestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Disposition abrogatoire</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5090">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Mit dem Inkrafttreten dieses Gesetzes werden alle ihm zuwiderlaufenden, fr&#xFC;heren Bestimmungen des Kantons aufgehoben.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">D&#xE8;s son entr&#xE9;e en vigueur, cette loi abroge toutes les dispositions contraires prises ant&#xE9;rieurement par le canton en la mati&#xE8;re.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2210">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>17</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions transitoires</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5091">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die aufgrund des Bundesgesetzes vom 19. M&#xE4;rz 1965 &#xFC;ber die Massnahmen zur F&#xF6;rderung des Wohnbaus eingegangenen Verpflichtungen bleiben aufrecht erhalten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les engagements pris pour une p&#xE9;riode de vingt ans, en application de la loi f&#xE9;d&#xE9;rale d'encouragement &#xE0; la construction de logements &#xE0; caract&#xE8;re social du 19 mars 1965, sont maintenus.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5092">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die aufgrund der aufgehobenen Bestimmungen eingegangenen Verpflichtungen bleiben den alten Bestimmungen unterstellt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les engagements pris sous l'empire des l&#xE9;gislations ant&#xE9;rieures demeurent soumis &#xE0; ces derni&#xE8;res.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5093">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die h&#xE4;ngigen Gesuche werden gem&#xE4;ss diesem Gesetz behandelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les demandes pendantes sont soumises &#xE0; la pr&#xE9;sente loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2211">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>18</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ausf&#xFC;hrungsbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions d'ex&#xE9;cution</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5094">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat erl&#xE4;sst die f&#xFC;r die Ausf&#xFC;hrung dieses Gesetzes notwendigen Bestimmungen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te les dispositions d'ex&#xE9;cution n&#xE9;cessaires &#xE0; la pr&#xE9;sente loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:2212">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>19</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Volksabstimmung, Inkrafttretung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Vote populaire et entr&#xE9;e en vigueur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:5095">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das vorliegende Gesetz unterliegt der Volksabstimmung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente loi est soumise au vote populaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:5096">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat bestimmt den Zeitpunkt seines Inkrafttretens.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat fixe la date de son entr&#xE9;e en vigueur.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1990-03-01</dateForce>
+      <dateVersion>1996-05-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1996 f 54 | d 55</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

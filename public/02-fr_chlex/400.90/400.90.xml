@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:965</normID>
+      <number>400.90</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Schulkoordination</title>
+      <title lang="fr">Loi sur la coordination scolaire</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1991-02-01</dateAdoption>
+      <dateForce>1991-09-01T00:00:00</dateForce>
+      <dateLastChange>2015-08-01</dateLastChange>
+      <dateVersion>2015-08-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 3 des Gesetzes &#xFC;ber den Beitritt des Kantons Wallis zum Konkordat &#xFC;ber die Schulkoordination vom 12. Mai 1971;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 3 du d&#xE9;cret portant adh&#xE9;sion du canton du Valais au concordat sur la coordination scolaire du 12 mai 1971;</basis> <basis>sur proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1991 f 37 | d 42</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2984">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Schulkoordination</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur la coordination scolaire</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:10291">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23713">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Eintrittsalter in die obligatorische Schule wird auf das am 31. Juli vollendete vierte Altersjahr festgesetzt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'&#xE2;ge d'entr&#xE9;e &#xE0; l'&#xE9;cole obligatoire est fix&#xE9; &#xE0; quatre ans r&#xE9;volus au 31 juillet.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10292">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23714">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Schulpflicht dauert elf Jahre.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La dur&#xE9;e de la scolarit&#xE9; obligatoire est de onze ans.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10293">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Dauer des Schuljahres</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dur&#xE9;e de l'ann&#xE9;e scolaire</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23715">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Dauer des Schuljahres wird auf grunds&#xE4;tzlich 38 Unterrichtswochen festgelegt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La dur&#xE9;e de l'ann&#xE9;e scolaire est fix&#xE9;e en principe &#xE0; 38 semaines de classe.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10294">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23716">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die ordentliche Ausbildungszeit vom Beginn der Schulpflicht bis zur Maturit&#xE4;tspr&#xFC;fung dauert grunds&#xE4;tzlich 15 Jahre.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La dur&#xE9;e de la scolarit&#xE9;, depuis l'entr&#xE9;e &#xE0; l'&#xE9;cole obligatoire jusqu'&#xE0; l'examen de maturit&#xE9; est, en principe, de 15 ans.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10295">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Ausf&#xFC;hrungsbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Modalit&#xE9;s d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23717">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat erl&#xE4;sst die Ausf&#xFC;hrungsbestimmungen zu diesem Gesetz.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat d&#xE9;finit les modalit&#xE9;s d'application de la pr&#xE9;sente loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10296">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions transitoires</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23718">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat ist zum Inkraftsetzen dieses Gesetzes erm&#xE4;chtigt, &#xDC;bergangsbestimmungen zu erlassen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat est habilit&#xE9; &#xE0; &#xE9;dicter des dispositions transitoires en vue de la mise en vigueur de la pr&#xE9;sente loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:23719">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinden, deren Dauer des Schuljahres beim Inkrafttreten dieses Gesetzes unter 36 effektiven Unterrichtswochen ist, verl&#xE4;ngern auf das Schuljahr 1991-1992 dessen Dauer um mindestens zwei Wochen. Anschliessend verf&#xFC;gen sie &#xFC;ber f&#xFC;nf Jahre, um die Dauer des Schuljahres auf 38 effektive Unterrichtswochen zu erh&#xF6;hen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les communes dont la dur&#xE9;e de l'ann&#xE9;e scolaire est inf&#xE9;rieure &#xE0; trente-six semaines effectives lors de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi, augmentent cette dur&#xE9;e de deux semaines au minimum pour l'ann&#xE9;e scolaire 1991-1992. Elles disposent ensuite de cinq ans pour porter la dur&#xE9;e de l'ann&#xE9;e scolaire &#xE0; trente-huit semaines effectives d'&#xE9;cole.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10297">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufhebung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Abrogation</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23720">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Gesetz ersetzt das Vollziehungsdekret&#xA0;zum Konkordat &#xFC;ber die Schulkoordination vom 20. Juni 1972.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente loi abroge le d&#xE9;cret d'application concernant le concordat sur la coordination scolaire du 20 juin 1972.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10298">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inkrafttreten</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:23721">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das vorliegende Gesetz tritt am 1. September 1991 in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente loi entre en vigueur le 1<format upper="true">er</format> septembre 1991.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:23722">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Erziehungsdepartement ist mit dem Vollzug beauftragt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le D&#xE9;partement de l'instruction publique est charg&#xE9; de son application.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1991-09-01</dateForce>
+      <dateVersion>2015-08-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 51/2013, 8/2015</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

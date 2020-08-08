@@ -1,0 +1,1011 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:351</normID>
+      <number>800.300</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Versorgungsqualit&#xE4;t und Patientensicherheit</title>
+      <title lang="fr">Ordonnance sur la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2014-09-03</dateAdoption>
+      <dateForce>2014-09-26T00:00:00</dateForce>
+      <dateLastChange>2014-09-26</dateLastChange>
+      <dateVersion>2014-09-26</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 40 bis 48 sowie Artikel 90 bis 91b des Gesundheitsgesetzes vom 14. Februar 2008 (GG);</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 40 &#xE0; 48, ainsi que 90 &#xE0; 91b de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008 (LS);</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 39/2014</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1193">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Versorgungsqualit&#xE4;t und Patientensicherheit</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1195">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3818">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gegenstand und Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objet et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8704">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung regelt die Zusammensetzung, die Zust&#xE4;ndigkeit und die Arbeitsweise der kantonalen Kommission f&#xFC;r die Patientensicherheit und die Pflegequalit&#xE4;t (nachfolgend: die KPSPQ).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance pr&#xE9;cise la composition, les comp&#xE9;tences et le fonctionnement de la Commission cantonale pour la s&#xE9;curit&#xE9; des patients et la qualit&#xE9; des soins (ci-apr&#xE8;s: la CSPQS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8705">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie legt die Rolle und den Kompetenzbereich der KPSPQ sowie der Verantwortlichen der Krankenanstalten und -institutionen im Sinne von Artikel 85 des Gesundheitsgesetzes vom 14. Februar 2008 (nachfolgend: GG) und dem ambulanten Sektor fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle pr&#xE9;cise les r&#xF4;les et attributions de la CSPQS, des responsables des &#xE9;tablissements sanitaires au sens de l&#x2019;article 85 de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008 (ci-apr&#xE8;s: LS) et du secteur ambulatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8706">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie legt die Grunds&#xE4;tze f&#xFC;r die Aufsicht &#xFC;ber die Versorgungsqualit&#xE4;t und Patientensicherheit fest, insbesondere die Verwendung von Qualit&#xE4;tsindikatoren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle d&#xE9;finit les principes de la surveillance de la qualit&#xE9; des soins et de la s&#xE9;curit&#xE9; des patients, notamment par la mise en place d&#x2019;indicateurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3819">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8707">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Gesundheitsversorgungsqualit&#xE4;t wird die Bef&#xE4;higung verstanden, den impliziten und expliziten Bed&#xFC;rfnissen der Patientinnen und Patienten nach Massgabe der jeweils geltenden beruflichen Kenntnisse und der verf&#xFC;gbaren Ressourcen gerecht zu werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La qualit&#xE9; des soins est la capacit&#xE9; de r&#xE9;pondre aux besoins implicites et explicites des patients, selon les connaissances professionnelles du moment et en fonction des ressources disponibles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8708">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Patientensicherheit wird der Umgang mit unerw&#xFC;nschten Ereignissen bei der Behandlung und Betreuung von Patientinnen und Patienten sowie die Pr&#xE4;vention von unerw&#xFC;nschten Ereignissen verstanden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par s&#xE9;curit&#xE9; des patients, on entend la gestion et la pr&#xE9;vention des &#xE9;v&#xE9;nements ind&#xE9;sirables li&#xE9;s &#xE0; la prise en charge de patients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1196">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Kantonale Kommission f&#xFC;r die Patientensicherheit und die Pflegequalit&#xE4;t (KPSPQ)</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Commission cantonale pour la s&#xE9;curit&#xE9; des patients et la qualit&#xE9; des soins (CSPQS)</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3820">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ernennung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nomination</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8709">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Antrag des Gesundheitsdepartements (nachfolgend: das Departement) ernennt der Staatsrat zu Beginn jeder Verwaltungsperiode den Pr&#xE4;sidenten oder die Pr&#xE4;sidentin, die ordentlichen Mitglieder sowie die Vertreterinnen und Vertreter des Gesundheitswesens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur proposition du d&#xE9;partement dont rel&#xE8;ve la sant&#xE9; publique (ci-apr&#xE8;s: le d&#xE9;partement), le Conseil d'Etat nomme le pr&#xE9;sident, les membres ordinaires et les repr&#xE9;sentants du secteur sanitaire de la CSPQS au d&#xE9;but de chaque p&#xE9;riode administrative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3821">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation der KPSPQ</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation de la CSPQS</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8710">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ setzt sich zusammen aus ordentlichen Mitgliedern und Vertreterinnen und Vertretern aus dem Gesundheitswesen, die mit beratender Stimme teilnehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS se compose de membres ordinaires et de repr&#xE9;sentants du secteur sanitaire avec voix consultative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8711">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die ordentlichen Mitglieder legen die zu behandelnden Themen sowie die Traktandenliste f&#xFC;r die Sitzungen fest. Sie entscheiden &#xFC;ber die Einberufung der Vollversammlung der ordentlichen Mitglieder und Vertreterinnen und Vertretern des Gesundheitswesens, die mindestens einmal j&#xE4;hrlich stattfindet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres ordinaires d&#xE9;finissent les sujets &#xE0; traiter ainsi que l&#x2019;ordre du jour des s&#xE9;ances. Ils d&#xE9;cident de la convocation de l&#x2019;ensemble des membres ordinaires et des repr&#xE9;sentants du secteur sanitaire, toutefois au minimum une fois par an.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8712">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ kann bei Bedarf externe Expertinnen und Experten hinzuziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS peut au besoin faire appel &#xE0; des experts externes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8713">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im &#xDC;brigen organisiert sich die KPSPQ eigenst&#xE4;ndig. Das Walliser Gesundheitsobservatorium (WGO) gew&#xE4;hrleistet im Sinne einer delegierten T&#xE4;tigkeit gem&#xE4;ss Artikel 6 GG das Sekretariat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le surplus, la CSPQS s&#x2019;organise elle-m&#xEA;me de fa&#xE7;on ind&#xE9;pendante. Son secr&#xE9;tariat est assur&#xE9; par l&#x2019;Observatoire Valaisan de la sant&#xE9; (ci-apr&#xE8;s: OVS) en tant qu&#x2019;activit&#xE9; d&#xE9;l&#xE9;gu&#xE9;e au sens de l&#x2019;article 6 LS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3822">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammensetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Composition de la CSPQS</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8714">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ besteht aus sieben bis neun ordentlichen Mitgliedern, die aufgrund ihrer Fachkenntnisse und Berufserfahrung in den folgenden Bereichen ausgew&#xE4;hlt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS comprend sept &#xE0; neuf membres ordinaires choisis pour leurs comp&#xE9;tences et leur exp&#xE9;rience dans les domaines suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3460">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Spitalversorgung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">prise en charge hospitali&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3461">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Qualit&#xE4;tssicherung im Bereich der Gesundheitsversorgung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qualit&#xE9; de la prise en charge sanitaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3462">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gesundheits&#xF6;konomie;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;conomie de la sant&#xE9; et gestion;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3463">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Pflege und &#xE4;rztliche Versorgung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">soins m&#xE9;dicaux et infirmiers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3464">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Patientenrechte.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">droits des patients.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8715">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als ordentliche Mitglieder gelten Ebenfalls:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Font &#xE9;galement partie des membres ordinaires:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3465">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Kantonsarzt beziehungsweise die Kantons&#xE4;rztin als Vertretung des Gesundheitsdepartements;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le m&#xE9;decin cantonal en tant que repr&#xE9;sentant du d&#xE9;partement de la sant&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3466">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine Patientenvertreterin beziehungsweise ein Patientenvertreter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un repr&#xE9;sentant des patients;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3467">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine Vertreterin beziehungsweise ein Vertreter des Walliser Gesundheitsobservatoriums mit beratender Stimme.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un repr&#xE9;sentant de l'OVS, avec voix consultative.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8716">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der KPSPQ nehmen zudem Vertreterinnen und Vertreter mit beratender Stimme aus folgenden Gesundheitsbereichen teil: drei Vertretungen der Spit&#xE4;ler (davon zwei von &#xF6;ffentlichen Spit&#xE4;lern), zwei Vertretungen des Walliser &#xC4;rzteverbands (davon ein Hausarzt oder eine Haus&#xE4;rztin), eine Vertretung der Walliser Alters- und Pflegeheime, eine Vertretung der Walliser Vereinigung der Sozialmedizinischen Zentren, eine Vertretung der Kantonalen Walliser Rettungsorganisation sowie eine Vertretung der Dienststelle f&#xFC;r Gesundheitswesen. Beide Sprachregionen sind vertreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS comprend &#xE9;galement les repr&#xE9;sentants du secteur sanitaire suivants, avec voix consultative: trois repr&#xE9;sentants des h&#xF4;pitaux (dont deux des h&#xF4;pitaux publics), deux repr&#xE9;sentants de la Soci&#xE9;t&#xE9; m&#xE9;dicale du Valais (dont un de la m&#xE9;decine de premier recours), un repr&#xE9;sentant de l&#x2019;Association valaisanne des &#xE9;tablissements m&#xE9;dico-sociaux, un repr&#xE9;sentant du Groupement valaisan des Centres m&#xE9;dico-sociaux, un repr&#xE9;sentant de l&#x2019;Organisation cantonale valaisanne des secours ainsi qu&#x2019;un repr&#xE9;sentant du service de la sant&#xE9; publique. Les deux r&#xE9;gions linguistiques sont repr&#xE9;sent&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8717">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">S&#xE4;mtliche Kommissionsmitglieder sind an das Amtsgeheimnis gebunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les membres de la CSPQS sont tenus au secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3823">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8718">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ schl&#xE4;gt dem Department Konzepte f&#xFC;r die Evaluation und Verbesserung der Qualit&#xE4;t und Wirksamkeit der von den Anbietern erbrachten Leistungen vor, insbesondere zur Struktur,- Prozess- und Ergebnisqualit&#xE4;t.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS est charg&#xE9;e de proposer au d&#xE9;partement des concepts pour l&#x2019;&#xE9;valuation et le d&#xE9;veloppement de la qualit&#xE9; et de l&#x2019;efficacit&#xE9; des soins fournis par les prestataires de soins, en particuliers en mati&#xE8;re de structures, de processus et de r&#xE9;sultats.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8719">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ gibt dem Departement bez&#xFC;glich der Aufsichtspolitik &#xFC;ber die Gesundheitsversorgungsqualit&#xE4;t und Patientensicherheit Empfehlungen ab. Sie macht zu diesem Zweck Vorschl&#xE4;ge f&#xFC;r zweckdienliche Massnahmen, namentlich f&#xFC;r die Einf&#xFC;hrung von Indikatoren zur objektiven Qualit&#xE4;tsmessung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS &#xE9;met &#xE0; l&#x2019;intention du d&#xE9;partement des recommandations quant &#xE0; la politique de surveillance de la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients. Elle &#xE9;met &#xE0; cette fin toutes les propositions utiles, notamment par rapport &#xE0; l&#x2019;introduction d&#x2019;indicateurs permettant des mesures objectives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8720">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ evaluiert, wie die Leistungserbringer die Qualit&#xE4;tssicherung und Patientensicherheit organisieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS &#xE9;value l&#x2019;organisation mise en place par les prestataires de soins pour assurer la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8721">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ erstellt zuhanden des Departements einen j&#xE4;hrlichen Bericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS r&#xE9;dige un rapport annuel &#xE0; l'intention du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3824">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8722">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement legt die Finanzierungsmodalit&#xE4;ten der KPSPQ fest, namentlich die Abgeltung der Mitglieder und Expertinnen und Experten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;finit les modalit&#xE9;s de financement de la CSPQS s'agissant notamment de l'indemnisation des membres et des experts.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1197">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Evaluation der Versorgungsqualit&#xE4;t und Patientensicherheit</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Evaluation de la qualit&#xE9; des soins et de la s&#xE9;curit&#xE9; des patients</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3825">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allgemeine Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes g&#xE9;n&#xE9;raux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8723">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">S&#xE4;mtliche Gesundheitseinrichtungen, Gesundheitsinstitutionen sowie Gesundheitsfachpersonen sind verpflichtet, sich aktiv f&#xFC;r die Sicherung der Versorgungsqualit&#xE4;t und die St&#xE4;rkung der Patientensicherheit einzusetzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tablissements et institutions sanitaires de m&#xEA;me que les professionnels de la sant&#xE9; s'engagent activement pour assurer la qualit&#xE9; des soins et pour promouvoir la s&#xE9;curit&#xE9; des patients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8724">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Durch seine Mitarbeit tr&#xE4;gt die Patientin oder der Patient zur Erreichung dieses Ziel im Bereich der Versorgungsqualit&#xE4;t und Sicherheit bei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par sa collaboration, le patient contribue &#xE0; la r&#xE9;alisation de l&#x2019;objectif d&#xE9;fini de qualit&#xE9; des soins et de s&#xE9;curit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3826">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der Leistungserbringer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xF4;le des prestataires de soins</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8725">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesundheitseinrichtungen und Gesundheitsinstitutionen sind verantwortlich f&#xFC;r die Versorgungsqualit&#xE4;t. Jede Gesundheitseinrichtung und Gesundheitsinstitution muss eine Person bestimmen, die f&#xFC;r die Qualit&#xE4;tssicherung und das System f&#xFC;r die Meldung und den Umgang mit unerw&#xFC;nschten Ereignissen verantwortlich ist. In Ausnahmef&#xE4;llen kann das Departement zustimmen, dass mehrere Einrichtungen eine gemeinsame verantwortliche Person benennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La responsabilit&#xE9; de la qualit&#xE9; des soins incombe aux &#xE9;tablissements et institutions sanitaires. Chaque &#xE9;tablissement et institution sanitaire d&#xE9;signe une personne en charge de la qualit&#xE9; des soins et du syst&#xE8;me de d&#xE9;claration et de gestion des incidents. Dans des cas exceptionnels, le d&#xE9;partement peut autoriser plusieurs &#xE9;tablissements &#xE0; d&#xE9;signer un responsable commun.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8726">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Leistungserbringer sind f&#xFC;r die erbrachte Leistungsqualit&#xE4;t und die Sicherheit ihrer Patientinnen und Patienten verantwortlich. Sie verf&#xFC;gen &#xFC;ber eine Strategie f&#xFC;r die Versorgungsqualit&#xE4;t und Patientensicherheit und setzen diese unter Einhaltung der vom Departement festgelegten Politik zur Aufsicht &#xFC;ber die Versorgungsqualit&#xE4;t um.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les prestataires de soins sont responsables de la qualit&#xE9; des soins qu&#x2019;ils fournissent et de la s&#xE9;curit&#xE9; de leurs patients. Ils d&#xE9;finissent et mettent en &#x153;uvre leur propre strat&#xE9;gie relative &#xE0; la qualit&#xE9; des soins et &#xE0; la s&#xE9;curit&#xE9; des patients, dans le respect de la politique de surveillance de la qualit&#xE9; des soins d&#xE9;finie par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8727">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Leistungserbringer sind verpflichtet, die f&#xFC;r die Erstellung von Indikatoren ben&#xF6;tigten Angaben zur Verf&#xFC;gung zu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les prestataires de soins sont tenus de fournir les informations n&#xE9;cessaires pour produire les indicateurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3827">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesundheitsindikatoren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Indicateurs sanitaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8728">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gesundheitseinrichtung und Gesundheitsinstitution f&#xFC;hrt im Zusammenhang mit der Versorgungsqualit&#xE4;t und Patientensicherheit Indikatoren ein wie sie vom Departement vorgegebenen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque &#xE9;tablissement et institution sanitaire met en place des indicateurs en lien avec la qualit&#xE9; des soins et de s&#xE9;curit&#xE9; des patients, tel que fix&#xE9; par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8729">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ergebnisse der Gesundheitsindikatoren werden regelm&#xE4;ssig an das Departement &#xFC;bermittelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE9;sultats des indicateurs sanitaires sont communiqu&#xE9;s r&#xE9;guli&#xE8;rement au d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8730">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die KPSPQ kann f&#xFC;r die Verwendung von Gesundheitsindikatoren in Zusammenhang mit seinen Aufgaben das Walliser Gesundheitsobservatorium beiziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CSPQS peut faire appel &#xE0; l&#x2019;OVS pour b&#xE9;n&#xE9;ficier d&#x2019;indicateurs sanitaires en lien avec sa mission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3828">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldung von Zwischenf&#xE4;llen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;claration des incidents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8731">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gesundheitseinrichtung und Gesundheitsinstitution f&#xFC;hrt ein System f&#xFC;r die Meldung und den Umgang mit Zwischenf&#xE4;llen nach Artikel 43 GG ein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque &#xE9;tablissement ou institution sanitaire met en place un syst&#xE8;me de d&#xE9;claration et de gestion des incidents au sens de l&#x2019;article 43 LS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8732">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gesundheitseinrichtung oder Gesundheitsinstitution muss f&#xFC;r den Vollzug der Grunds&#xE4;tze des Gesundheitsgesetzes und der vorliegenden Verordnung bez&#xFC;glich des Systems f&#xFC;r die Meldung und den Umgang mit Zwischenf&#xE4;llen &#xFC;ber interne Richtlinien verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque &#xE9;tablissement et institution sanitaire adoptent des directives internes qui mettent en &#x153;uvre les principes fix&#xE9;s par la loi sur la sant&#xE9; et la pr&#xE9;sente ordonnance concernant le syst&#xE8;me de d&#xE9;claration et de gestion des incidents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8733">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Zwischenf&#xE4;lle und Korrekturmassnahmen werden der KPSPQ im Rahmen einer j&#xE4;hrlichen Berichts &#xFC;bermittelt, der in die in Artikel 47 GG vorgesehene Datenbank einfliesst.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les incidents et les mesures correctrices sont annonc&#xE9;s &#xE0; la CSPQS dans le cadre d&#x2019;un rapport de synth&#xE8;se annuel qui alimente la base de donn&#xE9;es pr&#xE9;vue &#xE0; l&#x2019;article 47 LS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8734">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schwere Zwischenf&#xE4;lle und Korrekturmassnahmen werden dem Departement unverz&#xFC;glich mitgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les incidents graves et les mesures correctrices sont annonc&#xE9;s sans d&#xE9;lai au d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1198">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Sanktionen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Sanctions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3829">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Disziplinarmassnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures disciplinaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8735">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen Gesundheitseinrichtungen, Gesundheitsinstitutionen sowie Gesundheitsfachpersonen, die die Pflichten aus der vorliegenden Verordnung nicht einhalten, k&#xF6;nnen die in Artikel 133 GG vorgesehenen Disziplinarmassnahmen ergriffen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les responsables des &#xE9;tablissements et institutions sanitaires ainsi que les professionnels de la sant&#xE9; qui ne respectent pas les obligations d&#xE9;coulant de la pr&#xE9;sente ordonnance sont passibles des mesures disciplinaires pr&#xE9;vues par l'article 133 LS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1199">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3830">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8736">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement ist mit dem Vollzug der vorliegenden Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8737">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben werden s&#xE4;mtliche vorliegender Verordnung widersprechende Bestimmungen, namentlich die Verordnung &#xFC;ber die Pflegequalit&#xE4;t und Patientensicherheit vom 18. M&#xE4;rz 2009.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;es toutes les dispositions contraires &#xE0; la pr&#xE9;sente ordonnance, notamment l&#x2019;ordonnance sur la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients du 18 mars 2009.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8738">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung tritt mit der Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance entre en vigueur d&#xE8;s sa publication dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2014-09-26</dateForce>
+      <dateVersion>2014-09-26</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 39/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

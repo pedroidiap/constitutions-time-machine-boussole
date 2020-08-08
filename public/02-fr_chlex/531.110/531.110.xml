@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:639</normID>
+      <number>531.110</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Beschluss betreffend die Organisation der Kriegswirtschaft auf kantonaler Ebene</title>
+      <title lang="fr">Arr&#xEA;t&#xE9; concernant l'organisation de l'&#xE9;conomie de guerre sur le plan cantonal</title>
+    </shortTitles>
+    <type>Arr&#xEA;t&#xE9;</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1964-01-03</dateAdoption>
+      <dateForce>1964-01-03T00:00:00</dateForce>
+      <dateLastChange>1964-01-03</dateLastChange>
+      <dateVersion>1964-01-03</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Bestimmungen des Bundesgesetzes &#xFC;ber die wirtschaftliche Kriegsvorsorge vom 30. September 1955;</basis> <basis>eingesehen die Bestimmungen der Bundesratsverordnung &#xFC;ber Organisation und Aufgaben der Kriegswirtschaft vom 14. April 1950;</basis> <basis>auf Antrag des Departementes des Innern, der Landwirtschaft, des Handels und der Industrie,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les dispositions de la loi f&#xE9;d&#xE9;rale sur la pr&#xE9;paration de la d&#xE9;fense nationale &#xE9;conomique du 30 septembre 1955;</basis> <basis>vu les dispositions de l'ordonnance du Conseil f&#xE9;d&#xE9;ral sur l'organisation et les t&#xE2;ches de l'&#xE9;conomie de guerre du 14 avril 1950;</basis> <basis>sur proposition du D&#xE9;partement de l'int&#xE9;rieur, de l'agriculture, du commerce et de l'industrie,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1964 f 6 | d 6</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2054">
+        <structureContent lang="de">
+          <structureText>Beschluss<break type="line"/>betreffend die Organisation der Kriegswirtschaft auf kantonaler Ebene</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Arr&#xEA;t&#xE9;<break type="line"/>concernant l'organisation de l'&#xE9;conomie de guerre sur le plan cantonal</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2056">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeines</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:7060">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16281">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kriegswirtschaftliche Organisation wird vom Vorsteher des Departementes des Innern, der Landwirtschaft, des Handels und der Industrie geleitet. Im Verhinderungsfall ist der Vorsteher des Justiz-, Polizei- und Sanit&#xE4;tsdepartements dessen Stellvertreter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le chef du D&#xE9;partement de l'int&#xE9;rieur, de l'agriculture, du commerce et de l'industrie dirige l'organisation de l'&#xE9;conomie de guerre. En cas d'emp&#xEA;chement, le chef du D&#xE9;partement de justice et police et de la sant&#xE9; publique le suppl&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16282">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ihm zur Seite stehen das kantonale Kriegswirtschaftsamt sowie die Kriegswirtschafts&#xE4;mter der Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est second&#xE9; par l'Office cantonal et par les offices communaux de l'&#xE9;conomie de guerre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16283">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Je nach dem augenblicklichen Bedarf k&#xF6;nnen andere Verwaltungsabteilungen des Staates f&#xFC;r die Ausf&#xFC;hrung der kriegswirtschaftlichen Aufgaben herangezogen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Suivant les n&#xE9;cessit&#xE9;s du moment, d'autres services administratifs de l'Etat peuvent &#xEA;tre requis de pr&#xEA;ter leur concours &#xE0; l'ex&#xE9;cution des t&#xE2;ches de l'&#xE9;conomie de guerre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2057">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Kantonales Kriegswirtschaftsamt</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Office cantonal de l'&#xE9;conomie de guerre</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:7061">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16284">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das kantonale Kriegswirtschaftsamt wird vom Chef der Abteilung Handel, Industrie und Arbeit geleitet; der Staatsrat bezeichnet dessen Stellvertreter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Office cantonal de l'&#xE9;conomie de guerre est dirig&#xE9; par le chef de la division, industrie, commerce et travail auquel est adjoint un suppl&#xE9;ant d&#xE9;sign&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16285">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist in mehrere Abteilungen aufgeteilt, an deren Spitze ein vom Staatsrat bezeichneter Chef und ein Stellvertreter steht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est divis&#xE9; en plusieurs sections ayant &#xE0; leur t&#xEA;te un chef et un suppl&#xE9;ant d&#xE9;sign&#xE9;s par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16286">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Inkrafttreten der kriegswirtschaftlichen Organisation, sind die oberw&#xE4;hnten Abteilungsleiter und deren Stellvertreter zur Verf&#xFC;gung des Chefs des kantonalen Kriegswirtschaftsamtes. Sie sind grunds&#xE4;tzlich von jeglichem Milit&#xE4;r- und Zivilschutzdienst befreit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l'entr&#xE9;e en vigueur du r&#xE9;gime de l'&#xE9;conomie de guerre, les chefs de section et suppl&#xE9;ants sus-d&#xE9;sign&#xE9;s sont &#xE0; la disposition du chef de l'Office cantonal de l'&#xE9;conomie de guerre. Ils seront en principe dispens&#xE9;s alors de tout service militaire et du service de la protection civile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:7062">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16287">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das kantonale Kriegswirtschaftsamt ist f&#xFC;r die Durchf&#xFC;hrung der Vorbereitungsmassnahmen gem&#xE4;ss Anordnung des Eidgen&#xF6;ssischen Volkswirtschaftsdepartements verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Office cantonal de l'&#xE9;conomie de guerre est responsable de l'ex&#xE9;cution des mesures pr&#xE9;paratoires qui sont prescrites au canton par le D&#xE9;partement f&#xE9;d&#xE9;ral de l'&#xE9;conomie publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16288">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist beauftragt, alle Aufgaben, welche dem Kanton in Sachen Kriegswirtschaft obliegen zu erledigen und dar&#xFC;ber zu wachen, dass auch die Gemeinden ihren Pflichten nachkommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est charg&#xE9; de l'accomplissement de toutes les t&#xE2;ches qui incombent au canton en mati&#xE8;re d'&#xE9;conomie de guerre et veille &#xE0; ce que les communes s'acquittent des leurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2058">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Kriegswirtschafts&#xE4;mter der Gemeinden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Offices communaux de l'&#xE9;conomie de guerre</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:7063">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16289">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gemeinde bezeichnet f&#xFC;r ihr Gebiet einen Vorsteher des Kriegswirtschaftsamtes sowie einen Stellvertreter. Einer von beiden soll weder milit&#xE4;r- noch zivilschutzpflichtig sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque commune du canton d&#xE9;signe un pr&#xE9;pos&#xE9; &#xE0; l'&#xE9;conomie de guerre sur son territoire ainsi qu'un suppl&#xE9;ant. L'un des deux ne doit pas &#xEA;tre astreint &#xE0; une obligation militaire quelconque ou &#xE0; un service de protection civile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16290">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie ist daf&#xFC;r besorgt, dass diese zwei Posten immer besetzt sind und meldet dem kantonalen Kriegswirtschaftsamt ohne Verz&#xF6;gerung jeder &#xC4;nderung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle veille &#xE0; ce que ces deux postes soient toujours repourvus et elle signale sans tarder &#xE0; l'Office cantonal de l'&#xE9;conomie de guerre tout changement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:7064">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16291">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden haften daf&#xFC;r, dass die den Leitern der Kriegswirtschafts&#xE4;mter zufallenden Aufgaben getreu ausgef&#xFC;hrt werden. Sie haben unter anderem &#xFC;ber das gute Funktionieren ihrer Ackerbaustelle zu wachen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes r&#xE9;pondent de l'accomplissement par leurs pr&#xE9;pos&#xE9;s des t&#xE2;ches qui leur incombent en mati&#xE8;re d'&#xE9;conomie de guerre. Elles doivent entre autres veiller au bon fonctionnement de leur office de la culture des champs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16292">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie werden mit einer Busse von 50 bis 1'000 Franken bestraft, wenn sie den erhaltenen Weisungen und den vom kantonalen Kriegswirtschaftsamt gegebenen Anordnungen nicht Folge leisten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles sont passibles d'une amende pouvant aller de 50 francs &#xE0; 1'000 francs, si elles ne se conforment pas aux instructions re&#xE7;ues ou si elles ne donnent pas suite aux ordres &#xE9;manant de l'Office cantonal de l'&#xE9;conomie de guerre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:16293">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorsteher des Departementes des Innern entscheidet in letzter Instanz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le chef du D&#xE9;partement de l'int&#xE9;rieur prononce sans appel les amendes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:7065">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:16294">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement des Innern wird mit dem Vollzug dieses Beschlusses der sofort in Kraft tritt beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement de l'int&#xE9;rieur est charg&#xE9; de l'ex&#xE9;cution du pr&#xE9;sent arr&#xEA;t&#xE9; qui entre imm&#xE9;diatement en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1964-01-03</dateForce>
+      <dateVersion>1964-01-03</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1964 f 6 | d 6</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

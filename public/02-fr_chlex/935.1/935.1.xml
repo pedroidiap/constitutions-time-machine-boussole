@@ -1,0 +1,3648 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:59</normID>
+      <number>935.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber den Tourismus</title>
+      <title lang="fr">Loi sur le tourisme</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1996-02-09</dateAdoption>
+      <dateForce>1996-11-01T00:00:00</dateForce>
+      <dateLastChange>2015-01-01</dateLastChange>
+      <dateVersion>2015-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 15, 24, 31 und 38 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 15, 24, 31 et 38 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1996 f 131, 506 | d 135, 514</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="130">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber den Tourismus</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur le tourisme</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="132">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:356">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:771">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz bezweckt die F&#xF6;rderung eines qualitativ hochstehenden Tourismus im Kanton.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour but de favoriser le d&#xE9;veloppement d'un tourisme de qualit&#xE9; dans le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:772">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es will namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle contribue notamment &#xE0;:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:279">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch die Entwicklung des Tourismus die Wirtschaft im Kanton verst&#xE4;rken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">renforcer l'&#xE9;conomie cantonale par le d&#xE9;veloppement du tourisme;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:280">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bed&#xFC;rfnisse der Einheimischen und G&#xE4;ste befriedigen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;pondre aux besoins de la population locale et des h&#xF4;tes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:281">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die nat&#xFC;rlichen und kulturellen Gegebenheiten achten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">respecter l'environnement naturel et le patrimoine culturel.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:357">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Tourismuspolitik</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Politique du tourisme</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:773">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Massnahmen zur Entwicklung eines qualitativ hochstehenden Tourismus sind Gegenstand einer abgestimmten Politik zwischen den am Tourismus interessierten Kreisen und den &#xF6;ffentlichen K&#xF6;rperschaften.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les mesures propres &#xE0; d&#xE9;velopper un tourisme de qualit&#xE9; font l'objet d'une politique concert&#xE9;e entre les milieux li&#xE9;s au tourisme et les collectivit&#xE9;s publiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:774">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Tourismuspolitik wird gemeinsam zwischen dem Dachverband des Tourismus und dem Staat festgelegt. Sie tr&#xE4;gt den anderen sektoriellen Politiken insbesondere der Landwirtschaftspolitik und dem kantonalen Richtplan f&#xFC;r Raumplanung Rechnung. Sie beachtet namentlich die optimale Nutzung der bestehenden Strukturen und f&#xF6;rdert die Schaffung von qualitativ hochstehenden Berufsstellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La politique cantonale du tourisme est d&#xE9;finie conjointement par l'association fa&#xEE;ti&#xE8;re du tourisme et l'Etat. Elle tient compte des autres politiques sectorielles, en particulier de la politique agricole et du plan directeur cantonal d'am&#xE9;nagement du territoire. Elle veille notamment &#xE0; l'utilisation optimale des structures existantes et au d&#xE9;veloppement d'emplois de qualit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:775">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xF6;rtliche Tourismuspolitik wird von den &#xF6;rtlichen Tourismusbeteiligten und den Gemeinden, in &#xDC;bereinstimmung mit der kantonalen Politik, gemeinsam festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La politique locale du tourisme est d&#xE9;finie conjointement par les acteurs touristiques locaux et les communes, en conformit&#xE9; avec la politique cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="133">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufgabenteilung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>R&#xE9;partition des t&#xE2;ches</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="134">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Auf kantonaler Ebene</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Au niveau cantonal</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:358">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>3</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:776">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf kantonaler Ebene obliegt die Umsetzung der Massnahmen zur F&#xF6;rderung des Tourismus dem Dachverband des Tourismus und dem Staat.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Au niveau cantonal, la mise en oeuvre des mesures favorisant le d&#xE9;veloppement touristique incombe &#xE0; l'association fa&#xEE;ti&#xE8;re du tourisme et &#xE0; l'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:359">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>4</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben des Dachverbandes des Tourismus</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches de l'association fa&#xEE;ti&#xE8;re du tourisme</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:777">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Dachverband des Tourismus hat namentlich die Aufgaben:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'association fa&#xEE;ti&#xE8;re du tourisme a notamment pour t&#xE2;ches de:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:282">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">sich an den Arbeiten zur Festlegung der kantonalen Tourismuspolitik zu beteiligen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">participer &#xE0; l'&#xE9;laboration de la politique cantonale du tourisme;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:283">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Interessen des kantonalen Tourismus zu vertreten und zu verteidigen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">repr&#xE9;senter et d&#xE9;fendre les int&#xE9;r&#xEA;ts du tourisme cantonal;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:284">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:285">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:286">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:287">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die notwendige Koordination mit den nationalen und internationalen Tourismusorganisationen sicherzustellen f&#xFC;r die Aufgaben, die in seiner Zust&#xE4;ndigkeit liegen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">assurer les coordinations n&#xE9;cessaires avec les instances touristiques nationales et internationales, pour les t&#xE2;ches qui rel&#xE8;vent de sa comp&#xE9;tence.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:778">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er ist das Konsultativorgan des Staates in touristischen Belangen f&#xFC;r die Aufgaben, die in seiner Zust&#xE4;ndigkeit liegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle est l'organe consultatif de l'Etat en mati&#xE8;re touristique, pour les t&#xE2;ches qui rel&#xE8;vent de sa comp&#xE9;tence.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:360">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben des Staates</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches de l'Etat</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:779">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staat hat namentlich die Aufgaben:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'Etat a notamment pour t&#xE2;ches de:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:288">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die kantonale Tourismuspolitik in Zusammenarbeit mit dem Dachverband des Tourismus zu erarbeiten und deren Durchsetzung zu &#xFC;berwachen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#xE9;laborer la politique cantonale du tourisme en collaboration avec l'association fa&#xEE;ti&#xE8;re et veiller &#xE0; son application;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:289">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die touristische Ausstattung und Entwicklung zu f&#xF6;rdern;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">favoriser l'&#xE9;quipement et le d&#xE9;veloppement touristiques;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:290">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">in Zusammenarbeit mit den betroffenen Kreisen die Ausbildung und Fortbildung in den Berufen, die mit dem Tourismus in Beziehung stehen, sicherzustellen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">assurer la formation et le perfectionnement dans les professions li&#xE9;es au tourisme en collaboration avec les milieux concern&#xE9;s;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:291">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Bev&#xF6;lkerung die Bedeutung des Tourismus n&#xE4;her zu bringen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">sensibiliser la population aux enjeux du tourisme;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:292">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Entwicklung des Tourismusmarktes zu analysieren und zu antizipieren;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">analyser et anticiper l'&#xE9;volution du march&#xE9; touristique;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:293">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Tourismuswerbung auf kantonaler Ebene sicherzustellen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">assurer la promotion touristique au niveau cantonal.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="135">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Auf kommunaler Ebene</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Au niveau communal</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:361">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:780">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf kommunaler Ebene obliegt die Umsetzung der Massnahmen zur F&#xF6;rderung der touristischen Entwicklung den Verkehrsvereinen, den kommunalen oder interkommunalen Tourismusunternehmen, den Gemeinden und den sozio&#xF6;konomischen Regionen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Au niveau communal, la mise en oeuvre des mesures favorisant le d&#xE9;veloppement touristique incombe aux soci&#xE9;t&#xE9;s de d&#xE9;veloppement, aux entreprises de tourisme communales ou intercommunales, aux communes et aux r&#xE9;gions socio-&#xE9;conomiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:362">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben der Verkehrsvereine</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches des soci&#xE9;t&#xE9;s de d&#xE9;veloppement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:781">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verkehrsvereine haben namentlich die Aufgaben:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les soci&#xE9;t&#xE9;s de d&#xE9;veloppement ont notamment pour t&#xE2;ches de:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:294">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">sich an Arbeiten zur Festlegung der &#xF6;rtlichen Tourismuspolitik zu beteiligen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">participer &#xE0; l'&#xE9;laboration de la politique locale du tourisme;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:295">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Interessen des &#xF6;rtlichen Tourismus zu vertreten und zu verteidigen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">repr&#xE9;senter et d&#xE9;fendre les int&#xE9;r&#xEA;ts du tourisme local;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:296">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:297">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die ihnen mit ihrem Einverst&#xE4;ndnis von den Gemeinden &#xFC;bertragenen Aufgaben auszuf&#xFC;hren.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">ex&#xE9;cuter les t&#xE2;ches que leur d&#xE9;l&#xE8;guent les communes avec leur accord.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:363">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben der kommunalen oder interkommunalen Tourismusunternehmen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches des entreprises de tourisme communales ou intercommunales</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:782">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden k&#xF6;nnen zur Verbesserung und Professionalisierung der Entwicklung des &#xF6;rtlichen Tourismus, namentlich im Bereich der Tourismuswerbung, kommunale oder interkommunale Tourismusunternehmen gr&#xFC;nden. Diese Tourismusunternehmen erf&#xFC;llen die Aufgaben, die ihnen die Gemeinden in diesem Sinne mit ihrem Einverst&#xE4;ndnis mittels eines &#xDC;bertragungsbeschlusses &#xFC;bertragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes peuvent cr&#xE9;er des entreprises de tourisme communales ou intercommunales dans le but d'optimiser et de professionnaliser le d&#xE9;veloppement du tourisme local, notamment dans le domaine de la promotion touristique. Dans ce sens, ces entreprises de tourisme ex&#xE9;cutent les t&#xE2;ches que leur d&#xE9;l&#xE8;guent les communes par d&#xE9;cision de d&#xE9;l&#xE9;gation, avec leur accord.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:364">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben der Gemeinden</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches des communes</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:34231">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden haben namentlich die Aufgaben:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes ont notamment pour t&#xE2;ches de:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16901">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Leitlinien der &#xF6;rtlichen Tourismuspolitik in Zusammenarbeit mit den &#xF6;rtlichen Tourismusbeteiligten zu erarbeiten und deren Umsetzung zu &#xFC;berwachen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#xE9;laborer les lignes directrices de la politique locale du tourisme, en collaboration avec les acteurs touristiques locaux, et veiller &#xE0; leur application;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16902">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die touristische Ausstattung und Entwicklung auf ihrem Gebiet zu f&#xF6;rdern;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">favoriser l'&#xE9;quipement et le d&#xE9;veloppement touristiques sur leur territoire;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16903">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Tourismustaxen zu erheben, deren Verwendung zu &#xFC;berwachen und der zust&#xE4;ndigen kantonalen Beh&#xF6;rde Missbr&#xE4;uche anzuzeigen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">percevoir les taxes touristiques, en surveiller l'affectation et l'utilisation et d&#xE9;noncer les abus &#xE0; l'autorit&#xE9; cantonale comp&#xE9;tente;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16904">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Information, die Animation und die Werbung f&#xFC;r den &#xF6;rtlichen Tourismus sicherzustellen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">assumer l'information, l'animation et la promotion du tourisme local.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:783">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unter Vorbehalt gegenteiliger Bestimmungen im vorliegenden Gesetz k&#xF6;nnen die Gemeinden nur die in Absatz 1 Buchstabe d erw&#xE4;hnten Aufgaben an den Verkehrsverein und/oder an ein Tourismusunternehmen delegieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sauf dispositions contraires dans la pr&#xE9;sente loi, les communes peuvent uniquement d&#xE9;l&#xE9;guer les t&#xE2;ches &#xE9;num&#xE9;r&#xE9;es &#xE0; l'alin&#xE9;a 1 lettre d &#xE0; la soci&#xE9;t&#xE9; de d&#xE9;veloppement et/ou &#xE0; une entreprise de tourisme.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:365">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">&#x2026;</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">&#x2026;</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:784">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:366">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufgaben der Regionen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">T&#xE2;ches des r&#xE9;gions</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:785">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Regionen erf&#xFC;llen die Aufgaben, die ihnen von den Gemeinden f&#xFC;r die Entwicklung des Tourismus in der Region &#xFC;bertragen wurden und koordinieren namentlich die Verwirklichung der in ihren Entwicklungsprogrammen enthaltenen Projekte.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les r&#xE9;gions assument les t&#xE2;ches qui leur sont d&#xE9;l&#xE9;gu&#xE9;es par les communes en mati&#xE8;re de d&#xE9;veloppement touristique r&#xE9;gional et coordonnent notamment la r&#xE9;alisation des projets qui figurent dans leur programme de d&#xE9;veloppement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="136">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Touristische Organisationen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organismes touristiques</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="137">
+                <structureContent lang="de">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Dachverband des Tourismus</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Association fa&#xEE;ti&#xE8;re du tourisme</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:367">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Statut und Anerkennung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Statut et reconnaissance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:786">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Dachverband des Tourismus ist ein privatrechtlicher Verein von allgemeinem Interesse. Er ist allen interessierten Kreisen des Tourismus offen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'association fa&#xEE;ti&#xE8;re du tourisme est une association de droit priv&#xE9; d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral. Elle est ouverte &#xE0; tous les milieux int&#xE9;ress&#xE9;s par le tourisme.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:787">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Homologierung seiner Statuten durch den Staatsrat verleiht dem Dachverband ein &#xF6;ffentliches Interesse. Die Anforderungen f&#xFC;r diese Anerkennung werden auf dem Verordnungswege festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La reconnaissance de l'utilit&#xE9; publique de l'association fa&#xEE;ti&#xE8;re r&#xE9;sulte de l'approbation de ses statuts par le Conseil d'Etat. Les exigences de cette reconnaissance sont fix&#xE9;es par voie d'ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:788">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:368">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Kompetenz&#xFC;bertragung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">D&#xE9;l&#xE9;gation de comp&#xE9;tences</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:789">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unter Vorbehalt gegenteiliger Bestimmungen im vorliegenden Gesetz k&#xF6;nnen die Gemeinden nur die in Absatz 1 Buchstabe d erw&#xE4;hnten Aufgaben an den Verkehrsverein und/oder an ein Tourismusunternehmen delegieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d&#x2019;Etat peut confier &#xE0; l&#x2019;association fa&#xEE;ti&#xE8;re des t&#xE2;ches d&#x2019;ex&#xE9;cution de la loi cantonale sur le tourisme suppl&#xE9;mentaires aux t&#xE2;ches pr&#xE9;vues &#xE0; l&#x2019;article 4.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:790">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Aufgaben, die Modalit&#xE4;ten der Kompetenzdelegation sowie die Finanzierung werden in Form eines Leistungsvertrags festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces t&#xE2;ches, les modalit&#xE9;s de d&#xE9;l&#xE9;gation de comp&#xE9;tences ainsi que le financement sont fix&#xE9;s sous la forme d&#x2019;un contrat de prestations.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:791">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Dachverband unterbreitet dem Staatsrat allj&#xE4;hrlich einen T&#xE4;tigkeitsbericht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#x2019;association fa&#xEE;ti&#xE8;re remet au Conseil d&#x2019;Etat chaque ann&#xE9;e un rapport d&#x2019;activit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:369">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Einnahmequellen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Ressources</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:792">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Einnahmen des Dachverbandes des Tourismus stammen aus:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les ressources de l'association fa&#xEE;ti&#xE8;re du tourisme proviennent:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:298">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:299">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Mitgliederbeitr&#xE4;gen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des cotisations de ses membres;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:300">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Beitr&#xE4;gen des Staates auf der Basis von Leistungsvertr&#xE4;gen gem&#xE4;ss Artikel 11 Absatz 2;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des contributions de l'Etat sur la base de contrats de prestations conform&#xE9;ment &#xE0; l'article 11 alin&#xE9;a 2;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:301">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">anderen, in seinen Statuten vorgesehenen Einnahmen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d'autres revenus pr&#xE9;vus par ses statuts.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="138">
+                <structureContent lang="de">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Verkehrsverein</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Soci&#xE9;t&#xE9; de d&#xE9;veloppement</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:370">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Statut</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Statut</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:793">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Verkehrsverein ist ein privatrechtlicher Verein von allgemeinem Interesse.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La soci&#xE9;t&#xE9; de d&#xE9;veloppement est une association de droit priv&#xE9; d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:794">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er ist grunds&#xE4;tzlich auf dem Gebiet einer Gemeinde t&#xE4;tig. Er kann aber auch auf dem Gebiet mehrerer Gemeinden t&#xE4;tig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle exerce en principe ses activit&#xE9;s sur le territoire d'une commune. Elle peut toutefois les &#xE9;tendre &#xE0; plusieurs communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:795">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinde ist von Rechts wegen Mitglied des Verkehrsvereins und in seinem Vorstand vertreten. Sind mehrere Gemeinden betroffen, ist jede von Rechts wegen Mitglied und hat das Recht, im Vorstand vertreten zu sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La commune est membre de droit de la soci&#xE9;t&#xE9; de d&#xE9;veloppement et repr&#xE9;sent&#xE9;e au sein de son comit&#xE9;. Si plusieurs communes sont concern&#xE9;es, chacune d'elles est membre de droit et a le droit d'&#xEA;tre repr&#xE9;sent&#xE9;e au sein du comit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:796">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:797">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wo kein offiziell anerkannter Verkehrsverein besteht, k&#xF6;nnen eine oder mehrere Gemeinden die Schaffung eines dem Gemeinderat unterstellten &#xF6;rtlichen B&#xFC;ros f&#xFC;r Tourismus beantragen. Die Bestimmungen &#xFC;ber die Verkehrsvereine sind sinngem&#xE4;ss anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#xE0; o&#xF9; il n'existe pas de soci&#xE9;t&#xE9; de d&#xE9;veloppement officiellement reconnue, une ou plusieurs communes peuvent demander la cr&#xE9;ation d'un bureau local du tourisme subordonn&#xE9; aux conseils municipaux concern&#xE9;s. Les dispositions relatives &#xE0; la soci&#xE9;t&#xE9; de d&#xE9;veloppement sont applicables par analogie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:371">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Aufsicht</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Surveillance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:798">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Verkehrsverein unterbreitet dem Gemeinderat allj&#xE4;hrlich seinen Kostenvoranschlag und seine Jahresrechnung zur Genehmigung und bringt ihm sein T&#xE4;tigkeitsprogramm und seinen Jahresbericht zur Kenntnis.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La soci&#xE9;t&#xE9; de d&#xE9;veloppement soumet chaque ann&#xE9;e son budget et ses comptes au conseil municipal pour approbation. Elle lui pr&#xE9;sente son programme d'activit&#xE9; et son rapport de gestion.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:799">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sind mehrere Gemeinden betroffen, steht jeder das Recht im Sinne des obigen Absatzes zu.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si plusieurs communes sont concern&#xE9;es, chacune d'elles exerce son droit conform&#xE9;ment &#xE0; l'alin&#xE9;a pr&#xE9;c&#xE9;dent.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:372">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Annerkennung und Statuten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Reconnaissance et statuts</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:800">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die offizielle Anerkennung des Verkehrsvereins beruht auf der Genehmigung der Statuten durch den Gemeinderat und die zust&#xE4;ndige kantonale Beh&#xF6;rde und verleiht ihm dadurch ein &#xF6;ffentliches Interesse. Die Anforderungen f&#xFC;r diese Anerkennung werden auf dem Verordnungswege festgelegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La reconnaissance de l'utilit&#xE9; publique de la soci&#xE9;t&#xE9; de d&#xE9;veloppement r&#xE9;sulte de l'approbation de ses statuts par le conseil municipal et l'autorit&#xE9; cantonale comp&#xE9;tente. Les exigences de cette reconnaissance sont fix&#xE9;es par voie d'ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:801">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verordnung legt die Art und Weise der Statutenanerkennung fest. Die Statuten legen das Einzugsgebiet des Verkehrsvereins genau fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'ordonnance d&#xE9;termine les modalit&#xE9;s d'approbation des statuts. Les statuts d&#xE9;limitent de fa&#xE7;on pr&#xE9;cise le rayon d'activit&#xE9; de la soci&#xE9;t&#xE9; de d&#xE9;veloppement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:373">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Einnahmequellen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Ressources</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:802">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Einnahmen des Verkehrsvereins stammen aus:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les ressources de la soci&#xE9;t&#xE9; de d&#xE9;veloppement proviennent:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:302">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:303">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#x2026;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#x2026;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:304">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Mitgliederbeitr&#xE4;gen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des cotisations de ses membres;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:305">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">allf&#xE4;lligen zus&#xE4;tzlichen Beitr&#xE4;gen der betreffenden Gemeinden;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des contributions suppl&#xE9;mentaires &#xE9;ventuelles des communes concern&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:306">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">anderen, in seinen Statuten vorgesehenen Einnahmen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d'autres revenus pr&#xE9;vus par ses statuts.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:803">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden stellen die Finanzierung der den Verkehrsvereinen im Sinne von Artikel 6 Buchstabe d &#xFC;bertragenen Aufgaben sicher.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes garantissent le financement des t&#xE2;ches qu'elles d&#xE9;l&#xE8;guent aux soci&#xE9;t&#xE9;s de d&#xE9;veloppement au sens de l'article 6 lettre d.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="139">
+                <structureContent lang="de">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Kommunale oder interkommunale Tourismusunternehmen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Entreprises de tourisme communales ou intercommunales</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:374">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Rechtsform</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Forme juridique</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:804">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das kommunale oder interkommunale Tourismusunternehmen ist eine Aktiengesellschaft im Sinne der Artikel 620&#xA0;und folgende&#xA0;des Schweizerischen Obligationenrechts.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'entreprise de tourisme communale ou intercommunale est une soci&#xE9;t&#xE9; anonyme au sens des articles 620 et suivants du code des obligations suisse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:805">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Stimmrecht jedes Gesellschafters ist proportional zu seiner Beteiligung am Aktienkapital.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le droit de vote de chaque actionnaire est proportionnel &#xE0; sa participation financi&#xE8;re au capital-actions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:806">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ein Aktion&#xE4;r darf nicht die Mehrheit des Aktienkapitals besitzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Un actionnaire ne peut d&#xE9;tenir la majorit&#xE9; du capital-actions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:375">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16b</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Leistungsvereinbarung und Aufsicht</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Contrat de prestations et surveillance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:807">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Modalit&#xE4;ten der Zusammenarbeit zwischen den Gemeinden und den kommunalen oder interkommunalen Tourismusunternehmen sind in einer Leistungsvereinbarung geregelt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les modalit&#xE9;s de collaboration entre les communes et les entreprises de tourisme communales ou intercommunales sont r&#xE9;gl&#xE9;es dans un contrat de prestations.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:808">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der &#xDC;bertragungsbeschluss, der mindestens die &#xFC;bertragenen Aufgaben sowie deren Finanzierung erw&#xE4;hnt, ist der zust&#xE4;ndigen kantonalen Instanz zur Genehmigung zu unterbreiten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La d&#xE9;cision de d&#xE9;l&#xE9;gation, qui contient au minimum l'&#xE9;num&#xE9;ration des t&#xE2;ches d&#xE9;l&#xE9;gu&#xE9;es ainsi que leur financement, est soumise &#xE0; l'approbation de l'autorit&#xE9; cantonale comp&#xE9;tente.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:376">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16c</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Einnahmequellen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Ressources</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:809">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Einnahmen der kommunalen oder interkommunalen Tourismusunternehmen stammen aus:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les ressources de l'entreprise de tourisme communale ou intercommunale proviennent:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:307">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Beitr&#xE4;gen der Gemeinden auf der Basis der Leistungsvereinbarungen gem&#xE4;ss Artikel 16b Absatz 1;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des contributions des communes sur la base des contrats de prestations au sens de l'article 16b alin&#xE9;a 1;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:308">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">anderen in ihren Statuten vorgesehenen Einnahmen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d'autres revenus pr&#xE9;vus par ses statuts.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="140">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Finanzen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Finances</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="141">
+                <structureContent lang="de">
+                  <structureOrder>4.1</structureOrder>
+                  <structureText>Kurtaxe</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>4.1</structureOrder>
+                  <structureText>Taxe de s&#xE9;jour</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:377">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geltungsbereich</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Assujettissement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:810">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eine Kurtaxe wird von den G&#xE4;sten erhoben, die im Einzugsgebiet eines anerkannten Verkehrsvereins &#xFC;bernachten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une taxe de s&#xE9;jour est per&#xE7;ue aupr&#xE8;s des h&#xF4;tes qui passent la nuit dans le rayon d'activit&#xE9; d'une soci&#xE9;t&#xE9; de d&#xE9;veloppement reconnue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:811">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Taxe wird gest&#xFC;tzt auf ein durch die Urversammlung oder den Generalrat genehmigtes und vom Staatsrat homologiertes Reglement erhoben. Die betroffenen Kreise werden vorg&#xE4;ngig konsultiert. Dieses Reglement bestimmt namentlich den Ansatz der Kurtaxe, die Befreiungsf&#xE4;lle und die Erm&#xE4;ssigungen, die Erhebungsweise und die Verwendung der Taxe.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette taxe est per&#xE7;ue sur la base d'un r&#xE8;glement soumis &#xE0; l'approbation de l'assembl&#xE9;e primaire ou du Conseil g&#xE9;n&#xE9;ral et &#xE0; l'homologation du Conseil d'Etat. Ce r&#xE8;glement est mis au pr&#xE9;alable en consultation aupr&#xE8;s des parties concern&#xE9;es. Il pr&#xE9;voit notamment le montant de la taxe de s&#xE9;jour, les cas d'exon&#xE9;rations et les r&#xE9;ductions, le mode de perception et l'affectation de la taxe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:378">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>18</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Befreiung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exon&#xE9;ration</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:812">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Von der Bezahlung der Kurtaxe sind befreit:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne sont pas assujettis au paiement de la taxe de s&#xE9;jour:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:309">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">alle Personen, die in der Gemeinde, in der die Kurtaxe anf&#xE4;llt, ihren Wohnsitz haben. Als Wohnsitz gilt grunds&#xE4;tzlich der nach dem schweizerischen Zivilgesetzbuch festgelegte Begriff;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les personnes domicili&#xE9;es sur le territoire de la commune o&#xF9; s'exerce la perception de la taxe. La notion de domicile est en principe celle qui est d&#xE9;finie dans le Code civil suisse;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:310">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">alle Personen, die bei einem von der Kurtaxe befreiten Angeh&#xF6;rigen zu Besuch sind. Angeh&#xF6;rige sind Personen, die zur grosselterlichen Parantel geh&#xF6;ren und deren Ehegatten;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les personnes en visite chez un membre de la famille non assujetti au paiement de la taxe. Par membre de la famille, il faut entendre toute personne appartenant &#xE0; la parent&#xE8;le des grands-parents ainsi que le conjoint;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:311">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Kinder unter sechs Jahren; zwischen sechs und sechzehn bezahlen sie die halbe Taxe;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les enfants &#xE2;g&#xE9;s de moins de six ans; de six &#xE0; seize ans ils paient demi-taxe;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:312">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Sch&#xFC;ler, Lehrlinge und Studenten der vom Staat Wallis anerkannten und subventionierten Schulen w&#xE4;hrend der Schulperiode;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les &#xE9;l&#xE8;ves, apprentis et &#xE9;tudiants fr&#xE9;quentant les &#xE9;tablissements d'enseignement reconnus et subventionn&#xE9;s par l'Etat du Valais durant la p&#xE9;riode scolaire;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:313">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Patienten und Insassen von Spit&#xE4;lern, Altersheimen, Pflegeheimen und F&#xFC;rsorgeanstalten die vom Staat Wallis bewilligt sind;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les patients et les pensionnaires des h&#xF4;pitaux, homes pour personnes &#xE2;g&#xE9;es, &#xE9;tablissements pour handicap&#xE9;s ou &#xE0; caract&#xE8;re social autoris&#xE9;s par l'Etat du Valais;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:314">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Angeh&#xF6;rigen der Armee, des Zivilschutzes, der Feuerwehr sowie &#xE4;hnlicher Dienste sofern sie im Dienst stehen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les personnes incorpor&#xE9;es dans l'arm&#xE9;e ou la protection civile, les pompiers, ainsi que d'autres services similaires, lorsqu'ils sont en service command&#xE9;.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:813">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat und die Gemeinden k&#xF6;nnen weitere F&#xE4;lle der Kurtaxenbefreiung vorsehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat et les communes peuvent pr&#xE9;voir d'autres cas d'exon&#xE9;ration.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:379">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ansatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Montant</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:814">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kurtaxenansatz tr&#xE4;gt der Ausstattung des Ferienortes, der Beherbergungsform und der geographischen Lage der Unterkunft Rechnung. Er kann je nach Saison variieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le montant de la taxe de s&#xE9;jour varie en fonction de l'&#xE9;quipement de la station, de la cat&#xE9;gorie d'h&#xE9;bergement et de l'emplacement g&#xE9;ographique des r&#xE9;sidences. Il peut varier selon la saison.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:815">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kurtaxenansatz wird anhand der verursachten Kosten der Dienstleistungen berechnet, f&#xFC;r welche diese Einnahmen gem&#xE4;ss Artikel 22 eingesetzt werden k&#xF6;nnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le montant de la taxe de s&#xE9;jour est d&#xE9;termin&#xE9; en fonction des co&#xFB;ts induits par les prestations auxquelles ces moyens peuvent &#xEA;tre affect&#xE9;s selon l'article 22.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:380">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Erm&#xE4;ssigung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE9;duction</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:816">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kurtaxenansatz kann erm&#xE4;ssigt oder erlassen werden f&#xFC;r Sch&#xFC;ler von Privatschulen w&#xE4;hrend der Schuldauer, f&#xFC;r G&#xE4;ste von Kinderheimen, Ferienlagern, Jugendlagern, Jugendherbergen, Privatkliniken und -sanatorien oder &#xE4;hnlichen Institutionen sowie f&#xFC;r die G&#xE4;ste von Schutzh&#xFC;tten. Die Gemeinden k&#xF6;nnen weitere Erm&#xE4;ssigungsf&#xE4;lle vorsehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le montant de la taxe de s&#xE9;jour peut &#xEA;tre r&#xE9;duit ou supprim&#xE9; pour les &#xE9;l&#xE8;ves fr&#xE9;quentant des &#xE9;tablissements d'enseignement priv&#xE9;s durant la p&#xE9;riode scolaire, pour les h&#xF4;tes de homes d'enfants, de colonies de vacances, de camps et d'auberges de jeunesse, de cliniques ou sanatoriums priv&#xE9;s ou d'autres centres d'accueil similaires ainsi que pour les h&#xF4;tes de cabanes servant de refuge. Les communes peuvent pr&#xE9;voir d'autres cas de r&#xE9;duction.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:381">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>21</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Erhebungsweise</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Mode de perception</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:817">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kurtaxe wird je &#xDC;bernachtung erhoben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La taxe de s&#xE9;jour est per&#xE7;ue par nuit&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:818">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wer kurtaxenpflichtige G&#xE4;ste beherbergt, ist verpflichtet, die Kurtaxe einzukassieren und der Gemeinde oder dem Organ, welchem diese Aufgabe delegiert ist, zu &#xFC;berweisen, andernfalls muss er sie selbst bezahlen. Der kurtaxenpflichtige Eigent&#xFC;mer und der Dauermieter haben dieselbe Verpflichtung zur &#xDC;berweisung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Celui qui h&#xE9;berge des h&#xF4;tes assujettis &#xE0; la taxe de s&#xE9;jour est responsable de son encaissement et de son versement &#xE0; la commune ou &#xE0; l'organe &#xE0; qui cette t&#xE2;che est d&#xE9;l&#xE9;gu&#xE9;e, sous peine de r&#xE9;pondre personnellement de son paiement. Le propri&#xE9;taire assujetti et le locataire &#xE0; long terme ont la m&#xEA;me obligation de versement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:819">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf Begehren hin k&#xF6;nnen kurtaxenpflichtige Eigent&#xFC;mer oder Dauermieter die Kurtaxe in Form einer Jahrespauschale entrichten. Die Jahrespauschale darf die gelegentliche Vermietung einschliessen. Auf Antrag des Verkehrsvereins setzt der Gemeinderat der betroffenen Gemeinde/n unter Beachtung des durchschnittlichen &#xF6;rtlichen Belegungsgrades der Beherbergungsform des Gesuchstellers pauschal die Anzahl &#xDC;bernachtungen fest. Die Anzahl &#xDC;bernachtungen darf die gelegentliche Vermietung einschliessen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le propri&#xE9;taire assujetti ou le locataire &#xE0; long terme le demandent, le versement de la taxe peut faire l'objet d'un forfait annuel. Le forfait annuel peut inclure la location occasionnelle. Sur la proposition de la soci&#xE9;t&#xE9; de d&#xE9;veloppement, le Conseil municipal de la ou des communes concern&#xE9;es fixe forfaitairement le nombre de nuit&#xE9;es en fonction du taux local moyen d'occupation de la cat&#xE9;gorie d'h&#xE9;bergement du demandeur. Le nombre de nuit&#xE9;es peut inclure la location occasionnelle.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:34232">
+                        <partNumber>3bis</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden k&#xF6;nnen mittels Reglements eine pauschale Erhebung der Taxe vorsehen. Diese Pauschale ist auf der Grundlage objektiver Kriterien zu berechnen, unter Beachtung des durchschnittlichen Belegungsgrades der entsprechenden Beherbergungsform einschliesslich der gelegentlichen Vermietung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes peuvent pr&#xE9;voir par voie de r&#xE8;glement une perception forfaitaire de la taxe. Ce forfait doit &#xEA;tre calcul&#xE9; sur la base de crit&#xE8;res objectifs en fonction du taux local moyen d'occupation de la cat&#xE9;gorie d'h&#xE9;bergement, y compris la location occasionnelle.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:820">
+                        <partNumber>3ter</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinde kann das Inkasso der Kurtaxe an den Verkehrsverein oder an das kommunale oder interkommunale Tourismusunternehmen &#xFC;bertragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La commune peut d&#xE9;l&#xE9;guer l'encaissement de la taxe de s&#xE9;jour &#xE0; la soci&#xE9;t&#xE9; de d&#xE9;veloppement ou &#xE0; l'entreprise de tourisme communale ou intercommunale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:822">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wer seine Unterkunft nicht vermietet oder dessen Unterkunft nicht benutzt wird, muss das dem Verkehrsverein mitteilen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Celui qui ne loue pas ou dont le logement n'est pas occup&#xE9; doit le faire valoir &#xE0; l'organe de perception.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:382">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>22</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verwendung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Affectation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:823">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kurtaxenertrag wird im Interesse der Unterworfenen verwendet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le produit de la taxe de s&#xE9;jour est utilis&#xE9; dans l'int&#xE9;r&#xEA;t des assujettis.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:824">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er dient namentlich zur Finanzierung von:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il contribue &#xE0; financer notamment:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:315">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">dem Betrieb eines Informations- und Reservationsdienstes;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'exploitation d'un service d'information et de r&#xE9;servation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:316">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Animation am Ort;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'animation locale;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:317">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Erstellung und dem Betrieb von Anlagen die dem Tourismus, der Kultur und dem Sport dienen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la cr&#xE9;ation et l'exploitation d'installations touristiques, culturelles ou sportives.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="142">
+                <structureContent lang="de">
+                  <structureOrder>4.2</structureOrder>
+                  <structureText>Beherbergungstaxe</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>4.2</structureOrder>
+                  <structureText>Taxe d'h&#xE9;bergement</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:383">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>23</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geltungsbereich</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Assujettissement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:825">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eine Beherbergungstaxe wird von allen Beherbergern erhoben, die gegen Entgelt G&#xE4;ste im Sinne der Artikel 17 und 18 beherbergen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une taxe d'h&#xE9;bergement est per&#xE7;ue aupr&#xE8;s des logeurs qui h&#xE9;bergent contre r&#xE9;mun&#xE9;ration des h&#xF4;tes assujettis au sens des articles 17 et 18.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:826">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Taxe wird gest&#xFC;tzt auf ein durch die Urversammlung oder den Generalrat genehmigtes und vom Staatsrat homologiertes Reglement erhoben. Die betroffenen Kreise werden vorg&#xE4;ngig konsultiert. Das Reglement bestimmt namentlich den Ansatz der Beherbergungstaxe, die Erhebungsweise und die Verwendung der Taxe.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette taxe est per&#xE7;ue sur la base d'un r&#xE8;glement soumis &#xE0; l'approbation de l'assembl&#xE9;e primaire ou du conseil g&#xE9;n&#xE9;ral et &#xE0; l'homologation du Conseil d'Etat. Ce r&#xE8;glement est mis au pr&#xE9;alable en consultation aupr&#xE8;s des parties concern&#xE9;es. Il fixe notamment le montant, le mode de perception et l'affectation de la taxe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:384">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>24</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ansatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Montant</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:827">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Beherbergungstaxe darf einen Franken pro &#xDC;bernachtung nicht &#xFC;bersteigen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le montant de la taxe d'h&#xE9;bergement ne peut pas d&#xE9;passer un franc par nuit&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:828">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie wird f&#xFC;r Kinder unter sechs Jahren nicht erhoben. F&#xFC;r Kinder zwischen sechs und 16 Jahren und f&#xFC;r die Betreiber von Campingpl&#xE4;tzen sowie Beherberger von G&#xE4;sten, f&#xFC;r die die Bestimmungen des Artikels 20 zur Anwendung gelangen, wird sie um die H&#xE4;lfte reduziert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il n'est pas per&#xE7;u pour les enfants &#xE2;g&#xE9;s de moins de 6 ans. Il est r&#xE9;duit de moiti&#xE9; pour les enfants de 6 &#xE0; 16 ans, pour les exploitants de camping ainsi que pour les h&#xE9;bergeurs des h&#xF4;tes concern&#xE9;s &#xE0; l'article 20.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:385">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>25</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Erhebungsweise</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Mode de perception</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:829">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Beherbergungstaxe wird je &#xDC;bernachtung erhoben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La taxe d'h&#xE9;bergement est per&#xE7;ue par nuit&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:830">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Beherberger &#xFC;berweist die Beherbergungstaxe an die Gemeinde oder an das Organ, dem diese Aufgabe delegiert ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le logeur verse la taxe d'h&#xE9;bergement &#xE0; la commune ou &#xE0; l'organe &#xE0; qui cette t&#xE2;che est d&#xE9;l&#xE9;gu&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:831">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf Begehren des Beherbergers hin kann die &#xDC;berweisung der Taxe in Form einer Jahrespauschale erfolgen. Auf Antrag des Verkehrsvereins setzt der Gemeinderat der betroffenen Gemeinde/n eine Jahrespauschale unter Ber&#xFC;cksichtigung des durchschnittlichen Belegungsgrades der Beherbergungsform f&#xFC;r die entgeltlichen &#xDC;bernachtungen fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le logeur le demande, le versement de la taxe peut faire l'objet d'un forfait annuel. Sur proposition de la soci&#xE9;t&#xE9; de d&#xE9;veloppement, le Conseil municipal de la ou des communes concern&#xE9;es fixe forfaitairement le nombre de nuit&#xE9;es en fonction du taux local moyen d'occupation de la cat&#xE9;gorie d'h&#xE9;bergement, pour les nuit&#xE9;es r&#xE9;mun&#xE9;r&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:34233">
+                        <partNumber>3bis</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden k&#xF6;nnen mittels Reglements eine pauschale Erhebung der Taxe vorsehen. Diese Pauschale ist auf der Grundlage objektiver Kriterien zu berechnen, unter Beachtung des durchschnittlichen &#xF6;rtlichen Belegungsgrades der Beherbergungsform des Gesuchstellers f&#xFC;r die entgeltlichen &#xDC;bernachtungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes peuvent pr&#xE9;voir par voie de r&#xE8;glement une perception forfaitaire de la taxe. Ce forfait doit &#xEA;tre calcul&#xE9; sur la base de crit&#xE8;res objectifs en fonction du taux local moyen d'occupation de la cat&#xE9;gorie d'h&#xE9;bergement du demandeur, pour les nuit&#xE9;es r&#xE9;mun&#xE9;r&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:832">
+                        <partNumber>3ter</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinde kann das Inkasso der Beherbergungstaxe an den Verkehrsverein oder an das kommunale oder interkommunale Tourismusunternehmen delegieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La commune peut d&#xE9;l&#xE9;guer l'encaissement de la taxe d'h&#xE9;bergement &#xE0; la soci&#xE9;t&#xE9; de d&#xE9;veloppement ou &#xE0; l'entreprise de tourisme communale ou intercommunale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:834">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Artikel 21 Absatz 4 ist sinngem&#xE4;ss f&#xFC;r die Beherbergungstaxe anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'article 21 alin&#xE9;a 4 s'applique par analogie &#xE0; la taxe d'h&#xE9;bergement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:386">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>26</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verwendung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Affectation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:835">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ertrag aus der Beherbergungstaxe wird im Interesse der Unterworfenen verwendet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le produit de la taxe d'h&#xE9;bergement est utilis&#xE9; dans l'int&#xE9;r&#xEA;t des assujettis.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:836">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er dient der Finanzierung der Tourismuswerbung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il contribue &#xE0; financer la promotion du tourisme.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:837">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="143">
+                <structureContent lang="de">
+                  <structureOrder>4.3</structureOrder>
+                  <structureText>Tourismusf&#xF6;rderungstaxe</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>4.3</structureOrder>
+                  <structureText>Taxe de promotion touristique</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:387">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>27</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:838">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden haben das Recht, an Stelle der Beherbergungstaxe eine Tourismusf&#xF6;rderungstaxe zu erheben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes ont le droit de percevoir, en lieu et place de la taxe d'h&#xE9;bergement, une taxe de promotion touristique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:839">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Taxe kann gest&#xFC;tzt auf ein durch die Urversammlung oder den Generalrat genehmigtes und vom Staatsrat homologiertes Reglement erhoben werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette taxe doit &#xEA;tre per&#xE7;ue sur la base d'un r&#xE8;glement soumis &#xE0; l'approbation de l'autorit&#xE9; communale d&#xE9;lib&#xE9;rante et &#xE0; l'homologation du Conseil d'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:840">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie muss dem Geringf&#xFC;gigkeits- und Kostendeckungsprinzip entsprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle doit respecter les principes de modicit&#xE9; des taxes et de couverture des co&#xFB;ts.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:388">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>28</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Reglement</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE8;glement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:841">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Reglement legt namentlich den Kreis der Taxenpflichtigen und die Berechnungsgrundlage fest, wobei den Vorteilen, die die Taxenpflichtigen aus dem &#xF6;rtlichen Tourismus ziehen, Rechnung zu tragen ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le r&#xE8;glement fixe notamment le cercle des assujettis et les bases de calcul de la taxe en tenant compte de l'avantage qu'ils retirent de l'activit&#xE9; touristique locale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:389">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>29</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geltungsbereich</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Assujettissement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:842">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Alle juristischen Personen sowie alle nat&#xFC;rlichen Personen die eine selbst&#xE4;ndige Erwerbst&#xE4;tigkeit aus&#xFC;ben und die ihren Sitz oder Wohnsitz im Wallis haben, sind dieser Taxe nach Massgabe der Tourismusabh&#xE4;ngigkeit dieser T&#xE4;tigkeit unterworfen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont assujetties toute personne morale ainsi que toute personne physique ayant une activit&#xE9; lucrative ind&#xE9;pendante et domicili&#xE9;es en Valais, dans la mesure o&#xF9; l'activit&#xE9; qu'elles exercent a un lien avec le tourisme local.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:843">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Taxenpflichtigen mit Sitz ausserhalb der Gemeinde sind gem&#xE4;ss den Bestimmungen der Artikel 185 und 188 des kantonalen Steuergesetzes vom 10. M&#xE4;rz 1976 zu Bezahlung heranzuziehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les assujettis domicili&#xE9;s hors de la commune sont appel&#xE9;s &#xE0; contribution selon les articles 185 et 188 de la loi fiscale cantonale du 10 mars 1976.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:390">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>30</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verwendung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Affectation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:844">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ertrag aus der Tourismusf&#xF6;rderungstaxe ist im Interesse der Unterworfenen zu verwenden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le produit de la taxe de promotion touristique est utilis&#xE9; dans l'int&#xE9;r&#xEA;t des assujettis.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:391">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>31</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">&#x2026;</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">&#x2026;</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:845">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Aufgehoben</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="144">
+                <structureContent lang="de">
+                  <structureOrder>4.4</structureOrder>
+                  <structureText>&#xD6;ffentliche Beihilfen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>4.4</structureOrder>
+                  <structureText>Aides publiques</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:392">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>32</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Notion</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:846">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staat kann zu g&#xFC;nstigen Bedingungen Kredite und Sicherheitsleistungen f&#xFC;r den Bau oder die Erneuerung von touristischen Ausstattungen gew&#xE4;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'Etat peut accorder des pr&#xEA;ts &#xE0; des conditions favorables, ainsi que des garanties contribuant &#xE0; la construction et &#xE0; la r&#xE9;novation d'&#xE9;quipements touristiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:847">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staat, die Gemeinden und die anderen &#xF6;ffentlichen K&#xF6;rperschaften k&#xF6;nnen f&#xFC;r die Organisation von Veranstaltungen, f&#xFC;r Untersuchungen oder zur Erstellung von touristischen Anlagen finanzielle Hilfen ausrichten. Sie k&#xF6;nnen namentlich Forschungsarbeiten unterst&#xFC;tzen, die der Entwicklung der verschiedenen Tourismusbereiche des Kantons dienen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'Etat, les communes et les autres collectivit&#xE9;s publiques peuvent accorder des aides financi&#xE8;res &#xE0; l'organisation de manifestations, aux &#xE9;tudes et r&#xE9;alisations &#xE0; but touristique. Ils peuvent notamment soutenir les travaux de recherche et de d&#xE9;veloppement utiles aux divers secteurs touristiques du canton.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:848">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Projekte, die vollst&#xE4;ndig mit den Vorgaben eines Qualit&#xE4;tstourismus &#xFC;bereinstimmen, werden bevorzugt unterst&#xFC;tzt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les projets r&#xE9;pondant pleinement aux crit&#xE8;res du tourisme de qualit&#xE9; sont soutenus en priorit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:393">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>32a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Kantonaler Tourismusfonds</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Fonds cantonal pour le tourisme</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:849">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es wird ein kantonaler Tourismusfonds zur Finanzierung der touristischen Infrastruktur geschaffen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Un fonds cantonal pour le tourisme est cr&#xE9;&#xE9; afin de financer les infrastructures touristiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:850">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ausgestaltung des kantonalen Tourismusfonds wird in einem Reglement des Staatsrates geregelt, das der Genehmigung des Grossen Rates unterliegt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La mise en place du fonds pour le tourisme est r&#xE9;gie par un r&#xE8;glement du Conseil d'Etat, qui est soumis &#xE0; l'approbation du Grand Conseil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:394">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>33</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Klassierung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Classement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:851">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staat unterst&#xFC;tzt die Klassierung des touristischen Beherbergungsangebotes, namentlich die zur Vermietung bereitgestellten Wohnungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'Etat encourage le classement de l'offre d'h&#xE9;bergement touristique, notamment le classement des meubl&#xE9;s mis en location.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:852">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Klassierungen haben gem&#xE4;ss den Richtlinien des Dachverbandes zu erfolgen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces classements sont r&#xE9;alis&#xE9;s selon les directives fix&#xE9;es par l'association fa&#xEE;ti&#xE8;re.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="145">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Bildung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Formation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:395">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>34</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aus- und Weiterbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation de base et continue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:853">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat bestimmt, in Zusammenarbeit mit den interessierten Kreisen, die Grund- und Weiterbildung in den Berufen die mit dem Tourismus in Beziehung stehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat fixe les normes de formation de base et continue dans les professions li&#xE9;es au tourisme en collaboration avec les milieux concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:854">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Bedarf unterst&#xFC;tzt und koordiniert er durch &#xF6;ffentliche Schulen und Kurse die diesbez&#xFC;glichen Vorhaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il favorise et coordonne au besoin les r&#xE9;alisations en la mati&#xE8;re par l'interm&#xE9;diaire des &#xE9;coles et cours publics.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:855">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er erleichtert den Zugang zu diesen Berufen indem er &#xDC;bertrittsm&#xF6;glichkeiten von einem Bildungsweg in einen anderen schafft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il facilite l'acc&#xE8;s aux professions en am&#xE9;nageant des passerelles entre les diverses voies de formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:856">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er ist daf&#xFC;r besorgt, dass die Tourismuswirtschaft bereits in die Programme der obligatorischen Schule eingebaut wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il veille &#xE0; int&#xE9;grer l'&#xE9;conomie touristique dans les programmes d'enseignement d&#xE8;s l'&#xE9;cole obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:396">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>35</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit und Anerkennung von Titeln</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaboration et reconnaissance des titres</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:857">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann mit privaten oder &#xF6;ffentlichen Institutionen Vereinbarungen treffen und Titel derselben anerkennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut passer des conventions avec les institutions priv&#xE9;es ou publiques et reconna&#xEE;tre des titres d&#xE9;cern&#xE9;s par celles-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="146">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:397">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:858">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;s</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15632">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody/>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15633">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>38</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody/>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15634">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>39</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody/>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="147">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Verschiedene Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Dispositions diverses</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:398">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>40</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Statistik</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statistique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:859">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer G&#xE4;ste beherbergt ist verpflichtet, f&#xFC;r statistische Zwecke ein Logiern&#xE4;chteregister zu f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Celui qui h&#xE9;berge des h&#xF4;tes a l'obligation de tenir &#xE0; jour un registre des nuit&#xE9;es &#xE0; des fins de statistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:860">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xF6;ffentlichen K&#xF6;rperschaften, die nat&#xFC;rlichen und juristischen Personen sind auf Anfrage hin verpflichtet, der zust&#xE4;ndigen kantonalen Beh&#xF6;rde alle f&#xFC;r die Analyse der Tourismusbranche notwendigen Ausk&#xFC;nfte zu erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les collectivit&#xE9;s publiques, les personnes physiques et morales sont tenues de communiquer &#xE0; l'autorit&#xE9; cantonale comp&#xE9;tente, sur requ&#xEA;te, tout renseignement utile &#xE0; l'analyse de la branche du tourisme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:399">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>40a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bezeichnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Appellation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:861">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bezeichnung "Tourismusb&#xFC;ro", "Verkehrsb&#xFC;ro", "Tourist Information" oder alle anderen Bezeichnungen, die einen offiziellen Charakter verleihen k&#xF6;nnen, sind den mit der Tourismusinformation Beauftragten vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'appellation "office du tourisme", "bureau du tourisme", "Tourist Information" ou toute autre d&#xE9;signation conf&#xE9;rant un caract&#xE8;re d'officialit&#xE9; est r&#xE9;serv&#xE9;e &#xE0; l'entit&#xE9; charg&#xE9;e de l'information touristique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:400">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>41</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Expropriation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Expropriation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:862">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Verwirklichung der in diesem Gesetz festgelegten Ziele von &#xF6;ffentlichem Nutzen k&#xF6;nnen die notwendigen dinglichen Rechte auf dem Wege der Enteignung gem&#xE4;ss den Bestimmungen des Enteignungsgesetzes erworben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits r&#xE9;els n&#xE9;cessaires &#xE0; la r&#xE9;alisation des buts d'utilit&#xE9; publique fix&#xE9;s dans la pr&#xE9;sente loi peuvent &#xEA;tre acquis par voie d'expropriation conform&#xE9;ment aux dispositions de la loi sur les expropriations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:401">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>42</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Indexierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Indexation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:863">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ans&#xE4;tze der Kur- und Beherbergungstaxe k&#xF6;nnen vom Grossen Rat auf dem Beschlusswege an den schweizerischen Lebenskostenindex angepasst werden, sobald dieser eine erhebliche Ver&#xE4;nderung erf&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les montants des taxes de s&#xE9;jour et d'h&#xE9;bergement peuvent, par d&#xE9;cision du Grand Conseil, &#xEA;tre adapt&#xE9;s &#xE0; l'indice suisse des prix &#xE0; la consommation si celui-ci varie de fa&#xE7;on notable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:864">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Berechnungsgrundlage gilt der Stand des Indexes zum Zeitpunkt des Inkrafttretens dieses Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'indice de base est celui de la date d'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:402">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>43</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtliche Einsch&#xE4;tzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Taxation d'office</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:865">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Verweigert ein Taxenschuldner die erforderlichen Angaben f&#xFC;r die Berechnung der geschuldeten Betr&#xE4;ge oder &#xFC;berweist er die Betr&#xE4;ge nicht innert der festgelegten Frist, kann der Gemeinderat, nach erfolgloser Mahnung, eine amtliche Einsch&#xE4;tzung vornehmen. Sie kommt einem vollstreckbaren gerichtlichen Urteil im Sinne des Artikels 80 des Bundesgesetzes &#xFC;ber Schuldbetreibung und Konkurs gleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le d&#xE9;biteur d'une taxe ne communique pas les &#xE9;l&#xE9;ments n&#xE9;cessaires &#xE0; la taxation ou ne verse pas le montant de la taxe en temps voulu, le conseil municipal proc&#xE8;de, apr&#xE8;s sommation infructueuse, &#xE0; une taxation d'office. Cette taxation &#xE9;quivaut &#xE0; un jugement ex&#xE9;cutoire au sens de l'article 80 de la loi f&#xE9;d&#xE9;rale sur la poursuite pour dettes et faillite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:866">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die entstandenen Kosten sind vom amtlich eingesch&#xE4;tzten Taxenschuldner zu tragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;biteur tax&#xE9; d'office supporte les frais qu'il a occasionn&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:403">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>44</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Busse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Amende</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:867">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer gegen die Bestimmungen dieses Gesetzes und seine Verordnung verst&#xF6;sst, namentlich versucht, sich der Zahlung der Taxen zu entziehen oder den zust&#xE4;ndigen Organen falsche oder unvollst&#xE4;ndige Angaben macht oder sich Versp&#xE4;tungen zuschulden kommen l&#xE4;sst, wird mit einer Busse bis 5000 Franken bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Quiconque contrevient aux dispositions de la pr&#xE9;sente loi et de son ordonnance, notamment en cherchant &#xE0; se soustraire au paiement des taxes dues ou en donnant des informations fausses, incompl&#xE8;tes ou tardives aux organismes comp&#xE9;tents, est r&#xE9;prim&#xE9; par une amende n'exc&#xE9;dant pas 5'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:868">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Busse wird von der zust&#xE4;ndigen kantonalen Beh&#xF6;rde ausgesprochen. Das Beschwerdeverfahren gegen die Entscheide der kantonalen Beh&#xF6;rde richtet sich nach der Strafprozessordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; cantonale comp&#xE9;tente prononce l'amende. L'appel contre les d&#xE9;cisions de l'autorit&#xE9; cantonale suit les r&#xE8;gles du Code de proc&#xE9;dure p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:869">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bezahlung einer Busse hebt die Zahlungspflicht der geschuldeten Betr&#xE4;ge nicht auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le paiement d'une amende ne dispense pas du versement des taxes &#xE9;lud&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:404">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>45</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verj&#xE4;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prescription</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:870">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Strafverfolgung verj&#xE4;hrt in f&#xFC;nf Jahren nach der letzten strafbaren Handlung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La poursuite des infractions se prescrit par cinq ans d&#xE8;s la fin des agissements pouvant &#xEA;tre r&#xE9;prim&#xE9;s par une amende.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:871">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Busse verj&#xE4;hrt in f&#xFC;nf Jahren, nachdem sie vollstreckbar geworden ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'amende se prescrit par cinq ans d&#xE8;s qu'elle est devenue ex&#xE9;cutoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:405">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>46</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsweg</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:872">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle in Anwendung dieses Gesetzes getroffenen Entscheide k&#xF6;nnen Gegenstand einer Beschwerde an den Staatsrat sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toutes d&#xE9;cisions prises en application de la pr&#xE9;sente loi peuvent faire l'objet d'un recours au Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:873">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheide des Staatsrates k&#xF6;nnen beim Kantonsgericht angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions du Conseil d'Etat peuvent faire l'objet d'un recours au Tribunal cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:874">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren richtet sich nach den Bestimmungen der Prozessordnung und des Verwaltungsverfahrens und der Verwaltungsrechtspflege.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure est r&#xE9;gl&#xE9;e par les dispositions en mati&#xE8;re de proc&#xE9;dure et de juridiction administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:406">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>47</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:875">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Erhebung, das Inkasso und die Verwendung der Taxen wird vom Staat periodisch kontrolliert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La perception, l'encaissement et l'affectation des taxes sont p&#xE9;riodiquement contr&#xF4;l&#xE9;es par l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:876">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bezeichnet die Kontrollinstanz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe l'instance de contr&#xF4;le.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:877">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kontrollinstanz hat die Befugnis, alle erforderlichen Ausk&#xFC;nfte zur Anwendung dieses Gesetzes oder seiner Ausf&#xFC;hrungsbestimmungen einzuverlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'instance de contr&#xF4;le a la comp&#xE9;tence de se procurer tous renseignements n&#xE9;cessaires &#xE0; l'application de la pr&#xE9;sente loi ou de ses dispositions d'ex&#xE9;cution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="148">
+            <structureContent lang="de">
+              <structureOrder>8</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>8</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:407">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>48</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgehobene Bestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:878">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach dem Inkrafttreten dieses Gesetzes sind alle ihm entgegenlautenden Bestimmungen aufgehoben, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi, toutes les dispositions contraires sont abrog&#xE9;es, en particulier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16900">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber die Organisation des Walliser Verkehrsverbandes und der Verkehrsvereine vom 13. November 1975; und</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur l'organisation de l'Union valaisanne du tourisme et des soci&#xE9;t&#xE9;s de d&#xE9;veloppement du 13 novembre 1975, et</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:318">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend die Bergf&#xFC;hrer und Skilehrer vom 14. Mai 1952.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur les guides de montagne et les professeurs de ski du 14 mai 1952.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:408">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>49</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:879">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est sujette au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:880">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat sorgt f&#xFC;r den Vollzug dieses Gesetzes und bestimmt den Zeitpunkt des Inkrafttretens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente loi. Il en fixe la date d'entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4697">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 08.05.2014</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 08.05.2014</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15638">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35698">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die nach den alten Bestimmungen bestehenden bisherigen Strukturen, touristischen Organisationen und deren Finanzierung bleiben g&#xFC;ltig. Sobald an diesen Strukturen und touristischen Organisationen oder an deren Finanzierung &#xC4;nderungen vorgenommen werden, sind die neuen Bestimmungen anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les structures, les organisations touristiques et leur financement mis en place sous l&#x2019;&#xE9;gide des anciennes dispositions restent valables. D&#xE8;s qu&#x2019;une modification est apport&#xE9;e &#xE0; ces structures et organisations touristiques ou &#xE0; leur financement, les nouvelles dispositions s&#x2019;appliquent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1996-11-01</dateForce>
+      <dateVersion>2015-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 22/2014, 51/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

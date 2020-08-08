@@ -1,0 +1,1209 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:213</normID>
+      <number>832.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Krankenversicherung</title>
+      <title lang="fr">Loi sur l'assurance maladie</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1995-06-22</dateAdoption>
+      <dateForce>1996-01-01T00:00:00</dateForce>
+      <dateLastChange>1996-01-01</dateLastChange>
+      <dateVersion>1996-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber die Krankenversicherung vom 18. M&#xE4;rz 1994;</basis> <basis>eingesehen die Artikel 31 und 42 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur l'assurance maladie du 18 mars 1994;</basis> <basis>vu les articles 31 et 42 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/GS 1995 f 49, 166 | d 51, 170</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="762">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Krankenversicherung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur l'assurance maladie</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="764">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2557">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziele</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5855">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt im Kanton die Anwendung der obligatorischen Krankenpflegeversicherung im Sinne des Bundesgesetzes &#xFC;ber die Krankenversicherung&#xA0;vom 18. M&#xE4;rz 1994 (KGV).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE9;git dans le canton l'application de l'assurance maladie obligatoire au sens de la loi f&#xE9;d&#xE9;rale sur l'assurance maladie&#xA0;du 18 mars 1994 (LAMal).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5856">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Seine Zielsetzungen sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a pour buts:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2537">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Einf&#xFC;hrung einer obligatorischen Krankenversicherungsordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'instauration d'un r&#xE9;gime d'assurance maladie obligatoire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2538">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Gew&#xE4;hrung von Subventionen zur Erm&#xE4;ssigung der Pr&#xE4;mien der Versicherten und der Familien in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'octroi de subventions destin&#xE9;es &#xE0; r&#xE9;duire les primes des assur&#xE9;s et des familles de condition &#xE9;conomique modeste.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2558">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5857">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz ist auf alle im Kanton Wallis wohnhaften, der Versicherungspflicht unterstellten Personen anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique &#xE0; toutes les personnes domicili&#xE9;es dans le canton, soumises &#xE0; l'obligation d'assurance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="765">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Obligatorische Krankenversicherung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Assurance maladie obligatoire</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2559">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Versicherungspflichtige Personen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnes tenues de s'assurer</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5858">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person mit Wohnsitz im Kanton ist gem&#xE4;ss den Bestimmungen der Gesetzgebung des Bundes versicherungspflichtig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne domicili&#xE9;e dans le canton doit s'assurer, conform&#xE9;ment aux dispositions de la l&#xE9;gislation f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2560">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle und Beitritt von Amtes wegen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le et affiliation d'office</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5859">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden &#xFC;berwachen die Einhaltung der Versicherungspflicht. Die Versicherten liefern den Gemeinden die notwendigen Beitrittsbescheinigungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes veillent au respect de l'obligation de s'assurer. Les assur&#xE9;s fournissent aux communes les attestations d'affiliation n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5860">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden verf&#xFC;gen den Beitritt von Amtes wegen jeder versicherungspflichtigen Person, die dieser Pflicht nicht Folge geleistet hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes affilient d'office toute personne tenue de s'assurer qui n'a pas donn&#xE9; suite &#xE0; cette obligation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2561">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wechsel des Versicherers</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Changement d'assureur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5861">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Mitgliedschaft in einer fr&#xFC;heren Versicherung erlischt erst, wenn der neue Versicherer der betroffenen Person mitgeteilt hat, dass er sie ohne Unterbruch des Versicherungsschutzes gem&#xE4;ss den Bestimmungen der Bundesgesetzgebung versichert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'affiliation aupr&#xE8;s d'un ancien assureur ne prend fin que lorsque le nouvel assureur lui a communiqu&#xE9; qu'il assure l'int&#xE9;ress&#xE9; sans interruption de la protection d'assurance, conform&#xE9;ment aux dispositions de la l&#xE9;gislation f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2562">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nichtbezahlung der Pr&#xE4;mien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Non-paiement des primes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5862">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Falle von Zahlungsunf&#xE4;higkeit der versicherten Person leitet der Versicherer ein Subventionsgesuch bei dem mit der Ausf&#xFC;hrung des vorliegenden Gesetzes beauftragten Organ ein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas d'insolvabilit&#xE9; de la personne assur&#xE9;e, l'assureur introduit une demande de subvention aupr&#xE8;s de l'organe charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5863">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Einziehungsverfahren ersch&#xF6;pft sind, treten die Gemeinden, gem&#xE4;ss Gesetzgebung &#xFC;ber die Sozialhilfe an die Stelle der Versicherten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes se substituent aux assur&#xE9;s pour le paiement des primes lorsque les proc&#xE9;dures d'encaissement ont &#xE9;t&#xE9; men&#xE9;es &#xE0; terme, dans la mesure pr&#xE9;vue par la l&#xE9;gislation sur l'aide sociale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="766">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Pr&#xE4;mienerm&#xE4;ssigung durch die Subventionen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>R&#xE9;duction des primes par les subventions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2563">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Subventionen des Kantons</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Subventions du canton</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5864">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton gew&#xE4;hrt den Versicherten und den Familien in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen Pr&#xE4;mienerm&#xE4;ssigungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton accorde des r&#xE9;ductions de primes aux assur&#xE9;s et aux familles de condition &#xE9;conomique modeste.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5865">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt j&#xE4;hrlich die Subventionen f&#xFC;r die Kategorien von Versicherten aufgrund der durch die Versicherer festgehaltenen Pr&#xE4;mien und unter Ber&#xFC;cksichtigung eines regionalen Durchschnittes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe annuellement les subventions pour les cat&#xE9;gories d'assur&#xE9;s sur la base des primes retenues par les assureurs et en tenant compte d'une moyenne r&#xE9;gionale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5866">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Subvention kann jedoch 100 Prozent der effektiven Pr&#xE4;mie der obligatorischen Krankenpflegeversicherung nicht &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La subvention ne peut toutefois d&#xE9;passer le 100 pour cent de la prime effective de l'assurance maladie obligatoire des soins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2564">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Abstufung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Echelonnement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5867">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonalen Subventionen werden nach der finanziellen und famili&#xE4;ren Lage der Empf&#xE4;nger auf der Grundlage des Einkommens und des Verm&#xF6;gens der Steuerveranlagung und gem&#xE4;ss einer durch den Staatsrat bestimmten Skala bewilligt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subventions cantonales sont allou&#xE9;es en fonction de la situation familiale et financi&#xE8;re des b&#xE9;n&#xE9;ficiaires sur la base des &#xE9;l&#xE9;ments de revenu et de fortune de la taxation fiscale et selon une &#xE9;chelle d&#xE9;termin&#xE9;e par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5868">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat nimmt periodisch eine Anpassung der Einkommensskala und der Verm&#xF6;gensbestandteile, die zur Berechnung der Subventionen dienen, vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat proc&#xE8;de p&#xE9;riodiquement aux adaptations de l'&#xE9;chelle des revenus et des &#xE9;l&#xE9;ments de fortune servant au calcul des subventions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2565">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Durchf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5869">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der j&#xE4;hrliche Betrag der kantonalen Subventionen wird im Budget des Staates mit Angabe des Bundesanteils eingetragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant annuel des subventions cantonales est inscrit au budget de l'Etat en indiquant la part f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2566">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Versicherer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assureurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5870">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versicherer, die es w&#xFC;nschen, arbeiten an der Auszahlung der Subventionen durch den Abzug der Pr&#xE4;mien der Versicherten in bescheidenen wirtschaftlichen Verh&#xE4;ltnissen mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les assureurs qui le souhaitent collaborent au paiement des subventions en les d&#xE9;duisant des primes des assur&#xE9;s de condition &#xE9;conomique modeste.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5871">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn einer der Versicherer nicht zusammenarbeitet, werden die Subventionen den Versicherten gem&#xE4;ss einer durch den Staatsrat festgelegten Zahlungsart ausbezahlt. Gegebenenfalls ist der Artikel 6 Absatz 2 des vorliegenden Gesetzes nicht anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'un des assureurs ne collabore pas, les subventions sont vers&#xE9;es aux assur&#xE9;s selon un mode de paiement fix&#xE9; par le Conseil d'Etat. Le cas &#xE9;ch&#xE9;ant, l'article 6 alin&#xE9;a 2 de la pr&#xE9;sente loi n'est pas applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2567">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Hilfsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fonds de secours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5872">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein j&#xE4;hrlich aufgrund des Voranschlages festzulegender Beitrag wird einem Hilfsfonds zugewiesen, der dazu bestimmt ist, die Versicherten zu unterst&#xFC;tzen, die sich aufgrund ausserordentlicher und durch die Grundversicherung nicht abgedeckten Krankheitskosten, in einer finanziell schwierigen Situation befinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une contribution cantonale, &#xE0; fixer annuellement par voie budg&#xE9;taire, est affect&#xE9;e &#xE0; un fonds de secours destin&#xE9; &#xE0; venir en aide aux assur&#xE9;s qui se trouveraient dans une situation financi&#xE8;re difficile suite &#xE0; des frais de maladie exceptionnels et non couverts par l'assurance obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="767">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Rekurs</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Recours</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2568">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; comp&#xE9;tente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5873">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheide hinsichtlich der Subventionen k&#xF6;nnen Gegenstand einer Einsprache innert 30 Tagen nach ihrer Zustellung beim zust&#xE4;ndigen Departement bilden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions concernant les subventions peuvent faire l'objet d'une r&#xE9;clamation aupr&#xE8;s du d&#xE9;partement comp&#xE9;tent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5874">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Einspracheentscheid kann innert 30 Tagen nach ihrer Zustellung gem&#xE4;ss den in der kantonalen Gesetzgebung &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vorgesehenen Formen Gegenstand einer Beschwerde beim Staatsrat bilden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions sur r&#xE9;clamation peuvent faire l'objet d'un recours aupr&#xE8;s du Conseil d'Etat dans les 30 jours, &#xE0; compter de leur notification, selon les formes pr&#xE9;vues par la l&#xE9;gislation cantonale sur la proc&#xE9;dure et la juridiction administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="768">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2569">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckerstattung der Subventionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Restitution des subventions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5875">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zu Unrecht bezogenen Subventionen m&#xFC;ssen durch die beg&#xFC;nstigte Person oder durch ihre r&#xFC;ckerstattet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subventions ind&#xFB;ment touch&#xE9;es doivent &#xEA;tre restitu&#xE9;es par la personne ou par ses h&#xE9;ritiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5876">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die betroffene Person gutgl&#xE4;ubig war und wenn die R&#xFC;ckerstattung sie &#xFC;berm&#xE4;ssig belasten w&#xFC;rde, wird die R&#xFC;ckerstattung hingegen nicht verlangt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La restitution ne sera toutefois pas exig&#xE9;e lorsque la personne &#xE9;tait de bonne foi et lorsqu'elle lui imposerait une charge trop lourde.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2570">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Steuerliche Angaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Donn&#xE9;es fiscales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5877">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Steuerbeh&#xF6;rden &#xFC;bermitteln dem Ausf&#xFC;hrungsorgan die zur Anwendung des vorliegenden Gesetzes notwendigen Angaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s fiscales transmettent &#xE0; l'organe d'ex&#xE9;cution les donn&#xE9;es n&#xE9;cessaires &#xE0; l'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2571">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geheimhaltungspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation de garder le secret</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5878">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die mit der Anwendung des vorliegenden Gesetzes beauftragten Personen m&#xFC;ssen unter Vorbehalt des Artikels 83 KVG Dritten gegen&#xFC;ber das Geheimnis &#xFC;ber ihre Feststellungen und Beobachtungen wahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes charg&#xE9;es de l'application de la pr&#xE9;sente loi doivent garder le secret &#xE0; l'&#xE9;gard des tiers sur leurs constatations et observations sous r&#xE9;serve de l'article 83 LAMal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2572">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datenschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Protection des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5879">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Datenschutz wird mit den Vorbehalten des Artikels 84 KVG &#xFC;ber den Datenschutz geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La protection des donn&#xE9;es est r&#xE9;gie par la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale sur la protection des donn&#xE9;es avec les r&#xE9;serves de l'article 84 LAMal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2573">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation und Durchf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation et ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5880">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat wird mit der Durchf&#xFC;hrung des vorliegenden Gesetzes beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5881">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er erl&#xE4;sst auf dem Verordnungsweg die Bestimmungen betreffend:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il &#xE9;dicte, par voie d'ordonnance les dispositions concernant:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2539">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die obligatorische Versicherung:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'assurance obligatoire:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16804">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Organisation und die Durchf&#xFC;hrung der Kontrolle der Versicherungspflicht und des Beitrittes von Amtes wegen,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'organisation et les modalit&#xE9;s du contr&#xF4;le de l'assurance obligatoire et de l'affiliation d'office,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:2540">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Modalit&#xE4;ten des Verfahrens im Falle von Nichtzahlung der Pr&#xE4;mien;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les modalit&#xE9;s de la proc&#xE9;dure en cas de non-paiement des primes;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2542">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die kantonalen Subventionen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les subventions cantonales:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16805">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Organisation und die Kompetenzen der Beh&#xF6;rden welche mit der Anwendung des vorliegenden Gesetzes beauftragt sind,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'organisation et les attributions des autorit&#xE9;s et des autres instances charg&#xE9;es d'appliquer la pr&#xE9;sente loi,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16806">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Kreis der Berechtigten aufgrund der Artikel 6, 7 und 8 des vorliegenden Gesetzes,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le cercle des b&#xE9;n&#xE9;ficiaires sur la base des articles 6, 7 et 8 de la pr&#xE9;sente loi,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16807">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Modalit&#xE4;ten der Berechnung der Subventionen,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les modalit&#xE9;s de calcul des subventions,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:2543">
+                            <partNumber>4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Zahlungsart der Subventionen,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le mode de paiement des subventions,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16808">
+                            <partNumber>5.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">das Verfahren,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la proc&#xE9;dure,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:2546">
+                            <partNumber>6.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Information;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'information;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2549">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Hilfsfonds:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le fonds de secours:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:16809">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Modalit&#xE4;ten der Funktionsweise,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les modalit&#xE9;s de fonctionnement,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:2550">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Kriterien des Einschreitens des Hilfsfonds;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les crit&#xE8;res d'intervention du fonds de secours;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2552">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bezeichnung durch den Staatsrat der im Artikel 44 Absatz 2 KVG vorgesehenen Stelle;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la d&#xE9;signation par le Conseil d'Etat de l'office pr&#xE9;vu &#xE0; l'article 44 alin&#xE9;a 2 LAMal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2553">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Ausf&#xFC;hrungsbestimmungen betreffend Zusatzversicherungen (Artikel 12 des KVG und Artikel 2 Absatz 1 der Verordnung &#xFC;ber die Inkraftsetzung und die Einf&#xFC;hrung des KVG vom 12. April 1995);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les dispositions d'application concernant les assurances compl&#xE9;mentaires (art. 12 LAMal et art. 2 al. 1 de l'ordonnance sur l'entr&#xE9;e en vigueur et l'introduction de la LAMal l'ordonnance du 12 avril 1995);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2554">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Kantonale Versicherungsgericht (Art. 86 und 87 KVG);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le Tribunal cantonal des assurances (art. 86 et 87 LAMal);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2555">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Kantonale Schiedsgericht (Artikel 89 KVG).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le Tribunal arbitral cantonal (art. 89 LAMal).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2574">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5882">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz hebt, sobald es in Kraft tritt, das Gesetz &#xFC;ber die Krankenversicherung vom 17. November 1988, seine Ausf&#xFC;hrungsbestimmungen und jede zu ihm im Widerspruch stehende Bestimmung auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi abroge, d&#xE8;s son entr&#xE9;e en vigueur, la loi sur l'assurance maladie du 17 novembre 1988, ses dispositions d'application et toute disposition qui lui serait contraire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2575">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5883">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz ist Gegenstand des fakultativen Referendums.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est sujette au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5884">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1996-01-01</dateForce>
+      <dateVersion>1996-01-01</dateVersion>
+      <publication>
+        <journalText>RO/GS 1995 f 49, 166 | d 51, 170</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

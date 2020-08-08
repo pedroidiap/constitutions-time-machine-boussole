@@ -1,0 +1,2135 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:881</normID>
+      <number>413.109</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement der Schule f&#xFC;r Berufsvorbereitung des Kantons Wallis</title>
+      <title lang="fr">R&#xE8;glement des &#xE9;coles pr&#xE9;professionnelles du canton du Valais</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2007-12-19</dateAdoption>
+      <dateForce>2007-09-01T00:00:00</dateForce>
+      <dateLastChange>2007-09-01</dateLastChange>
+      <dateVersion>2007-09-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962;</basis> <basis>auf Antrag des Departements f&#xFC;r Erziehung, Kultur und Sport (nachstehend: Departement),</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi sur l'instruction publiquedu 4 juillet 1962;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport (ci-apr&#xE8;s: D&#xE9;partement),</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 3/2008</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2632">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>der Schule f&#xFC;r Berufsvorbereitung des Kantons Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>des &#xE9;coles pr&#xE9;professionnelles du canton du Valais</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2634">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9140">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21101">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement umfasst die Bedingungen f&#xFC;r Aufnahme und Abschluss an den Schulen f&#xFC;r Berufsvorbereitung des Kantons Wallis (nachstehend: SfB).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement d&#xE9;finit les conditions d'admission et de r&#xE9;ussite dans les &#xE9;coles pr&#xE9;professionnelles du canton du Valais (ci-apr&#xE8;s: EPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21102">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es enth&#xE4;lt die Bestimmungen f&#xFC;r die Organisation und den Ablauf der Abschlusspr&#xFC;fungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il fixe les modalit&#xE9;s de l'organisation et du d&#xE9;roulement de l'examen final.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21103">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Personen-, Status- oder Funktionsbezeichnungen dieses Reglements gelten f&#xFC;r beide Geschlechter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le pr&#xE9;sent r&#xE8;glement, toute d&#xE9;signation de personne, de statut ou de fonction s'entend indiff&#xE9;remment au f&#xE9;minin et au masculin.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9141">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definition</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21104">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die SfB bildet eine Abteilung der Sekundarstufe II ohne Berufsschule.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'EPP est une &#xE9;cole de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9; non professionnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9142">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziele</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objectifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21105">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die SfB h&#xE4;ndigt ein Zertifikat aus, das vom Kanton Wallis anerkannt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'EPP d&#xE9;livre un certificat reconnu par le canton du Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21106">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Lehrpl&#xE4;ne, Programme und empfohlene Arbeitsmethoden st&#xFC;tzen sich auf folgende Hauptziele:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le plan d'&#xE9;tudes, les programmes et les m&#xE9;thodes de travail pr&#xE9;conis&#xE9;s reposent sur les objectifs fondamentaux suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10607">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">allgemeines Ziel: Erteilen einer Ausbildung, die grunds&#xE4;tzlich darauf ausgerichtet ist, die Jugendlichen auf den Eintritt in die Arbeitswelt oder in die Handelsmittelschulen (nachstehend: HMS) und/oder die Fachmittelschulen (nachstehend: FMS) des Kantons vorzubereiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">objectif g&#xE9;n&#xE9;ral: dispenser une formation qui vise principalement &#xE0; pr&#xE9;parer les jeunes &#xE0; entrer rapidement dans le monde du travail ou dans les Ecoles sup&#xE9;rieures de commerce (ci-apr&#xE8;s: ESC) et/ou les Ecoles de culture g&#xE9;n&#xE9;rale (ci-apr&#xE8;s: ECG) du canton;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10608">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">spezifische Ziele:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">objectifs sp&#xE9;cifiques:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10609">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Verst&#xE4;rken und Vertiefen der schulischen Grundkenntnisse,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">renforcer et approfondir les connaissances scolaires fondamentales,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10610">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Entwickeln der Sozialkompetenzen im Hinblick auf die F&#xF6;rderung der Selbst&#xE4;ndigkeit, der Eigenverantwortung und der Pers&#xF6;nlichkeitsbildung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d&#xE9;velopper des comp&#xE9;tences sociales en vue de favoriser l'autonomie, la responsabilit&#xE9;, et la recherche personnelle,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10611">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Entwickeln eines Berufsprojekts, das so gut wie m&#xF6;glich den W&#xFC;nschen und F&#xE4;higkeiten des Jugendlichen angepasst ist und Erleichtern der sp&#xE4;teren Berufswahl,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">construire un projet professionnel le mieux adapt&#xE9; aux souhaits et aptitudes des int&#xE9;ress&#xE9;s et faciliter le choix d'une formation ult&#xE9;rieure,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10612">
+                            <partNumber>4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Entwickeln von spezifischen F&#xE4;higkeiten, die den Bed&#xFC;rfnissen der Arbeitswelt und/oder der HMS-FMS des Kantons entsprechen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d&#xE9;velopper des aptitudes sp&#xE9;cifiques r&#xE9;pondant aux exigences du monde professionnel et/ou des ESC-ECG du canton.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9143">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation und Schuldauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation et dur&#xE9;e de la formation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21107">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die SfB umfasst ein Schuljahr nach Abschluss der obligatorischen Schulzeit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'EPP comporte une ann&#xE9;e d'&#xE9;tudes apr&#xE8;s la fin de la scolarit&#xE9; obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21108">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die SfB kann, auf Vorschlag der betroffenen Schulen, nach zwei Stundentafeln gestaltet werden, die folgendermassen bezeichnet sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'EPP peut fonctionner, sur proposition des &#xE9;tablissements scolaires concern&#xE9;s, &#xE0; partir de deux grilles horaires dont les objectifs sont identiques. Ces deux grilles horaires sont d&#xE9;sign&#xE9;es ci-apr&#xE8;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10613">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stundentafel SfB;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">grille horaire EPP;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10614">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stundentafel SfB - alternierendes System.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">grille horaire EPP-Alternance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21109">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die von der Schuldirektion ausgew&#xE4;hlte Stundentafel muss vom Departement bewilligt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La ou les grilles horaires choisies par la direction doivent &#xEA;tre approuv&#xE9;e par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9144">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Abschlusspr&#xFC;fung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Examens de certification</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21110">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Am Ende des Schuljahres legen die Sch&#xFC;ler eine Abschlusspr&#xFC;fung ab und erhalten daf&#xFC;r ein Zertifikat der SfB.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A la fin de l'ann&#xE9;e scolaire, les &#xE9;l&#xE8;ves subissent des examens pour l'obtention du certificat de l'EPP.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2635">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufnahme und &#xDC;bertritte</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Admission et transferts</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9145">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Admission</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21111">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sch&#xFC;ler muss das 3. Jahr der Orientierungsschule abgeschlossen und bestanden haben, um in die SfB aufgenommen zu werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;l&#xE8;ve doit avoir termin&#xE9; et r&#xE9;ussi la troisi&#xE8;me ann&#xE9;e du cycle d'orientation pour &#xEA;tre admis en EPP.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9146">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sonderf&#xE4;lle f&#xFC;r die Aufnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cas sp&#xE9;ciaux d'admission</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21112">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kandidaten, welche die unter Artikel 6 vorgesehenen Bedingungen nicht erf&#xFC;llen, k&#xF6;nnen, in &#xDC;bereinkunft mit dem Departement, in die SfB aufgenommen werden, und zwar aufgrund der Resultate einer Pr&#xFC;fung oder einer gesamtheitlichen Bewertung, die von der SfB organisiert wird, in welche der Sch&#xFC;ler eintreten will.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les candidats ne remplissant pas les conditions pr&#xE9;vues &#xE0; l'article 6, peuvent &#xEA;tre admis &#xE0; l'EPP, avec l'accord du d&#xE9;partement, sur la base des r&#xE9;sultats d'un examen ou d'une appr&#xE9;ciation globale organis&#xE9;s par l'&#xE9;cole pr&#xE9;professionnelle recevant l'&#xE9;l&#xE8;ve.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9147">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wiederholen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Redoublement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21113">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Prinzip kann der Sch&#xFC;ler das Schuljahr nicht wiederholen. Spezielle F&#xE4;lle fallen in die Zust&#xE4;ndigkeit der Schuldirektion, in &#xDC;bereinkunft mit dem Departement.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, l'&#xE9;l&#xE8;ve ne peut pas r&#xE9;p&#xE9;ter l'ann&#xE9;e de programme. Les cas particuliers sont du ressort de la direction, avec l'accord du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9148">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bertritte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transferts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21114">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;bertritte von der SfB in die Handelsmittelschule oder in die Fachmittelschule oder umgekehrt sind m&#xF6;glich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les transferts entre l'EPP et l'&#xE9;cole sup&#xE9;rieure de commerce ou l'&#xE9;cole de culture g&#xE9;n&#xE9;rale ou vice versa sont possibles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21115">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bedingungen werden durch Richtlinien des Departements festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions sont fix&#xE9;es par les directives du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2636">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Pr&#xFC;fungen und Zeugnis</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Examens et certification</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9149">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anerkannte Schulen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etablissements reconnus</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21116">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat Wallis anerkennt das Zertifikat folgender Schulen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat du Valais reconna&#xEE;t le certificat d&#xE9;livr&#xE9; par les &#xE9;coles suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10615">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">SfB in Sitten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'EPP de Sion;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10616">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">SfB La Tuilerie in Saint-Maurice;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'EPP du Coll&#xE8;ge de la Tuilerie &#xE0; Saint-Maurice;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10617">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">SfB der Oberwalliser Mittelschule St. Ursula in Brig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'EPP de l'Institut Sainte-Ursule &#xE0; Brigue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21117">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Liste kann durch den Staatsrat abge&#xE4;ndert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette liste peut &#xEA;tre modifi&#xE9;e par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9150">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zulassungsbedingungen zu den Pr&#xFC;fungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions d'admission aux examens</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21118">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Sch&#xFC;ler, welche das Jahresprogramm der SfB absolviert haben, sind zu den Abschlusspr&#xFC;fungen zugelassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les &#xE9;l&#xE8;ves ayant suivi les cours pr&#xE9;vus au programme de l'ann&#xE9;e EPP sont admis aux examens finaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21119">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler m&#xFC;ssen zudem mindestens f&#xFC;nf Tage Praktikum abgelegt haben, die von der Schule best&#xE4;tigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves doivent en outre avoir effectu&#xE9; au moins cinq jours de stage pratique, valid&#xE9; par l'&#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9151">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ablauf und Organisation der Pr&#xFC;fungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;roulement et organisation des examens</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21120">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Pr&#xFC;fungen finden am Ende des Schuljahres statt und zwar an Daten, die von jeder Schule vorgeschlagen und vom Departement genehmigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les examens ont lieu en fin d'ann&#xE9;e scolaire &#xE0; des dates propos&#xE9;es par chaque &#xE9;cole et accept&#xE9;e par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21121">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Pr&#xFC;fungen werden von den Schuldirektionen organisiert und finden unter ihrer Verantwortung statt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les examens sont organis&#xE9;s par les directions d'&#xE9;cole et ont lieu sous leur responsabilit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21122">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Absolvierung jeder Pr&#xFC;fung unterliegt der Verantwortung der Lehrperson des betroffenen Fachen sowie eines Experten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La passation de chaque &#xE9;preuve est plac&#xE9;e sous la responsabilit&#xE9; de l'enseignant de la discipline concern&#xE9;e et d'un expert.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21123">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktionen k&#xF6;nnen die Experten unter den Lehrpersonen ihrer Schule ausw&#xE4;hlen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les directions peuvent choisir les experts parmi les enseignants de leur &#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21124">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls es die Umst&#xE4;nde erfordern, kann das Departement, auf Antrag der Schuldirektion, eine aussergew&#xF6;hnliche Pr&#xFC;fungssession organisieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si des circonstances le justifient, le d&#xE9;partement peut, sur proposition de la direction de l'&#xE9;cole, organiser une session extraordinaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9152">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pr&#xFC;fungsaufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Epreuves d'examens</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21125">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Pr&#xFC;fungen erfolgen nach Modalit&#xE4;ten, die vom Departement festgelegt werden. Es gibt schriftliche und m&#xFC;ndliche Pr&#xFC;fungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les examens ont lieu d'apr&#xE8;s des modalit&#xE9;s fix&#xE9;es par le d&#xE9;partement. Ils comportent des &#xE9;preuves &#xE9;crites et orales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21126">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie sind so zu gestalten, dass sie die Beurteilung der Kenntnisse des Kandidaten und seiner &#xDC;berlegungs- und Urteilf&#xE4;higkeit gestatten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces derni&#xE8;res doivent &#xEA;tre &#xE9;tablies de mani&#xE8;re &#xE0; permettre l'appr&#xE9;ciation du savoir du candidat ainsi que de ses facult&#xE9;s de raisonnement et de jugement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9153">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unterrichtssprache</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Langue d'enseignement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21127">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sprache, in welcher der Unterricht offiziell stattfindet, wird als Sprache I bezeichnet. Deutsch oder Franz&#xF6;sisch ist obligatorisch die Sprache II.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La langue dans laquelle l'&#xE9;cole donne officiellement ses cours est consid&#xE9;r&#xE9;e comme langue I. L'allemand ou le fran&#xE7;ais est obligatoirement la langue II enseign&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9154">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pr&#xFC;fungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Examens</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35687">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schriftlich gepr&#xFC;ft werden: die Sprache I und Mathematik.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Font l'objet d'un examen &#xE9;crit: la langue I et les math&#xE9;matiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38405">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">M&#xFC;ndlich gepr&#xFC;ft wird: die Sprache I.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Fait l'objet d'un examen oral: la langue I.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38406">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schriftlich und m&#xFC;ndlich gepr&#xFC;ft wird: ein drittes Fach, das von der Direktion der Schule bestimmt wird. Dieses kann von Klasse zu Klasse unterschiedlich sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Fait l'objet d'un examen &#xE9;crit ou oral: une troisi&#xE8;me branche laiss&#xE9;e au choix de la direction de l'&#xE9;tablissement. Cette derni&#xE8;re peut &#xEA;tre diff&#xE9;rente d'une classe &#xE0; l'autre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9155">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verzicht vor oder w&#xE4;hrend der Pr&#xFC;fungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abandon avant les examens ou en cours de session</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21131">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nur Kandidaten, die das Schuljahr und die Pr&#xFC;fungen abgeschlossen haben, erhalten das Jahreszeugnis und bei Erf&#xFC;llung das Zertifikat der SfB.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Seul le candidat qui a termin&#xE9; l'ann&#xE9;e scolaire et les examens re&#xE7;oit le carnet scolaire annuel et, le cas &#xE9;ch&#xE9;ant, le certificat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21132">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zieht sich ein Kandidat im Verlaufe der Pr&#xFC;fungen zur&#xFC;ck, hat er nicht bestanden. Vorbehalten bleiben F&#xE4;lle h&#xF6;herer Gewalt, &#xFC;ber die das Departement entscheidet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le candidat qui se retire en cours de session a &#xE9;chou&#xE9;; sont r&#xE9;serv&#xE9;s les cas de force majeure admis par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21133">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Arztzeugnisse k&#xF6;nnen nur dann gepr&#xFC;ft und f&#xFC;r den Entscheid in Betracht gezogen werden, wenn sie sp&#xE4;testens im Verlaufe der Pr&#xFC;fungen abgegeben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Seuls les certificats m&#xE9;dicaux d&#xE9;pos&#xE9;s au plus tard en cours de session peuvent &#xEA;tre pris en consid&#xE9;ration pour examen et d&#xE9;cision.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9156">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21134">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem Kandidaten stehen zur Verf&#xFC;gung:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est accord&#xE9; au candidat:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10618">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r die schriftlichen Pr&#xFC;fungen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les examens &#xE9;crits:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10619">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">drei Stunden f&#xFC;r die Sprache I,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">trois heures pour la langue I,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10620">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zwei Stunden f&#xFC;r die anderen F&#xE4;cher;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">deux heures pour les autres branches;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10621">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;r die m&#xFC;ndlichen Pr&#xFC;fungen: zehn bis 15 Minuten Vorbereitung und zehn bis 15 Minuten m&#xFC;ndliche Pr&#xFC;fung f&#xFC;r jedes gepr&#xFC;fte Fach.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les examens oraux: dix &#xE0; 15 minutes de pr&#xE9;paration et autant pour l'examen oral de chaque branche.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9157">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Hilfsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Moyens auxiliaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21135">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die bewilligten Hilfsmittel werden von der Schule bestimmt, unter Zustimmung des Departements.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les moyens auxiliaires autoris&#xE9;s aux examens sont fix&#xE9;s par l'&#xE9;cole avec l'accord du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9158">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betrug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fraude</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21136">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ben&#xFC;tzung nicht bewilligter Hilfsmittel oder jeder Betrug sind verboten und werden bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'utilisation de tout moyen non autoris&#xE9; ou toute fraude sont interdites et passibles de sanction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21137">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird ein Kandidat beim Betrug &#xFC;berrascht, muss die Aufsichtsperson eingreifen. Solange die Strafe nicht ausgesprochen ist, setzt der Kandidat seine Pr&#xFC;fungen fort.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le candidat est surpris &#xE0; tricher, le surveillant doit intervenir. Tant que la sanction n'est pas prononc&#xE9;e, le candidat poursuit ses examens.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21138">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In allen F&#xE4;llen des Betrugs hat die Aufsichtsperson einen schriftlichen Bericht an die Schulleitung zu richten. Diese leitet den Bericht, begleitet mit einem Antrag, sofort an das Departement weiter; dieses setzt die Strafe fest, die vom Ausschluss der Pr&#xFC;fungen bis zum Verlust auf das Anrecht des Zertifikats gehen kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans tous les cas de fraude, le surveillant doit adresser un rapport &#xE9;crit &#xE0; la direction de l'&#xE9;tablissement. Celle-ci transmet imm&#xE9;diatement le rapport accompagn&#xE9; de son pr&#xE9;avis au d&#xE9;partement; ce dernier fixe la sanction qui peut aller jusqu'&#xE0; l'exclusion de la session d'examens ou &#xE0; la perte de tout droit au certificat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21139">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend den schriftlichen Pr&#xFC;fungen ist es den Kandidaten verboten, den Saal ohne Sonderbewilligung der Direktion zu verlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pendant les examens &#xE9;crits, il est interdit aux candidats de quitter la salle, sauf autorisation sp&#xE9;ciale de la direction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21140">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des vorliegenden Artikels sowie die Liste der zugelassenen Hilfsmittel werden den Kandidaten ausdr&#xFC;cklich vor den Pr&#xFC;fungen mitgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions du pr&#xE9;sent article et la liste des moyens auxiliaires autoris&#xE9;s sont express&#xE9;ment communiqu&#xE9;s aux candidats avant la session.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9159">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwesenheit von Drittpersonen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;sence de tiers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21141">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es sind nur folgende Personen berechtigt, den Pr&#xFC;fungen beizuwohnen: die Aufsichtspersonen, die Lehrperson, der Direktor der Schule, der Inspektor und die Vertreter des Departements.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont seuls admis &#xE0; assister aux examens les surveillants, le professeur, l'expert, le directeur de l'&#xE9;tablissement, l'inspecteur et les d&#xE9;l&#xE9;gu&#xE9;s du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9160">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Notenskala</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Bar&#xE8;me</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21142">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Wert jeder Pr&#xFC;fung ist durch folgende Noten auszudr&#xFC;cken:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La valeur de chaque &#xE9;preuve &#xE9;crite et orale doit &#xEA;tre exprim&#xE9;e par les notes suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10622">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">6; 5.5; 5; 4.5 und 4 f&#xFC;r gen&#xFC;gende Leistungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">6; 5.5; 5; 4.5 et 4 pour les prestations suffisantes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10623">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">3.5; 3; 2.5; 2; 1.5 und 1 f&#xFC;r ungen&#xFC;gende Leistungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">3.5; 3; 2.5; 2; 1.5 et 1 pour les prestations insuffisantes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21143">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Note 1 wird gegeben, wenn jegliche Antwort verweigert wird oder bei Betrug.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La note 1 est attribu&#xE9;e lorsque toute r&#xE9;ponse est refus&#xE9;e ou en cas de fraude.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9161">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Notendurchschnitte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Moyennes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21144">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Notendurchschnitte werden auf den Hundertstel berechnet und nach dem &#xFC;blichen System auf Zehntel auf- oder abgerundet (z.B. 5.29 = 5.3; 4.25 = 4.3; 3.54 = 3.5).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les notes moyennes sont calcul&#xE9;es au centi&#xE8;me avant d'&#xEA;tre arrondies au dixi&#xE8;me sup&#xE9;rieur ou inf&#xE9;rieur, suivant le syst&#xE8;me conventionnel g&#xE9;n&#xE9;ralement admis (p.ex. 5.29 = 5.3; 4.25 = 4.3; 3.54 = 3.5).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9162">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung der Notendurchschnitte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul des moyennes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21145">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schlussnote f&#xFC;r jedes Fach ergibt sich aus dem Durchschnitt der Note des ersten Semesters, der Note des zweiten Semesters und jener der Schlusspr&#xFC;fungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La note finale de chaque branche d'examen est la moyenne entre la note du premier semestre, la note du deuxi&#xE8;me semestre et celle des r&#xE9;sultats de l'examen final.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21146">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den F&#xE4;chern, in denen schriftlich und m&#xFC;ndlich gepr&#xFC;ft wird, werden die Noten mit einem Koeffizienten von 2 f&#xFC;r die Note des ersten Semesters, mit einem Koeffizienten von 2 f&#xFC;r die Note des zweiten Semesters und mit einem Koeffizienten von 1 f&#xFC;r den Durchschnitt der schriftlichen und m&#xFC;ndlichen Pr&#xFC;fungen berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les branches qui comportent un examen &#xE9;crit et oral, les notes sont calcul&#xE9;es avec un coefficient de 2 pour la note du premier semestre, de 2 pour la note du deuxi&#xE8;me semestre, et 1 pour la moyenne des examens &#xE9;crit et oral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21147">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den F&#xE4;chern, in denen schriftlich oder m&#xFC;ndlich gepr&#xFC;ft wird, werden die Noten mit einem Koeffizienten von 2 f&#xFC;r die Note des ersten Semesters, von 2 f&#xFC;r die Note des zweiten Semesters, und von 1 f&#xFC;r die Note der schriftlichen oder m&#xFC;ndlichen Pr&#xFC;fungen berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les branches qui comportent un examen &#xE9;crit ou oral, les notes sont calcul&#xE9;es avec un coefficient 2 pour la note du premier semestre, de 2 pour la note du deuxi&#xE8;me semestre, et 1 pour la note de l'examen &#xE9;crit et oral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21148">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den F&#xE4;chern, in denen kein Schlussexamen stattfindet, z&#xE4;hlt die Jahresnote f&#xFC;r das Zeugnis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les branches o&#xF9; il n'y a pas d'examen, la note annuelle compte comme note de certificat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21149">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist Sache der Schuldirektion, die Sch&#xFC;ler &#xFC;ber diese Bestimmungen schriftlich zu informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il incombe &#xE0; la direction de l'&#xE9;cole d'informer par &#xE9;crit les &#xE9;l&#xE8;ves des dispositions qui pr&#xE9;c&#xE8;dent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9163">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">F&#xE4;cher</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Branches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21150">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Note wird f&#xFC;r jedes unterrichtete und nachstehend aufgef&#xFC;hrte Fach gegeben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une note est attribu&#xE9;e pour chacune des branches enseign&#xE9;es suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21129">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 1 (Schulische Grundkenntnisse): Sprache I, Sprache II, Englisch, Mathematik, angewandte Naturwissenschaft;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 1 (connaissances scolaires fondamentales): langue I, langue II, anglais, math&#xE9;matiques, sciences appliqu&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21130">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 2 (Berufsprojekt): Zugang zur Arbeitswelt, B&#xFC;rokommunikation, Informatik;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 2 (projet professionnel): approche du monde du travail, bureautique, informatique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21131">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 3 (Unterricht durch interdisziplin&#xE4;re Projekte und pers&#xF6;nliche Arbeiten und/oder Ateliers): Visuelle Kunst, Biologie, Chemie, Staatskunde und Recht, Wirtschaftskunde, Kunsterziehung (Gesang, Zeichnen, Werken), Turn- und Sportunterricht, Geographie, Geschichte, Kunstgeschichte, Musikgeschichte, Informatik, Philosophie, Physik, Psychologie, Religionswissenschaften oder christliche Religion, pers&#xF6;nliche Arbeit.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 3 (enseignement par projet interdisciplinaire et travaux personnels et/ou ateliers): arts visuels, biologie, chimie, civisme et droit, &#xE9;conomie, &#xE9;ducation artistique (chant, dessin, travaux manuels), &#xE9;ducation physique, g&#xE9;ographie, histoire, histoire de l'art, histoire de la musique, informatique, philosophie, physique, psychologie, sciences des religions ou religion chr&#xE9;tienne, travail personnel.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21151">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im alternierenden System wird f&#xFC;r jedes nachstehend aufgef&#xFC;hrte Fach eine Note gegeben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le syst&#xE8;me Alternance, une note est attribu&#xE9;e pour chacune des branches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21132">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 1 (Schulische Grundkenntnisse): Sprache I, Sprache II, Englisch, Mathematik;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 1 (connaissances scolaires fondamentales): langue I, langue II, anglais, math&#xE9;matiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21133">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 2 (Berufsprojekt): Zugang zur Arbeitswelt, Informatik;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 2 (projet professionnel): approche du monde du travail, informatique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21134">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gruppe 3: Ateliers, Turn- und Sportunterricht, Religionswissenschaften oder christliche Religion.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">groupe 3: ateliers, &#xE9;ducation physique, sciences des religions ou religion chr&#xE9;tienne.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21152">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im alternierenden System wird die Atelierarbeit aufgrund von mindestens drei verschiedenen Kriterien bewertet, wobei jedes Kriterium benotet wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le syst&#xE8;me Alternance, le travail en atelier est &#xE9;valu&#xE9; sur la base de trois crit&#xE8;res diff&#xE9;rents au minimum faisant chacun l'objet d'une note.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21153">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Absprache mit dem Departement w&#xE4;hlt und kommuniziert die Schuldirektion diejenigen F&#xE4;cher aus der Gruppe 3, die unterrichtet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En accord avec le d&#xE9;partement, la direction de l'&#xE9;cole choisit et annonce, parmi les branches du groupe 3, celles qui feront l'objet d'un enseignement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21154">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Turn- und Sportunterricht und der Religionsunterricht sind obligatorische F&#xE4;cher.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;ducation physique et l'enseignement religieux sont obligatoirement enseign&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21155">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Absprache mit dem Departement kann die Schuldirektion die Liste der F&#xE4;cher der Gruppe 3 erg&#xE4;nzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En accord avec le d&#xE9;partement, la direction de l'&#xE9;cole peut compl&#xE9;ter la liste des branches du groupe 3.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9164">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erforderliche Noten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exigences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21156">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Zertifikat der SfB wird einem Kandidaten ausgestellt, wenn er kumulativ folgende Bedingungen erf&#xFC;llt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le certificat de l'EPP est accord&#xE9; au candidat qui obtient cumulativement:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10624">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein allgemeines Punktetotal, das der Anzahl unterrichteter F&#xE4;cher mal 4 entspricht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un total g&#xE9;n&#xE9;ral de points &#xE9;gal au nombre de branches enseign&#xE9;es fois 4;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10625">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Total von 20 Punkten f&#xFC;r alle F&#xE4;cher der Gruppe 1 (16 Punkte im alternierenden System);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un total de 20 points pour l'ensemble des branches du groupe 1 (16 dans le syst&#xE8;me Alternance);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10626">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein allgemeines Punktetotal, das der Anzahl unterrichteter F&#xE4;cher mal 4 entspricht f&#xFC;r alle F&#xE4;cher der Gruppen 2 und 3.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un total de points &#xE9;gal au nombre de branches enseign&#xE9;es fois 4, pour l'ensemble des branches des groupes 2 et 3.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21157">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die erhaltene Note f&#xFC;r die pers&#xF6;nliche Arbeit z&#xE4;hlt wie ein Fach der Gruppe 3.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La note obtenue pour le travail personnel compte comme une des branches du groupe 3.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21158">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Zeugnis wird einem Kandidaten verweigert, wenn er eine Note 1 (1 bis 1.4) oder zwei Noten 2 (1.5 bis 2.4) oder eine Note 2 und zwei Noten 3 (2.5 bis 3.4) oder mehr als dreimal die Note 3 in irgendeinem Fach hat, inklusive die pers&#xF6;nliche Arbeit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le certificat est refus&#xE9; au candidat qui obtient une note 1 (1 &#xE0; 1.4) ou deux notes 2 (1.5 &#xE0; 2.4) ou une note 2 et deux notes 3 (2.5 &#xE0; 3.4) ou plus de trois notes 3 dans n'importe quelle branche, y compris celle attribu&#xE9;e au travail personnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9165">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Angaben auf dem Zertifikat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Indications figurant sur le certificat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21159">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Zertifikat der SfB, das vom Departement ausgestellt wird, enth&#xE4;lt folgende Angaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le certificat de l'EPP, d&#xE9;livr&#xE9; par le d&#xE9;partement, porte les indications suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10627">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kanton Wallis und Zertifikat SfB;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">canton du Valais et certificat EPP;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10628">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bezeichnung der Schule;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la d&#xE9;nomination de l'&#xE9;cole;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10629">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Name, Vorname(n), Geburtsdatum, Heimat- und Wohnort des Auszuzeichnenden, sowie die Angabe, dass er die Kurse einer offiziellen SfB besucht hat;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les nom, pr&#xE9;nom(s), date de naissance, lieu d'origine et domicile du r&#xE9;cipiendaire, ainsi que l'indication qu'il a suivi les cours d'une EPP officielle;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10630">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Ausstelldatum, die Unterschriften des Departementvorstehers und des Schuldirektors.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la date de son &#xE9;tablissement, les signatures du chef du d&#xE9;partement et du directeur de l'&#xE9;cole.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21160">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Zertifikat wird gleichzeitig mit dem Schulzeugnis ausgeh&#xE4;ndigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le certificat est d&#xE9;livr&#xE9; en m&#xEA;me temps que le carnet scolaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2637">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Beschwerdeverfahren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Proc&#xE9;dure de recours</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9166">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21161">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die bei der Anwendung dieses Reglements gef&#xE4;llten Entscheide sind den Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG) unterstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises en application du pr&#xE9;sent r&#xE8;glement sont soumises aux dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976 (LPJA).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9167">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beschwerde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21162">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die Entscheide des Departements kann innert 30 Tagen nach deren Bekanntgabe beim Staatsrat Beschwerde erhoben werden. Wenn es sich um eine Vor- oder Zwischenverf&#xFC;gung handelt (Art. 41 Abs. 2 und Art. 2 VVRG), betr&#xE4;gt die Frist zehn Tage nach deren Bekanntgabe.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions du d&#xE9;partement sont susceptibles de recours au Conseil d'Etat dans les 30 jours ou, s'il s'agit d'une d&#xE9;cision incidente (art. 41 al. 2 et 42 LPJA), dans les dix jours d&#xE8;s sa notification.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21163">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegenstand einer Beschwerde k&#xF6;nnen Entscheide sein &#xFC;ber:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peuvent notamment faire l'objet de recours, les d&#xE9;cisions concernant:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10631">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zulassung zu den Abschlusspr&#xFC;fungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'admission &#xE0; l'examen du certificat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10632">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Strafmassnahmen im Falle eines Betruges;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les sanctions en cas de fraude;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10633">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verweigerung des Zertifikats.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le refus de d&#xE9;livrer le certificat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2638">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9168">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unvorhergesehene F&#xE4;lle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cas impr&#xE9;vus</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21164">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler sind zus&#xE4;tzlich den Bestimmungen des Allgemeinen Reglements &#xFC;ber die Mittelschulen vom 17. Dezember 2003 sowie den Weisungen des Departements unterworfen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au surplus, les &#xE9;l&#xE8;ves sont soumis aux dispositions du r&#xE8;glement g&#xE9;n&#xE9;ral concernant les &#xE9;tablissements de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9; du 17 d&#xE9;cembre 2003 ainsi qu'aux dispositions du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21165">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle unvorhergesehenen F&#xE4;lle fallen in die Zust&#xE4;ndigkeit des Departements.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les cas non pr&#xE9;vus sont du ressort du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9169">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Clause abrogatoire et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21166">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement ersetzt jenes vom 15. Februar 2006. Es wird im Amtsblatt ver&#xF6;ffentlicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge celui du 15 f&#xE9;vrier 2006. Il est publi&#xE9; au Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21167">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es tritt zu Beginn des Schuljahres 2007-2008 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Son entr&#xE9;e en vigueur est fix&#xE9;e &#xE0; la rentr&#xE9;e scolaire 2007-2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2007-09-01</dateForce>
+      <dateVersion>2007-09-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 3/2008</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

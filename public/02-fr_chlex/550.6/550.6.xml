@@ -1,0 +1,1741 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:605</normID>
+      <number>550.6</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GhG</abbreviation>
+      <abbreviation lang="fr">LVD</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber h&#xE4;usliche Gewalt</title>
+      <title lang="fr">Loi sur les violences domestiques</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2015-12-18</dateAdoption>
+      <dateForce>2017-01-01T00:00:00</dateForce>
+      <dateLastChange>2017-01-01</dateLastChange>
+      <dateVersion>2017-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 13a, 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:(Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 13a, 31 alin&#xE9;a 1 lettre a et 42 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:(Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 4/2016, 39/2016</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1975">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber h&#xE4;usliche Gewalt</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les violences domestiques</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1977">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6738">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15468">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz bezweckt die Verst&#xE4;rkung und Koordination der Massnahmen zur Verhinderung und Bek&#xE4;mpfung von h&#xE4;uslicher Gewalt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour but de renforcer et de coordonner les mesures visant &#xE0; pr&#xE9;venir et &#xE0; lutter contre les violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15469">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es zielt darauf ab, Personen, die Opfer von h&#xE4;uslicher Gewalt sind, zu sch&#xFC;tzen sowie begleitende Massnahmen f&#xFC;r die Urheber zu unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle vise &#xE0; prot&#xE9;ger les personnes qui en sont les victimes et &#xE0; soutenir les mesures destin&#xE9;es &#xE0; l'accompagnement des auteurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6739">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15470">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Man versteht unter:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">On entend par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8341">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">h&#xE4;usliche Gewalt: jede Verletzung oder Androhung einer Verletzung der k&#xF6;rperlichen, sexuellen, psychischen oder wirtschaftlichen Integrit&#xE4;t einer Person, die ihrer Gesundheit, ihrem &#xDC;berleben, ihrer Entwicklung oder ihrer W&#xFC;rde tats&#xE4;chlich oder potenziell schadet, ausge&#xFC;bt durch eine andere Person, mit der diese durch Familie, Ehe, eingetragene Partnerschaft oder freie Beziehung verbunden ist, w&#xE4;hrend des Zusammenlebens oder innerhalb des Jahres, das auf die Scheidung, die gerichtliche Aufl&#xF6;sung oder die Trennung folgt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">violences domestiques: toutes atteintes ou menaces d'atteintes &#xE0; l'int&#xE9;grit&#xE9; corporelle, sexuelle, psychique ou &#xE9;conomique &#xE0; l'encontre d'une personne entrainant un pr&#xE9;judice r&#xE9;el ou potentiel pour sa sant&#xE9;, sa survie, son d&#xE9;veloppement ou sa dignit&#xE9;, exerc&#xE9;es par une autre personne &#xE0; laquelle elle est li&#xE9;e par un rapport familial, conjugal, de partenariat enregistr&#xE9; ou d'union libre, durant la vie commune ou dans l'ann&#xE9;e qui suit le divorce, la dissolution judiciaire ou la s&#xE9;paration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8342">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von h&#xE4;uslicher Gewalt betroffene Personen: die Opfer und die Urheber von h&#xE4;uslicher Gewalt sowie die Kinder und Verwandten aus der h&#xE4;uslichen Umgebung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">personnes concern&#xE9;es par les violences domestiques: les victimes et les auteurs de violences domestiques ainsi que les enfants et les proches vivant dans le cercle domestique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1978">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation und Beh&#xF6;rden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation et autorit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6740">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Staatsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil d'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15471">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8343">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gibt die Leitlinien im Kampf gegen h&#xE4;usliche Gewalt vor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;termine les lignes directrices en mati&#xE8;re de lutte contre les violences domestiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8344">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gew&#xE4;hrt im Rahmen seiner ordentlichen Finanzkompetenzen finanzielle Hilfen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">octroie des aides financi&#xE8;res dans le cade de ses comp&#xE9;tences financi&#xE8;res ordinaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8345">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">erl&#xE4;sst die Ausf&#xFC;hrungsbestimmungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;dicte les dispositions d'ex&#xE9;cution.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6741">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Departement</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;partement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15472">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement, dem das kantonale Amt f&#xFC;r Gleichstellung und Familie angegliedert ist, wird mit der h&#xE4;uslichen Gewalt betraut (nachstehend: Departement).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement auquel est rattach&#xE9; l'Office cantonal de l'&#xE9;galit&#xE9; et de la famille est en charge des violences domestiques (ci-apr&#xE8;s: D&#xE9;partement).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15473">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es hat zur Aufgabe:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il a pour t&#xE2;che:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8346">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massnahmen zur Bek&#xE4;mpfung h&#xE4;uslicher Gewalt zu koordinieren und umzusetzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de coordonner et de mettre en oeuvre des actions de lutte contre les violences domestiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8347">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen seiner ordentlichen Finanzkompetenzen finanzielle Hilfen zu gew&#xE4;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'octroyer des aides financi&#xE8;res dans le cadre de ses comp&#xE9;tences financi&#xE8;res ordinaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6742">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonales Amt f&#xFC;r Gleichstellung und Familie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Office cantonal de l'&#xE9;galit&#xE9; et de la famille</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15474">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das kantonale Amt f&#xFC;r Gleichstellung und Familie (nachstehend: Amt) ist das Koordinationsorgan im Sinne des vorliegenden Gesetzes und hat insbesondere zur Aufgabe:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Office cantonal de l'&#xE9;galit&#xE9; et de la famille (ci-apr&#xE8;s: Office) est l'organe de coordination au sens de la pr&#xE9;sente loi et a notamment pour t&#xE2;ches:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8348">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die vom Staatsrat und vom Departement anvertrauten Aufgaben zur Bek&#xE4;mpfung h&#xE4;uslicher Gewalt auszuf&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'ex&#xE9;cuter les t&#xE2;ches en mati&#xE8;re de lutte contre les violences domestiques confi&#xE9;es par le Conseil d'Etat et le D&#xE9;partement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8349">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">vernetztes Arbeiten zu f&#xF6;rdern und die effiziente Zusammenarbeit zwischen den verschiedenen Beh&#xF6;rden und &#xF6;ffentlichen oder privaten Einrichtungen, welche h&#xE4;usliche Gewalt bek&#xE4;mpfen, zu unterst&#xFC;tzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'encourager le travail en r&#xE9;seau et de coordonner la collaboration efficace entre les diff&#xE9;rentes autorit&#xE9;s et institutions publiques ou priv&#xE9;es luttant contre les violences domestiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8350">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei der Ausarbeitung von Gesetzesentw&#xFC;rfen und bei wichtigen Entscheiden in Sachen Bek&#xE4;mpfung h&#xE4;uslicher Gewalt mitzuarbeiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de participer aux projets l&#xE9;gislatifs et aux d&#xE9;cisions importantes en mati&#xE8;re de lutte contre les violences domestiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8351">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Pr&#xE4;ventions- und Sensibilisierungsprogramme einzuf&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'initier des programmes de pr&#xE9;vention et de sensibilisation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8352">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Rahmen seiner ordentlichen Finanzkompetenzen finanzielle Hilfen zu gew&#xE4;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'octroyer des aides financi&#xE8;res dans le cadre de ses comp&#xE9;tences financi&#xE8;res ordinaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8353">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Fachleuten mit Hilfe und Informationen zur Verf&#xFC;gung zu stehen und sie an die spezialisierten Organisationen weiterzuleiten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de se tenir &#xE0; disposition des professionnels pour leur fournir aide et information et les orienter vers les organismes sp&#xE9;cialis&#xE9;s.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15475">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt seine Aufgaben und Kompetenzen auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance ses t&#xE2;ches et comp&#xE9;tences.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6743">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonale Konsultativkommission gegen h&#xE4;usliche Gewalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission cantonale consultative contre les violences domestiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15476">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt eine kantonale Konsultativkommission gegen h&#xE4;usliche Gewalt (nachstehend: Kommission), welche sich aus 9 bis 15 Mitgliedern aus den von der Thematik betroffenen Berufsgruppen zusammensetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat nomme une commission cantonale consultative contre les violences domestiques (ci-apr&#xE8;s: Commission) compos&#xE9;e de 9 &#xE0; 15 membres repr&#xE9;sentant les milieux professionnels concern&#xE9;s par la th&#xE9;matique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15477">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission hat zur Aufgabe, das Amt zu unterst&#xFC;tzen, insbesondere indem sie eine Vormeinung zu Projekten abgibt und Empfehlungen ausarbeitet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Commission a pour t&#xE2;che d'apporter un soutien &#xE0; l'Office, notamment en pr&#xE9;avisant des projets et en &#xE9;laborant des recommandations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15478">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Zusammensetzung, die Zust&#xE4;ndigkeiten und die Funktionsweise der Kommission auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la composition, les attributions et le fonctionnement de la Commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6744">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Regionale Gruppen gegen h&#xE4;usliche Gewalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Groupes r&#xE9;gionaux contre les violences domestiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15479">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt auf Vorschlag der Kommission die Mitglieder von drei regionalen Gruppen gegen h&#xE4;usliche Gewalt (nachstehend: regionale Gruppen), welche sich aus Fachpersonen zusammensetzen, die beruflich mit von h&#xE4;uslicher Gewalt betroffenen Personen arbeiten. Er kann seine Zust&#xE4;ndigkeit an das Amt delegieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat nomme, sur proposition de la Commission, les membres de trois Groupes r&#xE9;gionaux contre les violences domestiques (ci-apr&#xE8;s: Groupes r&#xE9;gionaux) compos&#xE9;s de professionnels du terrain travaillant avec les personnes concern&#xE9;es par les violences domestiques. Il peut d&#xE9;l&#xE9;guer sa comp&#xE9;tence &#xE0; l'Office.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15480">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie haben insbesondere zur Aufgabe, koordinierte Interventionsstrategien zu entwickeln und die Fachpersonen multidisziplin&#xE4;r zu unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils ont notamment pour t&#xE2;che de d&#xE9;velopper des strat&#xE9;gies d'intervention coordonn&#xE9;es et d'apporter un soutien pluridisciplinaire aux professionnels.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15481">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Zusammensetzung, die Zust&#xE4;ndigkeiten und die Funktionsweise der regionalen Gruppen auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la composition, les attributions et le fonctionnement des Groupes r&#xE9;gionaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6745">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15482">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden arbeiten am Vollzug des vorliegenden Gesetzes mit, namentlich im Bereich der Information und Pr&#xE4;vention.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes collaborent &#xE0; la mise en oeuvre de la pr&#xE9;sente loi, notamment dans le domaine de l'information et de la pr&#xE9;vention.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15483">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie sind in den regionalen Gruppen vertreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles sont repr&#xE9;sent&#xE9;es au sein des Groupes r&#xE9;gionaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1979">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Zusammenarbeit zwischen Beh&#xF6;rden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Collaboration entre autorit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6746">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Risikoeinsch&#xE4;tzung und koordiniertes Bedrohungsmanagement</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation des risques et gestion coordonn&#xE9;e des menaces</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15484">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement achtet darauf, dass eine Risikoeinsch&#xE4;tzung und ein koordiniertes Bedrohungsmanagement gew&#xE4;hrleistet sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement veille &#xE0; ce qu'une &#xE9;valuation des risques et une gestion coordonn&#xE9;e des menaces soient assur&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15485">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer in der Aus&#xFC;bung seiner amtlichen Funktion ein erh&#xF6;htes Risiko zum Begehen einer Tat von h&#xE4;uslicher Gewalt, die eine Person gef&#xE4;hrdet, feststellt, muss dies der zust&#xE4;ndigen Kindes- und Erwachsenenschutzbeh&#xF6;rde (nachstehend: KESB) melden, die unverz&#xFC;glich das Amt informiert. Diese Personen sind vom Amtsgeheimnis entbunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne qui, dans l'exercice de sa fonction officielle, constate un risque important de commission d'un acte de violence domestique mettant en danger une personne, doit le signaler &#xE0; l'autorit&#xE9; de protection de l'enfant et de l'adulte (ci-apr&#xE8;s: APEA) comp&#xE9;tente, qui en informe sans d&#xE9;lai l'Office. Ces personnes sont d&#xE9;li&#xE9;es du secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15486">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer in der Aus&#xFC;bung seines Berufs ein solches Risiko feststellt, kann dies der zust&#xE4;ndigen KESB melden, die unverz&#xFC;glich das Amt informiert. Diese Personen sind vom Berufsgeheimnis entbunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne qui, dans l'exercice de sa profession, constate un tel risque, peut le signaler &#xE0; l'APEA comp&#xE9;tente, qui en informe sans d&#xE9;lai l'Office. Ces personnes sont d&#xE9;li&#xE9;es du secret professionnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15487">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Besteht ein erh&#xF6;htes Risiko, dass eine Tat von h&#xE4;uslicher Gewalt begangen wird, die eine Person gef&#xE4;hrdet, kann das Amt im Einvernehmen mit der zust&#xE4;ndigen KESB:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En pr&#xE9;sence d'un risque important de commission d'un acte de violence domestique mettant en danger une personne, l'Office peut, d'entente avec l'APEA comp&#xE9;tente:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8354">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von der zust&#xE4;ndigen KESB und den betroffenen Stellen alle n&#xFC;tzlichen Informationen f&#xFC;r das koordinierte Management des Falles verlangen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">demander &#xE0; l'APEA comp&#xE9;tente et aux services concern&#xE9;s toute information utile &#xE0; la gestion coordonn&#xE9;e du cas;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:8355">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine Fallbesprechung einberufen, indem die zust&#xE4;ndige KESB sowie die vom besagten Fall betroffenen Stellen und Fachpersonen eingeladen werden, um die Risiken einzusch&#xE4;tzen und sich zu vergewissern, dass koordinierte Massnahmen ergriffen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">convoquer une discussion de cas en invitant l'APEA comp&#xE9;tente, les services et les professionnels concern&#xE9;s par le dit cas afin d'&#xE9;valuer les risques et de s'assurer que des mesures coordonn&#xE9;es soient prises.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15488">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Personen, die an der Besprechung eines Falls teilnehmen, sind vom Amts- oder Berufsgeheimnis entbunden, um die n&#xF6;tigen Informationen f&#xFC;r die Risikoeinsch&#xE4;tzung bekannt zu geben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes amen&#xE9;es &#xE0; participer &#xE0; la discussion d'un cas sont d&#xE9;li&#xE9;es du secret de fonction ou du secret professionnel afin de communiquer les informations n&#xE9;cessaires &#xE0; l'&#xE9;valuation des risques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15489">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r die Risikoeinsch&#xE4;tzung und das koordinierte Management des Falles gesammelten Personendaten und besonders sch&#xFC;tzenswerten Daten werden vom Amt gem&#xE4;ss der eidgen&#xF6;ssischen und kantonalen Datenschutzgesetzgebung behandelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es personnelles et sensibles recueillies pour l'&#xE9;valuation des risques et la gestion coordonn&#xE9;e du cas sont trait&#xE9;es par l'Office conform&#xE9;ment &#xE0; la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale en mati&#xE8;re de protection des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15490">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Bundesgesetzes &#xFC;ber die Hilfe an Opfer von Straftaten sind vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi f&#xE9;d&#xE9;rale sur l'aide aux victimes d'infraction sont r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15491">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das anwendbare Verfahren auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la proc&#xE9;dure applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6747">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftsrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit de renseigner</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15492">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angestellten der Dienststellen des Staates und die zur Erf&#xFC;llung von Aufgaben von &#xF6;ffentlichem Nutzen beauftragten Organisationen, die sich in Aus&#xFC;bung ihrer Funktion mit Situationen von h&#xE4;uslicher Gewalt befassen, k&#xF6;nnen auf Anfrage hin den Justiz- und Strafbeh&#xF6;rden und den zust&#xE4;ndigen Dienststellen des Staates n&#xFC;tzliche Ausk&#xFC;nfte erteilen, wenn es das Interesse der betroffenen Personen erfordert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les employ&#xE9;s des services de l'Etat et des organismes mandat&#xE9;s pour accomplir des t&#xE2;ches d'utilit&#xE9; publique, qui, dans l'exercice de leurs fonctions, sont amen&#xE9;s &#xE0; traiter de situations de violences domestiques, peuvent fournir sur demande les renseignements utiles aux autorit&#xE9;s judiciaires et de poursuite p&#xE9;nale et aux services de l'Etat comp&#xE9;tents, lorsque l'int&#xE9;r&#xEA;t des personnes concern&#xE9;es l'exige.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15493">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Bundesgesetzes &#xFC;ber die Hilfe an Opfer von Straftaten sind vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi f&#xE9;d&#xE9;rale sur l'aide aux victimes d'infraction sont r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6748">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinde- und Kantonspolizei</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Polices municipales et cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15494">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Gemeindepolizei in Situationen von h&#xE4;uslicher Gewalt eingreift, welche von Amtes wegen verfolgt werden, verst&#xE4;ndigt sie unverz&#xFC;glich die Kantonspolizei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les polices municipales interviennent dans des situations de violences domestiques poursuivies d'office, elles avisent imm&#xE9;diatement la Police cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15495">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Interventionen, die auf Antrag hin verfolgt werden, l&#xE4;sst sie der Kantonspolizei eine Kopie des Interventionsberichts zukommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'interventions poursuivies sur plainte, elles transmettent une copie du rapport d'intervention &#xE0; la Police cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1980">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Massnahmen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Mesures</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6749">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unterst&#xFC;tzung von Projekten und Organisationen zur Bek&#xE4;mpfung h&#xE4;uslicher Gewalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Soutien &#xE0; des projets et &#xE0; des organismes luttant contre les violences domestiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15496">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat unterst&#xFC;tzt die Projekte und Organisationen, die h&#xE4;usliche Gewalt bek&#xE4;mpfen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat soutient les projets et organismes luttant contre les violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15497">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er kann im Rahmen der gew&#xE4;hrten Kredite per Entscheid finanzielle Hilfen f&#xFC;r Projekte zur Bek&#xE4;mpfung von h&#xE4;uslicher Gewalt in Form von A-fonds-perdu-Beitr&#xE4;gen gew&#xE4;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il peut, dans la limite des cr&#xE9;dits allou&#xE9;s, accorder par d&#xE9;cision des aides financi&#xE8;res &#xE0; des projets de lutte contre les violences domestiques sous forme de contribution &#xE0; fonds perdu.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15498">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das Verfahren und die Voraussetzungen f&#xFC;r die Ausrichtung von finanziellen Hilfen auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la proc&#xE9;dure et les crit&#xE8;res d'attribution des aides financi&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15499">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bedingungen f&#xFC;r die Anerkennung und Finanzierung von spezialisierten Institutionen werden durch die Spezialgesetzgebung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions de reconnaissance et de financement des institutions sp&#xE9;cialis&#xE9;es sont r&#xE9;gl&#xE9;es par des lois sp&#xE9;ciales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6750">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Information und Pr&#xE4;vention</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information et pr&#xE9;vention</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15500">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt f&#xFC;hrt Informations- und Pr&#xE4;ventionskampagnen zu h&#xE4;uslicher Gewalt bei der Bev&#xF6;lkerung und bei Fachpersonen durch, die mit von h&#xE4;uslicher Gewalt betroffenen Personen in Kontakt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Office m&#xE8;ne des campagnes d'information et de pr&#xE9;vention relatives aux violences domestiques aupr&#xE8;s de la population et des professionnels en contact avec les personnes concern&#xE9;es par les violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6751">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15501">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Amt unterst&#xFC;tzt die Aus- und Weiterbildung der Fachpersonen, die mit von h&#xE4;uslicher Gewalt betroffenen Personen in Kontakt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Office soutient la formation et le perfectionnement des professionnels en contact avec les personnes concern&#xE9;es par les violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6752">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betreuung der Opfer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Accompagnement des victimes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15502">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r h&#xE4;usliche Gewalt, f&#xFC;r das Sozialwesen und f&#xFC;r die Jugend zust&#xE4;ndigen Departemente achten darauf, dass das zur Verf&#xFC;gung stehende Angebot an notfallm&#xE4;ssigen Aufnahme- und Betreuungseinrichtungen f&#xFC;r Opfer und deren Kinder dem Bedarf entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;partements en charge des violences domestiques, de l'action sociale et de la jeunesse veillent &#xE0; ce que l'offre disponible en mati&#xE8;re de structures d'accueil d'urgence et d'accompagnement des victimes et de leurs enfants r&#xE9;ponde aux besoins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15503">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu diesem Zweck k&#xF6;nnen sie &#xF6;ffentlichen oder privaten Organisationen Leistungsauftr&#xE4;ge erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cet effet, ils peuvent &#xE9;tablir des mandats de prestations avec des organismes publics ou priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15504">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das f&#xFC;r die Gesundheit zust&#xE4;ndige Departement achtet darauf, dass eine spezifische Betreuung im Spitalbereich gew&#xE4;hrleistet ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement en charge de la sant&#xE9; veille &#xE0; ce qu'une prise en charge sp&#xE9;cifique en milieu hospitalier soit assur&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6753">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schutz des Kindes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Protection de l'enfant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15505">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das f&#xFC;r die Jugend zust&#xE4;ndige Departement ergreift die notwendigen Massnahmen zum Schutz von Kindern, die in Situationen von h&#xE4;uslicher Gewalt involviert sind, im Einklang mit dem Jugendgesetz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement en charge de la jeunesse veille &#xE0; prendre les mesures n&#xE9;cessaires &#xE0; la protection des enfants impliqu&#xE9;s dans des situations de violences domestiques conform&#xE9;ment aux dispositions de la loi en faveur de la jeunesse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6754">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausweisung des Urhebers</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Expulsion de l'auteur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15506">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der diensthabende Beamte der Kantonspolizei ist die zust&#xE4;ndige Beh&#xF6;rde im Sinne von Artikel 28b des Schweizerischen Zivilgesetzbuches (ZGB), um die sofortige Ausweisung des Urhebers aus der gemeinsamen Wohnung anzuordnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'officier de service de la Police cantonale est l'autorit&#xE9; comp&#xE9;tente au sens de l'article 28b du Code civil suisse (CC) pour ordonner l'expulsion imm&#xE9;diate du logement commun de l'auteur de l'atteinte.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15507">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Lebt ein Kind im Familienkreis, informiert die Kantonspolizei die kantonale Dienststelle f&#xFC;r die Jugend, wenn es das Interesse des Kindes erfordert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'un enfant vit dans le cercle familial, la Police cantonale informe le Service cantonal de la jeunesse si l'int&#xE9;r&#xEA;t de l'enfant l'exige.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15508">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das anwendbare Verfahren auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la proc&#xE9;dure applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6755">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sozialtherapeutisches Gespr&#xE4;ch</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entretien socio-th&#xE9;rapeutique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15509">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Sinne von Artikel 28b&#xA0;ZGB ausgewiesene Person ist verpflichtet, innerhalb von drei Werktagen seit Zustellung des Ausweisungsentscheids mit einer zur Betreuung von Urhebern h&#xE4;uslicher Gewalt befugten Organisation oder Fachperson Kontakt aufzunehmen und ein Gespr&#xE4;ch zu vereinbaren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne expuls&#xE9;e au sens de l'article 28b&#xA0;CC est tenue dans un d&#xE9;lai de trois jours ouvrables apr&#xE8;s notification de la d&#xE9;cision d'expulsion de prendre contact et de convenir d'un entretien avec un organisme ou un professionnel habilit&#xE9; &#xE0; recevoir les auteurs de violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15510">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie ist verpflichtet, zu diesem Gespr&#xE4;ch zu erscheinen. Diese Pflicht wird im Ausweisungsentscheid unter Androhung der in Artikel 292 des Schweizerischen Strafgesetzbuches vorgesehenen Strafe erw&#xE4;hnt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est tenue de se pr&#xE9;senter &#xE0; cet entretien. Cette obligation est mentionn&#xE9;e dans la d&#xE9;cision d'expulsion sous menace des sanctions pr&#xE9;vues &#xE0; l'article 292 du Code p&#xE9;nal suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15511">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gespr&#xE4;ch zielt darauf ab, der ausgewiesenen Person bei der Einsch&#xE4;tzung ihrer Situation behilflich zu sein. Sie erh&#xE4;lt bei dieser Gelegenheit sozialtherapeutische Informationen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'entretien est destin&#xE9; &#xE0; aider la personne expuls&#xE9;e &#xE0; &#xE9;valuer sa situation. Elle re&#xE7;oit &#xE0; cette occasion des informations socio-th&#xE9;rapeutiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15512">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten des sozialtherapeutischen Gespr&#xE4;chs gehen zulasten des Urhebers, mit Ausnahme von F&#xE4;llen, die in der Verordnung festgelegt sind. Subsidi&#xE4;r kann das Departement die Leistung finanzieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais occasionn&#xE9;s par l'entretien socio-th&#xE9;rapeutique sont &#xE0; la charge de l'auteur, sauf exceptions d&#xE9;finies dans l'ordonnance. Subsidiairement, le D&#xE9;partement peut financer la prestation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15513">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann &#xF6;ffentlichen oder privaten Organisationen Leistungsauftr&#xE4;ge erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement peut &#xE9;tablir des mandats de prestations avec des organismes publics ou priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15514">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erstellt die Liste der Organisationen und Fachpersonen, die zur Betreuung von Urhebern h&#xE4;uslicher Gewalt befugt sind und legt das anwendbare Verfahren auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;tablit la liste des organismes et des professionnels habilit&#xE9;s &#xE0; recevoir des auteurs de violences domestiques et pr&#xE9;cise par voie d'ordonnance la proc&#xE9;dure applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6756">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betreuung der Urheber</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Accompagnement des auteurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15515">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r h&#xE4;usliche Gewalt, f&#xFC;r die Gesundheit und f&#xFC;r das Sozialwesen zust&#xE4;ndigen Departemente achten darauf, dass die notwendigen Massnahmen zur Betreuung von Urhebern h&#xE4;uslicher Gewalt ergriffen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;partements en charge des violences domestiques, de la sant&#xE9; et de l'action sociale veillent &#xE0; prendre les mesures n&#xE9;cessaires pour accompagner les auteurs de violences domestiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15516">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie achten insbesondere darauf, dass das Angebot an Notunterk&#xFC;nften f&#xFC;r ausgewiesene Personen im Sinne von Artikel 28b&#xA0;ZGB und therapeutischer Betreuung dem Bedarf entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils veillent notamment &#xE0; ce que l'offre en mati&#xE8;re d'h&#xE9;bergement d'urgence des personnes expuls&#xE9;es au sens de l'article 28b&#xA0;CC et de suivi th&#xE9;rapeutique des auteurs r&#xE9;ponde aux besoins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6757">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betreuung bei innerfamili&#xE4;rer Gewalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prise en charge des violences intrafamiliales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15517">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um eine spezialisierte Betreuung der Familien zu gew&#xE4;hrleisten, achten die f&#xFC;r h&#xE4;usliche Gewalt, f&#xFC;r die Gesundheit und f&#xFC;r die Jugend zust&#xE4;ndigen Departemente darauf, dass das Angebot an Familientherapien dem Bedarf entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin d'assurer une prise en charge sp&#xE9;cialis&#xE9;e des familles, les d&#xE9;partements en charge des violences domestiques, de la sant&#xE9; et de la jeunesse veillent &#xE0; ce que l'offre en mati&#xE8;re de th&#xE9;rapies familiales r&#xE9;ponde aux besoins.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6758">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung der Betreuung der Urheber und der spezialisierten Betreuung der Familien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement de l'accompagnement des auteurs et de la prise en charge sp&#xE9;cialis&#xE9;e des familles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15518">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Kosten der Massnahmen, die in den Artikeln 19 und 20 vorgesehen sind, und die nicht durch das eidgen&#xF6;ssische Krankenversicherungsgesetz (KVG) gedeckt werden, gehen zulasten der Beg&#xFC;nstigten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les frais non couverts par la loi f&#xE9;d&#xE9;rale sur l'assurance-maladie (LAMal) d&#xE9;coulant des mesures pr&#xE9;vues aux articles 19 et 20 sont &#xE0; la charge des b&#xE9;n&#xE9;ficiaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15519">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann diese Massnahmen unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut soutenir ces mesures.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15520">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Hierzu k&#xF6;nnen die f&#xFC;r h&#xE4;usliche Gewalt, f&#xFC;r die Gesundheit, das Sozialwesen und die Jugend zust&#xE4;ndigen Departemente &#xF6;ffentlichen oder privaten Organisationen Leistungsauftr&#xE4;ge erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cet effet, les d&#xE9;partements en charge des violences domestiques, de la sant&#xE9;, de l'action sociale et de la jeunesse peuvent &#xE9;tablir des mandats de prestations avec des organismes publics ou priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15521">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das anwendbare Verfahren auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la proc&#xE9;dure applicable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6759">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ereignisregister</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre des &#xE9;v&#xE9;nements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15522">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Erm&#xF6;glichung der Identifizierung und zur Umsetzung von n&#xFC;tzlichen und effizienten Massnahmen f&#xFC;hrt das Amt ein zentralisiertes und anonymes Register der Ereignisse von h&#xE4;uslicher Gewalt. Es koordiniert die Erhebung und Bearbeitung der Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin de permettre l'identification et la mise en oeuvre de mesures utiles et efficaces, l'Office tient un registre centralis&#xE9; et anonyme des &#xE9;v&#xE9;nements de violences domestiques. Il coordonne la r&#xE9;colte et le traitement des informations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15523">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xF6;ffentlichen oder privaten Institutionen, die Kontakt zu Personen haben, die von h&#xE4;uslicher Gewalt betroffen sind, m&#xFC;ssen die notwendigen Daten an das Ereignisregister &#xFC;bermitteln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les institutions publiques ou priv&#xE9;es en contact avec des personnes concern&#xE9;es par les violences domestiques doivent transmettre les informations n&#xE9;cessaires &#xE0; la tenue du registre des &#xE9;v&#xE9;nements.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15524">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Liste der betroffenen &#xF6;ffentlichen oder privaten Institutionen auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat pr&#xE9;cise par voie d'ordonnance la liste des institutions publiques ou priv&#xE9;es concern&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1981">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6760">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Evaluierung des Gesetzes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation de la loi</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15525">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Innerhalb von f&#xFC;nf Jahren nach Inkrafttreten des vorliegenden Gesetzes legt der Staatsrat dem Grossen Rat einen Evaluierungsbericht &#xFC;ber die Umsetzung des Gesetzes vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les cinq ans suivant l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi, le Conseil d'Etat soumet au Grand Conseil un rapport d'&#xE9;valuation sur la mise en oeuvre de la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6761">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15526">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die Anwendungsbestimmungen des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte les dispositions d'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6762">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ab&#xE4;nderung geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modification du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15527">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Akten der gerichtlichen Polizei vom 28. Juni 1984 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la loi concernant les dossiers de police judiciaire du 28 juin 1984 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38211">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das&#xA0;Gesetz &#xFC;ber die Kantonspolizei vom 20. Januar 1953 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la police cantonale du 20 janvier 1953 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6763">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:15536">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der vorliegende Rechtserlass untersteht dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est sujette au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:15537">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das Inkrafttreten fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2017-01-01</dateForce>
+      <dateVersion>2017-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 4/2016, 39/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

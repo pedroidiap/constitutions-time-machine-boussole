@@ -1,0 +1,605 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:323</normID>
+      <number>810.41</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die kantonale Gesundheitsstatistik</title>
+      <title lang="fr">Ordonnance sur la statistique sanitaire cantonale</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2014-10-01</dateAdoption>
+      <dateForce>2015-01-01T00:00:00</dateForce>
+      <dateLastChange>2015-01-01</dateLastChange>
+      <dateVersion>2015-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber die Krankenversicherung vom 18. M&#xE4;rz 1994 (KVG);</basis> <basis>eingesehen das Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG);</basis> <basis>eingesehen das Gesundheitsgesetz vom 14. Februar 2008 (GG);</basis> <basis>eingesehen das Gesetz &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (GKAI);</basis> <basis>eingesehen das Gesetz &#xFC;ber die Langzeitpflege vom 14. Dezember 2011;</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur l'assurance-maladie du 18 mars 1994 (LAMal);</basis> <basis>vu la loi sur la statistique f&#xE9;d&#xE9;rale du 9 octobre 1992 (LSF);</basis> <basis>vu la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008 (LS);</basis> <basis>vu la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (LEIS);</basis> <basis>vu la loi sur les soins de longue dur&#xE9;e du 14 d&#xE9;cembre 2011;</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 39/2014, 41/2014</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1091">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die kantonale Gesundheitsstatistik</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la statistique sanitaire cantonale</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1093">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3538">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8051">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung beinhaltet die f&#xFC;r die Evaluation und Bedarfsermittlung der Gesundheitsversorgung f&#xFC;r die Walliser Bev&#xF6;lkerung notwendigen statistischen Daten in Ausf&#xFC;hrung der kantonalen und eidgen&#xF6;ssischen Gesundheitsgesetzgebung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance porte sur les donn&#xE9;es statistiques cantonales n&#xE9;cessaires pour l'&#xE9;valuation et la couverture des besoins sanitaires de la population valaisanne en application des l&#xE9;gislations cantonale et f&#xE9;d&#xE9;rale en mati&#xE8;re de sant&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8052">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie regelt die Organisation der statistischen Erhebungen sowie die Bearbeitung, &#xDC;bermittlung und Ver&#xF6;ffentlichung der erhobenen Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle r&#xE8;gle l'organisation des relev&#xE9;s statistiques ainsi que le traitement, la transmission et la publication des donn&#xE9;es r&#xE9;colt&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8053">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie gilt f&#xFC;r alle Krankenanstalten und -institutionen gem&#xE4;ss Artikel 85 GG, die im Kanton t&#xE4;tig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle s'applique aux &#xE9;tablissements et institutions sanitaires exer&#xE7;ant dans le canton du Valais tels que d&#xE9;finis &#xE0; l'article 85 LS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8054">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleibt die interkantonale Vereinbarung &#xFC;ber das Spital Riviera-Chablais Waadt-Wallis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e la convention intercantonale relative &#xE0; l'H&#xF4;pital Riviera-Chablais Vaud-Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1094">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation der statistischen Erhebungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation des relev&#xE9;s statistiques</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3539">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Festlegung der betroffenen Einrichtungen und der erhobenen Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition des &#xE9;tablissements concern&#xE9;s et des donn&#xE9;es relev&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8055">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesundheitsdepartement&#xA0;(nachstehend: das Departement)&#xA0;legt in einer Richtlinie fest:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par voie de directive, le d&#xE9;partement dont rel&#xE8;ve la sant&#xE9; publique (ci-apr&#xE8;s: le d&#xE9;partement) &#xE9;tablit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3050">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Liste der Gesundheitseinrichtungen und Gesundheitsinstitutionen, die der Auskunftspflicht unterstehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la liste des &#xE9;tablissements et institutions sanitaires soumises &#xE0; l'obligation de renseigner;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:3051">
+                        <partNumber>b</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Art und das Format der erhobenen Daten sowie die Einreichefrist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les donn&#xE9;es relev&#xE9;es, leur forme et leur d&#xE9;lai de remise.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3540">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation de remise des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8056">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesundheitseinrichtungen und Gesundheitsinstitutionen, die der Meldepflicht unterstehen, sind gehalten, die erforderlichen Daten vollst&#xE4;ndig, wahrheitsgetreu, fristgerecht, kostenlos und in der vorgeschriebenen Form zur Verf&#xFC;gung zu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tablissements et institutions sanitaires soumis &#xE0; l'obligation de renseigner sont tenus de remettre les donn&#xE9;es n&#xE9;cessaires, compl&#xE8;tes et v&#xE9;ridiques, dans les d&#xE9;lais impartis, gratuitement et sous la forme prescrite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1095">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Behandlung, &#xDC;bermittlung und Ver&#xF6;ffentlichung der Daten</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Traitement, transmission et publication des donn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3541">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datenverarbeitung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Traitement des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8057">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss Artikel 13a GG ist das Walliser Gesundheitsobservatorium (WGO) mit den kantonalen und eidgen&#xF6;ssischen Gesundheitsdatenerhebungen und deren Verarbeitung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Conform&#xE9;ment &#xE0; l'article 13a LS, l'Observatoire valaisan de la sant&#xE9; (OVS) est charg&#xE9; de traiter les donn&#xE9;es des relev&#xE9;s statistiques cantonaux et f&#xE9;d&#xE9;raux dans le domaine sanitaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3542">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bermittlung und Ver&#xF6;ffentlichung der Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transmission et publication des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8058">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Walliser Gesundheitsobservatorium &#xFC;bermittelt die verarbeiteten Daten an die Dienststelle f&#xFC;r Gesundheitswesen, das kantonale Amt f&#xFC;r Statistik und Finanzausgleich oder an Dritte gem&#xE4;ss den vom Departement vorgegebenen Modalit&#xE4;ten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Observatoire valaisan de la sant&#xE9; transmet les donn&#xE9;es trait&#xE9;es au Service de la sant&#xE9; publique et &#xE0; l'Office cantonal de la statistique et de la p&#xE9;r&#xE9;quation ou &#xE0; des tiers selon les modalit&#xE9;s d&#xE9;finies par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8059">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die kantonalen Statistiken k&#xF6;nnen das kantonale Amt f&#xFC;r Statistik und Finanzausgleich und die Dienststelle f&#xFC;r Gesundheitswesen gesundheitsspezifische Daten festlegen, die gemeldet werden m&#xFC;ssen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les besoins en mati&#xE8;re de statistique cantonale, l'Office cantonal de la statistique et de la p&#xE9;r&#xE9;quation et le Service de la sant&#xE9; publique peuvent convenir de la livraison de donn&#xE9;es sp&#xE9;cifiques en lien avec le domaine de la sant&#xE9; publique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8060">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Walliser Gesundheitsobservatorium kann mit Zustimmung des Departements Daten zu Gesundheitseinrichtungen und Gesundheitsinstitutionen in allgemein zug&#xE4;nglichen Publikationsorganen so ver&#xF6;ffentlichen, dass diese identifizierbar sind. Das Internet gilt ausdr&#xFC;cklich als allgemein zug&#xE4;ngliches Publikationsorgan.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Observatoire valaisan de la sant&#xE9; peut, avec l'accord du d&#xE9;partement, publier dans un m&#xE9;dia accessible &#xE0; tous des donn&#xE9;es concernant les &#xE9;tablissements et institutions sanitaires sous une forme permettant de les identifier. Internet est en particulier consid&#xE9;r&#xE9; comme m&#xE9;dia accessible &#xE0; tous.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1096">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Pseudonymisierte Daten und Datenschutz</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Donn&#xE9;es pseudonymis&#xE9;es et protection des donn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3543">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pseudonymisierte Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Donn&#xE9;es pseudonymis&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8061">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton ist im Rahmen des Gesundheitsbedarfs und der Planung erm&#xE4;chtigt, bei den Gesundheitseinrichtungen und Gesundheitsinstitutionen pseudonymisierte Daten zu erheben. Das Departement legt die Modalit&#xE4;ten f&#xFC;r die Datenpseudonymisierung fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A des fins d'&#xE9;valuation de la couverture des besoins sanitaires et de la planification, le recueil par le canton de donn&#xE9;es pseudonymis&#xE9;es aupr&#xE8;s des &#xE9;tablissements et institutions sanitaires est autoris&#xE9;. Le d&#xE9;partement d&#xE9;finit les modalit&#xE9;s de pseudonymisation des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3544">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datenschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Protection des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8062">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es gelten die Bestimmungen des Gesetzes &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi cantonale sur l'information du public, la protection des donn&#xE9;es et l'archivage du 9 octobre 2008 (LIPDA) sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1097">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:3545">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Disziplinarmassnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions disciplinaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8063">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei &#xDC;bertretung der in vorliegender Verordnung festgehaltenen Pflichten unterliegen die Verantwortlichen von Gesundheitseinrichtungen und Gesundheitsinstitutionen den in Artikel 133 des Gesundheitsgesetzes (GG) vorgesehenen Disziplinarmassnahmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les responsables des &#xE9;tablissements et institutions sanitaires qui ne respectent pas les obligations d&#xE9;coulant de la pr&#xE9;sente ordonnance sont passibles des mesures disciplinaires pr&#xE9;vues par l'article 133 de la loi sur la sant&#xE9; (LS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3546">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtswege</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8064">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt besonderer Bestimmungen gilt das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de dispositions particuli&#xE8;res, la loi sur la proc&#xE9;dure et la juridiction administratives (LPJA) s'applique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:3547">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:8065">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesundheitsdepartement wird mit dem Vollzug der vorliegenden Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:8066">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie wird im Amtsblatt ver&#xF6;ffentlicht und tritt gleichzeitig mit dem Gesetz &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (GKAI) in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est publi&#xE9;e au Bulletin officiel pour entrer en vigueur &#xE0; la m&#xEA;me date que la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (LEIS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2015-01-01</dateForce>
+      <dateVersion>2015-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 39/2014, 41/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

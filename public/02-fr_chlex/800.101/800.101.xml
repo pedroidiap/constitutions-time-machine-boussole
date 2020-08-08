@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:365</normID>
+      <number>800.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Zusammensetzung des Spital Wallis</title>
+      <title lang="fr">Ordonnance sur la composition de l'H&#xF4;pital du Valais</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2016-02-17</dateAdoption>
+      <dateForce>2017-01-01T00:00:00</dateForce>
+      <dateLastChange>2017-01-01</dateLastChange>
+      <dateVersion>2017-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;</basis> <basis>eingesehen das Gesetz &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (GKAI), insbesondere Artikel 25 Absatz 2;</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 alin&#xE9;a 2 de la Constitution cantonale;</basis> <basis>vu la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (LEIS), notamment l'article 25 alin&#xE9;a 2;</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 24/2016, 42/2016</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1237">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Zusammensetzung des Spital Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la composition de l'H&#xF4;pital du Valais</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:3933">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zusammensetzung des Spital Wallis</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Composition de l'H&#xF4;pital du Valais</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:8947">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Spital Wallis setzt sich zusammen aus:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'H&#xF4;pital du Valais est compos&#xE9;:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17810">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">dem Spitalzentrum Oberwallis, bestehend aus den Spit&#xE4;lern Brig und Visp;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">du centre hospitalier du Haut-Valais, compos&#xE9; des sites hospitaliers de Brigue et Vi&#xE8;ge;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17811">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">dem Spitalzentrum des franz&#xF6;sischsprachigen Wallis, bestehend aus den Spit&#xE4;lern Siders, Montana (Walliser Zentrum f&#xFC;r Pneumologie), Sitten, Martinach, Saint-Maurice (Klinik Saint-Am&#xE9;) und Monthey (Mal&#xE9;voz);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">du centre hospitalier du Valais romand, compos&#xE9; des sites hospitaliers de Sierre, Montana (Centre valaisan de pneumologie), Sion, Martigny, Saint-Maurice (Clinique de Saint-Am&#xE9;) et Monthey (Mal&#xE9;voz);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:17812">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">dem Zentralinstitut der Walliser Spit&#xE4;ler, dessen delegierte T&#xE4;tigkeiten unter der Aufsicht des Departements bleiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">de l'Institut central des h&#xF4;pitaux valaisans, dont les activit&#xE9;s d&#xE9;l&#xE9;gu&#xE9;es demeurent sous l'autorit&#xE9; du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:3934">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Schlussbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions finales</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:8951">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die vorliegende Verordnung unterliegt der Genehmigung durch den Grossen Rat.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance est soumise &#xE0; l'approbation du Grand Conseil.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:8952">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sie wird im Amtsblatt ver&#xF6;ffentlicht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Elle est publi&#xE9;e dans le Bulletin officiel.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:8953">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staatsrat bestimmt das Inkrafttreten der vorliegenden Verordnung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente ordonnance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2017-01-01</dateForce>
+      <dateVersion>2017-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 24/2016, 42/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

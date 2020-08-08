@@ -1,0 +1,2779 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1057</normID>
+      <number>211.612</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die F&#xFC;hrung des informatisierten Grundbuchs</title>
+      <title lang="fr">Ordonnance sur la tenue du registre foncier informatis&#xE9;</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2012-10-17</dateAdoption>
+      <dateForce>2013-02-01T00:00:00</dateForce>
+      <dateLastChange>2014-06-27</dateLastChange>
+      <dateVersion>2014-06-27</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 942 Abs&#xE4;tze 3 und 4, 949a, 953 und 970 des Schweizerischen Zivilgesetzbuches (ZGB);</basis> <basis>eingesehen die Artikel 2, 8, 13, 26&#xA0;und folgende&#xA0;und 159&#xA0;und folgende&#xA0;der Schweizerischen Grundbuchverordnung vom 23. September 2011 (GBV);</basis> <basis>eingesehen die Artikel 73 und 76 des Einf&#xFC;hrungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. M&#xE4;rz 1998 (EGZGB);</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft, Energie und Raumentwicklung,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 942 alin&#xE9;as 3 et 4, 949a, 953 et 970 du Code civil suisse (CC);</basis> <basis>vu les articles 2, 8, 13, 26&#xA0;et suivants&#xA0;et 159&#xA0;et suivants&#xA0;de l&#x2019;Ordonnance sur le registre foncier du 23 septembre 2011 (ORF);</basis> <basis>vu l&#x2019;articles 73 et 76 de la loi cantonale d&#x2019;application du Code civil suisse du 24 mars 1998 (LACC);</basis> <basis>sur la proposition du D&#xE9;partement de l&#x2019;&#xE9;conomie, de l&#x2019;&#xE9;nergie et du territoire,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 5/2013</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3330">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die F&#xFC;hrung des informatisierten Grundbuchs</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la tenue du registre foncier informatis&#xE9;</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3332">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11330">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25985">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuch wird mittels Informatik gef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre foncier est tenu sur support informatique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25986">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das informatisierte Grundbuch ersetzt das Grundbuch auf Papier mit fortschreitender Informatisierung der Daten des Grundbuchs.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre foncier informatis&#xE9; remplace le registre foncier sur papier au fur et &#xE0; mesure de la saisie informatique des donn&#xE9;es du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11331">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Hilfsregister</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registres accessoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25987">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedes Grundbuchamt f&#xFC;hrt f&#xFC;r die im informatisierten Grundbuch aufgenommenen Grundst&#xFC;cke ein Eigent&#xFC;merregister, ein Gl&#xE4;ubigerregister und ein Register "&#xFC;brige Berechtigte" mittels Informatik.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque registre foncier tient, pour les immeubles immatricul&#xE9;s dans le registre foncier informatis&#xE9;, un registre des propri&#xE9;taires, un registre des cr&#xE9;anciers et un registre des "autres b&#xE9;n&#xE9;ficiaires" par voie informatique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3333">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>&#xD6;ffentlicher Zugang</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Acc&#xE8;s public</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11332">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Elektronische Auskunft und Einsichtnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Renseignements &#xE9;lectroniques et acc&#xE8;s aux donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25988">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person hat &#xFC;ber das Internet Zugang zu den &#xF6;ffentlich zug&#xE4;nglichen Daten des Hauptbuchs im Umfang von Artikel 27 GBV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne a acc&#xE8;s par Internet aux donn&#xE9;es du grand livre ouvertes au public conform&#xE9;ment &#xE0; l&#x2019;article 27 ORF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25989">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Daten k&#xF6;nnen nur grundst&#xFC;cksbezogen abgerufen werden und das Auskunftssystem ist vor Serienabfragen gesch&#xFC;tzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;acc&#xE8;s aux donn&#xE9;es n&#x2019;a lieu qu&#x2019;en relation avec un immeuble d&#xE9;termin&#xE9; et le syst&#xE8;me d&#x2019;informations est prot&#xE9;g&#xE9; contre les appels en s&#xE9;rie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3334">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Erweiterter Zugang</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Acc&#xE8;s &#xE9;tendu</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11333">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zugriffsberechtigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Titulaires du droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25990">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der erweiterte Zugang kann den in Artikel 28 GBV genannten Personen und Beh&#xF6;rden durch die Dienststelle der Grundbuch&#xE4;mter und der Geomatik erteilt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;acc&#xE8;s &#xE9;tendu peut &#xEA;tre donn&#xE9; par le service des registres fonciers et de la g&#xE9;omatique aux personnes et autorit&#xE9;s pr&#xE9;vues &#xE0; l&#x2019;article 28 ORF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25991">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Anhang 1 legt den Rahmen fest, innerhalb welchem die Zugriffsberechtigung erteilt werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;annexe 1 fixe le cadre dans lequel l&#x2019;acc&#xE8;s &#xE9;tendu aux titulaires du droit peut &#xEA;tre attribu&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11334">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Regelung der Einzelheiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE8;glement des d&#xE9;tails</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25992">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zum erweiterten Zugang berechtigten Personen sind verpflichtet, mit der Dienststelle der Grundbuch&#xE4;mter und der Geomatik (nachfolgend: Dienststelle) eine Vereinbarung nach dem verbindlichen Muster des eidgen&#xF6;ssischen Amtes f&#xFC;r Grundbuch- und Bodenrecht abzuschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes ayant droit &#xE0; l&#x2019;acc&#xE8;s &#xE9;tendu ont l&#x2019;obligation de conclure avec le service des registres fonciers et de la g&#xE9;omatique (ci-apr&#xE8;s: le service) une convention conforme aux mod&#xE8;les obligatoires de l&#x2019;Office f&#xE9;d&#xE9;ral charg&#xE9; du droit du registre foncier et du droit foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25993">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Vereinbarung regelt namentlich die Art und Weise des Zugriffs, die Zugriffskontrolle, den Verwendungszweck der bezogenen Daten, den Schutz vor unbefugtem Zugang zu den Daten, die Einschr&#xE4;nkungen hinsichtlich der Weitergabe von Daten an Dritte und die Folgen missbr&#xE4;uchlicher Bearbeitung der Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La convention r&#xE8;gle notamment le type et le mode d&#x2019;acc&#xE8;s, le contr&#xF4;le de l&#x2019;appel de donn&#xE9;es, le but des donn&#xE9;es obtenues, la protection contre l&#x2019;acc&#xE8;s non autoris&#xE9; aux donn&#xE9;es par des tiers, les restrictions s&#x2019;agissant de leur remise &#xE0; un tiers et les cons&#xE9;quences du traitement abusif des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25994">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Weitergabe der Daten an unberechtigte Dritte sowie die Benutzung des erweiterten Zugangs durch unberechtigte Dritte ist verboten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La transmission des donn&#xE9;es &#xE0; des tiers non autoris&#xE9;s et l&#x2019;utilisation de l&#x2019;acc&#xE8;s &#xE9;tendu par des tiers non autoris&#xE9;s sont interdites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11335">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25995">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der erweiterte Zugang wird den Berechtigten durch einen elektronischen Zugriff im Abrufverfahren gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;acc&#xE8;s &#xE9;tendu est donn&#xE9; &#xE0; l&#x2019;ayant droit au moyen d&#x2019;un acc&#xE8;s &#xE9;lectronique dans la proc&#xE9;dure d&#x2019;appel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25996">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zugriffe werden vom Auskunftssystem automatisch protokolliert und die Protokolle werden w&#xE4;hrend zwei Jahren aufbewahrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les acc&#xE8;s doivent &#xEA;tre enregistr&#xE9;s automatiquement par le syst&#xE8;me et conserv&#xE9;s pendant deux ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25997">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden Daten missbr&#xE4;uchlich verwendet oder bearbeitet, entzieht die Dienststelle die Zugriffsberechtigung mittels beschwerdef&#xE4;higer Verf&#xFC;gung unverz&#xFC;glich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les donn&#xE9;es sont utilis&#xE9;es ou trait&#xE9;es abusivement, le droit d&#x2019;acc&#xE8;s est retir&#xE9; imm&#xE9;diatement par d&#xE9;cision du service susceptible de recours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11336">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hrenerhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emolument pour acc&#xE8;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25998">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den erweiterten Zugang werden Geb&#xFC;hren in Form einer j&#xE4;hrlichen Pauschalgeb&#xFC;hr und einer Geb&#xFC;hr pro Abfrage gem&#xE4;ss Anhang 2 erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;acc&#xE8;s &#xE9;tendu entra&#xEE;ne la perception d&#x2019;un &#xE9;molument forfaitaire annuel et un &#xE9;molument calcul&#xE9; selon le nombre d&#x2019;appels, conform&#xE9;ment &#xE0; l&#x2019;annexe 2.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3335">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11337">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25999">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Den Vollzug dieser Verordnung regelt die Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service est charg&#xE9; de l&#x2019;ex&#xE9;cution de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26000">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie tr&#xE4;gt der Gesetzgebung &#xFC;ber den Datenschutz Rechnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il applique en particulier la r&#xE9;glementation en mati&#xE8;re de protection des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11338">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26001">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung tritt mit ihrer Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance entre en vigueur d&#xE8;s sa publication dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5179">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 18.06.2014</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 18.06.2014</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17149">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39311">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die besonderen Vereinbarungen gem&#xE4;ss Artikel 5, welche durch die verschiedenen Berechtigten vor Erlass der vorliegenden &#xC4;nderung unterzeichnet worden, bleiben in Kraft. Die Bestimmungen dieser Vereinbarungen werden ausgedehnt und finden zwingend auf die Zugriffsberechtigungen Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conventions particuli&#xE8;res de l&#x2019;article 5 sign&#xE9;es par les diff&#xE9;rents titulaires du droit avant la pr&#xE9;sente modification restent valables. Les clauses de ces conventions sont &#xE9;tendues et s&#x2019;appliquent obligatoirement au nouvel acc&#xE8;s de donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5155">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1 zu Artikel 4</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1 &#xE0; l'article 4</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17098">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39130">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Benutzer</cell>
+                              <cell>1</cell>
+                              <cell>2</cell>
+                              <cell>3</cell>
+                              <cell>4</cell>
+                              <cell>5</cell>
+                              <cell>6</cell>
+                              <cell>7</cell>
+                              <cell>8</cell>
+                              <cell>9</cell>
+                              <cell>10</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Notar</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Im Geometerregister eingetragene Ingenieur-Geometer</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Departement f&#xFC;r Finanzen und Institutionen:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Generalsekretariat</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Finanzverwaltung**</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Steuerverwaltung***</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Personalmanagement</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r innere und kommunale Angelegenheiten:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Juristische Sektion</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Sektion Gemeindefinanzen</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Sekretariat f&#xFC;r Gleichstellung und Familie</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Rechtsdienst f&#xFC;r Finanzen und Personal</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Informatik</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Departement f&#xFC;r Bildung und Sicherheit:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Generalsekretariat</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Rechtsdienst f&#xFC;r Sicherheit und Justiz</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Kantonspolizei:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Stab/Abteilung Wirtschaftsdelikte</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r zivile Sicherheit und Milit&#xE4;r:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Kantonales Amt f&#xFC;r Zivilschutz/ZS-Bauten</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Strassenverkehr und Schifffahrt</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Strafanstalten</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Verwaltungs- und Rechtsdienst f&#xFC;r Bildungsfragen und Sport</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r terti&#xE4;re Bildung</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Unterichtswesen</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Berufsbildung**</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Jugend</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Departement f&#xFC;r Volkswirtschaft, Energie und Raumentwicklung:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Generalsekretariat</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Verwaltungs- und Rechtsdienst</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Wirtschaftsentwicklung</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Handel, Industrie und Arbeit</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Landwirtschaft***</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Diensstelle f&#xFC;r Energie und Wasserkraft</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Raumentwicklung</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Grundbuch&#xE4;mter und der Geomatik</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Kantonale Arbeitslosenkasse</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Departement f&#xFC;r Verkehr, Bau und Umwelt</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Generalsekratriat</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Verwaltungs- und Rechtsdienst</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Verkehrsfragen</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Strassen- und Flussbau***</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Hochbau, Denkmalpflege und Arch&#xE4;ologie:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Immobilienverwaltung**</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Heimatschutz****</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Umweltschutz</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Jagd, Fischerei und Wildtiere</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Wald und Landschaft***</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Departement f&#xFC;r Gesundheit, Soziales und Kultur</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Generalsekretariat</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Gesundheitswesen:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Sektion Verwaltung und Finanzen**</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Verbraucherschutz und Veterin&#xE4;rwesen</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Sozialwesen:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Juristische Sektion</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Medizinischp&#xE4;dagogisches Zentrum La Castalie</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Arbeitnehmerschutz und Arbeitsverh&#xE4;ltnisse</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dienststelle f&#xFC;r Kultur</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Betreibungs- und Konkurs&#xE4;mter</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Staatskanzlei:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Verwaltungs- und Rechtsdienst</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Information</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Finanzinspektorat**</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Parlamentsdienst</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Justizbeh&#xF6;rden</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Staatsanwaltschaft*****</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Gemeindebeh&#xF6;rden******</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Registerhalter******</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Institutionen (gem&#xE4;ss Art. 28 Abs. 1 Bst. b GBV)</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Rechtsanw&#xE4;lte</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dritte zu Grundst&#xFC;cken, die ihnen geh&#xF6;ren</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>ja</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>ja</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Dritte zu Grundst&#xFC;cke an denen sie berechtigt sind</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                              <cell>nein</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Utilisateur</cell>
+                              <cell>1</cell>
+                              <cell>2</cell>
+                              <cell>3</cell>
+                              <cell>4</cell>
+                              <cell>5</cell>
+                              <cell>6</cell>
+                              <cell>7</cell>
+                              <cell>8</cell>
+                              <cell>9</cell>
+                              <cell>10</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Notaire</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Ingenieurs-g&#xE9;om&#xE8;tres (inscrits au registre des g&#xE9;om&#xE8;tres)</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>D&#xE9;partement des finances et des institutions:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etat-major</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Administration cantonale des finances**</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service cantonal des contributions***</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des ressources humaines</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des affaires int&#xE9;rieures et communales:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Section juridique</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Section des finances communales</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Secr&#xE9;tariat &#xE0; l&amp;#39;&#xE9;galit&#xE9; et &#xE0; la famille</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service juridique des finances et du personnel</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service cantonal de l&amp;#39;informatique</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>D&#xE9;partement de la formation et de la s&#xE9;curit&#xE9;:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etat-major</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service juridique de la s&#xE9;curit&#xE9; et de la justice</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Police cantonale:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Etat-major/Section financi&#xE8;re</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la s&#xE9;curit&#xE9; civile et militaire:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Office cantonal de la protection civile/Constructions Pci</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la circulation et de la navigation</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etablissements p&#xE9;nitentiaires</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la population et des migrations</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service administratif et juridique de la formation et du sport</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la formation tertiaire</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de l&amp;#39;enseignement</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la formation professionnelle**</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service cantonal de la jeunesse</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>D&#xE9;partement de l&amp;#39;&#xE9;conomie, de l&amp;#39;&#xE9;nergie et du territoire:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etat-major</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service administratif et juridique</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service du d&#xE9;veloppement &#xE9;conomique</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de l&amp;#39;industrie, du commerce et du travail</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de l&amp;#39;agriculture***</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de l&amp;#39;&#xE9;nergie et des forces hydrauliques</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service du d&#xE9;veloppement territorial</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des registre fonciers et de la g&#xE9;omatique</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Caisse cantonale de ch&#xF4;mage</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>D&#xE9;partement des transports, de l&amp;#39;&#xE9;quipement et de l&amp;#39;environnement:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etat-major</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service administratif et juridique</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des transports</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des routes et des cours d&amp;#39;eau***</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des b&#xE2;timents, monuments et arch&#xE9;ologie:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Gestion des immeubles**</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Patrimoine****</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la protection de l&amp;#39;environnement</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la chasse, de la p&#xEA;che et de la faune</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service des for&#xEA;ts et du paysage***</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>Etat-major</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la sant&#xE9; publique:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Section gestion et finances**</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la consommation et affaires v&#xE9;t&#xE9;rinaires</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de l&amp;#39;action sociale:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Section juridique</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Centre m&#xE9;dico-&#xE9;ducatif, La Castalie</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de protection des travailleurs et des relations du travail</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service de la culture</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Offices des poursuites et faillites</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Chancellerie d&amp;#39;Etat:</cell>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                              <cell/>
+                            </row>
+                            <row rowType="data">
+                              <cell>1. Affaires juridique</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>2. Information</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Inspection cantonale des finances**</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Service parlementaire</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Autorit&#xE9;s judiciaires</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Minist&#xE8;re public*****</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Administrations communales******</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Teneurs des cadastres******</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Institutions (art. 28 al. 1 let. b ORF)</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>avocats</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Personnes pour les immeubles qui leur appartiennent</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>oui</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>oui</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>Personnes pour les immeubles sur lesquels elles ont des droits</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                              <cell>non</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39131">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">1 = Erwerbsart; 2 = Pfandrechte; 3 = Dienstbarkeiten; 4 = Grundlasten; 5 = Vormerkungen; 6 = Anmerkungen (alle); 7 = Anmerkungen i.S. v. 26 Abs. 1 Bst. c GBV; 8 = Belege; 9 = Suche personenbezogen; 10 = Historik.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">1 = mode d'acquisition; 2 = droits de gage; 3 = servitudes; 4 = charges fonci&#xE8;res;5 = annotations; 6 = mentions (toutes); 7 = mentions (Art. 26. al. 1 let. c ORF); 8 = pi&#xE8;ces justificatives; 9 = recherche par personne; 10 = historique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39132">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beschr&#xE4;nkungen:
+<break type="line"/>** Beschr&#xE4;nkung auf die sich im Eigentum des Kantons befindlichen Grundst&#xFC;cke
+<break type="line"/>*** je nach Sektion Einschr&#xE4;nkungen entsprechend amtlicher T&#xE4;tigkeit
+<break type="line"/>**** Grundst&#xFC;cke im Privateigentum
+<break type="line"/>***** Beschr&#xE4;nkung, wo Sachverhaltsabkl&#xE4;rung von Amtes wegen
+<break type="line"/>****** Beschr&#xE4;nkung auf die jeweilige Gemeinde</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Limitations:
+<break type="line"/>** limitation aux immeubles propri&#xE9;t&#xE9; du canton
+<break type="line"/>*** d'apr&#xE8;s la section, restrictions en fonction des activit&#xE9;s officielles
+<break type="line"/>**** immeubles de propri&#xE9;t&#xE9; priv&#xE9;e
+<break type="line"/>***** limitation aux cas o&#xF9; l'&#xE9;tablissement des faits s'effectue d'office
+<break type="line"/>****** limitation &#xE0; la commune respective</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5156">
+            <structureContent lang="de">
+              <structureOrder>A2</structureOrder>
+              <structureText>Anhang 2 zu Artikel 7</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A2</structureOrder>
+              <structureText>Annexe 2 &#xE0; l'article 7</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17099">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A2-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren f&#xFC;r den Zugang zu den informatisierten Grundbuchdaten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emoluments pour l&#x2019;acc&#xE8;s au registre foncier informatis&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39133">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xD6;ffentlich zug&#xE4;ngliche Daten des Hauptbuches: der Zugang zu den &#xF6;ffentlichen Daten gem&#xE4;ss Artikel 27 Absatz 1 GBV ist geb&#xFC;hrenfrei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Donn&#xE9;es du grand livre ouvertes au public: l&#x2019;acc&#xE8;s aux donn&#xE9;s publiques selon l&#x2019;article 27 alin&#xE9;a 1 ORF est gratuit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39134">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erweiterter Zugang:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Acc&#xE8;s &#xE9;tendu:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30188">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Urkundspersonen - Ingenieur-Geometer - Personen gem&#xE4;ss Artikel 28 Absatz 1 Buchstabe b GBV:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes habilit&#xE9;es &#xE0; dresser des actes authentiques - ing&#xE9;nieurs-g&#xE9;om&#xE8;tres - personnes selon l&#x2019;article 28 alin&#xE9;a 1 lettre b ORF:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:30189">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">einmalige Geb&#xFC;hr (Behandeln Gesuch, Vereinbarung, Aufschaltung Konto)<tab/>Fr. 200</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#xE9;molument unique (demande de traitement, convention, ouverture de compte)<tab/>Fr. 200</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:30190">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die j&#xE4;hrliche Pauschalgeb&#xFC;hr betr&#xE4;gt (die j&#xE4;hrliche Pauschalgeb&#xFC;hr wird im Voraus erhoben)<tab/>Fr. 50</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">&#xE9;molument forfaitaire annuel (l&#x2019;&#xE9;molument forfaitaire annuel est pr&#xE9;lev&#xE9; &#xE0; l&#x2019;avance)<tab/>Fr. 50</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:30191">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zus&#xE4;tzlich je Abfrage pro Grundst&#xFC;ck (die Erhebung der Geb&#xFC;hr f&#xFC;r die zus&#xE4;tzliche Geb&#xFC;hr je Abfrage erfolgt ebenfalls einmal j&#xE4;hrlich)<tab/>Fr. 1</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">en plus, par appel d&#x2019;immeuble (le pr&#xE9;l&#xE8;vement de l&#x2019;&#xE9;molument par appel s&#x2019;effectue aussi une fois par ann&#xE9;e)<tab/>Fr. 1</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30192">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kantonale und kommunale Beh&#xF6;rden:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">autorit&#xE9;s cantonales et communales:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:30193">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Zugang zu den informatiserten Grundbuchdaten erfolgt f&#xFC;r die kommunalen und kantonalen Beh&#xF6;rden geb&#xFC;hrenfrei.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l&#x2019;acc&#xE8;s aux donn&#xE9;es informatis&#xE9;es du grand livre est gratuit pour les autorit&#xE9;s cantonales et communales.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2013-02-01</dateForce>
+      <dateVersion>2014-06-27</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 26/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

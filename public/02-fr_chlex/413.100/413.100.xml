@@ -1,0 +1,1987 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:891</normID>
+      <number>413.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Allgemeines Reglement &#xFC;ber die Mittelschulen</title>
+      <title lang="fr">R&#xE8;glement g&#xE9;n&#xE9;ral concernant les &#xE9;tablissements de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2003-12-17</dateAdoption>
+      <dateForce>2003-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-09-01</dateLastChange>
+      <dateVersion>2012-09-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 61 und 73 Absatz 2 des Gesetzes&#xA0;&#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962;</basis> <basis>auf Antrag des Departements f&#xFC;r Erziehung, Kultur und Sport,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 61 et 73 alin&#xE9;a 2 de la loi sur l'instruction publique du 4 juillet 1962;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 3/2004</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2672">
+        <structureContent lang="de">
+          <structureText>Allgemeines Reglement &#xFC;ber die Mittelschulen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>g&#xE9;n&#xE9;ral concernant les &#xE9;tablissements de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2674">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9293">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21447">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des vorliegenden Reglements beziehen sich auf kantonale Schulen der Sekundarstufe II sowie auf Schulen derselben Stufe, mit welchen der Kanton vertraglich gebunden ist, wobei die entsprechenden Bestimmungen vorbehalten bleiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions du pr&#xE9;sent r&#xE8;glement sont applicables aux &#xE9;tablissements cantonaux de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9; ainsi qu'aux &#xE9;coles du m&#xEA;me degr&#xE9; avec lesquelles l'&#xE9;tat est li&#xE9; par convention, dont les dispositions sont r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9294">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schulreglement</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE8;glement d'&#xE9;tablissement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21448">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Schule erl&#xE4;sst ein internes Reglement, das die Einzelheiten &#xFC;ber Organisation, Disziplin und Aufsicht enth&#xE4;lt. Dieses Reglement muss vom Departement genehmigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un r&#xE8;glement propre &#xE0; chaque &#xE9;tablissement, approuv&#xE9; par le d&#xE9;partement, fixe les dispositions internes d'organisation, de discipline et de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21449">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es regelt im Besonderen die Anforderungen auf dem Gebiet der Disziplin, der P&#xFC;nktlichkeit, der Bekleidung, der Ordnung, der Sauberkeit und dem Ben&#xFC;tzen von gewissen Ger&#xE4;ten und privaten elektronischen Medien (unter anderem Mobiltelefone und die missbr&#xE4;uchliche Benutzung des Internets). Es sieht ebenfalls Bestimmungen vor zur Ben&#xFC;tzung der R&#xE4;umlichkeiten und Material f&#xFC;r den spezifischen Unterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il pr&#xE9;cise notamment les exigences concernant la discipline, la ponctualit&#xE9;, la tenue, l&#x2019;ordre, la propret&#xE9; ainsi que l&#x2019;usage de certains appareils et m&#xE9;dias &#xE9;lectroniques priv&#xE9;s (entre autres t&#xE9;l&#xE9;phones mobiles, l&#x2019;usage d&#x2019;internet et des moyens de communication). Il pr&#xE9;voit &#xE9;galement les dispositions r&#xE9;gissant l&#x2019;usage des locaux et du mat&#xE9;riel affect&#xE9;s &#xE0; un enseignement particulier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9295">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation des Schuljahres</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation de l'ann&#xE9;e scolaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21450">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst Richtlinien f&#xFC;r die Organisation des Schuljahres; er setzt insbesondere die schulfreien Tage und die Ferien fest sowie Beginn und Abschluss des Schuljahres.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat arr&#xEA;te l&#x2019;organisation de l&#x2019;ann&#xE9;e scolaire; il fixe notamment les cong&#xE9;s et les vacances ainsi que l&#x2019;ouverture et la cl&#xF4;ture des cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21451">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement hat die Kompetenz die Dauer von jedem Semester festzulegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est comp&#xE9;tent pour fixer la dur&#xE9;e de chaque semestre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9296">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Admission</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21452">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aufnahmebedingungen f&#xFC;r die Schulen der Sekundarstufe II sind durch das Gesetz &#xFC;ber die Orientierungsschule geregelt. Ausserdem gilt f&#xFC;r die Spezialf&#xE4;lle das kantonale Reglement des jeweiligen Schultypus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions d&#x2019;admission dans les &#xE9;coles de l&#x2019;enseignement secondaire du deuxi&#xE8;me degr&#xE9; sont r&#xE9;gies par la loi sur le cycle d&#x2019;orientation, ainsi que par le r&#xE8;glement cantonal propre &#xE0; chaque type d&#x2019;&#xE9;cole pour les cas particuliers d&#x2019;admission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9297">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">H&#xF6;rer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Auditeurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21453">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sch&#xFC;ler, die als H&#xF6;rer (ohne Noten) nur einzelne Schulstunden besuchen wollen, werden in der Regel nicht angenommen. Eine Ausnahme bilden jedoch Austauschsch&#xFC;ler sowie ausnahmsweise Sch&#xFC;ler, die wichtige pers&#xF6;nliche Motive vorbringen k&#xF6;nnen, wenn es die Organisation und die Sch&#xFC;leranzahl einer Klasse erlauben. In diesem letzten Fall ist die Zustimmung des Departements erforderlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe la demande d'admission comme &#xE9;l&#xE8;ve auditeur (pas not&#xE9;) n'est pas admise. Font toutefois exception &#xE0; cette r&#xE8;gle, les &#xE9;l&#xE8;ves au b&#xE9;n&#xE9;fice d'un &#xE9;change linguistique ainsi qu'exceptionnellement d'autres &#xE9;l&#xE8;ves qui peuvent justifier de motifs personnels importants, dans la mesure o&#xF9; l'organisation et l'effectif de la classe le permettent. Dans ce dernier cas l'accord du d&#xE9;partement est requis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21454">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den Ausbildungsg&#xE4;ngen, f&#xFC;r welche das System der Semesterpromotion gilt, wird das Statut als H&#xF6;rer im Prinzip auf das ganze Schuljahr verl&#xE4;ngert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les fili&#xE8;res o&#xF9; le syst&#xE8;me de promotion est semestriel, le statut d&#x2019;auditeur est en principe &#xE9;tendu &#xE0; une ann&#xE9;e scolaire enti&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9298">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sp&#xE4;tere Aufnahme, Wegzug w&#xE4;hrend des Schuljahres</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Admission tardive et d&#xE9;part en cours d'ann&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21455">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Regel kann kein Sch&#xFC;ler nach Beginn des Schuljahres zugelassen werden oder die Schule im Verlauf des Jahres verlassen. In Ausnahmef&#xE4;llen entscheidet die Schuldirektion.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale, aucun &#xE9;l&#xE8;ve ne peut &#xEA;tre re&#xE7;u apr&#xE8;s l'ouverture des cours, ni quitter l'&#xE9;tablissement pendant l'ann&#xE9;e. Les exceptions sont de la comp&#xE9;tence de la direction de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21456">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Sch&#xFC;ler, der die Schule w&#xE4;hrend des Schuljahres verl&#xE4;sst, wird nicht bef&#xF6;rdert. Sein Schuljahr wird in der Regel als Misserfolg gewertet. Er erh&#xE4;lt eine Best&#xE4;tigung, dass er den Unterricht besucht hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;&#xE9;l&#xE8;ve qui quitte l&#x2019;&#xE9;tablissement durant l&#x2019;ann&#xE9;e scolaire n&#x2019;est pas promu. Son ann&#xE9;e sera en principe consid&#xE9;r&#xE9;e comme un &#xE9;chec. Il re&#xE7;oit une attestation mentionnant qu&#x2019;il a suivi les cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21457">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den Ausbildungsg&#xE4;ngen, f&#xFC;r welche das System der Semesterpromotion gilt, wird ein Verlassen w&#xE4;hrend des Schuljahres als Misserfolg f&#xFC;r das Semester gewertet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les fili&#xE8;res o&#xF9; le syst&#xE8;me de promotion est semestriel, un d&#xE9;part en cours d&#x2019;ann&#xE9;e est consid&#xE9;r&#xE9; comme un &#xE9;chec au semestre consid&#xE9;r&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9299">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einschreibung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inscription</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21458">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler m&#xFC;ssen sich in der vom Departement gesetzten Frist bei der Schule, die sie besuchen wollen, anmelden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves doivent s'inscrire dans le d&#xE9;lai fix&#xE9; par le d&#xE9;partement aupr&#xE8;s de l'&#xE9;tablissement qu'ils souhaitent fr&#xE9;quenter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21459">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21460">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausnahmef&#xE4;lle fallen in den Kompetenzbereich der jeweiligen Schuldirektion.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cas particuliers sont de la comp&#xE9;tence de la direction de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9300">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Transfer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transfert</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21461">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Regel besuchen die Sch&#xFC;ler die Schule, in welcher sie sich eingeschrieben haben, und beenden ihre Ausbildung auch an dieser. Allf&#xE4;llige Anfragen f&#xFC;r einen Transfer werden von den Rektoren und Direktoren gehandhabt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale les &#xE9;l&#xE8;ves poursuivent et terminent leurs &#xE9;tudes dans l&#x2019;&#xE9;tablissement o&#xF9; ils se sont inscrits. Les &#xE9;ventuelles demandes de transfert sont trait&#xE9;es par les recteurs et directeurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21462">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Spezialf&#xE4;llen kann das Departement einen Transfer bewilligen, durchsetzen oder verbieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les cas particuliers, le d&#xE9;partement est comp&#xE9;tent pour autoriser, imposer ou interdire un transfert.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9301">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewertungssystem, Noten und Promotion</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Syst&#xE8;me d'&#xE9;valuation, notes et promotion</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21463">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Bewertungssystem, die Noten und Promotionsbedingungen werden im kantonalen Reglement des jeweiligen Schultypus bestimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d&#x2019;&#xE9;valuation, les notes et les conditions de promotion sont arr&#xEA;t&#xE9;s dans le r&#xE8;glement cantonal propre &#xE0; chaque type d&#x2019;&#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21464">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Beratung oder auf Vorschlag der Lehrkr&#xE4;fte der betroffenen Klasse best&#xE4;tigt der Rektor oder der Direktor mit seiner Unterschrift das Notenzeugnis des Sch&#xFC;lers.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s d&#xE9;lib&#xE9;ration et sur proposition des ma&#xEE;tres enseignant dans la classe concern&#xE9;e, le recteur ou le directeur officialise par sa signature le bulletin de notes de l'&#xE9;l&#xE8;ve.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21465">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausnahmsweise kann der Rektor oder der Direktor Sch&#xFC;ler promovieren, deren Resultate infolge Krankheit oder anderer schwerwiegender, unvorhergesehener Ereignisse nicht den Promotionsbedingungen des kantonalen Reglements des jeweiligen Schultypus entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Exceptionnellement, le recteur ou le directeur peut accorder la promotion lorsque, en cas de maladie ou d'autres &#xE9;v&#xE9;nements graves impr&#xE9;vus et ind&#xE9;pendants de la volont&#xE9; de l'&#xE9;l&#xE8;ve, les r&#xE9;sultats ne r&#xE9;pondent pas aux conditions de promotion pr&#xE9;vues par le r&#xE8;glement cantonal de chaque type d'&#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9302">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation des Studiums und der Mahlzeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation d'&#xE9;tudes et de repas</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21466">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schulen, die vom vorliegenden Reglement betroffen sind, k&#xF6;nnen den Sch&#xFC;lern Mahlzeiten und Studiumsm&#xF6;glichkeiten anbieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tablissements r&#xE9;gis par le pr&#xE9;sent r&#xE8;glement peuvent proposer &#xE0; leurs &#xE9;l&#xE8;ves des repas et des &#xE9;tudes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9303">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kommunikation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communications</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21467">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eltern haben ein Informationsrecht (Kontakte, insbesondere Notenangaben und Sanktionen) betreffend den Schulbesuch ihres Kindes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les parents ont le droit d&#x2019;&#xEA;tre inform&#xE9;s (communications de toute nature: remises de notes et notifications de sanction notamment) sur la scolarit&#xE9; de leur enfant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21468">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beziehungen (Kontakte, insbesondere Notenangaben und Sanktionen) zwischen der Schule und den vollj&#xE4;hrigen Sch&#xFC;lern erfolgen entsprechend der gew&#xE4;hrten oder nicht gew&#xE4;hrten Vollmachtserkl&#xE4;rung des vollj&#xE4;hrigen Sch&#xFC;lers an die Eltern oder den gesetzlichen Vertreter (nachstehend: Eltern).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les relations (communications de toute nature: remises de notes et notifications de sanction notamment) entre l&#x2019;&#xE9;tablissement et les &#xE9;l&#xE8;ves majeurs sont trait&#xE9;es en fonction des pouvoirs conf&#xE9;r&#xE9;s (ou non) aux parents ou repr&#xE9;sentants l&#xE9;gaux (ci-apr&#xE8;s: les parents), par les &#xE9;l&#xE8;ves en question et selon le droit des parents &#xE0; &#xEA;tre inform&#xE9;s sur la scolarit&#xE9; de leur enfant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2675">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Beziehungen mit den Eltern</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Relations avec les parents</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9304">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenk&#xFC;nfte der Eltern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;union de parents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21469">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schuldirektion und die Lehrpersonen f&#xF6;rdern die Kontakte mit den Familien ihrer Sch&#xFC;ler und organisieren, immer wenn es die Umst&#xE4;nde verlangen, in der Regel einmal im Jahr, Zusammenk&#xFC;nfte mit den Eltern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction et les professeurs favorisent les contacts avec les familles de leurs &#xE9;l&#xE8;ves en organisant des r&#xE9;unions de parents chaque fois que les circonstances l'exigent, en r&#xE8;gle g&#xE9;n&#xE9;rale une fois par an.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9305">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Elternvereinigungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Association de parents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21470">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Elternvereinigung von Sch&#xFC;lern der Schule gilt bei der Schuldirektion als anerkannte Gespr&#xE4;chspartner f&#xFC;r Probleme, die den Unterricht und die Schule betreffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'association de parents d'&#xE9;l&#xE8;ves constitu&#xE9;e par &#xE9;tablissement est reconnue comme interlocutrice de la direction pour les probl&#xE8;mes int&#xE9;ressant les &#xE9;l&#xE8;ves.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9306">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pflichten der Eltern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Devoirs des parents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21471">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eltern der Sch&#xFC;ler haben die Pflicht, mit den Lehrpersonen und der Schuldirektion zusammenzuarbeiten, um die von der Schule angestrebten Ziele zu erreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les parents ont le devoir de collaborer avec le personnel enseignant et la direction afin d'atteindre les buts de l'&#xE9;cole.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21472">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Geraten ihre Kinder in ernsthafte Schwierigkeiten, k&#xF6;nnen die Eltern mit der Schuldirektion und der(n) betroffenen Lehrperson(en) jederzeit ein Gespr&#xE4;ch verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de difficult&#xE9;s s&#xE9;rieuses rencontr&#xE9;es par leurs enfants, les parents peuvent en tout temps demander un entretien avec la direction et le(s) professeur(s) concern&#xE9;(s).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2676">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Besuch des Unterrichts</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Fr&#xE9;quentation des cours</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9307">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Besuch des Unterrichts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;sence au cours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21473">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Besuch aller im Programm erw&#xE4;hnten Unterrichtsstunden ist obligatorisch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fr&#xE9;quentation de tous les cours mentionn&#xE9;s dans le programme est obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21474">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausnahmen k&#xF6;nnen aus Gr&#xFC;nden erteilt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des d&#xE9;rogations peuvent &#xEA;tre accord&#xE9;es pour les raisons:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10776">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die im kantonalen Reglement des jeweiligen Schultypus vorgesehen sind (Anerkennung der Noten);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;vues dans le r&#xE8;glement cantonal propre &#xE0; chaque type d'&#xE9;cole (notes acquises);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10777">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die vom Rektor/Direktor bewilligt werden, die auf Gesuch des Sch&#xFC;lers und aufgrund der ausgewiesenen Kenntnisse bewilligt werden; der Sch&#xFC;ler ist allerdings verpflichtet, im Fach/in den F&#xE4;chern die vorgesehenen Pr&#xFC;fungen abzulegen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">autoris&#xE9;es par le recteur/directeur, sur demande de l'&#xE9;l&#xE8;ve et en fonction de connaissances prouv&#xE9;es; l'&#xE9;l&#xE8;ve reste astreint aux examens pr&#xE9;vus dans la (les) discipline(s) concern&#xE9;e(s);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10778">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die einem H&#xF6;rer angepasst sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">adapt&#xE9;es &#xE0; un statut d'auditeur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10779">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die im Rahmen des Sprachaustausches gew&#xE4;hrt werden und in entsprechenden Bestimmungen festgehalten sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">propres aux conditions d'un &#xE9;change linguistique et fix&#xE9;es dans une disposition ad hoc;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10780">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Krankheitsfall oder anderen Spezialf&#xE4;llen im Rahmen der Weisungen, welche vom Departement erlassen wurden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de maladie ou dans d'autres cas particuliers, dans les limites fix&#xE9;es par les directives du d&#xE9;partement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9308">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Urlaub und Abwesenheiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cong&#xE9;s et absences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21475">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einzelne Abwesenheiten k&#xF6;nnen in begr&#xFC;ndeten F&#xE4;llen und vorg&#xE4;ngigem Gesuch durch die Schuldirektion bis zu neun aufeinander folgenden Halbtagen, dar&#xFC;ber hinaus von der zust&#xE4;ndigen Dienststelle des Departements gew&#xE4;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des cong&#xE9;s individuels peuvent &#xEA;tre accord&#xE9;s pour des motifs&#xA0;valables, et annonc&#xE9;s pr&#xE9;alablement, par la direction de l'&#xE9;tablissement jusqu'&#xE0; neuf demi-journ&#xE9;es cons&#xE9;cutives de classe, et au-del&#xE0; par le service comp&#xE9;tent du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21476">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede unvorhergesehene Abwesenheit muss der Schuldirektion mitgeteilt werden und der Sch&#xFC;ler hat bei seiner R&#xFC;ckkehr eine Rechtfertigung vorzuweisen. Die Eltern oder der Sch&#xFC;ler m&#xFC;ssen den Verantwortlichen der Schule &#xFC;ber l&#xE4;ngere Absenzen sowie &#xFC;ber die voraussichtliche Wiederaufnahme des Unterrichts informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute absence impr&#xE9;vue doit &#xEA;tre signal&#xE9;e &#xE0; la direction de l'&#xE9;tablissement et l'&#xE9;l&#xE8;ve doit, &#xE0; son retour, pr&#xE9;senter une pi&#xE8;ce justificative. Les parents, ou l'&#xE9;l&#xE8;ve, doivent signaler au responsable les absences de longue dur&#xE9;e et la date envisageable de sa reprise des cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21477">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist die Abwesenheit durch Krankheit oder Unfall verursacht, kann ein Arztzeugnis verlangt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'absence est due &#xE0; une maladie ou &#xE0; un accident, un certificat m&#xE9;dical peut &#xEA;tre exig&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21478">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einer vorgesehenen Abwesenheit muss vorg&#xE4;ngig bei der Schuldirektion ein entsprechender Antrag gestellt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas d'absence pr&#xE9;vue, une demande de cong&#xE9; doit &#xEA;tre formul&#xE9;e &#xE0; l'avance aupr&#xE8;s de la direction de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21479">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das interne Schulreglement regelt die Kompensation infolge von vorgesehenen und unvorhergesehenen Abwesenheiten. Vorbehalten bleibt die Abwesenheit infolge Unfalls, l&#xE4;ngerer Krankheit und im Falle von h&#xF6;herer Gewalt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE8;glement d'&#xE9;tablissement r&#xE9;git les mesures devant compenser les absences pr&#xE9;vues ou impr&#xE9;vues. Les cas d'accident, de maladie de longue dur&#xE9;e ou d'autres cas de force majeure sont r&#xE9;serv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21480">
+                    <partNumber>5bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Urlaubsantr&#xE4;ge um die Schulferien zu verl&#xE4;ngern oder vorzuziehen werden abgelehnt, mit Ausnahme von Spezialf&#xE4;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute demande de cong&#xE9; en vue d&#x2019;anticiper ou prolonger les cong&#xE9;s scolaires sera refus&#xE9;e, sauf cas particuliers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21481">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede unbegr&#xFC;ndete Abwesenheit wird bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute absence non motiv&#xE9;e fait l'objet d'une sanction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9309">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21482">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9310">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erleichterungen f&#xFC;r K&#xFC;nstler und Sportler</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Facilit&#xE9;s pour artistes et sportifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21483">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Rektoren und Direktoren treffen die entsprechenden Massnahmen, damit besonders begabte K&#xFC;nstler und Sportler, welche den Sport-Kunst-Ausbildungs-Status (SKA) haben, ihre k&#xFC;nstlerischen oder sportlichen T&#xE4;tigkeiten, gem&#xE4;ss den Bestimmungen des Staatsrates, mit ihrem Studium vereinbaren k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les recteurs et directeurs prennent les mesures n&#xE9;cessaires pour permettre aux artistes et sportifs particuli&#xE8;rement talentueux ayant le statut Sport-Arts-Formation (SAF) de concilier leurs activit&#xE9;s artistiques ou sportives, conform&#xE9;ment aux dispositions arr&#xEA;t&#xE9;es par le Conseil d&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2677">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Verhalten der Sch&#xFC;ler</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Conduite des &#xE9;l&#xE8;ves</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9311">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verhalten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comportement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21484">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler verhalten sich den Verantwortlichen der Schule, den Lehrpersonen und den Angestellten sowie den Mitsch&#xFC;lern gegen&#xFC;ber respektvoll. Sie vermeiden jegliche Art von k&#xF6;rperlicher oder verbaler Gewalt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves font preuve en toute circonstance de respect tant envers les responsables de l'&#xE9;cole, les professeurs et le personnel de l'&#xE9;tablissement, qu'envers leurs camarades. Ils s'abstiennent de toute violence physique ou verbale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21485">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie respektieren die von der Schule erlassenen Regeln &#xFC;ber Verhalten und Disziplin.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils respectent les r&#xE8;gles de discipline et de conduite pr&#xE9;vues par le r&#xE8;glement de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21486">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler nehmen aktiv am Leben der Schule teil und verpflichten sich, ihre Verantwortlichkeiten pflichtbewusst und vorschriftgem&#xE4;ss zu erf&#xFC;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves prennent une part active &#xE0; la vie de l'&#xE9;tablissement et s'engagent &#xE0; assumer leurs responsabilit&#xE9;s avec s&#xE9;rieux et r&#xE9;gularit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21487">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verletzen der Bestimmungen der Abs&#xE4;tze 1 und 2 ist strafbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La violation des dispositions des alin&#xE9;as 1 et 2 entra&#xEE;ne une sanction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9312">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xD6;ffentlicher Verkehr und Schulweg</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transports publics et d&#xE9;placements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21488">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sch&#xFC;ler, die die &#xF6;ffentlichen Verkehrsmittel ben&#xFC;tzen, um sich an den Schulort zu begeben, unterliegen den eidgen&#xF6;ssischen und kantonalen Bestimmungen betreffend die &#xF6;ffentlichen Verkehrsmittel.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves qui doivent utiliser les transports publics pour se rendre dans l'&#xE9;tablissement o&#xF9; ils effectuent leurs &#xE9;tudes sont soumis aux dispositions f&#xE9;d&#xE9;rales et cantonales en mati&#xE8;re de transport public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21489">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf dem Schulweg sind die Sch&#xFC;ler, respektive ihre Eltern, in jedem Fall verantwortlich f&#xFC;r ihr Benehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur le chemin de l&#x2019;&#xE9;cole, les &#xE9;l&#xE8;ves, respectivement leurs parents, sont responsables de leur comportement en toutes circonstances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9313">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kleidung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tenue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21490">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler sollen sauber, anst&#xE4;ndig, dem Schulrahmen angepasst und entsprechend den Vorschriften der Schule gekleidet sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves doivent avoir une tenue propre et d&#xE9;cente, adapt&#xE9;e au cadre scolaire et conforme aux instructions donn&#xE9;es par l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9314">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausfl&#xFC;ge und Anl&#xE4;sse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Excursions - Manifestations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21491">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern nicht berechtige Gr&#xFC;nde oder Verhinderungen vorliegen, sind alle Sch&#xFC;ler verpflichtet, an den von der Schule organisierten Ausfl&#xFC;gen und Anl&#xE4;ssen teilzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf motifs ou emp&#xEA;chements d&#xFB;ment justifi&#xE9;s, tous les &#xE9;l&#xE8;ves sont tenus de prendre part aux excursions et manifestations organis&#xE9;es par l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21492">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Ausfl&#xFC;ge, die l&#xE4;nger als ein Tag dauern und/oder je nach Art und Kosten der Aktivit&#xE4;ten ist die Zustimmung der Eltern notwendig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour un d&#xE9;placement de plus d'un jour et/ou selon la nature et le co&#xFB;t des activit&#xE9;s pr&#xE9;vues, l'accord des parents est n&#xE9;cessaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21493">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen f&#xFC;r Studienreisen sind im Reglement betreffend die Studienreisen der Gymnasien, Handels- und Fachmittelschulen sowie der Schulen f&#xFC;r Berufsvorbereitung (SfB) vom 23. November 2011&#xA0;festgehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les voyages d&#x2019;&#xE9;tudes sont r&#xE9;gis par le r&#xE8;glement relatif aux voyages d&#x2019;&#xE9;tudes pour les &#xE9;coles du secondaire II g&#xE9;n&#xE9;ral du 23 novembre 2011.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9315">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verbote</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Interdictions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21494">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist im Rahmen der Schule strikte untersagt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'&#xE9;cole, il est formellement interdit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10781">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Alkohol zu konsumieren oder mitzuf&#xFC;hren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de consommer ou de d&#xE9;tenir de l'alcool;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10782">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Schulgeb&#xE4;ude und auf dem Schulareal zu rauchen, ausser in den hierzu besonders vorgesehenen &#xD6;rtlichkeiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de fumer &#xE0; l'int&#xE9;rieur de l'&#xE9;tablissement et dans le p&#xE9;rim&#xE8;tre de l'&#xE9;cole, sauf dans les endroits sp&#xE9;cialement pr&#xE9;vus &#xE0; cet effet;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10783">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Publikationen, deren Inhalt von den spezifischen Gesetzgebungen verboten ist, zu besitzen oder zu verteilen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de d&#xE9;tenir ou de distribuer des publications dont le contenu est prohib&#xE9; par les dispositions sp&#xE9;cifiques en la mati&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10784">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bet&#xE4;ubungsmittel im Sinne der spezifischen Gesetze zu besitzen, zu verkaufen, zu verteilen oder zu konsumieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de notamment d&#xE9;tenir, vendre, distribuer ou consommer des stup&#xE9;fiants au sens des dispositions sp&#xE9;cifiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10785">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gef&#xE4;hrliche Gegenst&#xE4;nde und Produkte zu besitzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de d&#xE9;tenir des objets et des produits dangereux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10786">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21495">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Nichteinhaltung dieser Verbote hat immer Strafen zur Folge.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La violation de ces interdictions est toujours motif de sanction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21496">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9316">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortung der Sch&#xFC;ler</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9; des &#xE9;l&#xE8;ves</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21497">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sch&#xFC;ler unterlassen es, den R&#xE4;umen, die sie ben&#xFC;tzen, und den ihnen anvertrauten Gegenst&#xE4;nde Schaden zuzuf&#xFC;gen. Bei Besch&#xE4;digung oder Verlust fallen die Kosten zu Lasten der Schuldigen. Etwaige disziplinarische Strafen bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE8;ves s'abstiennent de tout d&#xE9;g&#xE2;t aux locaux et aux divers mat&#xE9;riels qui leur sont confi&#xE9;s. En cas de d&#xE9;g&#xE2;ts ou de perte, les frais sont &#xE0; la charge des fautifs. D'&#xE9;ventuelles sanctions disciplinaires sont r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21498">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Betrug und das Plagiat werden bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La tricherie et le plagiat sont soumis &#xE0; sanction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21499">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ben&#xFC;tzung von elektronischen Medien der Schule sind einer Charta unterworfen, welche der Sch&#xFC;ler unterzeichnet und dessen Inhalt vom Departement genehmigt wurde. Jegliche missbr&#xE4;uchliche oder illegale Ben&#xFC;tzung wird bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;utilisation des m&#xE9;dias &#xE9;lectroniques de l&#x2019;&#xE9;cole est soumise &#xE0; la signature d&#x2019;une charte dont le contenu est valid&#xE9; par le d&#xE9;partement. Toute utilisation abusive ou ill&#xE9;gale sera sanctionn&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9317">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisationsrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit de s'organiser</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21500">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dem Ziel, eine gute Zusammenarbeit mit der Schuldirektion und den Lehrpersonen hinsichtlich des Studiums, der Disziplin und des Schullebens zu gew&#xE4;hrleisten, haben die Sch&#xFC;ler das Recht, sich zusammenzuschliessen; die Organisationsform muss so gew&#xE4;hlt werden, dass alle Sch&#xFC;ler vertreten sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le but d'assurer une bonne collaboration avec la direction et les professeurs en ce qui concerne les &#xE9;tudes et la vie de l'&#xE9;tablissement, les &#xE9;l&#xE8;ves peuvent s'organiser en une association qui doit permettre &#xE0; l'ensemble des &#xE9;l&#xE8;ves de l'&#xE9;tablissement d'&#xEA;tre repr&#xE9;sent&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2678">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Strafen - Rekurse</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Sanctions - Recours</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:9318">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21501">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Den Sch&#xFC;lern k&#xF6;nnen folgende Strafen auferlegt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les sanctions qui peuvent &#xEA;tre inflig&#xE9;es aux &#xE9;l&#xE8;ves sont les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10787">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch die Lehrpersonen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par les professeurs:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10788">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zus&#xE4;tzliche n&#xFC;tzliche Arbeiten,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des travaux utiles compl&#xE9;mentaires,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10789">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Nachsitzen bis zu zwei Stunden unter Aufsicht,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des retenues jusqu'&#xE0; deux heures sous surveillance,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10790">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Ausschluss von einer Unterrichtsstunde (muss der Schuldirektion mitgeteilt werden);</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'exclusion d'un cours (doit &#xEA;tre signal&#xE9;e &#xE0; la direction);</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10791">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch den f&#xFC;r die Disziplin der Schule Verantwortlichen oder durch den Klassenlehrer:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par le responsable de la discipline de l'&#xE9;cole ou le ma&#xEE;tre titulaire:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10792">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Nachsitzen bis zu vier Stunden unter Aufsicht (muss den Eltern mitgeteilt werden);</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">des retenues jusqu'&#xE0; quatre heures sous surveillance (elles doivent &#xEA;tre signal&#xE9;es aux parents);</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10793">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">durch den Rektor oder den Direktor:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">par le recteur ou le directeur de l'&#xE9;cole:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10794">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Verwarnung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'avertissement,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10795">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zeitweilige Suspendierung vom Unterricht,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la suspension temporaire des cours,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10796">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Androhung des Ausschlusses, welcher einer zweiten Verwarnung gleichkommt,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la menace d'exclusion qui correspond &#xE0; un deuxi&#xE8;me avertissement,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10797">
+                            <partNumber>4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Ausschluss von der Schule.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'exclusion de l'&#xE9;tablissement.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21502">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausschluss von der Schule kann vom Departement auf alle Schulen des Kantons ausgedehnt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exclusion de l'&#xE9;tablissement peut &#xEA;tre &#xE9;tendue, par le d&#xE9;partement, &#xE0; toutes les &#xE9;coles du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21503">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Wiederaufnahme eines ausgeschlossenen Sch&#xFC;lers in eine andere Schule liegt in der Zust&#xE4;ndigkeit des Departements.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;admission dans un autre &#xE9;tablissement d'un &#xE9;l&#xE8;ve exclu est de la comp&#xE9;tence du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21504">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die unter Absatz 1 Buchstabe c erw&#xE4;hnten Strafen sind den Eltern des Sch&#xFC;lers von der Schuldirektion schriftlich mitzuteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les sanctions pr&#xE9;vues &#xE0; l'alin&#xE9;a 1 lettre c chiffres 1&#xA0;&#xE0; 4&#xA0;doivent &#xEA;tre communiqu&#xE9;es par &#xE9;crit aux parents de l'&#xE9;l&#xE8;ve par la direction de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21505">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kollektivstrafen sind untersagt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les punitions collectives sont interdites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9319">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausschluss</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exclusion</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21506">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die dritte Verwarnung innerhalb von drei Jahren bewirkt den Ausschluss von der Schule.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le troisi&#xE8;me avertissement en trois ans entra&#xEE;ne l&#x2019;exclusion de l&#x2019;&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9320">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtliches Geh&#xF6;r</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit d'&#xEA;tre entendu</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21507">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bevor im Sinne von Artikel 25 Absatz 1 Buchstabe c Ziffern 1 bis&#xA0;4 eine Strafe ausgesprochen wird, m&#xFC;ssen der Sch&#xFC;ler und seine Eltern von der Schuldirektion angeh&#xF6;rt werden; Artikel 10 bleibt vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Avant de prendre une sanction au sens de l'article 25 alin&#xE9;a 1 lettre c chiffres&#xA0;1 &#xE0; 4, l'autorit&#xE9; d&#xE9;sign&#xE9;e entend l'&#xE9;l&#xE8;ve et ses parents, l'article 10 &#xE9;tant r&#xE9;serv&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21508">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Recht, angeh&#xF6;rt zu werden, muss innert 15 Tagen nach Feststellung der Tat und/oder des T&#xE4;ters wahrgenommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit d'&#xEA;tre entendu doit pouvoir &#xEA;tre exerc&#xE9; dans un d&#xE9;lai de 15 jours au maximum &#xE0; compter de la connaissance des faits et/ou de leur auteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21509">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bekanntgabe der Strafe, im Sinne der vorliegenden Bestimmungen, muss innert 30 Tagen nach dem vom Anh&#xF6;rungsrecht Gebrauch gemacht oder darauf verzichtet wurde, ausgesprochen werden; w&#xE4;hrend der Sommerferien gilt der Rechtsstillstand.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La notification de la d&#xE9;cision de sanction au sens de l'alin&#xE9;a premier doit intervenir au maximum dans les 30 jours &#xE0; compter du jour de la connaissance des faits et/ou de leur auteur. Le d&#xE9;lai ne court pas pendant les vacances d'&#xE9;t&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9321">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafmotive</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Motifs de sanctions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21510">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Strafmotive sind jene, die im vorliegenden Reglement erw&#xE4;hnt sind, sowie Zuwiderhandlung gegen die Bestimmungen, wie sie im Schulreglement geregelt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont motifs de sanctions ceux pr&#xE9;vus par le pr&#xE9;sent r&#xE8;glement ainsi que la violation des dispositions concernant la discipline, pr&#xE9;vues dans le r&#xE8;glement d'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9322">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beschwerden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21511">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beschwerden gegen die Beschl&#xFC;sse des Rektors oder des Direktors sind innert einer Frist von 30 Tagen an den Staatsrat zu richten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les recours contre les d&#xE9;cisions du recteur ou du directeur doivent &#xEA;tre adress&#xE9;s au Conseil d'Etat, dans les 30 jours d&#xE8;s la notification de la d&#xE9;cision.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:21512">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Beschwerdeverfahren wird durch das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure de recours est r&#xE9;gie par la loi sur la proc&#xE9;dure et la juridiction administratives (LPJA).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:9323">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schlussbestimmung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Disposition finale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:21513">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement wird im Amtsblatt des Kantons Wallis ver&#xF6;ffentlicht und tritt r&#xFC;ckwirkend auf den 1. Januar 2003 in Kraft, davon ausgenommen sind Artikel 15 Abs&#xE4;tze 1 und 5 sowie Artikel 16, welche zu Beginn des Schuljahres 2004/2005 in Kraft treten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement est publi&#xE9; au Bulletin officiel pour entrer en vigueur avec effet r&#xE9;troactif au 1<format upper="true">er</format> janvier 2003, &#xE0; l'exception de l'article 15 alin&#xE9;as 1 et 5 et de l'article 16, qui entrent en vigueur au d&#xE9;but de l'ann&#xE9;e scolaire 2004-2005.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2003-01-01</dateForce>
+      <dateVersion>2012-09-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 31/2012</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

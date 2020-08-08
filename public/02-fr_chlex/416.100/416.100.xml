@@ -1,0 +1,1897 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1604</normID>
+      <number>416.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">VAB</abbreviation>
+      <abbreviation lang="fr">OAF</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Ausbildungsbeitr&#xE4;ge (Stipendien und Ausbildungsdarlehen)</title>
+      <title lang="fr">Ordonnance sur les allocations de formation (bourses et pr&#xEA;ts d'&#xE9;tudes)</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-06-24</dateAdoption>
+      <dateForce>2011-07-01T00:00:00</dateForce>
+      <dateLastChange>2017-07-01</dateLastChange>
+      <dateVersion>2017-07-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Gesetz &#xFC;ber die Ausbildungsbeitr&#xE4;ge vom 18. November 2010;</basis> <basis>auf Antrag des Departements f&#xFC;r Erziehung, Kultur und Sport,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi sur les allocations de formation du 18 novembre 2010;</basis> <basis>sur la proposition du D&#xE9;partement de l&#x2019;&#xE9;ducation, de la culture et du sport,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 27/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="7143">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Ausbildungsbeitr&#xE4;ge (Stipendien und Ausbildungsdarlehen)</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur les allocations de formation (bourses et pr&#xEA;ts d'&#xE9;tudes)</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7144">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23654">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objet et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54740">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung regelt die Anwendungsmodalit&#xE4;ten des Gesetzes &#xFC;ber die Ausbildungsbeitr&#xE4;ge (GAB).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance fixe les modalit&#xE9;s d&#x2019;application de la loi sur les allocations de formation (LAF).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23655">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gleichbehandlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Egalit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54741">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente ordonnance, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l&#x2019;homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23656">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anerkannte Ausbildungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formations reconnues</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54742">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die eine im Sinne der Artikel 7 und 8 des GAB anerkannte Ausbildung mit einer Dauer von mindestens einem Semester absolvieren, k&#xF6;nnen einen Ausbildungsbeitrag erhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes suivant une formation reconnue au sens des articles 7 et 8 de la LAF d&#x2019;une dur&#xE9;e d&#x2019;au moins un semestre peuvent b&#xE9;n&#xE9;ficier d&#x2019;une allocation de formation (ci-apr&#xE8;s: allocation).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7145">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Berechnungsmodus</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Mode de calcul</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23657">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung des Ausbildungsbeitrags</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul de l'allocation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54743">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Berechnung des Ausbildungsbeitrags werden folgende Elemente hinzugezogen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;l&#xE9;ments pris en compte dans le calcul de l&#x2019;allocation sont les suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37979">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die anerkannten H&#xF6;chstkosten je nach Art der Ausbildung gem&#xE4;ss Anhang 1 der vorliegenden Verordnung. Bei Ausbildungen im Ausland, in dem der Lebensstandard unter jenem in der Schweiz liegt, werden die anerkannten H&#xF6;chstkosten an die Lebenshaltungskosten am Ausbildungsort angepasst;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les frais maximums admis en fonction du type de formation figurant dans l'annexe 1 de la pr&#xE9;sente ordonnance. Pour les formations s'effectuant &#xE0; l'&#xE9;tranger, lorsque le niveau de vie y est inf&#xE9;rieur &#xE0; celui de la Suisse, le montant des frais maximums admis est adapt&#xE9; au niveau de vie du lieu de formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37980">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die finanziellen Mittel des Antragstellers, namentlich:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les ressources financi&#xE8;res&#xA0;du requ&#xE9;rant, soit:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37981">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die pers&#xF6;nlichen Eink&#xFC;nfte,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les revenus personnels,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37982">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">f&#xFC;nf Prozent des Nettoverm&#xF6;gens sowie,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le cinq pour cent de la fortune nette,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37983">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Beitrag der Eltern.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la contribution des parents.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54744">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausbildungsbeitrag errechnet sich gest&#xFC;tzt auf die anerkannten H&#xF6;chstkosten nach Abzug der finanziellen Mittel des Antragstellers.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;allocation est calcul&#xE9;e sur la base des frais maximums admis, d&#xE9;duction faite des ressources financi&#xE8;res du requ&#xE9;rant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54745">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Ausbildungen, f&#xFC;r die ein Schulgeld von &#xFC;ber 6'000 Franken pro Jahr bezahlt werden muss, werden die in Anhang&#xA0;1 der vorliegenden Verordnung festgelegten anerkannten H&#xF6;chstkosten um jenen Anteil erh&#xF6;ht, der 6'000 Franken &#xFC;bersteigt. Dieser Anteil kann nicht h&#xF6;her sein als 5'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les formations ayant un &#xE9;colage annuel de plus de 6'000 francs, les frais maximums admis figurant dans l&#x2019;annexe&#xA0;1 de la pr&#xE9;sente ordonnance sont augment&#xE9;s de la part de l&#x2019;&#xE9;colage d&#xE9;passant 6'000 francs. Cette part ne peut &#xEA;tre sup&#xE9;rieure &#xE0; 5'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23658">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzielle Mittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ressources financi&#xE8;res</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54746">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu den finanziellen Mitteln des Antragstellers geh&#xF6;ren:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les ressources financi&#xE8;res du requ&#xE9;rant sont:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37984">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die pers&#xF6;nlichen Eink&#xFC;nfte, das heisst:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les revenus personnels, soit:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37985">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">das Bruttoeinkommen, namentlich Lohn, Nebenverdienste, Renten, Unterhaltsbeitr&#xE4;ge und andere im gleichen Jahr erhaltenen Stipendien, wobei eine Franchise von 30 Prozent, mindestens aber 6'000 Franken abgezogen werden. Erf&#xFC;llt ein Antragsteller die Bestimmungen von Artikel 12 der vorliegenden Verordnung, liegt die Mindestfranchise bei 30'000 Franken,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les revenus bruts, notamment les salaires, gains accessoires, rentes, contributions d'entretien, autres bourses, acquis pendant l'ann&#xE9;e pour laquelle il demande une aide, apr&#xE8;s d&#xE9;duction d'une franchise de 30 pour cent, mais au minimum 6'000 francs. Pour un requ&#xE9;rant qui respecte les dispositions de l'article 12 de la pr&#xE9;sente ordonnance, la franchise minimale est de 30'000 francs,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37986">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Falls es sich um einen verheirateten oder in eingetragener Partnerschaft lebenden Antragsteller handelt: das erwirtschaftete Bruttoeinkommen sowie das erwirtschaftete Einkommen seines Partners f&#xFC;r jenes Jahr, f&#xFC;r das eine Hilfe beantragt wird; dies nach Abzug einer Franchise von 50 Prozent, wobei aber mindestens 12'000 Franken abgezogen werden; Erf&#xFC;llt ein Antragsteller die Bestimmungen von Artikel 12 der vorliegenden Verordnung, liegt die Mindestfranchise bei 45'000 Franken,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour un requ&#xE9;rant mari&#xE9; ou en partenariat enregistr&#xE9;, les revenus bruts ainsi que ceux de son conjoint acquis pendant l'ann&#xE9;e pour laquelle il demande une aide, apr&#xE8;s d&#xE9;duction d'une franchise de 50 pour cent, mais au minimum 12'000 francs. Pour un requ&#xE9;rant qui respecte les dispositions de l'article 12 de la pr&#xE9;sente ordonnance, la franchise minimale est de 45'000 francs,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:37987">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Falls es sich um einen Vollwaisen handelt: das erwirtschaftete Bruttoeinkommen f&#xFC;r jenes Jahr, f&#xFC;r das eine Hilfe beantragt wird; dies nach Abzug einer Franchise von 30 Prozent, wobei aber mindestens 30'000 Franken abgezogen werden;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour un orphelin de p&#xE8;re et de m&#xE8;re, les revenus bruts acquis pendant l'ann&#xE9;e pour laquelle il demande une aide, apr&#xE8;s d&#xE9;duction d'une franchise de 30 pour cent, mais au minimum 30'000 francs;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37988">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;nf Prozent des Nettoverm&#xF6;gens sowie;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le cinq pour cent de la fortune nette;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37989">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beitrag der Eltern unter Vorbehalt der Bestimmungen in Artikel 12 der vorliegenden Verordnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la contribution des parents sous r&#xE9;serve des dispositions de l'article 12 de la pr&#xE9;sente ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23659">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Massgebendes Einkommen der Eltern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Revenu d&#xE9;terminant des parents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54747">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das massgebende Einkommen der Eltern errechnet sich aus der definitiven Steuerveranlagung, die dem Schuljahr, f&#xFC;r das ein Gesuch gestellt wird, zwei Jahre zur&#xFC;ckliegt. Dieses setzt sich zusammen aus:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le revenu d&#xE9;terminant des parents est calcul&#xE9; sur la base de la taxation fiscale d&#xE9;finitive qui pr&#xE9;c&#xE8;de de deux ans le d&#xE9;but de l'ann&#xE9;e scolaire pour laquelle une demande est formul&#xE9;e. Il se compose:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37990">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Nettoeinkommen vor den pers&#xF6;nlichen Abz&#xFC;gen (Ziffer 2400);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du revenu net avant les d&#xE9;ductions personnelles (chiffre 2400);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37991">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zuz&#xFC;glich f&#xFC;nf Prozent des aufgewerteten Nettoverm&#xF6;gens, der Beitr&#xE4;ge f&#xFC;r anerkannte Formen der gebunden Selbstvorsorge (S&#xE4;ule 3a) bis zum f&#xFC;r Arbeitnehmer zugelassenen Maximalbetrag, der im Ausland erworbenen Einkommens- und Verm&#xF6;genswerte sowie des negativen Einkommens aus Liegenschaften;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'ajoutent les cinq pour cent de la fortune revaloris&#xE9;e nette, les cotisations &#xE0; des formes reconnues de pr&#xE9;voyance individuelle li&#xE9;e (pilier 3a) jusqu'&#xE0; concurrence du montant maximal admis pour les salari&#xE9;s, les &#xE9;l&#xE9;ments de revenu et de fortune acquis &#xE0; l'&#xE9;tranger ainsi que les revenus de la fortune immobili&#xE8;re n&#xE9;gatifs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37992">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">abz&#xFC;glich der Unterhaltsbeitr&#xE4;ge, welche gem&#xE4;ss des Familienrechts oder einer Vereinbarung &#xFC;berwiesen wurden, sowie der Kapitalleistungen (Ziffern 1010 und 1020).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">se d&#xE9;duisent les pensions alimentaires vers&#xE9;es en vertu du droit de la famille ou d'une convention ainsi que les prestations en capital re&#xE7;ues (chiffres 1010 et 1020).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54748">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Personen mit Quellenbesteuerung entspricht das massgebende Einkommen 80 Prozent des besteuerten Bruttoeinkommens des laufenden Jahres oder des Jahres, f&#xFC;r das der Antrag gestellt wird, zuz&#xFC;glich der 5 Prozent des aufgewerteten Nettoverm&#xF6;gens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les personnes impos&#xE9;es &#xE0; la source, le revenu d&#xE9;terminant correspond aux 80 pour cent du revenu brut soumis &#xE0; l'imp&#xF4;t l'ann&#xE9;e pr&#xE9;c&#xE9;dente ou l'ann&#xE9;e pour laquelle la demande est formul&#xE9;e, auquel s'ajoutent le cinq pour cent de la fortune revaloris&#xE9;e nette.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54749">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Eltern nicht im gleichen Haushalt leben und unverheiratet, gerichtlich getrennt oder geschieden sind, wird das massgebende Einkommen der beiden Elternteile separat berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les parents ne sont pas mari&#xE9;s et ne vivent pas en m&#xE9;nage commun, vivent s&#xE9;par&#xE9;s suite &#xE0; une d&#xE9;cision judiciaire ou sont divorc&#xE9;s, les revenus d&#xE9;terminants des deux parents sont calcul&#xE9;s ind&#xE9;pendamment.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54750">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Leistet ein Elternteil gerichtlich festgelegte Unterhaltsbeitr&#xE4;ge an den Antragsteller, so wird das Einkommen dieses Elternteils nicht ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l&#x2019;un des parents est tenu de verser au requ&#xE9;rant une contribution d&#x2019;entretien fix&#xE9;e par une d&#xE9;cision judiciaire, il n&#x2019;est pas tenu compte du revenu du parent d&#xE9;biteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54751">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleibt die massgebende Steuerperiode bei Sondergesuchen gem&#xE4;ss Artikel 6b der vorliegenden Verordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e la p&#xE9;riode fiscale retenue en cas de demande sp&#xE9;ciale au sens de l&#x2019;article 6b de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23660">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgewertetes Brutto- und Nettoverm&#xF6;gen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fortune revaloris&#xE9;e brute et nette</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54752">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das aufgewertete Bruttoverm&#xF6;gen errechnet sich aus Ziffer 3500 der Steuerveranlagung zuz&#xFC;glich des auf 145 Prozent aufgewerteten Steuerwerts der Privatgeb&#xE4;ude (Ziffern 2920 und 2922). Die ersten 100'000 Franken f&#xFC;r Privatgeb&#xE4;ude werden nicht aufgewertet und zum Steuerwert ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fortune revaloris&#xE9;e brute se base sur le chiffre 3500 de la taxation fiscale prise en consid&#xE9;ration auquel une r&#xE9;&#xE9;valuation de la valeur des b&#xE2;timents priv&#xE9;s (chiffres 2920 et 2922) est appliqu&#xE9;e sur la base d'un coefficient de 145 pour cent. Les premiers 100'000 francs des b&#xE2;timents priv&#xE9;s ne sont pas revaloris&#xE9;s et sont pris en compte &#xE0; leur valeur fiscale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54753">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das aufgewertete Nettoverm&#xF6;gen entspricht dem aufgewerteten Bruttoverm&#xF6;gen, abz&#xFC;glich Schulden und Pauschalabz&#xFC;ge (Ziffer 4000).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fortune revaloris&#xE9;e nette correspond &#xE0; la fortune revaloris&#xE9;e brute diminu&#xE9;e des dettes et de la d&#xE9;duction forfaitaire (chiffre 4000).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23661">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6b</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sondergesuche</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Demandes sp&#xE9;ciales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54754">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Begr&#xFC;ndete Sondergesuche k&#xF6;nnen gestellt werden bei:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes sp&#xE9;ciales d&#xFB;ment motiv&#xE9;es peuvent notamment concerner:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37993">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xC4;nderungen des Zivilstandes (z.B. ledig, verheiratet, verwitwet, geschieden, gerichtlich getrenntlebend, in eingetragener Partnerschaft);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les changements d'&#xE9;tat civil (p.ex. c&#xE9;libataire, mari&#xE9;, veuf, s&#xE9;par&#xE9; judiciairement, divorc&#xE9;, partenaire enregistr&#xE9;);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37994">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xC4;nderungen beim Einkommen von mindestens 30 Prozent w&#xE4;hrend zweier aufeinanderfolgender Jahre.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modifications de revenu d'au moins 30 pour cent pendant deux ann&#xE9;es cons&#xE9;cutives.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23662">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitrag der Eltern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contribution des parents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54755">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der f&#xFC;r die Ausbildung der Kinder aufgewendete Gesamtbeitrag der Eltern errechnet sich als Differenz zwischen dem massgebenden Einkommen und den anerkannten Minimalbed&#xFC;rfnissen gem&#xE4;ss Tabelle in Anhang&#xA0;2 der vorliegenden Verordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La contribution totale des parents pour la formation de leurs enfants r&#xE9;sulte de la diff&#xE9;rence entre le revenu d&#xE9;terminant et les besoins minimaux admis figurant &#xE0; l&#x2019;annexe 2 de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54756">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu den anerkannten Minimalbed&#xFC;rfnissen gem&#xE4;ss Anhang&#xA0;2 der vorliegenden Verordnung wird f&#xFC;r jedes Kind in post-obligatorischer Ausbildung ein Zuschlag von 1'800 Franken hinzugef&#xFC;gt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un suppl&#xE9;ment de 1&#x2019;800 francs par enfant en formation post-obligatoire est ajout&#xE9; aux besoins minimaux admis figurant &#xE0; l&#x2019;annexe&#xA0;2 de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54757">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Beitrag pro Kind ergibt sich aus dem Gesamtbeitrag der Eltern geteilt durch die Anzahl unterhaltsberechtigter Kinder.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La contribution par enfant est calcul&#xE9;e en divisant la contribution totale des parents par le nombre d&#x2019;enfants &#xE0; charge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54758">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist ein oder sind beide Elternteile wiederverheiratet, wird der Beitrag um 50 Prozent reduziert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l&#x2019;un ou les deux parents sont remari&#xE9;s, leur(s) contribution(s) est r&#xE9;duite de 50 pour cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23663">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufteilung des Ausbildungsbeitrags</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition de l'allocation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54759">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausbildungsbeitrag wird wie folgt gew&#xE4;hrt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;allocation est r&#xE9;partie de la mani&#xE8;re suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37995">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Form eines Stipendiums; dies beim Besuch des Unterrichts der Sekundarstufe I in einer anderen Sprachregion oder bei einer Sport-Kunst-Ausbildung, beim Besuch von Vorbereitungskursen f&#xFC;r eine Ausbildung, sofern diese nach Abschluss der obligatorischen Schulzeit erfolgen sowie bei Berufslehren und dem Besuch der Mittelschule;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sous forme de bourse pour la fr&#xE9;quentation d'une classe de l'enseignement secondaire I dans une autre r&#xE9;gion linguistique ou d'une structure sport-arts-formation, la pr&#xE9;paration &#xE0; la formation, &#xE0; condition qu'elle d&#xE9;bute apr&#xE8;s l'ach&#xE8;vement de la scolarit&#xE9; obligatoire, l'apprentissage et la formation secondaire II;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37996">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Form eines Stipendiums oder Darlehens f&#xFC;r Grundbildungen auf terti&#xE4;rer Stufe, wobei die H&#xF6;he des Stipendiums oder Darlehens von den budget&#xE4;ren M&#xF6;glichkeiten und den Bestimmungen von Artikel 12 des GAB abh&#xE4;ngt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sous forme de bourse ou de pr&#xEA;t pour les formations initiales du degr&#xE9; tertiaire.&#xA0;La part de bourse et de pr&#xEA;t d&#xE9;pend des disponibilit&#xE9;s budg&#xE9;taires ainsi que des dispositions de l'article 12 de la LAF;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37997">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Form eines Darlehens; dies namentlich f&#xFC;r Ausbildungen, welche die reglementarische Studiendauer um mehr als zwei Semester &#xFC;bersteigen, f&#xFC;r berufsbegleitende Weiterbildungen, Fortbildungen, universit&#xE4;re Zweitausbildungen, postgraduale Ausbildungen wie dem Certificate of Advanced Studies (CAS), dem Diploma of Advanced Studies (DAS) und dem Master of Advanced Studies (MAS), f&#xFC;r Doktorate sowie Anwalts- und Notariatspraktika.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sous forme de pr&#xEA;t pour notamment les formations d&#xE9;passant de plus de deux semestres la dur&#xE9;e r&#xE9;glementaire des &#xE9;tudes, le perfectionnement professionnel en cours d'emploi, les deuxi&#xE8;mes formations universitaires, les formations postgrades, par exemple le Certificate of Advanced Studies (CAS), le Diploma of Advanced Studies (DAS) et le Master of Advanced Studies (MAS), les formations continues, les doctorats et les stages pr&#xE9;parant aux professions d'avocat ou de notaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23664">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beschr&#xE4;nkung der finanziellen Hilfe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Limitation de l'aide</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54760">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54761">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist das gem&#xE4;ss Artikel 6a Absatz 1 der vorliegenden Verordnung errechnete aufgewertete Bruttoeinkommen h&#xF6;her als 1'000'000 Franken, wird ein allf&#xE4;lliger Ausbildungsbeitrag f&#xFC;r Ausbildungen auf terti&#xE4;rer Ebene nur in Form eines Darlehens gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la fortune revaloris&#xE9;e brute, calcul&#xE9;e selon l&#x2019;article 6a alin&#xE9;a 1 de la pr&#xE9;sente ordonnance est sup&#xE9;rieure &#xE0; 1'000'000 francs, l&#x2019;aide &#xE9;ventuelle ne sera allou&#xE9;e que sous forme de pr&#xEA;t pour les formations tertiaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54762">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nicht gew&#xE4;hrt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ne seront pas allou&#xE9;:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37998">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stipendien unter 500 Franken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les bourses d'un montant inf&#xE9;rieur &#xE0; 500 francs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37999">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Darlehen unter 1'000 Franken.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les pr&#xEA;ts d'un montant inf&#xE9;rieur &#xE0; 1'000 francs.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54763">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vom Staat f&#xFC;r s&#xE4;mtliche Ausbildungen eines Antragstellers gew&#xE4;hrten Darlehen d&#xFC;rfen zusammengez&#xE4;hlt nicht h&#xF6;her sein als 50'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le total des pr&#xEA;ts octroy&#xE9;s par l&#x2019;Etat pour l&#x2019;ensemble des formations suivies par le m&#xEA;me b&#xE9;n&#xE9;ficiaire ne peut pas &#xEA;tre sup&#xE9;rieur &#xE0; 50&#x2019;000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23665">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dauer des Anspruchs auf einen Beitrag f&#xFC;r Doktoranden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e du droit &#xE0; l'allocation pour les doctorats</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54764">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Doktoranden liegt die Ausbildungsdauer, w&#xE4;hrend der ein Anspruch auf einen Beitrag besteht, bei maximal drei Jahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La dur&#xE9;e de formation donnant droit &#xE0; une allocation est de trois ans au maximum pour les doctorats.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7146">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Besondere Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Dispositions sp&#xE9;ciales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23666">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Antragsteller mit Kindern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Requ&#xE9;rant avec enfant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54765">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zu den anerkannten H&#xF6;chstbetr&#xE4;gen unter Anhang&#xA0;1 der vorliegenden Verordnung wird f&#xFC;r jedes Kind, f&#xFC;r das der Antragsteller aufkommt, eine Pauschale von 4'000 Franken hinzugef&#xFC;gt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un forfait de 4'000 francs par enfant &#xE0; la charge du requ&#xE9;rant est ajout&#xE9; aux montants des frais maximums admis figurant &#xE0; l&#x2019;annexe&#xA0;1 de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23667">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54766">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23668">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Partiell unabh&#xE4;ngige Berechnung der elterlichen Leistungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul partiellement ind&#xE9;pendant des prestations parentales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54767">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Einkommen der Eltern wird unter Vorbehalt von Absatz 3 des vorliegenden Artikels nicht ber&#xFC;cksichtigt, falls der Antragsteller zu Beginn seiner neuen Ausbildung folgende kumulativen Bedingungen erf&#xFC;llt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le revenu des parents n&#x2019;est pas pris en compte, sous r&#xE9;serve de l&#x2019;alin&#xE9;a 3 du pr&#xE9;sent article, lorsque le requ&#xE9;rant, au d&#xE9;but de sa nouvelle formation, remplit les conditions cumulatives suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38000">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er hat sein 25. Altersjahr abgeschlossen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il a 25 ans r&#xE9;volus;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38001">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er hat eine Erstausbildung absolviert, die ihm die Aus&#xFC;bung eines Berufes erm&#xF6;glicht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il a termin&#xE9; une premi&#xE8;re formation donnant acc&#xE8;s &#xE0; un m&#xE9;tier;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38002">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er war w&#xE4;hrend mindestens zweier Jahre finanziell unabh&#xE4;ngig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il a &#xE9;t&#xE9; ind&#xE9;pendant financi&#xE8;rement pendant au moins deux ans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54768">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erf&#xFC;llt ein Antragsteller die Bedingungen des obigen Absatzes, wird der Ausbildungsbeitrag zu zwei Dritteln in Form eines Darlehens und zu einem Drittel in Form eines Stipendiums &#xFC;berwiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les requ&#xE9;rants qui satisfont aux dispositions de l&#x2019;alin&#xE9;a pr&#xE9;c&#xE9;dent, l&#x2019;allocation est vers&#xE9;e pour deux tiers sous forme de pr&#xEA;t et pour un tiers sous forme de bourse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54769">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Obergrenze des massgebenden Einkommens der Eltern, ab der kein Ausbildungsbeitrag gew&#xE4;hrt wird, liegt bei 180'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La limite de revenu d&#xE9;terminant des parents &#xE0; partir de laquelle aucune allocation n&#x2019;est allou&#xE9;e est fix&#xE9;e &#xE0; 180'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54770">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23669">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54771">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23670">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sprachkurse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cours de langue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54772">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sprachkurse, f&#xFC;r die ein Anspruch auf einen Ausbildungsbeitrag besteht, m&#xFC;ssen mindestens ein Semester &#xE0; 16 Wochen mit wenigstens 20 Wochenstunden dauern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cours de langue donnant droit &#xE0; une allocation doivent avoir une dur&#xE9;e d&#x2019;au moins un semestre de 16 semaines avec au minimum 20 heures de cours hebdomadaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23671">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berufsbegleitende Weiterbildungen, postgraduale Ausbildungen und Fortbildungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Perfectionnement en emploi, formations postgrades et formations continues</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54773">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer namentlich berufsbegleitende Weiterbildungs-, Wiedereingliederungs- oder Umschulungskurse im Hinblick auf einen Fachausweis oder ein eidgen&#xF6;ssisches Diplom/Meisterdiplom, Fortbildungen oder postgraduale Ausbildungen absolviert, hat Anspruch auf einen Ausbildungsbeitrag in Form eines Darlehens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes fr&#xE9;quentant notamment des cours de perfectionnement, de r&#xE9;insertion ou de r&#xE9;orientation professionnelle, des formations postgrades et des formations continues en emploi, par exemple en vue de l&#x2019;obtention d&#x2018;un brevet f&#xE9;d&#xE9;ral, dipl&#xF4;me/ma&#xEE;trise f&#xE9;d&#xE9;ral, peuvent b&#xE9;n&#xE9;ficier d'une allocation sous forme de pr&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54774">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die besuchten Kurse m&#xFC;ssen zum Erwerb eines vom f&#xFC;r Bildung zust&#xE4;ndigen Departement anerkannten Zeugnisses oder Diploms f&#xFC;hren. Die Hilfe entspricht den Auslagen des Antragstellers f&#xFC;r Taxen oder Einschreibegeb&#xFC;hren, B&#xFC;cher, Schulmaterial oder Werkzeuge, Mahlzeiten, Transporte und f&#xFC;r andere in Zusammenhang mit dem Kurs stehende Auslagen; ausgenommen sind allerdings Lohnausf&#xE4;lle. Die Beteiligung des Arbeitgebers an den Kosten einer berufsbegleitenden Weiterbildung wird abgezogen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cours suivis doivent conduire &#xE0; l'obtention d'un certificat ou d&#x2019;un dipl&#xF4;me reconnu par le d&#xE9;partement dont rel&#xE8;ve la formation. L'aide correspond aux frais &#xE0; la charge du requ&#xE9;rant pour les taxes ou finances d'inscription, les livres, le mat&#xE9;riel scolaire ou instruments de travail, les repas, les transports et les autres frais &#xE9;ventuels li&#xE9;s aux cours, &#xE0; l'exception notamment des pertes de salaire. La participation de l&#x2019;employeur aux frais de perfectionnement en emploi est d&#xE9;duite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54775">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Belaufen sich die unter Absatz 2 des vorliegenden Artikels vorgesehenen Kosten auf weniger als 4'000 Franken, werden keine Beitr&#xE4;ge gew&#xE4;hrt. Die Obergrenze f&#xFC;r Darlehen liegt bei j&#xE4;hrlich 16'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucune aide n'est allou&#xE9;e si les frais pr&#xE9;vus &#xE0; l&#x2019;alin&#xE9;a 2 du pr&#xE9;sent article sont inf&#xE9;rieurs &#xE0; 4'000 francs. La limite maximale annuelle&#xA0;des pr&#xEA;ts accord&#xE9;s se monte &#xE0; 16'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54776">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es wird keine Hilfe gew&#xE4;hrt, wenn der Antragsteller w&#xE4;hrend des Jahres, f&#xFC;r das er eine Hilfe beantragt, ein Bruttoeinkommen von &#xFC;ber 36'000 Franken erzielt. F&#xFC;r verheiratete oder in einer eingetragenen Partnerschaft lebende Antragsteller darf das Bruttoeinkommen des Paares 54'000 Franken nicht &#xFC;bersteigen. Beide Ans&#xE4;tze erh&#xF6;hen sich f&#xFC;r jedes unterhaltsberechtigte Kind um 6'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucune aide n'est accord&#xE9;e si le requ&#xE9;rant dispose d'un revenu brut sup&#xE9;rieur &#xE0; 36'000 francs acquis pendant l'ann&#xE9;e pour laquelle il demande une aide. Pour les personnes mari&#xE9;es, le revenu brut du couple ne doit pas d&#xE9;passer 54'000 francs. Ces deux limites sont augment&#xE9;es de 6'000 francs par enfant &#xE0; charge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23672">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckzahlung von Darlehen und Begleichung der Zinsen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Remboursement des pr&#xEA;ts et paiement des int&#xE9;r&#xEA;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54777">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die R&#xFC;ckzahlungspflicht f&#xFC;r Darlehen beginnt im dritten Jahr nach Abschluss des Studiums. Der Abschluss des Studiums entspricht dem Abschluss der Ausbildung, f&#xFC;r welche die Darlehen gew&#xE4;hrt wurden; die Ausbildung ist nach Fachbereichen zu betrachten. Wird die Ausbildung l&#xE4;nger als ein Jahr unterbrochen, so gilt sie als abgeschlossen, es sei denn, die Unterbrechung ist durch ausserordentliche Umst&#xE4;nde gerechtfertigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'obligation de remboursement des pr&#xEA;ts d&#xE9;bute d&#xE8;s la troisi&#xE8;me ann&#xE9;e civile suivant la fin des &#xE9;tudes. La fin des &#xE9;tudes correspond &#xE0; la fin de la formation pour laquelle les pr&#xEA;ts ont &#xE9;t&#xE9; octroy&#xE9;s; la formation doit &#xEA;tre consid&#xE9;r&#xE9;e par domaine d'&#xE9;tudes. En cas d'interruption de la formation durant plus d'une ann&#xE9;e, la formation est consid&#xE9;r&#xE9;e comme termin&#xE9;e, sauf si des circonstances exceptionnelles justifient l'interruption.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54778">
+                    <partNumber>1bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Doktorate betr&#xE4;gt die maximale Ausbildungsdauer drei Jahre. Danach wird die Ausbildung als abgeschlossen betrachtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les doctorats, la dur&#xE9;e maximale de formation est de trois ans, apr&#xE8;s ce d&#xE9;lai la formation est consid&#xE9;r&#xE9;e comme termin&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54779">
+                    <partNumber>1ter</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die R&#xFC;ckerstattung der Darlehen muss innerhalb einer Frist von maximal zehn Jahren erfolgt sein. Sie wird auf der Grundlage einer linearen R&#xFC;ckerstattung &#xFC;ber zehn Jahre berechnet, betr&#xE4;gt aber mindestens 3'600 Franken in den ersten drei Jahren und anschliessend mindestens 4'800 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le remboursement des pr&#xEA;ts doit &#xEA;tre effectu&#xE9; dans un d&#xE9;lai maximum de dix ans. Le montant minimal &#xE0; rembourser annuellement est fix&#xE9; par le service en charge des allocations de formation. Il est calcul&#xE9; sur la base d'un remboursement lin&#xE9;aire sur dix ans mais est d'au moins 3'600 francs les trois premi&#xE8;res ann&#xE9;es et d'au moins 4'800 francs par la suite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54780">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bis zum Beginn der R&#xFC;ckzahlungspflicht werden die Darlehen zinslos gew&#xE4;hrt. Ab Beginn der R&#xFC;ckzahlungspflicht gilt ein Zinssatz von drei Prozent.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pr&#xEA;ts sont accord&#xE9;s sans int&#xE9;r&#xEA;t jusqu&#x2019;au d&#xE9;but de l&#x2019;obligation de remboursement. D&#xE8;s le d&#xE9;but de l&#x2019;obligation de remboursement le taux d&#x2019;int&#xE9;r&#xEA;t est de trois pour cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54781">
+                    <partNumber>2bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der in Absatz 2 des vorliegenden Artikels erw&#xE4;hnte Zinssatz ist mit den von den Banken angewandten Zinss&#xE4;tzen f&#xFC;r Ausbildungskredite nach Artikel 21 Absatz 3 des GAB zu vergleichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les taux d&#x2019;int&#xE9;r&#xEA;t pratiqu&#xE9;s par les banques pour les cr&#xE9;dits de formation mentionn&#xE9;s &#xE0; l&#x2019;article 21 alin&#xE9;a 3 de la LAF doivent &#xEA;tre compar&#xE9;s aux taux mentionn&#xE9;s &#xE0; l&#x2019;alin&#xE9;a 2 du pr&#xE9;sent article.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54782">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Zins wird am Ende jedes Jahres berechnet und dem Schuldner mitgeteilt. Die aufgelaufenen Zinsen werden jeweils nach Ablauf einer Frist von f&#xFC;nf Jahren nach Beginn der R&#xFC;ckzahlungspflicht aber sp&#xE4;testens nach Ablauf des Darlehensvertrags f&#xE4;llig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;int&#xE9;r&#xEA;t est calcul&#xE9; &#xE0; la fin de chaque ann&#xE9;e et communiqu&#xE9; &#xE0; l&#x2019;int&#xE9;ress&#xE9;. Les int&#xE9;r&#xEA;ts courus sont exigibles &#xE0; chaque &#xE9;ch&#xE9;ance de cinq ans &#xE0; compter du d&#xE9;but de l&#x2019;obligation de rembourser mais au plus tard &#xE0; l&#x2019;&#xE9;ch&#xE9;ance du contrat de pr&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54783">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Wiederaufnahme einer Ausbildung k&#xF6;nnen die Monatsraten auf begr&#xFC;ndetes Gesuch hin ausgesetzt werden. Die Zinsen der sistierten Monatsraten bleiben hingegen f&#xE4;llig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de reprise de formation, les mensualit&#xE9;s peuvent &#xEA;tre suspendues sur demande d&#xFB;ment motiv&#xE9;e. Les int&#xE9;r&#xEA;ts des pr&#xEA;ts dont les mensualit&#xE9;s ont &#xE9;t&#xE9; suspendues continuent &#xE0; courir.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7147">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Verfahren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Proc&#xE9;dure</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23673">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einreichen der Gesuche</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;sentation des demandes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54784">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche um Ausbildungsbeitr&#xE4;ge m&#xFC;ssen bei der zust&#xE4;ndigen Dienststelle mittels der offiziellen Formulare f&#xFC;r das jeweilige Ausbildungsjahr eingereicht werden. Dabei gelten folgende Fristen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes d'allocation doivent &#xEA;tre adress&#xE9;es au moyen des formulaires officiels de l'ann&#xE9;e de formation au service en charge des allocations, au plus tard dans les d&#xE9;lais suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38003">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bis 30. November f&#xFC;r das Herbstsemester oder f&#xFC;r das ganze Schuljahr;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">jusqu'au 30 novembre&#xA0;pour l'ann&#xE9;e scolaire compl&#xE8;te ou pour le semestre d'automne;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38004">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bis 31. M&#xE4;rz f&#xFC;r das Fr&#xFC;hlingssemester.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">jusqu'au 31 mars pour le semestre de printemps.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54785">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche sind j&#xE4;hrlich zu erneuern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles doivent &#xEA;tre renouvel&#xE9;es annuellement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54786">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Je nach Gesuch sind dem Dossier folgende Dokumente beizulegen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Selon les cas, les pi&#xE8;ces suivantes seront jointes au dossier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38005">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">offizielle Einschreibebest&#xE4;tigung der Schule oder des Institutes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une d&#xE9;claration officielle attestant l'inscription &#xE0; l'&#xE9;cole ou l'&#xE9;tablissement fr&#xE9;quent&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38006">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Lehrvertrag;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le contrat d'apprentissage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:38007">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Finanzierungsplan.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan financier.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54787">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission kann andere Belege verlangen und wenn n&#xF6;tig die Meinung eines Experten in Sachen Berufsberatung einholen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;organe comp&#xE9;tent peut exiger d&#x2019;autres pi&#xE8;ces justificatives et requ&#xE9;rir, si n&#xE9;cessaire, l&#x2019;avis d&#x2019;un expert en mati&#xE8;re d&#x2019;orientation professionnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54788">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche werden grunds&#xE4;tzlich in der Reihenfolge ihres Eingangs bearbeitet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, les demandes sont trait&#xE9;es dans leur ordre d&#x2019;arriv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54789">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23674">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zustellung der Beschl&#xFC;sse und &#xDC;berweisung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notification des d&#xE9;cisions et versement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54790">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Grunds&#xE4;tzlich werden die Entscheide innerhalb von drei Monaten nach Einreichen des vollst&#xE4;ndigen Gesuchs er&#xF6;ffnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, les d&#xE9;cisions sont notifi&#xE9;es dans un d&#xE9;lai de trois mois &#xE0; compter du d&#xE9;p&#xF4;t de la demande compl&#xE8;te.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54854">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ausbildungsbeitrag wird der beg&#xFC;nstigten Person, ihrem gesetzlichen Vertreter oder ihren Eltern &#xFC;berwiesen. Dies mit Ausnahme der Sozialhilfeempf&#xE4;nger, f&#xFC;r welche der Ausbildungsbeitrag der zust&#xE4;ndigen sozialen Einrichtung &#xFC;berwiesen werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'allocation est vers&#xE9;e au b&#xE9;n&#xE9;ficiaire, &#xE0; son repr&#xE9;sentant l&#xE9;gal ou &#xE0; ses parents, &#xE0; l'exception des personnes au b&#xE9;n&#xE9;fice de l'aide sociale pour lesquelles l'allocation peut &#xEA;tre vers&#xE9;e &#xE0; l'institution sociale qui les suit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:23675">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schlussbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions finales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54791">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung ersetzt das Reglement zur Berechnung der Stipendien und Ausbildungsdarlehen vom 16. Juni 2000. Sie wird im Amtsblatt ver&#xF6;ffentlicht und tritt auf den 1. Juli 2011 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance abroge le r&#xE8;glement pour le calcul des bourses et des pr&#xEA;ts d&#x2019;honneur du 16 juin 2000. Elle sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur le 1<format upper="true">er</format> juillet 2011.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7148">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1 zu den Artikeln 4 und 10</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1 aux articles 4 et 10</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23676">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anerkannte j&#xE4;hrliche H&#xF6;chstbetr&#xE4;ge nach Art der Ausbildung
+aufgelistet:</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Montants maximums des frais annuels admis par type de
+formation:</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54792">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sekundarstufe I (Orientierungsschule) in einer anderen Sprachregion oder einer Sport-Kunst-Ausbildungsstruktur:<table><tableContent><row rowType="header"><cell>Kosten f&#xFC;r die Ausbildung inklusive</cell><cell>Maximal anerkannte Kosten</cell></row><row rowType="data"><cell>Mittagessen zuhause</cell><cell>Fr. 4&amp;#39;000</cell></row><row rowType="data"><cell>Mittagessen ausw&#xE4;rts</cell><cell>Fr. 6&amp;#39;000</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb der Familie im Kanton</cell><cell>Fr. 10&amp;#39;500</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb des Kantons</cell><cell>Fr. 12&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Secondaire I (cycle d&#x2019;orientation), dans une autre r&#xE9;gion linguistique ou dans une structure Sport-Art-Formation:<table><tableContent><row rowType="header"><cell>Frais de formation avec</cell><cell>Frais maximum admis</cell></row><row rowType="data"><cell>Repas de midi &#xE0; domicile</cell><cell>Fr. 4&amp;#39;000</cell></row><row rowType="data"><cell>Repas de midi hors domicile</cell><cell>Fr. 6&amp;#39;000</cell></row><row rowType="data"><cell>Pension et logement hors de la famille dans le canton</cell><cell>Fr. 10&amp;#39;500</cell></row><row rowType="data"><cell>Pension et logement hors du canton</cell><cell>Fr. 12&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54793">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sekundarstufe II: allgemeinbildener und berufsbildender Zweig (namentlich Gymnasien, Berufsfachschulen, Handels- und Fachmittelschulen); vorbereitende Schulen (namentlich berufsvorbereitende Schulen):<table><tableContent><row rowType="header"><cell>Kosten f&#xFC;r die Ausbildung inklusive</cell><cell>Maximal anerkannte Kosten</cell></row><row rowType="data"><cell>Mittagessen zuhause</cell><cell>Fr. 4&amp;#39;000</cell></row><row rowType="data"><cell>Mittagessen ausw&#xE4;rts</cell><cell>Fr. 6&amp;#39;000</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb der Familie im Kanton</cell><cell>Fr. 10&amp;#39;500</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb des Kantons</cell><cell>Fr. 12&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Secondaire II: g&#xE9;n&#xE9;ral et professionnel (notamment coll&#xE8;ges, &#xE9;coles professionnelles, &#xE9;coles de commerce et de culture g&#xE9;n&#xE9;rale); &#xE9;coles pr&#xE9;paratoires (notamment &#xE9;coles pr&#xE9;professionnelles):<table><tableContent><row rowType="header"><cell>Frais de formation avec</cell><cell>Frais maximum admis</cell></row><row rowType="data"><cell>Repas de midi &#xE0; domicile</cell><cell>Fr. 4&amp;#39;000</cell></row><row rowType="data"><cell>Repas de midi hors domicile</cell><cell>Fr. 6&amp;#39;000</cell></row><row rowType="data"><cell>Pension et logement hors de la famille dans le canton</cell><cell>Fr. 10&amp;#39;500</cell></row><row rowType="data"><cell>Pension et logement hors du canton</cell><cell>Fr. 12&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54794">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Terti&#xE4;re Schulen (namentlich Fachhochschulen, Universit&#xE4;ten, eidg. Technische Hochschulen):<table><tableContent><row rowType="header"><cell>Kosten f&#xFC;r die Ausbildung inklusive</cell><cell>Maximal anerkannte Kosten</cell></row><row rowType="data"><cell>Mittagessen zuhause</cell><cell>Fr. 5&amp;#39;000</cell></row><row rowType="data"><cell>Mittagessen ausw&#xE4;rts</cell><cell>Fr. 7&amp;#39;500</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb der Familie im Kanton</cell><cell>Fr. 13&amp;#39;500</cell></row><row rowType="data"><cell>Unterkunft und Verpflegung ausserhalb des Kantons</cell><cell>Fr. 16&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tertiaire (notamment hautes &#xE9;coles sp&#xE9;cialis&#xE9;es, universit&#xE9;s, &#xE9;coles polytechniques f&#xE9;d&#xE9;rales):<table><tableContent><row rowType="header"><cell>Frais de formation avec</cell><cell>Frais maximum admis</cell></row><row rowType="data"><cell>Repas de midi &#xE0; domicile</cell><cell>Fr. 5&amp;#39;000</cell></row><row rowType="data"><cell>Repas de midi hors domicile</cell><cell>Fr. 7&amp;#39;500</cell></row><row rowType="data"><cell>Pension et logement hors de la famille dans le canton</cell><cell>Fr. 13&amp;#39;500</cell></row><row rowType="data"><cell>Pension et logement hors du canton</cell><cell>Fr. 16&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:54795">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Fernstudium.<table><tableContent><row rowType="header"><cell>Kosten f&#xFC;r die Ausbildung inklusive</cell><cell>Maximal anerkannte Kosten</cell></row><row rowType="data"><cell>Anerkannte Kosten</cell><cell>Fr. 5&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Formation &#xE0; distance:<table><tableContent><row rowType="header"><cell>Frais de formation avec</cell><cell>Frais maximum admis</cell></row><row rowType="data"><cell>Frais admis</cell><cell>Fr. 5&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="7149">
+            <structureContent lang="de">
+              <structureOrder>A2</structureOrder>
+              <structureText>Anhang 2 zu Artikel 7</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A2</structureOrder>
+              <structureText>Annexe 2 &#xE0; l'article 7</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:23677">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A2-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:54796">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anerkannte Minimalbed&#xFC;rfnisse:<table><tableContent><row rowType="header"><cell>Anzahl im Haushalt lebender Personen</cell><cell>Anerkannte Minimalbed&#xFC;rfnisse</cell></row><row rowType="data"><cell>1</cell><cell>Fr. 38&amp;#39;000</cell></row><row rowType="data"><cell>2</cell><cell>Fr. 50&amp;#39;000</cell></row><row rowType="data"><cell>3</cell><cell>Fr. 60&amp;#39;000</cell></row><row rowType="data"><cell>4</cell><cell>Fr. 69&amp;#39;000</cell></row><row rowType="data"><cell>5</cell><cell>Fr. 78&amp;#39;000</cell></row><row rowType="data"><cell>6</cell><cell>Fr. 86&amp;#39;000</cell></row><row rowType="data"><cell>7</cell><cell>Fr. 94&amp;#39;000</cell></row><row rowType="data"><cell>8</cell><cell>Fr. 102&amp;#39;000</cell></row><row rowType="data"><cell>9</cell><cell>Fr. 110&amp;#39;000</cell></row><row rowType="data"><cell>10</cell><cell>Fr. 118&amp;#39;000</cell></row><row rowType="data"><cell>11</cell><cell>Fr. 126&amp;#39;000</cell></row><row rowType="data"><cell>12</cell><cell>Fr. 134&amp;#39;000</cell></row><row rowType="data"><cell>13</cell><cell>Fr. 142&amp;#39;000</cell></row><row rowType="data"><cell>14</cell><cell>Fr. 150&amp;#39;000</cell></row><row rowType="data"><cell>15</cell><cell>Fr. 158&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Besoins minimaux admis:<table><tableContent><row rowType="header"><cell>Nombre de personnes dans le m&#xE9;nage</cell><cell>Besoins minimaux admis</cell></row><row rowType="data"><cell>1</cell><cell>Fr. 38&amp;#39;000</cell></row><row rowType="data"><cell>2</cell><cell>Fr. 50&amp;#39;000</cell></row><row rowType="data"><cell>3</cell><cell>Fr. 60&amp;#39;000</cell></row><row rowType="data"><cell>4</cell><cell>Fr. 69&amp;#39;000</cell></row><row rowType="data"><cell>5</cell><cell>Fr. 78&amp;#39;000</cell></row><row rowType="data"><cell>8</cell><cell>Fr. 86&amp;#39;000</cell></row><row rowType="data"><cell>7</cell><cell>Fr. 94&amp;#39;000</cell></row><row rowType="data"><cell>8</cell><cell>Fr. 102&amp;#39;000</cell></row><row rowType="data"><cell>9</cell><cell>Fr. 110&amp;#39;000</cell></row><row rowType="data"><cell>10</cell><cell>Fr. 118&amp;#39;000</cell></row><row rowType="data"><cell>11</cell><cell>Fr. 126&amp;#39;000</cell></row><row rowType="data"><cell>12</cell><cell>Fr. 134&amp;#39;000</cell></row><row rowType="data"><cell>13</cell><cell>Fr. 142&amp;#39;000</cell></row><row rowType="data"><cell>14</cell><cell>Fr. 150&amp;#39;000</cell></row><row rowType="data"><cell>15</cell><cell>Fr. 158&amp;#39;000</cell></row></tableContent></table></mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2011-07-01</dateForce>
+      <dateVersion>2017-07-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 35/2017</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:23657" id2="EnumerationItem:37979" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23672" id2="Paragraph:54777" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23672" id2="Paragraph:54778" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23672" id2="Paragraph:54779" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23672" id2="Paragraph:54783" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23673" id2="Paragraph:54784" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23674" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23674" id2="Paragraph:54854" historyChange="insert" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+      <article id1="Article:23677" id2="Paragraph:54796" historyChange="modify" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2011-07-01</dateForce>
+        <dateVersion>2016-07-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 27/2016</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

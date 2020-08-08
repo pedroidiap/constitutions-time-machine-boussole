@@ -1,0 +1,1667 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1411</normID>
+      <number>817.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Trinkwasserversorgungsanlagen</title>
+      <title lang="fr">Ordonnance concernant les installations d'alimentation en eau potable</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2016-12-21</dateAdoption>
+      <dateForce>2017-02-01T00:00:00</dateForce>
+      <dateLastChange>2017-02-01</dateLastChange>
+      <dateVersion>2017-02-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Gesetz betreffend die Anwendung des Bundesgesetzes &#xFC;ber Lebensmittel und Gebrauchsgegenst&#xE4;nde vom 21. Mai 1996;</basis> <basis>eingesehen das kantonale Gew&#xE4;sserschutzgesetz vom 16. Mai 2013;</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi concernant l'application de la loi f&#xE9;d&#xE9;rale sur les denr&#xE9;es alimentaires et les objets usuels du 8 janvier 1996;</basis> <basis>vu la loi cantonale sur la protection des eaux du 16 mai 2013;</basis> <basis>sur proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 53/2016</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="5055">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Trinkwasserversorgungsanlagen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant les installations d'alimentation en eau potable</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5056">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeines</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:16585">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37844">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Trinkwasserversorgungsanlagen bezwecken die Versorgung der Bev&#xF6;lkerung mit qualitativ einwandfreiem Trinkwasser in ausreichender Menge.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les installations d'alimentation en eau potable ont pour but de fournir &#xE0; la population une eau irr&#xE9;prochable du point de vue qualitatif et en quantit&#xE9; suffisante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16586">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Qualit&#xE4;t des Trinkwassers</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Qualit&#xE9; de l'eau distribu&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37845">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Trinkwasser aller &#xF6;ffentlichen und privaten Anlagen muss jederzeit den Anforderungen der eidgen&#xF6;ssischen Lebensmittelgesetzgebung entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'eau potable distribu&#xE9;e par les r&#xE9;seaux publics ou priv&#xE9;s doit constamment r&#xE9;pondre aux exigences de la l&#xE9;gislation f&#xE9;d&#xE9;rale sur les denr&#xE9;es alimentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38062">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dasselbe gilt f&#xFC;r das Wasser der &#xF6;ffentlichen Brunnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il en est de m&#xEA;me de l'eau qui alimente les fontaines accessibles au public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16587">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erhaltung der zu Trinkwasserzwecken nutzbaren Wasserressourcen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conservation des ressources d'eau n&#xE9;cessaires pour la fourniture de l'eau potable</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37846">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um die Erhaltung der zu Trinkwasserzwecken nutzbaren Wasserressourcen zu gew&#xE4;hrleisten, sind Oberfl&#xE4;chenwasser und Grundwasser vor Verunreinigung oder Ertragsverminderung zu sch&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les eaux superficielles et souterraines destin&#xE9;es &#xE0; la fourniture de l'eau potable doivent &#xEA;tre pr&#xE9;serv&#xE9;es de toute contamination ou diminution de rendement, en vue d'assurer la conservation des ressources d'eau n&#xE9;cessaires pour la fourniture de l'eau potable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37847">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Installationen und Aktivit&#xE4;ten, welche das Wasser gef&#xE4;hrden k&#xF6;nnen, bed&#xFC;rfen einer Bewilligung gem&#xE4;ss der eidgen&#xF6;ssischen und kantonalen Gew&#xE4;sserschutzgesetzgebung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les installations et activit&#xE9;s pouvant mettre en danger les eaux n&#xE9;cessitent une autorisation selon la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale sur la protection des eaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37848">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Baugesetzgebung bleibt vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e la l&#xE9;gislation sur les constructions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16588">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Abgabe von Trinkwasser</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fourniture de l'eau de potable</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37849">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden achten darauf, dass die bewohnten Siedlungen mit gen&#xFC;gend Trinkwasser versorgt werden, um den &#xF6;ffentlichen und privaten Bedarf zu decken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes veillent &#xE0; ce que les agglom&#xE9;rations habit&#xE9;es disposent d'eau potable en suffisance pour assurer les besoins des services publics et des particuliers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38063">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eigent&#xFC;mer von &#xF6;ffentlichen Wasserversorgungsanlagen (Gemeinden oder Genossenschaften) sind verpflichtet, Wasser an Dritte abzugeben. Sie sind berechtigt, bei Wassermangel gelegentlich den Wasserverbrauch entsprechend der verf&#xFC;gbaren Wassermenge einzuschr&#xE4;nken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les propri&#xE9;taires d'installations publiques d'alimentation en eau (communes ou consortages) sont tenus de fournir de l'eau aux tiers. Ils sont en droit de restreindre occasionnellement, en cas de p&#xE9;nurie, la consommation d'eau proportionnellement &#xE0; la quantit&#xE9; disponible.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38064">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden sind berechtigt, im &#xF6;ffentlichen Interesse die Trinkwasseranlagen von Genossenschaften oder Privatpersonen gegen Verg&#xFC;tung ihres Wertes zu &#xFC;bernehmen. Im &#xDC;brigen gelten die Gesetzesbestimmungen &#xFC;ber Enteignung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes ont la facult&#xE9; de prendre &#xE0; leur charge, dans l'int&#xE9;r&#xEA;t public, les installations de consortages ou de r&#xE9;seaux priv&#xE9;s, en allouant &#xE0; leurs propri&#xE9;taires une indemnit&#xE9; correspondant &#xE0; la valeur des installations. Pour le surplus, les dispositions l&#xE9;gales sur l'expropriation sont applicables</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16589">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Hilfeleistung unter den Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entraide communale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37850">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gemeinde kann durch Staatsratsentscheid verpflichtet werden, gegen Bezahlung einer Geb&#xFC;hr oder einer angemessenen Entsch&#xE4;digung:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque commune peut, par d&#xE9;cision du Conseil d'Etat, &#xEA;tre tenue, moyennant le paiement d'une taxe ou d'une &#xE9;quitable indemnit&#xE9;:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27813">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">entlegene Siedlungen anderer Gemeinden an ihr Trinkwasserverteilnetz anzuschliessen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'inclure dans son service de distribution les habitations excentriques d'une autre commune;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27814">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Wasserleitungen anderen Gemeinden durch ihr Gebiet f&#xFC;hren zu lassen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de laisser passer sur son territoire les conduites assurant l'approvisionnement de l'eau potable &#xE0; d'autres communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27815">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">anderen Gemeinden bei Wassermangel vor&#xFC;bergehend Trinkwasser zu liefern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de fournir temporairement l'eau potable &#xE0; d'autres communes souffrant d'une p&#xE9;nurie d'eau.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16590">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37853">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden oder Genossenschaften tragen die Kosten f&#xFC;r die Wasserversorgung und die entsprechenden Anlagen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les ouvrages et les travaux de distribution de l'eau potable sont &#xE0; la charge des communes ou des consortages.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38065">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eigent&#xFC;mer, deren Liegenschaften weit vom Reservoir oder von der Hauptleitung der Gemeinde entfernt sind, k&#xF6;nnen zur Beteiligung an den Kosten der Anschlussleitungen verpflichtet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les propri&#xE9;taires dont les biens fonciers se trouvent &#xE0; une distance importante du r&#xE9;servoir ou du r&#xE9;seau principal de la commune peuvent &#xEA;tre contraints de participer aux frais li&#xE9;s &#xE0; l'installation de conduites de raccordement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16591">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wasserpreis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prix de l'eau</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37854">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden stellen durch Erhebung einer kausalen Abgabe die Selbstfinanzierung der Kosten f&#xFC;r die Studien, den Bau, den Unterhalt, die Sanierung und den Ersatz der &#xF6;ffentlichen Trinkwasserversorgungsanlagen sicher.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes garantissent, par la perception de taxes causales, l'autofinancement des frais pour l'&#xE9;tude, la construction, l'entretien, l'assainissement et le remplacement des infrastructures publiques pour l'approvisionnement en eau potable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37855">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die H&#xF6;he der Abgabe, die in einem Reglement festgelegt ist, welches eine Vormeinung der Dienststelle f&#xFC;r Verbraucherschutz ben&#xF6;tigt, wird auf der Grundlage einer langfristig angelegten Planung, welche die absehbaren Kosten ber&#xFC;cksichtigt, festgelegt. Die Gemeinden gew&#xE4;hrleisten die Finanzierung &#xFC;ber ein dazu vorgesehenes Spezialfinanzierungskonto.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant des taxes, fix&#xE9;s dans un r&#xE8;glement &#xE0; faire pr&#xE9;aviser par le Service en charge de la consommation, est &#xE9;tabli sur la base d'une planification &#xE0; long terme qui prend en consid&#xE9;ration la charge financi&#xE8;re pr&#xE9;visible. Les communes garantissent le financement sur un compte sp&#xE9;cial pr&#xE9;vu &#xE0; cet effet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38066">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Abgaben werden j&#xE4;hrlich erhoben. Sie setzen sich zusammen aus:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les taxes sont per&#xE7;ues annuellement. Elles sont compos&#xE9;es:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27816">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einerseits einer Grundabgabe zur Deckung der Infrastrukturkosten, die nach dem Verursacherprinzip anhand der Liegenschaftsfl&#xE4;che, der &#xFC;berbauten Fl&#xE4;che, der Brutto-Bauzonenfl&#xE4;che, dem SIA-Bauvolumen (Kubikmeter), der Anzahl R&#xE4;ume pro Wohnhaus oder der Anzahl Anschl&#xFC;sse festgelegt wird;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'une part, d'une partie de base pour la couverture des frais d'infrastructure, &#xE9;tablie sur le principe de causalit&#xE9;, en fonction de la surface de l'actif immobilier, de la surface b&#xE2;tie, de la zone &#xE0; b&#xE2;tir brute, du volume de construction SIA (m&#xE8;tres cubes), du nombre de pi&#xE8;ces disponibles par maison d'habitation ou du nombre de raccordements;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27817">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">andererseits einem variablen Abgabenanteil, der sich nach der Menge des verbrauchten Trinkwassers richtet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'autre part, d'une partie proportionnelle &#xE0; la quantit&#xE9; de l'eau potable consomm&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38067">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Falle eines Anschlusses an das Trinkwasserversorgungsnetz, eines Neubaus oder einer Renovation, oder wenn &#xC4;nderungen zu einer Erh&#xF6;hung des Trinkwasserverbrauchs f&#xFC;hren, kann eine einmalige Sonderabgabe erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cas d'un raccordement au r&#xE9;seau de distribution d'eau potable, dans celui d'une nouvelle construction ou d'une r&#xE9;novation, ou si des changements entra&#xEE;nent une augmentation de la consommation, une taxe sp&#xE9;ciale unique peut &#xEA;tre exig&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38068">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Abs&#xE4;tze 1 bis 4 sind ebenfalls auf Genossenschaften und private Trinkwasserversorgungen anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les alin&#xE9;as&#xA0;1 &#xE0; 4 sont &#xE9;galement applicables aux consortages et approvisionnements en eau potable priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16592">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Garantie f&#xFC;r Trinkwasseranschluss durch die Gemeinde f&#xFC;r Neubauten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Garantie de raccordement en eau potable par la commune pour une nouvelle construction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37856">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedem Baugesuch f&#xFC;r ein neues Wohngeb&#xE4;ude oder ein anderes Geb&#xE4;ude, das mit Trinkwasser versorgt werden muss, ist eine Zusicherung der Gemeinde, dass gen&#xFC;gend Trinkwasser geliefert wird, beizulegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute demande de construction d'une nouvelle habitation ou d'un autre b&#xE2;timent ayant besoin d'eau potable doit &#xEA;tre accompagn&#xE9;e d'une garantie de la commune de fournir l'eau potable en quantit&#xE9; suffisante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16593">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ablehnung von Baugesuchen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Refus de demandes d'autorisation de construire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37858">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Besteht in einer Wohnsiedlung ein st&#xE4;ndiger Wassermangel, kann der Gemeinderat oder die kantonale Baukommission jedes Gesuch f&#xFC;r einen Neubau ablehnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'il y a p&#xE9;nurie constante d'eau potable dans une agglom&#xE9;ration habit&#xE9;e, la demande d'autorisation pour toute nouvelle construction peut &#xEA;tre refus&#xE9;e par le Conseil communal ou par la Commission cantonale de constructions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38069">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beschwerdem&#xF6;glichkeit an den Staatsrat bleibt vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les voies de recours au Conseil d'Etat sont r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5057">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Pflichten und Befugnisse der Gemeinden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Obligations et attributions des communes</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:16595">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortung der Gemeinde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9; de la commune</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37860">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xDC;berwachung der Trinkwasserversorgung in den Gemeinden obliegt dem Gemeinderat. Die Gemeinden sind verantwortlich f&#xFC;r die Qualit&#xE4;t des Wassers aller &#xF6;ffentlichen Versorgungsnetze, einschliesslich jener der Genossenschaften, oder des Wassers aus privaten Netzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La surveillance de l'alimentation en eau potable dans les communes incombe au conseil communal. Les communes sont responsables de la qualit&#xE9; de l'eau distribu&#xE9;e par les r&#xE9;seaux publics, y compris les consortages, ou de celle provenant de r&#xE9;seaux priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16596">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bau, Installation oder &#xC4;nderung einer Anlage</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Construction, installation ou modification d'une installation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37861">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Bau, die Installation oder &#xC4;nderung einer Trinkwasserversorgungsanlage einer Gemeinde, einer Genossenschaft oder einer Privatversorgung ist eine vorg&#xE4;ngige Meldung bei der Dienststelle f&#xFC;r Verbraucherschutz erforderlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La construction, installation ou modification d'une infrastructure d'approvisionnement en eau potable d'une commune, d'un consortage ou d'un approvisionnement priv&#xE9; n&#xE9;cessite une annonce pr&#xE9;alable aupr&#xE8;s du Service de la consommation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16597">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Durchf&#xFC;hrung der Arbeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ex&#xE9;cution des travaux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37864">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Projekte von Trinkwasserfassungen und -anlagen im Allgemeinen sind gem&#xE4;ss den geltenden Weisungen der Fachbranche auszuf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ex&#xE9;cution de projets de captage et d'installations d'eau potable en g&#xE9;n&#xE9;ral doit &#xEA;tre r&#xE9;alis&#xE9;e selon les directives en vigueur dans la branche professionnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37865">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Neue Anlagen d&#xFC;rfen erst nach Genehmigung durch die Dienststelle f&#xFC;r Verbraucherschutz in Betrieb genommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les nouvelles installations ne peuvent &#xEA;tre mises en service qu'apr&#xE8;s approbation par le Service de la consommation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16598">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Qualit&#xE4;tssicherung und Selbstkontrolle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assurance qualit&#xE9; et autocontr&#xF4;le</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37866">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Qualit&#xE4;tssicherung muss jede Trinkwasserversorgung &#xFC;ber ein angepasstes Selbstkontrollkonzept verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'assurance de qualit&#xE9;, chaque approvisionnement en eau potable doit disposer d'un concept d'autocontr&#xF4;le adapt&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37867">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Selbstkontrollkonzept ist entsprechend der Lebensmittelgesetzgebung und den Weisungen der Fachbranche zu erstellen. Darin werden die Kontrollvorgaben, die Unterhaltsarbeiten, die &#xDC;berwachung aller Aufgaben der Wasserversorgung und die Vorschriften betreffend die Grundwasserschutzzonen und Zustrombereiche oberirdischer Gew&#xE4;sser aufgef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le concept d'autocontr&#xF4;le doit &#xEA;tre &#xE9;tabli conform&#xE9;ment &#xE0; la l&#xE9;gislation sur les denr&#xE9;es alimentaires et aux directives de la branche professionnelle. Il fait mention des directives de contr&#xF4;le, des travaux d'entretien, du suivi de toutes les t&#xE2;ches du service communal des eaux et du respect des prescriptions li&#xE9;es aux zones et p&#xE9;rim&#xE8;tres de protection des eaux souterraines, ainsi qu'au secteur de protection des eaux superficielles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16599">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrolle der Wasserqualit&#xE4;t</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le de la qualit&#xE9; de l'eau</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37869">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden sind verpflichtet, periodisch Trinkwasserproben aus jeder Fassung analysieren zu lassen. Die Gemeinden m&#xFC;ssen den Genossenschaften und den Eigent&#xFC;mern von privaten Versorgungsnetzen entsprechende Anweisungen geben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes ont l'obligation de faire proc&#xE9;der p&#xE9;riodiquement aux pr&#xE9;l&#xE8;vements de l'eau de chaque captage en vue d'analyses. Les instructions n&#xE9;cessaires &#xE0; ce sujet doivent &#xEA;tre donn&#xE9;es par les communes aux consortages et aux propri&#xE9;taires de r&#xE9;seaux priv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37870">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die minimale Beprobungsfrequenz richtet sich nach den Weisungen der Fachbranche und nach der Risikoanalyse. Die minimale Frequenz f&#xFC;r unbehandeltes Wasser, mit dem weniger als 4'000 Konsumenten versorgt werden, liegt bei zwei Proben pro Jahr.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fr&#xE9;quence minimale des pr&#xE9;l&#xE8;vements est &#xE9;tablie selon les directives de la branche professionnelle et l'analyse de risque. La fr&#xE9;quence minimale pour une eau non trait&#xE9;e qui aliment moins que 4'000 consommateurs est de deux &#xE9;chantillons par ann&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37871">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Analyse von behandeltem Trinkwasser (z.B. UV, Chlor, Filtration, Ozonierung usw.) muss vor und nach der Behandlung risikobasiert sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'analyse de l'eau potable trait&#xE9;e (p.ex. UV, javel, filtration, ozonation, etc.) doit &#xEA;tre bas&#xE9;e sur le risque, avant et apr&#xE8;s le traitement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37872">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eigent&#xFC;mer von Privatquellen lassen ihr Wasser mindestens einmal j&#xE4;hrlich im Fr&#xFC;hling oder w&#xE4;hrend des Sommers analysieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les propri&#xE9;taires de sources priv&#xE9;es font analyser l'eau au moins une fois par an, au printemps ou pendant l'&#xE9;t&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16600">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vorsichtsmassnahmen bei Verunreinigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures de pr&#xE9;caution en cas de pollution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37874">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Qualit&#xE4;tssicherung muss ein Vorgehen bei Trinkwasserverunreinigungen festgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'assurance de qualit&#xE9;, une proc&#xE9;dure en cas de pollution de l'eau potable distribu&#xE9;e doit &#xEA;tre &#xE9;tablie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37875">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird ordnungsgem&#xE4;ss eine Verunreinigung des Trinkwassers festgestellt, m&#xFC;ssen die verantwortlichen Organe der Gemeinde unverz&#xFC;glich folgende Massnahmen ergreifen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de pollution de l'eau d&#xFB;ment constat&#xE9;e, les organes responsables de la commune doivent imm&#xE9;diatement prendre les mesures suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27818">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Dienststelle f&#xFC;r Verbraucherschutz benachrichtigen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aviser le Service de la consommation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27819">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das verunreinigte Wasser wenn m&#xF6;glich aus dem Verteilnetz ableiten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;tourner, si possible, l'eau pollu&#xE9;e du r&#xE9;seau de distribution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27820">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die &#xF6;ffentlichen Brunnen abstellen oder Schilder mit der Aufschrift "kein Trinkwasser" anbringen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">couper l'eau des fontaines publiques ou les munir d'&#xE9;criteaux portant l'inscription "Eau non potable";</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27821">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Bev&#xF6;lkerung mitteilen, dass das Wasser vor Gebrauch abzukochen ist;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aviser la population de faire bouillir l'eau avant de s'en servir;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27822">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Anlagen desinfizieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">proc&#xE9;der &#xE0; la d&#xE9;sinfection des installations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27823">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Ursache abkl&#xE4;ren und beheben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">rechercher l'origine du probl&#xE8;me et &#xE9;liminer les causes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16601">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Trinkwasserkataster der Gemeinde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cadastre communal des eaux potables</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37878">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Gemeinde erstellt ein Trinkwasserkataster f&#xFC;r ihr Gebiet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque commune &#xE9;tablit un cadastre sanitaire des eaux potables de son territoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38070">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Kataster ist Teil der Selbstkontrolle und umfasst mindestens folgende Punkte:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ce cadastre fait partie du syst&#xE8;me d'autocontr&#xF4;le et comprend au moins les &#xE9;l&#xE9;ments suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27824">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einen Katasterplan oder eine topografische Landeskarte im Massstab 1:5'000 oder 1:10'000, in welchen die Fassungen, die Reservoire und die Brunnstuben jeder &#xF6;ffentlichen und privaten Trinkwasseranlage eingezeichnet sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan cadastral ou un plan topographique &#xE0; l'&#xE9;chelle d'un cinq milli&#xE8;me ou d'un dix milli&#xE8;me sur lequel sont dessin&#xE9;s les captages, les r&#xE9;servoirs et les chambres de chaque installation d'eau potable publique ou priv&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27825">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein hydraulisches Schema;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un sch&#xE9;ma hydraulique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27826">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Verzeichnis aller &#xF6;ffentlichen und privaten Fassungen mit Angabe der Namen der Eigent&#xFC;mer und der Ortsnamen der gefassten Quellen mit den Koordinaten der Fassungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un registre de tous les captages publics ou priv&#xE9;s avec le nom des propri&#xE9;taires et le lieu des sources capt&#xE9;es, avec les coordonn&#xE9;es des captages;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27827">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die hydrogeologischen und technischen Berichte zu den Wasserversorgungsanlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rapports hydrog&#xE9;ologiques et techniques qui ont trait aux ouvrages se rapportant &#xE0; ces eaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27828">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berichte &#xFC;ber chemische und bakteriologische Wasseranalysen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rapports d'analyses chimiques et bact&#xE9;riologiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27829">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berichte &#xFC;ber die Inspektionen und Kontrollen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rapports des inspections et des contr&#xF4;les.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38071">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Je ein Exemplar der aktuellen Pl&#xE4;ne und des hydraulischen Schemas sind der Dienststelle f&#xFC;r Verbraucherschutz zuzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un exemplaire des plans actuels et du sch&#xE9;ma hydraulique doivent &#xEA;tre remis au Service de la consommation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38072">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Verbraucherschutz kann jederzeit Informationen zum Kataster verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de la consommation peut en tout temps exiger des informations touchant le cadastre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5058">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Kontrolle durch die Dienststelle f&#xFC;r Verbraucherschutz</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Contr&#xF4;le du Service de la consommation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:16603">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Befugnisse der Dienststelle f&#xFC;r Verbraucherschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Attributions du Service de la consommation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37882">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Dienststelle f&#xFC;r Verbraucherschutz obliegen folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les attributions au Service de la consommation sont les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27737">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Genehmigung von Fassungspl&#xE4;nen und technischen Anlagen im Allgemeinen, denen ein Projekt betreffend die Ausscheidung der Schutzzonen f&#xFC;r unterirdische Gew&#xE4;sser beigelegt ist. Diese sind nach den Anforderungen der kantonalen Dienststelle, die f&#xFC;r den Gew&#xE4;sserschutz zust&#xE4;ndig ist zu erstellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'approbation des plans de captages et des installations techniques s'ils sont accompagn&#xE9;s d'un projet de d&#xE9;limitation des zones de protection des eaux souterraines r&#xE9;alis&#xE9;es conform&#xE9;ment aux exigences du Service cantonal en charge de la protection des eaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27738">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Inspektion der Unterlagen der Selbstkontrolle sowie &#xDC;berpr&#xFC;fung der Richtlinien betreffend die Anwendung der Vorschriften der Schutzzonen und Perimeter unterirdischer Gew&#xE4;sser, sowie den Schutz der Zustrombereiche oberirdischer Gew&#xE4;sser;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'inspection des documents de l'autocontr&#xF4;le et le contr&#xF4;le de l'application des prescriptions concernant les zones et p&#xE9;rim&#xE8;tres de protection des eaux souterraines, ainsi que du secteur de protection des eaux superficielles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27739">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kontrolle des Unterhalts der Trinkwasserfassungen und der anderen diesbez&#xFC;glichen Anlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le contr&#xF4;le de l'entretien des captages et des autres ouvrages se rapportant &#xE0; l'eau potable;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27740">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Durchf&#xFC;hrung der bakteriologischen Analysen der Wasserproben gem&#xE4;ss Artikel 14 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'ex&#xE9;cution des analyses bact&#xE9;riologiques des eaux pr&#xE9;lev&#xE9;es selon les dispositions de l'article 14 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27831">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">offizielle periodische Trinkwasserkontrolle im Rahmen der Lebensmittelkontrolle;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le contr&#xF4;le officiel p&#xE9;riodique des eaux potables dans le cadre du contr&#xF4;le des denr&#xE9;es alimentaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27830">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Koordination der Aspekte, die mit dem planerischen Schutz des Wassers zusammenh&#xE4;ngen, mit der kantonalen Dienststelle, die f&#xFC;r den Gew&#xE4;sserschutz zust&#xE4;ndig ist, um die Trinkwasserqualit&#xE4;t im Einzugsgebiet zu gew&#xE4;hrleisten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la coordination avec le Service cantonal en charge de la protection des eaux pour les aspects li&#xE9;s aux mesures d'organisation du territoire relatives aux eaux afin de garantir la protection des ressources en eau potable dans le bassin versant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16604">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mitteilung der Ergebnisse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communication des r&#xE9;sultats</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37883">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Analyseergebnisse sowie die gegebenenfalls zu ergreifenden Massnahmen werden den Interessierten, den betroffenen Dienststellen des Staates, namentlich der kantonalen Dienststelle, die f&#xFC;r den Gew&#xE4;sserschutz zust&#xE4;ndig ist und auf jeden Fall der Gemeindebeh&#xF6;rde mitgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE9;sultats des analyses ainsi que les mesures &#xE0; prendre le cas &#xE9;ch&#xE9;ant sont communiqu&#xE9;s aux int&#xE9;ress&#xE9;s, aux services de l'&#xE9;tat concern&#xE9;s, notamment le Service cantonal en charge de la protection des eaux et dans tous les cas, &#xE0; l'autorit&#xE9; communale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16605">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Trinkwasserkataster</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cadastre des eaux potables</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37884">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;r Verbraucherschutz ist im Besitz des Trinkwasserkatasters der Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Service de la consommation d&#xE9;tient le cadastre des eaux potables des communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:37885">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Kataster enth&#xE4;lt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ce cadastre contient:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27832">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berichte &#xFC;ber die chemischen und bakteriologischen Wasseranalysen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rapports sur les analyses d'eau chimiques et bact&#xE9;riologiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27833">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berichte &#xFC;ber die Inspektionen und Kontrollen der Anlagen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rapports sur les inspections et les contr&#xF4;les des installations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27834">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Exemplar der aktuellen Pl&#xE4;ne;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un exemplaire des plans actuels;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27835">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein hydraulisches Schema.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un sch&#xE9;ma hydraulique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5059">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Kosten der Kontrollen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Frais des contr&#xF4;les</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:16607">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Tarif</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tarif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37888">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der Kontrollen werden nach dem Tarif der offiziellen Labors f&#xFC;r Lebensmittelkontrollen verrechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais r&#xE9;sultant des contr&#xF4;les sont calcul&#xE9;s selon le tarif &#xE9;tabli pour les laboratoires officiels de contr&#xF4;le des denr&#xE9;es alimentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16608">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kosten zu Lasten des Staates</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais &#xE0; la charge de l'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37889">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der amtlichen Kontrollen gem&#xE4;ss Artikel 17 Buchstaben b, c und e der vorliegenden Verordnung gehen zu Lasten des Staates, wenn diese Kontrollen zu keinen Beanstandungen f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais des contr&#xF4;les officiels selon l'article 17 lettres b, c et e de la pr&#xE9;sente ordonnance sont &#xE0; la charge de l'Etat si ces contr&#xF4;les ne donnent pas lieu &#xE0; des contestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16609">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kosten zu Lasten der Interessierten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais &#xE0; la charge des int&#xE9;ress&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37890">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der folgenden Kontrollen gehen zu Lasten der Interessierten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais des contr&#xF4;les suivants sont &#xE0; la charge des int&#xE9;ress&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27836">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Pr&#xFC;fung neuer Fassungsprojekte, einschliesslich der Analysekosten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;tude de nouveaux projets de captation, y compris les frais d'analyse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27837">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">periodische bakteriologische Analysen (Selbstkontrolle) gem&#xE4;ss Artikel 14 der vorliegenden Verordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">analyses bact&#xE9;riologiques p&#xE9;riodiques (autocontr&#xF4;le) selon les dispositions de l'article 14 de la pr&#xE9;sente ordonnance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:27838">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">offizielle Kontrollen, welche von der Dienststelle f&#xFC;r Verbraucherschutz durchgef&#xFC;hrt werden, wenn die Kontrollen zur Beanstandung einer Anlage oder des Wassers f&#xFC;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contr&#xF4;les officiels effectu&#xE9;s par le Service de la consommation, si les contr&#xF4;les am&#xE8;nent &#xE0; la contestation d'une installation ou de l'eau.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5060">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Straf- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Sanctions et dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:16610">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sanktionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37891">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Widerhandlungen gegen die vorliegende Verordnung werden gem&#xE4;ss dem Bundesgesetz &#xFC;ber Lebensmittel und Gebrauchsgegenst&#xE4;nde und dem Bundesgesetz &#xFC;ber den Schutz der Gew&#xE4;sser geahndet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infractions &#xE0; la pr&#xE9;sente ordonnance sont sanctionn&#xE9;es conform&#xE9;ment &#xE0; la loi f&#xE9;d&#xE9;rale sur les denr&#xE9;es alimentaires et les objets usuels et &#xE0; la loi f&#xE9;d&#xE9;rale sur la protection des eaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:16612">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:37895">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xFC;r Gesundheit, Soziales und Kultur wird mit dem Vollzug der vorliegenden Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2017-02-01</dateForce>
+      <dateVersion>2017-02-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 53/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

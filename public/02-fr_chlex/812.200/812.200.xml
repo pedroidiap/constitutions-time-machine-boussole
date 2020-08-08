@@ -1,0 +1,3027 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:2673</normID>
+      <number>812.200</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Heilmittelverordnung</title>
+      <title lang="fr">Ordonnance sur les produits th&#xE9;rapeutiques</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2009-03-04</dateAdoption>
+      <dateForce>2009-07-01T00:00:00</dateForce>
+      <dateLastChange>2018-05-01</dateLastChange>
+      <dateVersion>2018-05-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber Arzneimittel und Medizinprodukte vom 15. Dezember 2000 (Heilmittelgesetz) mit seinen Ausf&#xFC;hrungsbestimmungen;</basis> <basis>eingesehen die Bestimmungen des Gesundheitsgesetzes vom 14. Februar 2008, insbesondere die Artikel 114 bis 124;</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Sozialwesen und Energie,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur les produits th&#xE9;rapeutiques du 15 d&#xE9;cembre 2000&#xA0;et ses dispositions d'application;</basis> <basis>vu les dispositions de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008, en particulier les articles 114 &#xE0; 124;</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de l'&#xE9;nergie,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 17/2009</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="15918">
+        <structureContent lang="de">
+          <structureText>Heilmittelverordnung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur les produits th&#xE9;rapeutiques</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15919">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:53120">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Grunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts et principes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120872">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung bezweckt die Pr&#xE4;zisierung und Erg&#xE4;nzung der Bestimmungen des Gesundheitsgesetzes &#xFC;ber die Kontrolle und die Vermarktung von Heilmitteln, um die Gesundheit der Patienten und der Bev&#xF6;lkerung zu sch&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance a pour but de pr&#xE9;ciser et de compl&#xE9;ter les dispositions de la loi sur la sant&#xE9; concernant le contr&#xF4;le et la mise dans le commerce des produits th&#xE9;rapeutiques afin de prot&#xE9;ger la sant&#xE9; des patients et de la population.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120873">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Heilmittel k&#xF6;nnen nur vermarktet werden, wenn sie den Bestimmungen der kantonalen und der eidgen&#xF6;ssischen Gesetzgebung entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les produits th&#xE9;rapeutiques ne peuvent &#xEA;tre mis dans le commerce que s'ils respectent les dispositions des l&#xE9;gislations cantonale et f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15920">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Herstellung und Vertrieb</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Fabrication et distribution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:53121">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Herstellung der Arzneimittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fabrication des m&#xE9;dicaments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120874">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Herstellung der Arzneimittel nach einer Magistralrezeptur, einer offizinalen Zubereitung oder nach eigener Formel im Sinne des Bundesgesetzes untersteht einer kantonalen Bewilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fabrication des m&#xE9;dicaments selon une formule magistrale, une formule officinale ou selon une formule propre, en vertu de la loi f&#xE9;d&#xE9;rale, est soumise &#xE0; autorisation cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120875">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Was die Apotheken angeht, erlaubt die Betriebsbewilligung die Herstellung von Arzneimitteln nach einer Magistralrezeptur, einer offizinalen Zubereitung oder nach eigener Formel.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">S'agissant des pharmacies, l'autorisation d'exploitation permet la fabrication de m&#xE9;dicaments selon une formule magistrale, une formule officinale ou selon une formule propre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120876">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unternehmen, die nicht eine &#xF6;ffentliche Apotheke, eine Spitalapotheke oder eine Drogerie sind, m&#xFC;ssen im Besitze einer vom Schweizerischen Heilmittelinstitut (nachfolgend: Swissmedic) erteilten Bewilligung sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les entreprises autres qu'une pharmacie publique, une pharmacie d'h&#xF4;pital ou une droguerie, doivent poss&#xE9;der une autorisation d&#xE9;livr&#xE9;e par l'institut suisse des produits th&#xE9;rapeutiques (ci-apr&#xE8;s: Swissmedic).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53122">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120877">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Hersteller, H&#xE4;ndler und Vertreiber liefern die Heilmittel einzig an die Personen und Firmen, die eine Bewilligung f&#xFC;r deren Abgabe besitzen. Alle vertriebenen oder verkauften Arzneimittel m&#xFC;ssen von Swissmedic zugelassen sein. Eine Ausnahme bilden die Heilmittel f&#xFC;r die klinischen Versuche sowie die Hausspezialit&#xE4;ten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les fabricants, distributeurs et r&#xE9;partiteurs fournissent les produits th&#xE9;rapeutiques uniquement aux personnes et aux maisons qui poss&#xE8;dent une autorisation de les d&#xE9;livrer. Tous les m&#xE9;dicaments distribu&#xE9;s ou vendus doivent &#xEA;tre autoris&#xE9;s par Swissmedic. Les produits th&#xE9;rapeutiques pour les essais cliniques et les sp&#xE9;cialit&#xE9;s de comptoir font exception.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15921">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Abgabe von Heilmitteln</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Remise de produits th&#xE9;rapeutiques</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15922">
+                <structureContent lang="de">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Allgemeines</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53123">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>4</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Allgemeines</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">G&#xE9;n&#xE9;ralit&#xE9;s</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120878">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf die Verschreibung und die Abgabe der Heilmittel findet die Bundesgesetzgebung &#xFC;ber Arzneimittel und Medizinprodukte Anwendung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour la prescription et la remise des produits th&#xE9;rapeutiques, la l&#xE9;gislation f&#xE9;d&#xE9;rale sur les m&#xE9;dicaments et les dispositifs m&#xE9;dicaux est applicable.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120879">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement ist befugt, engere Verkaufsbeschr&#xE4;nkungen festzulegen, um den Missbrauch beim Arzneimittelkonsum zu bek&#xE4;mpfen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le D&#xE9;partement est habilit&#xE9;e &#xE0; fixer des limitations de vente plus restrictives pour lutter contre les abus de consommation de m&#xE9;dicaments.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120880">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Arzneimittel, deren Zusammensetzung weder bekannt noch publiziert ist, sind verboten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les m&#xE9;dicaments dont la composition n'est pas connue ni publi&#xE9;e sont interdits.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53124">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Pharmazeutische Spezialit&#xE4;ten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Sp&#xE9;cialit&#xE9;s pharmaceutiques</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120881">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die pharmazeutischen Spezialit&#xE4;ten, die verschrieben, vermarktet oder abgegeben werden, m&#xFC;ssen von Swissmedic bewilligt sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les sp&#xE9;cialit&#xE9;s pharmaceutiques qui sont prescrites, commercialis&#xE9;es ou remises doivent &#xEA;tre autoris&#xE9;es par Swissmedic.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120882">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die pharmazeutischen Spezialit&#xE4;ten m&#xFC;ssen der &#xD6;ffentlichkeit in ihrer Originalverpackung abgegeben werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les sp&#xE9;cialit&#xE9;s pharmaceutiques doivent &#xEA;tre remises au public dans leur emballage original.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120883">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es wird keine Bewilligung erteilt f&#xFC;r die unter Artikel 6 fallenden Hausspezialit&#xE4;ten, f&#xFC;r die Swissmedic die Bewilligung verweigert, den Kantonen ein Verkaufsverbot vorgeschlagen oder die L&#xF6;schung durchgesetzt hat. Die Verschreibung einer solchen Spezialit&#xE4;t durch einen Arzt entgeht dieser Regel nicht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Aucune autorisation ne sera accord&#xE9;e pour les sp&#xE9;cialit&#xE9;s de comptoir vis&#xE9;es &#xE0; l'article 6 dont Swissmedic a refus&#xE9; l'autorisation, a propos&#xE9; aux cantons d'interdire la vente ou a impos&#xE9; la radiation. La prescription d'une telle sp&#xE9;cialit&#xE9; par un m&#xE9;decin n'&#xE9;chappe pas &#xE0; cette r&#xE8;gle.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53125">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Hausspezialit&#xE4;ten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Sp&#xE9;cialit&#xE9;s de comptoir</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120884">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Hausspezialit&#xE4;ten, die der Apotheker oder der Drogist selbst herstellt, m&#xFC;ssen dem Kantonsapotheker gemeldet werden, der ihre Herstellung und Abgabe den Weisungen des Departements entsprechend bewilligt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les sp&#xE9;cialit&#xE9;s de comptoir que le pharmacien ou le droguiste fabrique lui-m&#xEA;me doivent &#xEA;tre annonc&#xE9;es au pharmacien cantonal qui autorisera leur fabrication et remise conform&#xE9;ment aux directives du D&#xE9;partement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120885">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Keiner Bewilligung im Sinne von Absatz 1 unterliegen die Hausspezialit&#xE4;ten, die einer Spezialmonographie der Pharmakop&#xF6;e, einer sonstigen Pharmakop&#xF6;e oder einem von Swissmedic anerkannten Formularium entsprechen, und die dazu bestimmt sind, an die Kunden des Hauses abgegeben zu werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont dispens&#xE9;es d'une autorisation au sens de l'alin&#xE9;a 1, les sp&#xE9;cialit&#xE9;s de comptoir qui sont conformes &#xE0; une monographie sp&#xE9;ciale de la Pharmacop&#xE9;e ou encore d'une autre pharmacop&#xE9;e ou d'un formularium reconnus par Swissmedic et qui sont destin&#xE9;s &#xE0; &#xEA;tre remis aux clients de l'&#xE9;tablissement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15923">
+                <structureContent lang="de">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>&#xD6;ffentliche Apotheken</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Pharmacies publiques</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53126">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bewilligung zum Betrieb einer Apotheke &#x2013; Pers&#xF6;nliche Bedingungen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation d'exploiter une pharmacie - Conditions personnelles</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120886">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement erteilt die Bewilligung zum Betrieb einer Apotheke, sofern die folgenden Bedingungen erf&#xFC;llt sind:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le D&#xE9;partement d&#xE9;livre l'autorisation d'exploiter une pharmacie lorsque les conditions suivantes sont remplies:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70631">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Gesuchsteller besitzt eine Berufsaus&#xFC;bungsbewilligung als Apotheker;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le requ&#xE9;rant poss&#xE8;de une autorisation de pratique en tant que pharmacien;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70632">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Gesuchsteller, der nicht Eigent&#xFC;mer der Apotheke ist, verf&#xFC;gt &#xFC;ber einen Mietvertrag und/oder einen Verwaltungsvertrag, der ihm die erforderliche Unabh&#xE4;ngigkeit f&#xFC;r die Aus&#xFC;bung seines Berufs garantiert.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le requ&#xE9;rant qui n'est pas propri&#xE9;taire de la pharmacie dispose d'un contrat de bail et/ou d'un contrat de g&#xE9;rance lui garantissant l'ind&#xE9;pendance n&#xE9;cessaire &#xE0; l'exercice de sa profession.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120887">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls mehrere Personen f&#xFC;r ein und dieselbe Apotheke verantwortlich sind, muss jede von ihnen die pers&#xF6;nlichen Bedingungen erf&#xFC;llen, die mit der Betriebsbewilligung verbunden sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque plusieurs personnes sont responsables d'une m&#xEA;me pharmacie, chacune d'elles doit satisfaire aux conditions personnelles li&#xE9;es &#xE0; l'autorisation d'exploitation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120888">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sofern ein Apotheker mehrere Apotheken betreibt, ist er verpflichtet, in jeder von ihnen pers&#xF6;nlich t&#xE4;tig zu sein, und er kann sie nur alternierend offen halten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsqu'un pharmacien exploite plusieurs officines, il est tenu d'exercer personnellement dans chacune d'elle et ne peut les ouvrir qu'alternativement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120889">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xDC;berdies muss die Apotheke den Weisungen entsprechen, die vom Departement nach den einschl&#xE4;gigen in der Schweiz anerkannten Regeln erlassen worden sind, unter Anh&#xF6;rung des Walliser Apothekervereins.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour le surplus, la pharmacie doit r&#xE9;pondre aux directives &#xE9;tablies par le D&#xE9;partement conform&#xE9;ment aux r&#xE8;gles reconnues en la mati&#xE8;re au niveau suisse, la Soci&#xE9;t&#xE9; valaisanne de pharmacie &#xE9;tant entendue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53127">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anwesenheit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Pr&#xE9;sence</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120890">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der oder die verantwortlichen Apotheker &#xFC;bernehmen pers&#xF6;nlich den Betrieb der Apotheke. Zu diesem Zweck m&#xFC;ssen sie zu den &#xD6;ffnungszeiten anwesend sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le ou les pharmaciens responsables assument personnellement l'exploitation de la pharmacie. A cet effet, ils doivent &#xEA;tre pr&#xE9;sents aux heures d'ouverture.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120891">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn ein Apotheker nicht immer anwesend ist, hat er die Pflicht, einen Ersatzapotheker mit einer Berufsaus&#xFC;bungsbewilligung zu bestimmen, um in seiner Abwesenheit die Verantwortung f&#xFC;r die Apotheke zu &#xFC;bernehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si un pharmacien n'est pas toujours pr&#xE9;sent, il lui incombe de d&#xE9;signer un pharmacien rempla&#xE7;ant autoris&#xE9; &#xE0; pratiquer pour assumer la responsabilit&#xE9; de la pharmacie durant ses absences.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120892">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausserdem m&#xFC;ssen der oder die verantwortlichen Apotheker die einschl&#xE4;gigen vom Departement erlassenen Weisungen befolgen, unter Anh&#xF6;rung des Walliser Apothekervereins.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour le surplus, le ou les pharmaciens responsables doivent respecter les directives en la mati&#xE8;re &#xE9;tablies par le D&#xE9;partement, la Soci&#xE9;t&#xE9; valaisanne de pharmacie entendue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53128">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Personal der Apotheke</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Personnel de la pharmacie</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120893">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Personal der Apotheke arbeitet unter der Aufsicht des Apothekers und darf nur mit Aufgaben besch&#xE4;ftigt werden, die seiner Ausbildung entsprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le personnel de la pharmacie travaille sous la surveillance du pharmacien et ne doit &#xEA;tre occup&#xE9; qu'&#xE0; des t&#xE2;ches correspondant &#xE0; sa formation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120894">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der oder die Apotheker, die f&#xFC;r eine Apotheke verantwortlich sind, haften f&#xFC;r alle Irrt&#xFC;mer und Fehler, die darin begangen werden. Das Recht des verantwortlichen Apothekers, auf die tats&#xE4;chlich schuldigen Personen zur&#xFC;ckzugreifen, sowie die Bestimmungen der Strafgesetze bleiben vorbehalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le ou les pharmaciens responsables d'une pharmacie r&#xE9;pondent de toutes les erreurs et fautes qui s'y commettent. Le droit du pharmacien responsable de se retourner contre les personnes effectivement en faute ainsi que les dispositions des lois p&#xE9;nales sont r&#xE9;serv&#xE9;s.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53129">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verantwortlichkeit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Responsabilit&#xE9;</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120895">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Apotheker ist gehalten, seine Berufspflichten zu befolgen. Er muss insbesondere:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pharmacien est tenu de respecter ses obligations professionnelles. Il doit notamment:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70633">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">sich der Qualit&#xE4;t aller Heilmittel vergewissern, die er der &#xD6;ffentlichkeit aush&#xE4;ndigt, wobei die festgestellten M&#xE4;ngel unverz&#xFC;glich dem Kantonsapotheker sowie dem Unternehmen, das sie vertreibt, gemeldet werden m&#xFC;ssen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">s'assurer de la qualit&#xE9; de tous les produits th&#xE9;rapeutiques qu'il d&#xE9;livre au public, les d&#xE9;fauts constat&#xE9;s devant &#xEA;tre annonc&#xE9;s sans d&#xE9;lai au pharmacien cantonal et &#xE0; l'entreprise qui les distribue;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70634">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">sich an der Einsammlung und Beseitigung der abgelaufenen oder verdorbenen Heilmittel beteiligen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">participer &#xE0; la collecte et &#xE0; l'&#xE9;limination des produits th&#xE9;rapeutiques p&#xE9;rim&#xE9;s ou alt&#xE9;r&#xE9;s;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70635">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Ausf&#xFC;hrung der &#xE4;rztlichen Verschreibungen und der Rezeptur der Magistralpr&#xE4;parate pers&#xF6;nlich validieren;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">valider personnellement l'ex&#xE9;cution des ordonnances m&#xE9;dicales et la r&#xE9;cepture des pr&#xE9;parations magistrales;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70636">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">sich der angemessenen Verwendung der Arzneimittel vergewissern, die er vertreibt, insbesondere durch eine geeigneten Information der betreffenden Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">s'assurer de l'utilisation ad&#xE9;quate des m&#xE9;dicaments qu'il met dans le commerce, notamment par une information appropri&#xE9;e des personnes concern&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70637">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zum Kampf gegen die unangemessene und gef&#xE4;hrliche Nutzung der Arzneimittel beitragen, n&#xF6;tigenfalls unter Meldung an das Departement, wobei die Bestimmungen &#xFC;ber das Berufsgeheimnis vorbehalten bleiben;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">contribuer &#xE0; la lutte contre l'usage inad&#xE9;quat et dangereux des m&#xE9;dicaments, au besoin en informant le D&#xE9;partement, les dispositions sur le secret professionnel &#xE9;tant r&#xE9;serv&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70638">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">zur Optimierung der Qualit&#xE4;t und der Kosten der pharmazeutischen Behandlungen beitragen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">contribuer &#xE0; l'optimalisation de la qualit&#xE9; et du co&#xFB;t des pharmacoth&#xE9;rapies.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53130">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bereitschaftsdienst</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Service de garde</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120896">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Name, die Adresse und das Mittel zur Erreichung der Dienst habenden Apotheke m&#xFC;ssen in allen &#xF6;ffentlichen Apotheken, die sich am selben Bereitschaftsdienst beteiligen, ausgeh&#xE4;ngt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le nom, l'adresse et le moyen d'atteindre la pharmacie de service doivent &#xEA;tre affich&#xE9;s par toutes les pharmacies publiques participant au m&#xEA;me service de garde.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15924">
+                <structureContent lang="de">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Institutionsapotheken</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Pharmacies des institutions</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53131">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Betriebsbewilligung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation d'exploiter</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120897">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gesundheitsinstitutionen, die &#xFC;ber ein Lager von Arzneimitteln f&#xFC;r ihre Patienten verf&#xFC;gen, m&#xFC;ssen im Besitz einer vom Departement erteilten Bewilligung f&#xFC;r den Betrieb einer Institutionsapotheke sein. Die Bewilligung muss den Namen des verantwortlichen Apothekers nennen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les institutions de sant&#xE9; qui d&#xE9;tiennent un stock de m&#xE9;dicaments destin&#xE9;s &#xE0; leurs patients doivent &#xEA;tre au b&#xE9;n&#xE9;fice d'une autorisation d'exploiter une pharmacie d'institution, d&#xE9;livr&#xE9;e par le D&#xE9;partement. L'autorisation doit mentionner le nom du pharmacien responsable.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120898">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bestimmungen &#xFC;ber den Betrieb der &#xF6;ffentlichen Apotheken sind auf die Institutionsapotheken anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les dispositions r&#xE9;gissant l'exploitation des pharmacies publiques s'appliquent aux pharmacies des institutions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53132">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zweck</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">But</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120899">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eine Institutionsapotheke dient der Arzneimittelversorgung der Patienten der Institution im Rahmen ihrer Hospitalisierung oder ihres Aufenthalts. Sie kauft, fabriziert und lagert Arzneimittel und kontrolliert deren Umlauf innerhalb der Institution. Sie ist der &#xD6;ffentlichkeit nicht zug&#xE4;nglich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une pharmacie d'institution sert &#xE0; l'approvisionnement en m&#xE9;dicaments des patients dans le cadre de leur hospitalisation ou de leur s&#xE9;jour. Elle ach&#xE8;te, fabrique et stocke des m&#xE9;dicaments et en contr&#xF4;le la circulation au sein de l'institution. Elle n'est pas accessible au public.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53133">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verantwortlichkeit des Apothekers</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Responsabilit&#xE9; du pharmacien</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120900">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jede Institutionsapotheke muss der Verantwortlichkeit eines Apothekers unterstehen, der die Arzneimittelversorgung sicherstellt. Der Besch&#xE4;ftigungsgrad des verantwortlichen Apothekers h&#xE4;ngt von der Bettenzahl und den T&#xE4;tigkeiten ab, die in den verschiedenen Abteilungen der Institution ausge&#xFC;bt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toute pharmacie d'institution doit &#xEA;tre plac&#xE9;e sous la responsabilit&#xE9; d'un pharmacien qui assure une assistance pharmaceutique. Le taux d'occupation du pharmacien responsable d&#xE9;pend du nombre de lits et des activit&#xE9;s d&#xE9;ploy&#xE9;es dans les diff&#xE9;rents services de l'institution.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120901">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn die Institutionsapotheke nur ein beschr&#xE4;nktes Arzneimittellager f&#xFC;hrt und die Institution bedient, kann die Arbeit unter der Kontrolle und Verantwortlichkeit des zust&#xE4;ndigen Apothekers von einer Gesundheitsfachperson geleistet werden, die &#xFC;ber eine Ausbildung in der Arzneimittelbehandlung verf&#xFC;gt. Diese Art von T&#xE4;tigkeit bedarf der Zustimmung des Departements.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque la pharmacie d'institution ne fait que g&#xE9;rer un stock restreint de m&#xE9;dicaments et desservir l'institution, le travail peut &#xEA;tre effectu&#xE9; par un professionnel de la sant&#xE9; au b&#xE9;n&#xE9;fice d'une formation en pharmacoth&#xE9;rapie, sous le contr&#xF4;le et la responsabilit&#xE9; du pharmacien responsable. Le D&#xE9;partement donne son aval pour ce type d'activit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15925">
+                <structureContent lang="de">
+                  <structureOrder>3.4</structureOrder>
+                  <structureText>Privatapotheke des Arztes</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.4</structureOrder>
+                  <structureText>Pharmacie priv&#xE9;e du m&#xE9;decin</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53134">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bewilligung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120902">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement erteilt einem Arzt den Betrieb einer Privatapotheke nur dann, wenn die folgenden Bedingungen erf&#xFC;llt sind:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le D&#xE9;partement ne d&#xE9;livre &#xE0; un m&#xE9;decin l'autorisation d'exploiter une pharmacie priv&#xE9;e que si les conditions suivantes sont remplies:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70639">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">in der Ortschaft, in der sich die Praxis des betreffenden Arztes befindet, ist keine &#xF6;ffentliche Apotheke vorhanden; und</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">il n'existe pas de pharmacie publique dans la localit&#xE9; o&#xF9; se trouve le cabinet du m&#xE9;decin concern&#xE9;;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70640">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">es gibt keine &#xF6;ffentliche Apotheke in einem Nachbarort, die mit einem &#xF6;ffentlichen Verkehrsmittel direkt und regelm&#xE4;ssig erreichbar ist.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">il n'existe pas de pharmacie publique accessible de mani&#xE8;re directe et r&#xE9;guli&#xE8;re par un moyen de transport en commun dans une localit&#xE9; voisine.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120903">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bewilligung wird auf den Namen des Arztes erteilt, der das Gesuch stellt. Das Departement erstellt die Liste der &#xC4;rzte, die zum Betrieb einer Privatapotheke erm&#xE4;chtigt sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'autorisation est &#xE9;tablie au nom du m&#xE9;decin qui en fait la demande. Le D&#xE9;partement &#xE9;tablit la liste des m&#xE9;decins autoris&#xE9;s &#xE0; exploiter une pharmacie priv&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120904">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bewilligung f&#xE4;llt von Rechts wegen dahin, wenn die Anforderung von Absatz 1 Buchstabe a nicht mehr erf&#xFC;llt ist. Das Departement kann die Bewilligung grunds&#xE4;tzlich entziehen, wenn in einem Umkreis von weniger als zehn Kilometern eine &#xF6;ffentliche Apotheke erreichbar ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'autorisation tombe de plein droit lorsque l'exigence de l'alin&#xE9;a 1 lettre a n'est plus remplie. Le D&#xE9;partement peut, en principe, la retirer lorsqu'une pharmacie publique est accessible &#xE0; une distance de moins de dix kilom&#xE8;tres.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53135">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderungen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120905">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Privatapotheke des Arztes umfasst mindestens:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La pharmacie priv&#xE9;e du m&#xE9;decin doit comprendre au minimum:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70641">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">einen Lagerraum mit einer gen&#xFC;gend grossen Fl&#xE4;che, der k&#xFC;hl, gut beleuchtet und mit Mobiliar ausgestattet ist, das eine klare Einteilung der Arzneimittel erm&#xF6;glicht;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">un local de stockage d'une surface suffisante et frais, bien &#xE9;clair&#xE9; et muni d'un mobilier permettant un classement clair des m&#xE9;dicaments;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70642">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">ein K&#xFC;hlger&#xE4;t;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">un appareil frigorifique;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70643">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">einen Tresorschrank f&#xFC;r die Bet&#xE4;ubungsmittel.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">une armoire-forte pour les stup&#xE9;fiants.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53136">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Arzneimittellager</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Stock de m&#xE9;dicaments</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120906">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf Vormeinung des Kantonsapothekers und des Kantonsarztes kann das Departement verlangen, dass gewisse Arzneimittel st&#xE4;ndig in der Privatapotheke der &#xC4;rzte vorhanden sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sur pr&#xE9;avis du pharmacien cantonal et du m&#xE9;decin cantonal, le D&#xE9;partement peut demander que certains m&#xE9;dicaments soient pr&#xE9;sents en permanence dans la pharmacie priv&#xE9;e des m&#xE9;decins.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53137">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>18</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Reserven gem&#xE4;ss Konzept des koordinierten Sanit&#xE4;tsdienstes</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE9;serves selon le concept du Service Sanitaire Coordonn&#xE9;</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120907">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Privatapotheken der &#xC4;rzte m&#xFC;ssen wie die anderen Partner des Kantons die Reserven ber&#xFC;cksichtigen, wie sie im Konzept des koordinierten Sanit&#xE4;tsdienstes vorgesehen sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les pharmacies priv&#xE9;es des m&#xE9;decins doivent tenir compte, au m&#xEA;me titre que les autres partenaires du canton, des r&#xE9;serves telles qu'elles sont pr&#xE9;vues dans le concept du Service Sanitaire Coordonn&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53138">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Abgabe</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Remise</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120908">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Einzig die &#xC4;rzte sind befugt, den Patienten die Arzneimittel aus der Privatapotheke abzugeben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Seuls les m&#xE9;decins sont autoris&#xE9;s &#xE0; remettre aux patients les m&#xE9;dicaments contenus dans la pharmacie priv&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120909">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verschreibung und die Abgabe von Heilmitteln unterliegen denselben allgemeinen Regeln, wie sie auf die &#xF6;ffentlichen Apotheken Anwendung finden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La prescription et la remise de produits th&#xE9;rapeutiques sont soumises aux m&#xEA;mes r&#xE8;gles g&#xE9;n&#xE9;rales que celles qui sont appliqu&#xE9;es aux pharmacies publiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53139">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Lagerverwaltung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Gestion du stock</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120910">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Lagerverwaltung muss organisiert sein, um jeglichen Irrtum bei der Abgabe zu vermeiden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La gestion du stock doit &#xEA;tre organis&#xE9;e pour &#xE9;viter toute erreur de remise.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120911">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Arzneimittel, die in einer Privatapotheke zur Verf&#xFC;gung stehen, sind einzig f&#xFC;r die Patienten bestimmt, die beim Arzt in Behandlung stehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les m&#xE9;dicaments &#xE0; disposition dans une pharmacie priv&#xE9;e sont destin&#xE9;s uniquement aux patients qui sont en traitement chez le m&#xE9;decin.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53140">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>21</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bet&#xE4;ubungsmittel</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Stup&#xE9;fiants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120912">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verwaltung der Bet&#xE4;ubungsmittel erfolgt entsprechend der einschl&#xE4;gigen spezifischen Gesetzgebung. Die Privatapotheken der &#xC4;rzte unterliegen denselben Anforderungen wie die &#xF6;ffentlichen Apotheken.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La gestion des stup&#xE9;fiants se fait conform&#xE9;ment &#xE0; la l&#xE9;gislation sp&#xE9;cifique en la mati&#xE8;re. Les pharmacies priv&#xE9;es des m&#xE9;decins sont soumises aux m&#xEA;mes exigences que les pharmacies publiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15926">
+                <structureContent lang="de">
+                  <structureOrder>3.5</structureOrder>
+                  <structureText>Drogerien</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.5</structureOrder>
+                  <structureText>Drogueries</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53141">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>22</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bewilligung - Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation - Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120913">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jede Schaffung, &#xDC;bernahme, Umwandlung oder &#xDC;bertragung einer Drogerie erfordert seitens des verantwortlichen Drogisten die Einreichung eines Gesuchs an das Departement. Die Bestimmungen &#xFC;ber die Bewilligung zum Betrieb von &#xF6;ffentlichen Apotheken finden in analoger Weise Anwendung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toute cr&#xE9;ation, reprise, transformation ou tout transfert d'une droguerie exige, du droguiste responsable, le d&#xE9;p&#xF4;t d'une requ&#xEA;te adress&#xE9;e au D&#xE9;partement. Les dispositions sur l'autorisation d'exploitation des pharmacies publiques sont applicables par analogie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120914">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement erteilt die Bewilligung zum Betrieb einer Drogerie, sofern die folgenden Bedingungen erf&#xFC;llt sind:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le D&#xE9;partement d&#xE9;livre l'autorisation d'exploiter une droguerie lorsque les conditions suivantes sont remplies:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70644">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Gesuchsteller besitzt eine Berufsaus&#xFC;bungsbewilligung als Drogist;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le requ&#xE9;rant poss&#xE8;de une autorisation de pratique en tant que droguiste;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70645">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Gesuchsteller, der nicht Eigent&#xFC;mer der Drogerie ist, verf&#xFC;gt &#xFC;ber einen Mietvertrag und/oder einen Verwaltungsvertrag, der ihm die erforderliche Unabh&#xE4;ngigkeit f&#xFC;r die Aus&#xFC;bung seines Berufs garantiert.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le requ&#xE9;rant qui n'est pas propri&#xE9;taire de la droguerie dispose d'un contrat de bail et/ou d'un contrat de g&#xE9;rance lui garantissant l'ind&#xE9;pendance n&#xE9;cessaire &#xE0; l'exercice de sa profession.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120915">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls mehrere Personen f&#xFC;r ein und dieselbe Drogerie verantwortlich sind, muss jede von ihnen die pers&#xF6;nlichen Bedingungen erf&#xFC;llen, die mit der Betriebsbewilligung verbunden sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque plusieurs personnes sont responsables d'une m&#xEA;me droguerie, chacune d'elles doit satisfaire aux conditions personnelles li&#xE9;es &#xE0; l'autorisation d'exploitation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120916">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls ein Drogist mehrere Drogerien betreibt, ist er verpflichtet, in jeder von ihnen pers&#xF6;nlich t&#xE4;tig zu sein, und er kann sie nur alternierend offen halten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsqu'un droguiste exploite plusieurs drogueries, il est tenu d'exercer personnellement dans chacune d'elle et ne peut les ouvrir qu'alternativement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120917">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xDC;berdies muss die Drogerie den Weisungen entsprechen, die vom Departement nach den einschl&#xE4;gigen in der Schweiz anerkannten Regeln erlassen werden, unter Anh&#xF6;rung der Walliser Drogistenvereinigung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour le surplus, la droguerie doit r&#xE9;pondre aux directives &#xE9;tablies par le D&#xE9;partement conform&#xE9;ment aux r&#xE8;gles reconnues en la mati&#xE8;re au niveau suisse, la Soci&#xE9;t&#xE9; valaisanne des droguistes &#xE9;tant entendue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53142">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>23</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Hausspezialit&#xE4;ten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Sp&#xE9;cialit&#xE9;s de comptoir</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120918">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Hausspezialit&#xE4;ten d&#xFC;rfen nur Spezialit&#xE4;ten mit Wirkstoffen aus der Swissmedic Liste D oder E entsprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les sp&#xE9;cialit&#xE9;s de comptoir ne doivent correspondre qu'&#xE0; des sp&#xE9;cialit&#xE9;s avec des principes actifs de liste D ou E de Swissmedic.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120919">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bewilligung zum Betrieb einer Drogerie erlaubt die Herstellung von Hausspezialit&#xE4;ten nach den Modalit&#xE4;ten von Artikel 6 der vorliegenden Verordnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'autorisation d'exploiter une droguerie permet la fabrication de sp&#xE9;cialit&#xE9;s de comptoir selon les modalit&#xE9;s pr&#xE9;vues &#xE0; l'article 6 de la pr&#xE9;sente ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53143">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>24</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Arbeiten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Travaux</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120920">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Drogerien k&#xF6;nnen Detailhandel mit Arzneien, medikament&#xF6;sen und hom&#xF6;opathischen Substanzen, oder mit pharmazeutischen Spezialit&#xE4;ten der Swissmedic Listen D und E, mit chemischen Produkten und giftigen Substanzen f&#xFC;r die Landwirtschaft, die Industrie, die wissenschaftlichen Laboratorien und die Haushalte betreiben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les drogueries peuvent exercer le commerce de d&#xE9;tail des drogues, substances m&#xE9;dicamenteuses et hom&#xE9;opathiques, ou des sp&#xE9;cialit&#xE9;s pharmaceutiques des listes D et E de Swissmedic, des produits chimiques et substances toxiques pour l'agriculture, l'industrie, les laboratoires scientifiques et les m&#xE9;nages.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120921">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Den Drogisten ist es untersagt:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il est interdit aux droguistes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70646">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Rezepte von &#xC4;rzten, Zahn&#xE4;rzten oder Tier&#xE4;rzten auszuf&#xFC;hren, und dies ungeachtet der Art des verschriebenen Heilmittels;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d'ex&#xE9;cuter des ordonnances de m&#xE9;decins, de dentistes ou de v&#xE9;t&#xE9;rinaires, et cela quel que soit le produit th&#xE9;rapeutique prescrit;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70647">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">jene Produkte vorzubereiten, zu besitzen und zu verkaufen, deren Vorbereitung, Besitz und Verkauf den Apothekern vorbehalten ist.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">de pr&#xE9;parer, de d&#xE9;tenir et de vendre tous les produits dont la pr&#xE9;paration, la d&#xE9;tention et la vente sont r&#xE9;serv&#xE9;es aux pharmaciens.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="15927">
+                <structureContent lang="de">
+                  <structureOrder>3.6</structureOrder>
+                  <structureText>Verschreibung und Abgabe</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.6</structureOrder>
+                  <structureText>Prescription et remise</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:53144">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>25</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verschreibung - Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Prescription - Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120922">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zur Verschreibung von Heilmitteln berechtigt sind einzig Chiropraktiker, &#xC4;rzte, Zahn&#xE4;rzte und Tier&#xE4;rzte, und zwar jeder im Rahmen seiner Kompetenzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Seuls sont autoris&#xE9;s &#xE0; prescrire des produits th&#xE9;rapeutiques les chiropraticiens, les m&#xE9;decins, les m&#xE9;decins dentistes et les v&#xE9;t&#xE9;rinaires, chacun dans les limites de ses comp&#xE9;tences.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120923">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Rezept muss auf einem Formular mit dem Briefkopf des Verschreibers abgefasst werden. L&#xE4;sst sich dieser vor&#xFC;bergehend vertreten, kann sein Vertreter dasselbe Formular benutzen und muss nebst seiner Unterschrift auch seinen Namen in leserlicher Form anbringen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'ordonnance doit &#xEA;tre r&#xE9;dig&#xE9;e sur une formule &#xE0; en-t&#xEA;te du prescripteur. Lorsque ce dernier se fait temporairement remplacer, son rempla&#xE7;ant peut utiliser la m&#xEA;me formule et doit, en plus de sa signature, apposer son nom lisiblement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120924">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Arzt, der ein Rezept auf einem Formular mit dem Briefkopf eines Spitals oder eines besonderen Dienstes abfasst, muss nebst seiner Unterschrift einen pers&#xF6;nlichen Stempel mit seiner Identit&#xE4;t anbringen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le m&#xE9;decin qui r&#xE9;dige une ordonnance sur une formule &#xE0; en-t&#xEA;te d'un h&#xF4;pital ou d'un service particulier doit, en plus de sa signature, apposer un sceau personnel l'identifiant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53145">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>26</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gestaltung des Rezepts</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Pr&#xE9;sentation de l'ordonnance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120925">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Rezept muss leserlich geschrieben und von seinem Verfasser unterzeichnet sein. Es hat zu erw&#xE4;hnen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'ordonnance doit &#xEA;tre &#xE9;crite lisiblement et sign&#xE9;e par son auteur. Elle doit mentionner:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70648">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Namen des Patienten und sein Geburtsjahr;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le nom du patient et son ann&#xE9;e de naissance;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70649">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">in einem tier&#xE4;rztlichen Rezept den Namen des Eigent&#xFC;mers des Tieres;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">dans une ordonnance v&#xE9;t&#xE9;rinaire, le nom du propri&#xE9;taire de l'animal;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70650">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">das Arzneimittel, qualitativ und quantitativ, sowie die Dosierung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le m&#xE9;dicament, qualitativement et quantitativement, ainsi que la posologie;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70651">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">das Datum der Verschreibung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la date de la prescription;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70652">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Unterschrift des Arztes nach den Vorschriften von Artikel 25; der Stempel des Arztes kann dessen Unterschrift nicht ersetzen.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la signature du m&#xE9;decin, conform&#xE9;ment aux prescriptions de l'article 25; le timbre du m&#xE9;decin ne saurait remplacer sa signature.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53146">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>27</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ausf&#xFC;hrung der Rezepte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Ex&#xE9;cution des ordonnances</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120926">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nur die Apotheker sind berechtigt, die &#xE4;rztlichen Rezepte auszuf&#xFC;hren. Sie m&#xFC;ssen unter allen Umst&#xE4;nden die magistralen oder pharmazeutischen Bestimmungen einhalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les pharmaciens sont seuls autoris&#xE9;s &#xE0; ex&#xE9;cuter les ordonnances m&#xE9;dicales. Ils doivent en toute circonstance se conformer aux dispositions magistrales ou pharmaceutiques.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120927">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie m&#xFC;ssen sich vergewissern, dass das Rezept von einem Vertreter der medizinischen Berufe stammt, der zur Ausstellung von Rezepten befugt ist, die Echtheit des Rezepts &#xFC;berpr&#xFC;fen und den Inhalt validieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils doivent s'assurer que l'ordonnance &#xE9;mane d'un membre des professions m&#xE9;dicales habilit&#xE9; &#xE0; la formuler, en v&#xE9;rifier l'authenticit&#xE9; et en valider le contenu.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120928">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie m&#xFC;ssen zudem kontrollieren, ob die Person, die das Rezept vorweist, dazu berechtigt ist, die verschriebenen Arzneimittel zu erhalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils doivent en outre contr&#xF4;ler si la personne qui pr&#xE9;sente l'ordonnance a le droit de recevoir les m&#xE9;dicaments prescrits.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53147">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>28</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Validierung der Rezepte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Validation des ordonnances</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120929">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Im Falle des &#xDC;berschreitens der &#xFC;blichen Dosis ohne ausdr&#xFC;ckliche Bemerkung des Arztes (Ausrufezeichen) oder des Verdachts auf einen Irrtum h&#xE4;lt sich der Apotheker an die Vorschriften der Pharmacopoea Helvetica oder der einschl&#xE4;gigen Literatur, indem er nur die kleinste Menge des Arzneimittels abgibt. Er muss sofort mit dem Verfasser des Rezepts Kontakt aufnehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En cas de d&#xE9;passement de la dose usuelle sans remarque expresse du m&#xE9;decin (point d'exclamation) ou de suspicion d'erreur, le pharmacien s'en tient aux prescriptions de la Pharmacopoea Helvetica ou de la litt&#xE9;rature ad hoc en ne d&#xE9;livrant que la plus petite quantit&#xE9; du m&#xE9;dicament. Il doit prendre imm&#xE9;diatement contact avec l'auteur de l'ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120930">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Apotheker eine Unvereinbarkeit, eine offenkundige oder bedeutende medikament&#xF6;se Wechselwirkung oder gar eine Kontraindikation feststellt, informiert er den Verfasser des Rezepts. Dies gilt auch dann, wenn das Rezept nicht klar abgefasst ist oder eine Anomalie enth&#xE4;lt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque le pharmacien rel&#xE8;ve une incompatibilit&#xE9; ou une interaction m&#xE9;dicamenteuse notoire ou importante, voire une contre-indication, il en informe l'auteur de l'ordonnance. Il en est de m&#xEA;me lorsque l'ordonnance n'est pas clairement r&#xE9;dig&#xE9;e ou contient une anomalie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120931">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">M&#xF6;glicherweise gef&#xE4;lschte Rezepte m&#xFC;ssen nicht ausgef&#xFC;hrt werden. Mit dem angeblichen Verfasser des Rezepts muss sofort Kontakt aufgenommen werden. Die umstrittenen Rezepte m&#xFC;ssen aufbewahrt und an den Kantonsapotheker gesandt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les ordonnances soup&#xE7;onn&#xE9;es d'&#xEA;tre des faux ne doivent pas &#xEA;tre ex&#xE9;cut&#xE9;es. L'auteur pr&#xE9;sum&#xE9; de l'ordonnance doit &#xEA;tre imm&#xE9;diatement contact&#xE9;. Les ordonnances litigieuses doivent &#xEA;tre conserv&#xE9;es et adress&#xE9;es au pharmacien cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53148">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>29</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Wiederholung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Renouvellement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120932">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Rezepte f&#xFC;r Arzneimittel, die nach dem Willen des Arztes nicht wiederholt abgegeben werden d&#xFC;rfen, ohne dass sie neu verschrieben werden, m&#xFC;ssen bei der Ausstellung mit dem Vermerk ''ne repetatur'' oder ''NR'' versehen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le m&#xE9;decin ne veut pas qu'une ordonnance soit renouvel&#xE9;e sans nouvelle prescription, il doit le mentionner par l'inscription "ne repetatur" ou "NR".</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120933">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gibt der Arzt nicht klar etwas anderes an, sind die Rezepte grunds&#xE4;tzlich sechs Monate lang g&#xFC;ltig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sauf si le m&#xE9;decin sp&#xE9;cifie clairement autre chose, les ordonnances ont, en principe, une validit&#xE9; de six mois.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120934">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Arzneimittel, die in einer h&#xF6;heren Dosis als &#xFC;blich verschrieben wurden, d&#xFC;rfen nur dann wiederholt abgegeben werden, wenn der Arzt dies mit einem Vermerk auf dem Rezept bewilligt. Das Gleiche gilt f&#xFC;r die wiederholte Abgabe einer pharmazeutischen Spezialit&#xE4;t der Liste A.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le renouvellement d'un m&#xE9;dicament dont la dose prescrite par le m&#xE9;decin d&#xE9;passe la dose usuelle ne peut se faire que s'il l'autorise en le mentionnant sur l'ordonnance. Le m&#xE9;decin doit pratiquer d'une mani&#xE8;re identique pour le renouvellement d'une sp&#xE9;cialit&#xE9; pharmaceutique de la liste A.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120935">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Apotheker muss in der Lage sein, die Namen der Arzneimittel ausfindig zu machen, die im Verlauf der letzten f&#xFC;nf Jahre auf &#xE4;rztliches Rezept ausgeh&#xE4;ndigt und dem Patienten bzw. der betreffenden Krankenkasse verrechnet wurden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pharmacien doit &#xEA;tre en mesure de retrouver le nom des m&#xE9;dicaments d&#xE9;livr&#xE9;s sur ordonnance m&#xE9;dicale et factur&#xE9;s au patient ou &#xE0; sa caisse-maladie durant les cinq ann&#xE9;es pr&#xE9;c&#xE9;dentes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53149">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>30</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ersetzung eines Arzneimittels</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Remplacement d'un m&#xE9;dicament</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120936">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls der Apotheker ein verschriebenes Medikament nicht zur Verf&#xFC;gung hat, kann er es ohne die Zustimmung des Arztes nicht durch ein anderes ersetzen, ausser wenn es unm&#xF6;glich ist, den Verfasser der Verschreibung zu erreichen. Er benachrichtigt diesen so bald als m&#xF6;glich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Dans le cas o&#xF9; le pharmacien n'aurait pas &#xE0; disposition un m&#xE9;dicament prescrit, il ne peut, sauf s'il est impossible d'atteindre l'auteur de la prescription, lui en substituer un autre sans le consentement du m&#xE9;decin. Il en avertira ce dernier d&#xE8;s que possible.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120937">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Recht zur Ersetzung eines Arzneimittels durch ein Generikum bleibt vorbehalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Est r&#xE9;serv&#xE9; le droit de substitution d'un m&#xE9;dicament par un g&#xE9;n&#xE9;rique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53150">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>31</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verschreibung von Bet&#xE4;ubungsmitteln</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Prescription de stup&#xE9;fiants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120938">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die in der Humanmedizin verwendeten Bet&#xE4;ubungsmittel werden vom Arzt auf speziellen Formularen verschrieben, die einzig diesem Zweck vorbehalten sind. Diese Formulare werden den &#xC4;rzten von der Dienststelle f&#xFC;r Gesundheitswesen geliefert. Die Rezepte werden den Bestimmungen der Bundesgesetzgebung entsprechend behandelt. Die Abgabe von Best&#xE4;ubungsmitteln wird von der Spezialgesetzgebung geregelt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les stup&#xE9;fiants utilis&#xE9;s en m&#xE9;decine humaine sont prescrits par le m&#xE9;decin sur des formules sp&#xE9;ciales r&#xE9;serv&#xE9;es uniquement &#xE0; cet usage. Ces formules sont fournies aux m&#xE9;decins par le Service de la sant&#xE9; publique. Les ordonnances sont trait&#xE9;es conform&#xE9;ment aux dispositions de la l&#xE9;gislation f&#xE9;d&#xE9;rale. La d&#xE9;livrance de stup&#xE9;fiants est r&#xE9;gie par la l&#xE9;gislation sp&#xE9;ciale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53151">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>32</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Rezeptregister</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Registre des ordonnances</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120939">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Apotheker f&#xFC;hrt ein Rezeptregister oder ein anderes Mittel zu deren Erfassung, worin er unter einer laufenden Nummer alle Rezepte f&#xFC;r Magistralpr&#xE4;parate, nicht registrierte Arzneimittel sowie Bet&#xE4;ubungsmittel eintr&#xE4;gt. Die folgenden Informationen m&#xFC;ssen darin enthalten sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pharmacien tient un registre des ordonnances ou un autre moyen permettant de les enregistrer, o&#xF9; il inscrit, sous un num&#xE9;ro d'ordre, toutes les ordonnances de pr&#xE9;parations magistrales, de m&#xE9;dicaments non enregistr&#xE9;s, de stup&#xE9;fiants. Les informations suivantes doivent y figurer:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70653">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Erkennungsnummer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le num&#xE9;ro d'identification;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70654">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Abgabedatum;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la date de la remise;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70655">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">den Verfasser der Verschreibung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'auteur de la prescription;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70656">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Zusammensetzung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la composition;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70657">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Gebrauchsanleitung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le mode d'emploi;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70658">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Identit&#xE4;t des Patienten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'identification du patient.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120940">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Daten m&#xFC;ssen w&#xE4;hrend zehn Jahren aufbewahrt werden, auch von einem Nachfolger des Apothekers.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ces donn&#xE9;es doivent &#xEA;tre conserv&#xE9;es pendant dix ans, m&#xEA;me par un pharmacien successeur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120941">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kantonsapotheker kann verlangen, dass gewisse Spezialit&#xE4;ten wegen des Missbrauchsrisikos, das sie mit sich bringen k&#xF6;nnen, in das Rezeptregister eingetragen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pharmacien cantonal peut exiger que certaines sp&#xE9;cialit&#xE9;s, en raison du risque d'abus qu'elles peuvent engendrer, soient inscrites sur le registre des ordonnances.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53152">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>33</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Identifizierung der Arzneimittel</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Identification des m&#xE9;dicaments</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120942">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Magistralpr&#xE4;parate und die pharmazeutischen Spezialit&#xE4;ten, die ''sine confectione'' verschrieben werden, m&#xFC;ssen mit einer Etikette versehen sein, die den Namen der Apotheke und des Patienten, die Dosierung, das Abgabedatum, die Erkennungsnummer aus dem Rezeptregister sowie das Verfalldatum erw&#xE4;hnt. Diese Vorschriften gelten auch f&#xFC;r die &#xC4;rzte, die ihren Patienten Arzneimittel verabreichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les pr&#xE9;parations magistrales et les sp&#xE9;cialit&#xE9;s pharmaceutiques prescrites "sine confectione" doivent &#xEA;tre munies d'une &#xE9;tiquette mentionnant le nom de la pharmacie et du patient, la posologie, la date de d&#xE9;livrance, le num&#xE9;ro d'identification du registre des ordonnances ainsi que la date de p&#xE9;remption. Ces prescriptions sont applicables aux m&#xE9;decins qui dispensent des m&#xE9;dicaments &#xE0; leurs patients.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120943">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jede medikament&#xF6;se Substanz, die lose abgegeben wird, muss mit einer Etikette versehen sein, die den Inhalt und das Abf&#xFC;lldatum erw&#xE4;hnt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toute substance m&#xE9;dicamenteuse d&#xE9;livr&#xE9;e en vrac doit &#xEA;tre munie d'une &#xE9;tiquette mentionnant le contenu et la date du remplissage.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120944">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Abgabe von Giftstoffen ist durch die einschl&#xE4;gige Spezialgesetzgebung geregelt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La d&#xE9;livrance des toxiques est r&#xE9;gie par la l&#xE9;gislation sp&#xE9;ciale en la mati&#xE8;re.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53153">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>34</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">R&#xFC;ckgabe der Rezepte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Restitution des ordonnances</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120945">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jeder Patient ist berechtigt, die R&#xFC;ckgabe seines Rezepts oder eine Kopie davon zu verlangen, wenn der Apotheker verpflichtet ist, das Originalrezept aufzubewahren. Der Stempel der Apotheke muss auf das Rezept oder auf dessen Kopie aufgesetzt werden, zusammen mit dem Datum der Ausf&#xFC;hrung und dem Nachweis der Abgabe.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Tout patient est en droit de demander la restitution de son ordonnance ou copie de celle-ci lorsque le pharmacien est tenu de conserver l'ordonnance originale. Le timbre de la pharmacie doit &#xEA;tre appos&#xE9; sur l'ordonnance ou sa copie, avec la date de l'ex&#xE9;cution et la preuve de la remise.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53154">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>35</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Missbrauch und Abh&#xE4;ngigkeit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Abus et d&#xE9;pendance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120946">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Apotheker muss sich bem&#xFC;hen, gegen den Missbrauch von Arzneimitteln zu k&#xE4;mpfen, insbesondere von jenen, die zur Abh&#xE4;ngigkeit f&#xFC;hren k&#xF6;nnen. Im Fall von offensichtlichem Missbrauch ist es seine Pflicht, den Verfasser des Rezepts, den behandelnden Arzt und gegebenenfalls den Kantonsapotheker oder den Kantonsarzt zu benachrichtigen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pharmacien doit s'efforcer de lutter contre l'abus de m&#xE9;dicaments, particuli&#xE8;rement de ceux qui peuvent engendrer une d&#xE9;pendance. En cas d'abus manifeste, il est de son devoir d'informer l'auteur de l'ordonnance, le m&#xE9;decin traitant et, le cas &#xE9;ch&#xE9;ant, le pharmacien cantonal ou le m&#xE9;decin cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120947">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Werbung f&#xFC;r und die F&#xF6;rderung von Arzneimitteln, die zu Missbrauch und Abh&#xE4;ngigkeit f&#xFC;hren k&#xF6;nnen, sind gem&#xE4;ss Bestimmungen der Swissmedic untersagt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La publicit&#xE9; et la promotion de m&#xE9;dicaments susceptibles d'abus et de d&#xE9;pendance sont interdites, conform&#xE9;ment aux dispositions fix&#xE9;es par Swissmedic.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120948">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Abgabe von Arzneimitteln, die zu Missbrauch und Abh&#xE4;ngigkeit f&#xFC;hren k&#xF6;nnen, kann verweigert werden, wenn der Verdacht auf missbr&#xE4;uchliche Verwendung besteht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La remise de m&#xE9;dicaments susceptibles d'abus et de d&#xE9;pendance peut &#xEA;tre refus&#xE9;e si l'on soup&#xE7;onne une utilisation abusive de ces derniers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120949">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mit der Einwilligung des Patienten kann der Arzt die erforderliche Hilfe verlangen, um im Fall eines offensichtlichen Missbrauchs den Zugang der betreffenden Person zu den fraglichen Arzneimitteln zu beschr&#xE4;nken, insbesondere zu den psychotropen Substanzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Avec le consentement du patient, le m&#xE9;decin peut requ&#xE9;rir l'aide n&#xE9;cessaire pour limiter, en cas d'abus manifeste, l'acc&#xE8;s de la personne concern&#xE9;e aux m&#xE9;dicaments en cause, notamment les psychotropes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53155">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>36</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Selbstbedienung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Libre service</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120950">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Arzneimittel der Listen A bis C d&#xFC;rfen nicht in Selbstbedienung abgegeben werden. Dasselbe gilt grunds&#xE4;tzlich auch f&#xFC;r die Arzneimittel der Liste D.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les m&#xE9;dicaments des listes A &#xE0; C ne doivent pas &#xEA;tre mis en libre service. Il en est de m&#xEA;me, en principe, pour les m&#xE9;dicaments de liste D.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:120951">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Arzneimittel der Liste D k&#xF6;nnen nur zur Selbstbedienung angeboten werden, wenn die Beratung durch eine Fachperson gew&#xE4;hrleistet ist und wenn sie nicht Gegenstand einer Werbebeschr&#xE4;nkung durch Swissmedic bilden, weil sie das Risiko von Angew&#xF6;hnung, Abh&#xE4;ngigkeit oder Missbrauch in sich bergen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les m&#xE9;dicaments de liste D ne peuvent &#xEA;tre pr&#xE9;sent&#xE9;s en libre service que si le conseil par une personne comp&#xE9;tente est possible et s'ils ne font pas l'objet de restriction de publicit&#xE9; par Swissmedic en raison d'un risque d'accoutumance, de d&#xE9;pendance ou d'usage abusif.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:53210">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>36a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anwendung von verschreibungspflichtigen Medikamenten im Rahmen der Berufsaus&#xFC;bung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Utilisation de m&#xE9;dicaments soumis &#xE0; ordonnance dans le cadre professionnel</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:121068">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wer im Rahmen der Berufsaus&#xFC;bung verschreibungspflichtige Arzneimittel anwenden will, bedarf einer Bewilligung des Departements.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toute personne utilisant, dans le cadre de sa profession, des m&#xE9;dicaments soumis &#xE0; ordonnance doit &#xEA;tre au b&#xE9;n&#xE9;fice d'une autorisation d&#xE9;livr&#xE9;e par le d&#xE9;partement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:121069">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Neben Medizinalpersonen k&#xF6;nnen auch Personen folgender Berufskategorien eine solche Bewilligung erhalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Outre les personnes exer&#xE7;ant une profession m&#xE9;dicale, les personnes suivantes peuvent obtenir une telle autorisation:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70687">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">diplomierte Hebammen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les sages-femmes dipl&#xF4;m&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70688">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">diplomierte Dentalhygienikerinnen und Dentalhygieniker;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les hygi&#xE9;nistes dentaires dipl&#xF4;m&#xE9;s;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70689">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">diplomierte Chiropraktorinnen und Chiropraktoren;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les chiropraticiens dipl&#xF4;m&#xE9;s;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70690">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">diplomierte Rettungssanit&#xE4;terinnen und -sanit&#xE4;ter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les ambulanciers dipl&#xF4;m&#xE9;s;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:70691">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Personen mit einem Diplom einer eidgen&#xF6;ssisch anerkannten Ausbildung in einem Bereich der Komplement&#xE4;rmedizin.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les personnes titulaires d'un dipl&#xF4;me f&#xE9;d&#xE9;ral en m&#xE9;decine compl&#xE9;mentaire.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:121070">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement kann die Arzneimittel in einer Richtlinie festlegen, welche durch die in Absatz 2 genannten Personen angewendet werden d&#xFC;rfen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le d&#xE9;partement pr&#xE9;cise par voie de directives les m&#xE9;dicaments que les personnes vis&#xE9;es &#xE0; l&#x2019;alin&#xE9;a 2 peuvent utiliser.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:121071">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Dienststelle f&#xFC;r Gesundheitswesen &#xFC;bt die Aufsicht aus und kann Kontrollen durchf&#xFC;hren. Sie kann diese an zu diesem Zweck geeignete Einrichtungen delegieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service de la sant&#xE9; publique exerce la surveillance et peut proc&#xE9;der &#xE0; des contr&#xF4;les. Il peut d&#xE9;l&#xE9;guer ces derniers &#xE0; des institutions appropri&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15928">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Inspektionen und Kontrollen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Inspections et contr&#xF4;les</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:53156">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Periodische Inspektionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inspections p&#xE9;riodiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120952">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Inspektionen und Kontrollen obliegen der Dienststelle f&#xFC;r Gesundheitswesen. Diese delegiert ihre Befugnisse an den Kantonsapotheker oder in besonderen Situationen an einen von ihm bezeichneten Inspektor, wobei die Kompetenzen des tier&#xE4;rztlichen Dienstes im Bereich der Kontrolle der arzneihaltigen Futtermittel vorbehalten bleiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inspections et les contr&#xF4;les sont du ressort du Service de la sant&#xE9; publique. Celui-ci d&#xE9;l&#xE8;gue ses pouvoirs au pharmacien cantonal ou, dans des situations particuli&#xE8;res, &#xE0; un inspecteur d&#xE9;sign&#xE9; par lui, les comp&#xE9;tences du Service v&#xE9;t&#xE9;rinaire en mati&#xE8;re de contr&#xF4;le des aliments m&#xE9;dicamenteux &#xE9;tant r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120953">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Inspektionen und Kontrollen werden periodisch vorgenommen, um sich der guten F&#xFC;hrung der Unternehmen und der Einhaltung der geltenden Gesetzgebung von Bund und Kanton zu vergewissern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inspections et contr&#xF4;les sont effectu&#xE9;s p&#xE9;riodiquement dans le but de s'assurer de la bonne tenue des entreprises et du respect des l&#xE9;gislations f&#xE9;d&#xE9;rale et cantonale en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120954">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine zus&#xE4;tzliche Inspektion muss durchgef&#xFC;hrt werden, falls sich aus einer periodischen Inspektion Mangelhaftigkeiten oder Beanstandungen ergeben. Die Kosten, die mit dieser erneuten Kontrolle verbunden sind, gehen zu Lasten der inspizierten Person.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une inspection compl&#xE9;mentaire doit &#xEA;tre effectu&#xE9;e si des insuffisances et des contestations &#xE9;manent d'une inspection p&#xE9;riodique. Les frais inh&#xE9;rents &#xE0; ce nouveau contr&#xF4;le sont &#xE0; la charge de la personne inspect&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53157">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>38</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bet&#xE4;ubungsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Stup&#xE9;fiants</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120955">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsapotheker f&#xFC;hrt die Kontrolle der Vermarktung der Bet&#xE4;ubungsmittel in den Apotheken, in den Spit&#xE4;lern und bei den Personen durch, die berechtigt sind, den Bestimmungen der Bet&#xE4;ubungsmittelgesetzgebung entsprechend Bet&#xE4;ubungsmittel zu besitzen, zuzubereiten und zu benutzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pharmacien cantonal proc&#xE8;de au contr&#xF4;le de la mise dans le commerce des stup&#xE9;fiants dans les pharmacies, les h&#xF4;pitaux et chez les personnes autoris&#xE9;es &#xE0; d&#xE9;tenir, pr&#xE9;parer et utiliser des stup&#xE9;fiants, conform&#xE9;ment aux dispositions de la l&#xE9;gislation sur les stup&#xE9;fiants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120956">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsarzt f&#xFC;hrt die Kontrolle der medizinischen Benutzung der Bet&#xE4;ubungsmittel durch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le m&#xE9;decin cantonal proc&#xE8;de au contr&#xF4;le de l'utilisation m&#xE9;dicale des stup&#xE9;fiants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53158">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>39</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Entnahme von Proben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;l&#xE8;vements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120957">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anl&#xE4;sslich einer Inspektion sind der Kantonsapotheker oder die Kontrollorgane befugt, entsch&#xE4;digungslos Proben von Rohstoffen, halbfertigen Erzeugnissen und fertigen Produkten zu entnehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'inspection, le pharmacien cantonal ou les organes de contr&#xF4;le sont habilit&#xE9;s &#xE0; effectuer des pr&#xE9;l&#xE8;vements de mati&#xE8;res premi&#xE8;res, de semi-produits et de produits finis, sans verser d'indemnit&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120958">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Verlangen wird dem Eigent&#xFC;mer der Ware eine Quittung ausgestellt, und es wird f&#xFC;r ihn im Hinblick auf eine Gegenexpertise eine zweite &#xE4;hnliche Probe entnommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une quittance est d&#xE9;livr&#xE9;e sur demande au propri&#xE9;taire de la marchandise, et un second pr&#xE9;l&#xE8;vement similaire est effectu&#xE9; &#xE0; son intention en vue d'une contre-expertise.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120959">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Untersuchung der Proben kann dem Kantonslabor oder anerkannten spezialisierten Instituten anvertraut werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'examen de pr&#xE9;l&#xE8;vements peut &#xEA;tre confi&#xE9; au Laboratoire cantonal ou &#xE0; des instituts sp&#xE9;cialis&#xE9;s reconnus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120960">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsapotheker ist befugt, die Rechnungen, Lieferscheine oder sonstigen Belege zu &#xFC;berpr&#xFC;fen, sofern sich die Kontrolle als notwendig erweist. Der Zugang zu allen R&#xE4;umlichkeiten muss gew&#xE4;hrleistet sein. Alle Ausk&#xFC;nfte, die von den Kontrollorganen verlangt werden, sind zu erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pharmacien cantonal est autoris&#xE9; &#xE0; v&#xE9;rifier les factures, bulletins de livraison ou autres pi&#xE8;ces justificatives lorsque le contr&#xF4;le s'av&#xE8;re n&#xE9;cessaire. L'acc&#xE8;s &#xE0; tous les locaux doit &#xEA;tre garanti. Tous les renseignements demand&#xE9;s par les organes de contr&#xF4;le doivent &#xEA;tre fournis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120961">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die verfallenen, nicht bewilligten oder in ihrem Zustand ver&#xE4;nderten Produkte k&#xF6;nnen anl&#xE4;sslich der Inspektion eingezogen werden. Es werden keine Kosten r&#xFC;ckerstattet. Falls die angemessenen Kontrollen offensichtlich nicht vorgenommen wurden, k&#xF6;nnen Sanktionen ergriffen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les produits p&#xE9;rim&#xE9;s, non autoris&#xE9;s ou alt&#xE9;r&#xE9;s peuvent &#xEA;tre s&#xE9;questr&#xE9;s lors de l'inspection. Aucun frais n'est rembours&#xE9;. Des sanctions peuvent &#xEA;tre prises lorsque des contr&#xF4;les ad&#xE9;quats n'ont manifestement pas &#xE9;t&#xE9; effectu&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53159">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>40</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtsgeheimnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Secret de fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120962">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kontrollorgane sind an das Amtsgeheimnis gebunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les organes de contr&#xF4;le sont tenus au secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53160">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>41</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einziehung und Vernichtung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Confiscation et destruction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120963">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsapotheker kann auf dem Verwaltungswege die Einziehung von Substanzen und Gegenst&#xE4;nden vornehmen, die Anlass zu einer Beanstandung oder Beschwerde gegeben haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pharmacien cantonal peut confisquer par voie administrative les substances et objets qui ont donn&#xE9; lieu &#xE0; contestation ou &#xE0; plainte.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120964">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls keine strafrechtliche Einziehung erfolgt, entscheidet der Kantonsapotheker &#xFC;ber die weitere Verwendung oder die Vernichtung der Substanzen oder Gegenst&#xE4;nde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si aucune confiscation n'a lieu par voie p&#xE9;nale, le pharmacien cantonal d&#xE9;cide de l'utilisation ult&#xE9;rieure ou de la destruction des substances ou objets.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15929">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Verschiedene Bestimmungen und Schlussbestim-mungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions diverses et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:53161">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>42</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emoluments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120965">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Bewilligungen und weiteren Verf&#xFC;gungen, die in Anwendung des Gesundheitsgesetzes und der vorliegenden Verordnung ausgestellt werden, ist eine Geb&#xFC;hr zu bezahlen, deren Betrag vom Staatsrat festgelegt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorisations et autres d&#xE9;cisions prises en application de la loi sur la sant&#xE9; et de la pr&#xE9;sente ordonnance sont d&#xE9;livr&#xE9;es contre un &#xE9;molument dont le montant est fix&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53162">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>43</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Administrative Massnahmen und Sanktionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions et mesures administratives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120966">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die Personen, welche die Bestimmungen der vorliegenden Verordnung nicht einhalten, k&#xF6;nnen administrative Massnahmen und Sanktionen ergriffen werden, die von der einschl&#xE4;gigen Gesetzgebung des Bundes und des Kantons vorgesehen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes qui ne respectent pas les dispositions de la pr&#xE9;sente ordonnance sont passibles des sanctions et mesures administratives pr&#xE9;vues par la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53163">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>44</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120967">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle mit der vorliegenden Verordnung in Widerspruch stehenden Bestimmungen werden aufgehoben, insbesondere die Verordnung &#xFC;ber die Arzneimittelkontrolle vom 20. November 1996.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;es les dispositions contraires &#xE0; la pr&#xE9;sente ordonnance, en particulier l'ordonnance sur le contr&#xF4;le des m&#xE9;dicaments du 20 novembre 1996.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:53164">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>45</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:120968">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement ist mit dem Vollzug der vorliegenden Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:120969">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Verordnung wird im Amtsblatt ver&#xF6;ffentlicht und tritt gleichzeitig mit dem Gesundheitsgesetz vom 14. Februar 2008 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Celle-ci sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur en m&#xEA;me temps que la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2009-07-01</dateForce>
+      <dateVersion>2018-05-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 13/2018</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:53210" historyChange="insert" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2009-07-01</dateForce>
+        <dateVersion>2009-07-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 17/2009</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

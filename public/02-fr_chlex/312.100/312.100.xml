@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1019</normID>
+      <number>312.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">ARGAgPol</abbreviation>
+      <abbreviation lang="fr">RELDPolJ</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Ausf&#xFC;hrungsreglement zum Gesetz &#xFC;ber die Akten der gerichtlichen Polizei</title>
+      <title lang="fr">R&#xE8;glement d'ex&#xE9;cution de la loi concernant les dossiers de police judiciaire</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1986-02-26</dateAdoption>
+      <dateForce>1987-07-01T00:00:00</dateForce>
+      <dateLastChange>2004-02-01</dateLastChange>
+      <dateVersion>2004-02-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 20 des Gesetzes &#xFC;ber die Akten der gerichtlichen Polizei vom 28. Juni 1984 (GAgPol);</basis> <basis>auf Antrag des Justiz-, Polizei- und Milit&#xE4;rdepartementes,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 20 de la loi&#xA0;concernant les dossiers de police judiciaire du 28 juin 1984 (LDPolJ);</basis> <basis>sur la proposition du D&#xE9;partement de la justice, de la police et des affaires militaires,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1986 f 254, 205 | d 267, 217</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3218">
+        <structureContent lang="de">
+          <structureText>Ausf&#xFC;hrungsreglement zum Gesetz &#xFC;ber die Akten der gerichtlichen Polizei</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>d'ex&#xE9;cution de la loi concernant les dossiers de police judiciaire</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:10985">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Datensicherung (Art. 7-19 GAgPol)</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">S&#xE9;curit&#xE9; des donn&#xE9;es (art. 7-19 LDPolJ)</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:25211">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Sicherungsmassnahmen sind:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les mesures de s&#xE9;curit&#xE9; sont:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12078">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">physischer Art, die insbesondere die R&#xE4;umlichkeiten, die Zugangsschl&#xFC;ssel und die Ausweispapiere betreffen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d'ordre physique, concernant notamment les locaux, les cl&#xE9;s d'acc&#xE8;s et les cartes d'identification;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12079">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">administrativer Art, die insbesondere in Form von Dienstanweisungen an das Personal und deren Einhaltungskontrolle erlassen werden;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d'ordre administratif, sous la forme notamment de consignes au personnel et du contr&#xF4;le de leur observation;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12080">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">informatik-technischer Art, die insbesondere aus Kennw&#xF6;rtern und Kontrollprogrammen bestehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">d'ordre informatique, consistant notamment en des mots de passe et des programmes de contr&#xF4;le.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:25212">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Kantonspolizei beschliesst in Ber&#xFC;cksichtigung der Natur der bearbeiteten Daten, des ihnen zug&#xE4;nglichen Personenkreises und des Standortes der Anlagen die zu ergreifenden Sicherungsmassnahmen. Sie &#xFC;berpr&#xFC;ft regelm&#xE4;ssig ihre Funktionszuverl&#xE4;ssigkeit.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La police cantonale d&#xE9;cide des mesures de s&#xE9;curit&#xE9; &#xE0; prendre compte tenu de la nature des donn&#xE9;es trait&#xE9;es, du cercle des personnes y ayant acc&#xE8;s et de l'emplacement des installations. Elle en teste r&#xE9;guli&#xE8;rement la fiabilit&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:25213">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die kantonale Datenschutzkommission (Kommission) kontrolliert periodisch die Wirksamkeit der Systeme und ordnet bei Schwachstellen eine Verst&#xE4;rkung der Sicherungsmassnahmen an.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La commission cantonale de protection des donn&#xE9;es (commission) v&#xE9;rifie p&#xE9;riodiquement l'efficacit&#xE9; des syst&#xE8;mes mis en place et prescrira un renforcement des mesures de s&#xE9;curit&#xE9; en cas d'insuffisance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10986">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Auskunftserteilung an das kantonale Personalamt (Art. 10 Abs. 2 Bst. h GAgPol)
+a) Grundsatz</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Communication de renseignements &#xE0; l'Office cantonal du personnel (art. 10 al. 2 let. h LDPolJ)
+a) Principe</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:25214">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dem kantonalen Personalamt d&#xFC;rfen Ausk&#xFC;nfte aus gerichtspolizeilichen Akten erteilt werden bei der Anstellung einer Person:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Des renseignements extraits des dossiers de police judiciaire peuvent &#xEA;tre communiqu&#xE9;s &#xE0; l'Office cantonal du personnel, lors de l'engagement d'une personne:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12081">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">als Spitalpflegepersonal in staatlichen Einrichtungen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">dans l'effectif du personnel hospitalier soignant des institutions d'Etat;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12082">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die vor dem Staatsrat vereidigt werden muss;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">devant &#xEA;tre asserment&#xE9;e par-devant le Conseil d'Etat;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12083">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die mit einer eigentlichen Aufsichts- oder Revisionsaufgabe beauftragt ist;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">charg&#xE9;e sp&#xE9;cifiquement d'une mission de surveillance ou de r&#xE9;vision;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:12084">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">an die gem&#xE4;ss dem Gesetz &#xFC;ber die Gesch&#xE4;ftsf&#xFC;hrung und den Finanzhaushalt des Kantons und deren Kontrolle sowie seinen Ausf&#xFC;hrungsreglementen eine Kompetenz in Finanzangelegenheiten delegiert werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#xE0; qui une comp&#xE9;tence financi&#xE8;re peut &#xEA;tre d&#xE9;l&#xE9;gu&#xE9;e conform&#xE9;ment &#xE0; la loi sur la gestion et le contr&#xF4;le administratifs et financiers et &#xE0; ses r&#xE8;glements d'ex&#xE9;cution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10987">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">b) Bedingungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">b) Conditions</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:25215">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Nur &#xFC;ber Stellenbewerber, deren Dienstofferten ber&#xFC;cksichtigt wurden, d&#xFC;rfen Ausk&#xFC;nfte aus gerichtspolizeilichen Akten erteilt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Des renseignements extraits des dossiers de police judiciaire ne peuvent &#xEA;tre communiqu&#xE9;s qu'&#xE0; l'&#xE9;gard du candidat dont l'offre de service est retenue.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:25216">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Auskunftsblatt ist dem Vorsteher des kantonalen Personalamtes in einem verschlossenen Umschlag mit dem Vermerk "vertraulich" zuzustellen. Der Vorsteher bewahrt es getrennt vom Dossier unter Verschluss auf und vernichtet es nach Abschluss des Anstellungsverfahrens.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La fiche de renseignements est transmise sous pli confidentiel au chef de l'Office cantonal du personnel qui la conserve s&#xE9;par&#xE9;ment du dossier, sous cl&#xE9;, et qui la d&#xE9;truit &#xE0; l'issue de la proc&#xE9;dure d'engagement.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:25217">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Kommission wacht &#xFC;ber die Einhaltung dieser Vorschriften.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La commission veille au respect de ces prescriptions.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:15044">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3a</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inhalt des Informationssystems (Art. 13 GAgPol)</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Contenu du syst&#xE8;me d'information (art. 13 LDPolJ)</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:34446">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Informationssystem setzt sich aus folgenden Daten zusammen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le syst&#xE8;me d'information se compose des donn&#xE9;es suivantes:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18270">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">vollst&#xE4;ndige Angaben zur Identit&#xE4;t der Person (Vorname(n), Namen, Pseudonym, Geschlecht, Geburtsdatum, Geburtsort, Zivilstand, Namen und Vornamen der Eltern, Nationalit&#xE4;t, Heimatort);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">identit&#xE9; compl&#xE8;te de la personne (pr&#xE9;nom(s), nom(s), nom(s) d'emprunt, sexe, date et lieu de naissance, &#xE9;tat civil, noms et pr&#xE9;noms des parents, nationalit&#xE9;, lieu d'origine);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18271">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Photographie der Person;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">photographie de la personne;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18272">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ursprungsland;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">premier pays d'origine;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18273">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Datum der Einreise in die Schweiz;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">date d'entr&#xE9;e en Suisse;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18274">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Identit&#xE4;tsausweis (Identit&#xE4;tskarte, Pass oder ein anderes, die Identit&#xE4;t der Person bescheinigendes Dokument);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pi&#xE8;ce d'identit&#xE9; (carte d'identit&#xE9;, passeport ou tout autre document propre &#xE0; attester de l'identit&#xE9; de la personne);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18275">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufenthaltsbewilligung (Art, Kanton, Referenznummer, Ausstellung, Verfall);</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">autorisation de s&#xE9;jour (genre, canton, num&#xE9;ro de r&#xE9;f&#xE9;rence, &#xE9;mission, &#xE9;ch&#xE9;ance);</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18276">
+                    <partNumber>g)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wohn- und Arbeitsortadresse sowie die private und berufliche Telefonnummer;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">adresses des domiciles priv&#xE9;s et professionnels, ainsi que les coordonn&#xE9;es t&#xE9;l&#xE9;phoniques priv&#xE9;es et professionnelles;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18277">
+                    <partNumber>h)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">vorg&#xE4;ngige Adressen in der Schweiz und im Ausland;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pr&#xE9;c&#xE9;dentes adresses en Suisse et &#xE0; l'&#xE9;tranger;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18278">
+                    <partNumber>i)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ort und Datum der Kontrolle;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">date et lieu du contr&#xF4;le;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18279">
+                    <partNumber>j)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">vorg&#xE4;ngige Kontrollen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">pr&#xE9;c&#xE9;dents contr&#xF4;les;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:18280">
+                    <partNumber>k)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Immatrikulation von Fahrzeugen oder Fortbewegungsmitteln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">immatriculations des v&#xE9;hicules ou indication des moyens de locomotion.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10988">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Schlussbestimmung (Art. 3 Abs. 2 GAgPol)</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Disposition finale (art. 3 al. 2 LDPolJ)</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:25218">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das Gesetz &#xFC;ber den Schutz von Personendaten und dessen Ausf&#xFC;hrungsreglement gelten subsidi&#xE4;r, sofern sie nicht dem Gesetz &#xFC;ber die Akten der gerichtlichen Polizei und dem vorliegenden Ausf&#xFC;hrungsreglement widersprechen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La loi sur la protection des donn&#xE9;es &#xE0; caract&#xE8;re personnel et son r&#xE8;glement d'ex&#xE9;cution s'appliquent &#xE0; titre subsidiaire, dans la mesure o&#xF9; ils ne sont pas contraires &#xE0; la loi sur les dossiers de police judiciaire et au pr&#xE9;sent r&#xE8;glement.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:10989">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Inkrafttreten (Art. 21 GAgPol)</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Entr&#xE9;e en vigueur (art. 21 LDPolJ)</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:25219">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Reglement tritt gleichzeitig mit dem Gesetz &#xFC;ber die Akten der gerichtlichen Polizei in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement entre en vigueur &#xE0; la m&#xEA;me date que la loi sur les dossiers de police judiciaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1987-07-01</dateForce>
+      <dateVersion>2004-02-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 43/2003</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

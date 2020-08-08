@@ -1,0 +1,3183 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:2586</normID>
+      <number>211.600</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">kVaV</abbreviation>
+      <abbreviation lang="fr">OcMO</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die amtliche Vermessung</title>
+      <title lang="fr">Ordonnance sur la mensuration officielle</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2018-03-07</dateAdoption>
+      <dateForce>2018-04-01T00:00:00</dateForce>
+      <dateLastChange>2018-04-01</dateLastChange>
+      <dateVersion>2018-04-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 2 des kantonalen Gesetzes &#xFC;ber die amtliche Vermessung vom 16. M&#xE4;rz 2006;&#xA0;</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen und Energie,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 2 de la loi cantonale sur la mensuration officielle du 16 mars 2006;&#xA0;</basis> <basis>sur la proposition du D&#xE9;partement des finances et de l&#x2019;&#xE9;nergie,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 11/2018</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="15025">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die amtliche Vermessung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la mensuration officielle</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15026">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Verfahren zur Festlegung von Hoheitsgrenzen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Proc&#xE9;dure pour la d&#xE9;termination des limites territoriales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:49994">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113635">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grenzen der Einwohnergemeinde (nachfolgend: Gemeinde) m&#xFC;ssen mit Liegenschaftsgrenzen zusammenfallen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les limites des communes municipales (ci-apr&#xE8;s: communes) doivent correspondre avec les limites des immeubles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:49995">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Limites communales et cantonales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113636">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">M&#xFC;ssen Gemeindegrenzen den Liegenschaftsgrenzen angeglichen werden, so werden diese &#xC4;nderungen in einer Vereinbarung zwischen den Gemeinden festgehalten. Anschliessend sind die notwendigen Unterlagen f&#xFC;r den Eintrag im Grundbuch zu erstellen, mit der Zustimmung der Eigent&#xFC;mer, falls die Liegenschaftsgrenzen schon anerkannt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si des limites communales doivent &#xEA;tre adapt&#xE9;es pour co&#xEF;ncider avec les limites des immeubles, les modifications sont r&#xE9;gl&#xE9;es par convention entre les communes concern&#xE9;es; celles-ci &#xE9;tablissent les documents n&#xE9;cessaires &#xE0; l'inscription au registre foncier, avec l&#x2019;accord des propri&#xE9;taires des immeubles, si la limite de l&#x2019;immeuble a d&#xE9;j&#xE0; &#xE9;t&#xE9; approuv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113637">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kommt unter den Gemeinden keine Einigung zustande, so entscheidet der Staatsrat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les communes ne peuvent s'entendre, le Conseil d'Etat d&#xE9;cide.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113638">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist die Gemeindegrenze gleichzeitig Kantonsgrenze, so m&#xFC;ssen die &#xC4;nderungen durch die zust&#xE4;ndige Beh&#xF6;rde der betroffenen Kantone genehmigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la limite communale est en m&#xEA;me temps une limite cantonale, les modifications doivent &#xEA;tre approuv&#xE9;es par l&#x2019;autorit&#xE9; comp&#xE9;tente des cantons concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113801">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sind Landesgrenzen betroffen, sind die diesbez&#xFC;glich zust&#xE4;ndigen Beh&#xF6;rden einzubeziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si des fronti&#xE8;res nationales sont concern&#xE9;es, les autorit&#xE9;s comp&#xE9;tentes doivent &#xEA;tre impliqu&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:49996">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais pour la d&#xE9;termination des limites communales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113639">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geometerkosten f&#xFC;r die Erstellung der Pl&#xE4;ne &#xFC;ber die &#xC4;nderungen der Gemeindegrenzen gehen zu Lasten der betroffenen Gemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de g&#xE9;om&#xE8;tre pour l'&#xE9;tablissement des plans modifiant les limites communales sont &#xE0; la charge des communes concern&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113640">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern nichts anderes vereinbart wurde, werden diese Kosten zu gleichen Teilen auf die betroffenen Gemeinden verteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A d&#xE9;faut d&#x2019;autre convention, les frais sont r&#xE9;partis &#xE0; parts &#xE9;gales entre les communes concern&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:49997">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Landesgrenze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fronti&#xE8;re nationale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113641">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Festlegung der Landesgrenze erfolgt aufgrund der Vorschriften im Bundesrecht oder aufgrund der diesbez&#xFC;glichen v&#xF6;lkerrechtlichen Vertr&#xE4;ge mit dem Ausland.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les limites correspondant &#xE0; la fronti&#xE8;re nationale sont d&#xE9;termin&#xE9;es sur la base du droit f&#xE9;d&#xE9;ral ou des trait&#xE9;s internationaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113642">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grenzen der Liegenschaften entlang der Landesgrenze &#xFC;bernehmen deren Verlauf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les limites des immeubles le long de la fronti&#xE8;re nationale correspondent au trac&#xE9; de celles-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113802">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht erteilt einem im eidgen&#xF6;ssischen Register eingetragenen Ingenieur-Geometer (nachfolgend: Ingenieur-Geometer), gest&#xFC;tzt auf v&#xF6;lkerrechtliche Vertr&#xE4;ge, den Auftrag zur &#xC4;nderung von Grundst&#xFC;cksgrenzen entlang der Landesgrenze.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour toute modification de limites d&#x2019;immeubles le long de la fronti&#xE8;re nationale, l'instance de surveillance mandate un ing&#xE9;nieur g&#xE9;om&#xE8;tre inscrit au registre f&#xE9;d&#xE9;ral des ing&#xE9;nieurs g&#xE9;om&#xE8;tres (ci-apr&#xE8;s: ing&#xE9;nieur g&#xE9;om&#xE8;tre); cette modification est inscrite au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113855">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht meldet dem Bundesamt f&#xFC;r Landestopografie festgestellte Sch&#xE4;den oder Gef&#xE4;hrdungen von Grenzzeichen entlang der Landesgrenze.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'instance de surveillance informe l'Office f&#xE9;d&#xE9;ral de la topographie des dommages constat&#xE9;s ou des risques encourus par les signes de d&#xE9;marcation le long de la fronti&#xE8;re nationale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15050">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Verfahren f&#xFC;r die Vermarkung, die Ersterhebung von Grundst&#xFC;cken und die Erneuerung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Proc&#xE9;dure pour l'abornement, le premier relev&#xE9; des immeubles et le renouvellement</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:49998">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113643">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der nach dem Ausschreibeverfahren beauftragte Ingenieur-Geometer ist im betroffenen Perimeter f&#xFC;r die Vermarkung, Ersterhebung oder Erneuerung zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Seul l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre d&#xE9;sign&#xE9; &#xE0; l&#x2019;issue d&#x2019;une proc&#xE9;dure d&#x2019;adjudication est comp&#xE9;tent pour proc&#xE9;der &#xE0; l&#x2019;abornement, au premier relev&#xE9; des immeubles ainsi qu&#x2019;au renouvellement dans le p&#xE9;rim&#xE8;tre concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113644">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einzig der gem&#xE4;ss Absatz 1 beauftragte Ingenieur-Geometer ist im betroffenen Perimeter f&#xFC;r die laufende Nachf&#xFC;hrung zust&#xE4;ndig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre d&#xE9;sign&#xE9; &#xE0; l&#x2019;alin&#xE9;a 1 sera ensuite seul comp&#xE9;tent pour effectuer la mise &#xE0; jour permanente dans ce m&#xEA;me p&#xE9;rim&#xE8;tre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113856">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es ist auf jedem Auszug, der aus dem Gemeindekataster oder aus dem Grundbuch erstellt wird, die Anmerkung "Amtliche Vermessung in Ausf&#xFC;hrung" anzubringen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque extrait d&#xE9;livr&#xE9; par le cadastre de la commune ou par le registre foncier doit porter la mention "mensuration officielle en cours".</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:49999">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grenzfeststellung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;termination des limites</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113645">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xF6;ffentliche Bekanntmachung zur Aufforderung der Grenzfeststellung hat im Amtsblatt des Kantons und in der betroffenen Gemeinde zu erfolgen. Gleichzeitig muss die Vermessungsaufsicht schriftlich &#xFC;ber den Beginn der Arbeiten informiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;avis officiel invitant &#xE0; la d&#xE9;termination des limites des immeubles est publi&#xE9; dans le bulletin officiel du canton ainsi que dans la commune concern&#xE9;e. Parall&#xE8;lement, l&#x2019;instance de surveillance doit &#xEA;tre inform&#xE9;e par &#xE9;crit du d&#xE9;but des travaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113646">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mittels eingeschriebenem Brief wird im Informationsschreiben dem Eigent&#xFC;mer die Eigent&#xFC;mernummer, ein kurzer Verfahrensbeschrieb, die Weisungen f&#xFC;r die Grenzfeststellung und eine Liste mit den betroffenen Parzellen mitgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une circulaire d'information contenant le num&#xE9;ro de propri&#xE9;taire, une br&#xE8;ve description de la proc&#xE9;dure, les directives pour la d&#xE9;termination des limites et la liste des immeubles concern&#xE9;s est adress&#xE9;e par lettre recommand&#xE9;e &#xE0; chaque propri&#xE9;taire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113647">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grenzen werden aufgrund der Angaben und Aussagen der Eigent&#xFC;mer und aufgrund der im Grundbuch vorhandenen Mutationsakten, der Liegenschaftsbeschreibungen des Einwohnergemeindekatasters mit seinen Katasterpl&#xE4;nen, der fr&#xFC;heren Erwerbstitel und der bestehenden Dienstbarkeitsvertr&#xE4;ge festgestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les limites sont d&#xE9;termin&#xE9;es sur la base des indications et d&#xE9;clarations des propri&#xE9;taires, des actes de mutation inscrits au registre foncier, de la description des immeubles figurant au cadastre communal, des plans de cadastre, des anciens titres d'acquisition et des contrats de servitudes existants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113648">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Grenzfeststellung sind unzweckm&#xE4;ssige Grenzen mit Zustimmung der Eigent&#xFC;mer zu bereinigen. Es k&#xF6;nnen Grenzbegradigungen und unbedeutende Grenz&#xE4;nderungen durchgef&#xFC;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de la d&#xE9;termination des limites, les limites inappropri&#xE9;es doivent &#xEA;tre corrig&#xE9;es avec l'accord des propri&#xE9;taires. Des redressements et des modifications de limites de peu d'importance peuvent &#xEA;tre effectu&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113649">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Reduktion der Grenzpunktzahl sind bei Kurven Kreisbogen statt Sehnenpolygone anzuwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour r&#xE9;duire le nombre de points limites dans les courbes, le g&#xE9;om&#xE8;tre doit utiliser des arcs de cercle au lieu de cordes polygonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50000">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xE4;udeadressen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Adresses des b&#xE2;timents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113650">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Erf&#xFC;llung der Bedingungen einer fl&#xE4;chendeckenden Einf&#xFC;hrung der Ebene Geb&#xE4;udeadressen sind die Erstellung der Strassenbezeichnung und der eindeutigen Geb&#xE4;udenummerierung notwendig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une couche d'information "adresses des b&#xE2;timents" est introduite pour l&#x2019;ensemble du territoire. Dans ce but, chaque b&#xE2;timent est syst&#xE9;matiquement individualis&#xE9; &#xE0; l&#x2019;aide d&#x2019;un nom de rue et d&#x2019;un num&#xE9;ro.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113857">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Fehlen die Strassennamen und die Geb&#xE4;udenummerierung, m&#xFC;ssen sie, gem&#xE4;ss den Weisungen der kantonalen Vermessungsaufsicht und im Einklang mit dem Bundesgesetz &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister, durch die Gemeinde erstellt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le nom des rues et la num&#xE9;rotation des b&#xE2;timents sont d&#xE9;finis par les communes selon les directives de l&#x2019;instance de surveillance et conform&#xE9;ment &#xE0; la loi f&#xE9;d&#xE9;rale sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113858">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bestehende, nicht den Weisungen der Vermessungsaufsicht entsprechende Geb&#xE4;udeadressen, m&#xFC;ssen nach Anordnung der Vermessungsaufsicht durch die Gemeinde ge&#xE4;ndert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les adresses des b&#xE2;timents d&#xE9;j&#xE0; existantes mais non conformes aux directives de l'instance de surveillance doivent &#xEA;tre modifi&#xE9;es par la commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50001">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113651">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton bevorschusst der Gemeinde die anrechenbaren Kosten von Vermarkung, Ersterhebung und Erneuerung durch die Gew&#xE4;hrung von zinslosen Darlehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton fait l'avance, en faveur des communes, des frais pris en compte pour l&#x2019;abornement, le premier relev&#xE9; et le renouvellement, en octroyant un pr&#xEA;t sans int&#xE9;r&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113652">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde hat das Darlehen im Zeitraum zwischen dem Beginn der Arbeiten und der Schlussabrechnung nach Massgabe des Arbeitsfortschritts zur&#xFC;ckzuerstatten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune doit rembourser le pr&#xEA;t sur une p&#xE9;riode comprise entre le d&#xE9;but des travaux et le d&#xE9;compte final, en fonction de l'avancement des travaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15028">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Laufende und periodische Nachf&#xFC;hrung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Mise &#xE0; jour permanente et p&#xE9;riodique</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50002">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ingenieur-Geometer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ing&#xE9;nieur g&#xE9;om&#xE8;tre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113653">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer eine Grundst&#xFC;ckgrenze &#xE4;ndern will, beauftragt einen im Geometerregister eingetragenen Ingenieur-Geometer mit der Durchf&#xFC;hrung der notwendigen Arbeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Celui qui entend modifier la limite d&#x2019;un immeuble mandate un ing&#xE9;nieur g&#xE9;om&#xE8;tre inscrit au registre des g&#xE9;om&#xE8;tres pour ex&#xE9;cuter les travaux n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50003">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nachf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113658">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">S&#xE4;mtliche Bestandteile der amtlichen Vermessung unterliegen der Nachf&#xFC;hrungspflicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les &#xE9;l&#xE9;ments de la mensuration officielle sont soumis &#xE0; la mise &#xE0; jour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113659">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jeder Ingenieur-Geometer, der Arbeiten in der laufenden Nachf&#xFC;hrung im Kanton Wallis ausf&#xFC;hrt, ist verpflichtet sich an die Nachf&#xFC;hrungsinfrastruktur des Kantons anzuschliessen. Die Vermessungsaufsicht schliesst mit dem Ingenieur-Geometer und seinem B&#xFC;ro einen Vertrag nach verbindlichem Muster ab. Der Vertrag lautet auf den Namen des Ingenieur-Geometers und dessen B&#xFC;ro. Sind im gleichen B&#xFC;ro mehrere Ingenieur-Geometer t&#xE4;tig, so haben f&#xFC;r die T&#xE4;tigkeit in der Nachf&#xFC;hrung der amtlichen Vermessung nur die eine Unterschriftsberechtigung, welche den Vertrag unterzeichnet und die entsprechende Anschlussgeb&#xFC;hr bezahlt haben. Der Vertrag regelt namentlich den Zugriff, die Zugriffskontrolle, den Verwendungszweck, den Schutz vor unbefugtem Zugang zu den Daten, die Einschr&#xE4;nkungen hinsichtlich der Weitergabe an Dritte sowie die Geb&#xFC;hren und weiteren Modalit&#xE4;ten f&#xFC;r den Anschluss an die Nachf&#xFC;hrungsinfrastruktur.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque ing&#xE9;nieur g&#xE9;om&#xE8;tre qui participe aux travaux de la mise &#xE0; jour permanente du territoire cantonal doit s&#x2019;affilier &#xE0; l'infrastructure de mise &#xE0; jour du canton. L&#x2019;instance de surveillance conclut un contrat avec l'ing&#xE9;nieur g&#xE9;om&#xE8;tre, et son bureau, selon un mod&#xE8;le obligatoire. Le contrat est au nom de l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre et de son bureau. Si plusieurs ing&#xE9;nieurs g&#xE9;om&#xE8;tres travaillent dans le m&#xEA;me bureau, seuls les ing&#xE9;nieurs g&#xE9;om&#xE8;tres qui ont sign&#xE9;s le contrat et pay&#xE9; les frais de connexion ont l&#x2019;autorit&#xE9; de signature pour les travaux de mise &#xE0; jour effectu&#xE9;s dans la mensuration officielle. Le contrat porte notamment sur l&#x2019;acc&#xE8;s aux donn&#xE9;es et le contr&#xF4;le y relatif, l&#x2019;utilisation des donn&#xE9;es consult&#xE9;es, la protection contre les acc&#xE8;s non autoris&#xE9;s aux donn&#xE9;es, les restrictions de transmission de ces donn&#xE9;es &#xE0; des tiers, les &#xE9;moluments et autres modalit&#xE9;s d&#x2019;int&#xE9;gration &#xE0; l&#x2019;infrastructure de mise &#xE0; jour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113660">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung enth&#xE4;lt im Anhang einen Richttarif f&#xFC;r die laufende Nachf&#xFC;hrung. F&#xFC;r jede Mutation erhebt der Kanton eine Geb&#xFC;hr vom Ingenieur-Geometer, die sich nach diesem Richttarif berechnet. F&#xFC;r die Berechnung der kantonalen Geb&#xFC;hr erstellt der Ingenieur-Geometer eine Abrechnung gem&#xE4;ss dem Richttarif. Diese Abrechnung muss mit der Mutation in der zentralen Informatikplattform abgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance contient en annexe un tarif indicatif pour la mise &#xE0; jour permanente. Pour chaque mutation, le canton per&#xE7;oit un &#xE9;molument calcul&#xE9; sur cette base aupr&#xE8;s de l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre. Pour le calcul de l&#x2019;&#xE9;molument cantonal, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre &#xE9;tablit un d&#xE9;compte selon le mod&#xE8;le du tarif indicatif. Ce d&#xE9;compte doit &#xEA;tre d&#xE9;pos&#xE9; avec la mutation sur la plateforme informatique centrale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50004">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Laufende Nachf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mise &#xE0; jour permanente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113666">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundeigent&#xFC;mer oder die hierzu im Zusammenhang mit der Erf&#xFC;llung einer gesetzlichen Aufgabe zust&#xE4;ndigen Personen und Beh&#xF6;rden beauftragen einen Ingenieur-Geometer mit &#xC4;nderungen, die den Inhalt der amtlichen Vermessung betreffen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les propri&#xE9;taires et les autorit&#xE9;s comp&#xE9;tentes, ou toute autre personne impliqu&#xE9;e dans la r&#xE9;alisation d&#x2018;une t&#xE2;che qui lui est d&#xE9;volue sur la base d&#x2019;une disposition l&#xE9;gale, charge un ing&#xE9;nieur g&#xE9;om&#xE8;tre d&#x2019;effectuer les modifications relatives aux donn&#xE9;es de la mensuration officielle, soit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67967">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationen von Grundst&#xFC;cken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mutation des immeubles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67968">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Rekonstruktionen von Grenzzeichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE9;tablissement des signes de d&#xE9;marcation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113667">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mindestens einmal pro Jahr muss die Gemeinde einen Ingenieur-Geometer mit der Nachf&#xFC;hrung der Bestandteile der amtlichen Vermessung beauftragen, die einer Bewilligungspflicht oder &#xF6;ffentlichen Auflagepflicht unterstellt sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune est tenue, au moins une fois par ann&#xE9;e, de mandater un ing&#xE9;nieur g&#xE9;om&#xE8;tre pour la mise &#xE0; jour des &#xE9;l&#xE9;ments de la mensuration officielle, qui sont soumis &#xE0; une proc&#xE9;dure d'autorisation ou de mise &#xE0; l'enqu&#xEA;te officielle, soit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67969">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationen von Geb&#xE4;uden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mutation de b&#xE2;timents;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67970">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationen von Einzelobjekten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mutation d&#x2019;objets divers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67971">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationen von Kulturgrenzen, wenn diese nicht bereits Gegenstand einer Expropriation sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les mutations de limites de natures, si elles ne font pas d&#xE9;j&#xE0; l&#x2019;objet d&#x2019;une expropriation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Post:Paragraph:113667">
+                        <partNumber quiet="true">2</partNumber>
+                        <typeOfPart>O</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stellt der beauftragte Ingenieur-Geometer fehlende Elemente fest, die nicht gemeldet, aber der Nachf&#xFC;hrungspflicht unterliegen, so meldet er dies der Gemeinde. Nach Zustimmung der Gemeinde erhebt er anschliessend diese Elemente.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; constate des &#xE9;l&#xE9;ments manquants qui n'ont pas &#xE9;t&#xE9; annonc&#xE9;s mais qui sont soumis &#xE0; la mise &#xE0; jour, il en informe par &#xE9;crit la commune. Apr&#xE8;s avoir obtenu l&#x2019;accord de celle-ci, il rel&#xE8;ve ces &#xE9;l&#xE9;ments.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113668">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die j&#xE4;hrliche Nachf&#xFC;hrung hat die Gemeinde die entsprechenden Kostenvorsch&#xFC;sse zu leisten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune avance les frais pour la mise &#xE0; jour annuelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113859">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen der Geb&#xE4;udenachf&#xFC;hrung sind fehlende Grenzzeichen der betroffenen Grundst&#xFC;cke den betroffenen Eigent&#xFC;mern zu melden und die Wiederherstellung geschieht von Amtes wegen. Handelt es sich um eine aufgeschobene Vermarkung, so hat diese durch den Ingenieur-Geometer zu erfolgen, der die Mutation ausgef&#xFC;hrt hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de la mise &#xE0; jour des b&#xE2;timents, les signes de d&#xE9;marcation manquants sont r&#xE9;tablis d&#x2019;office apr&#xE8;s information pr&#xE9;alable au propri&#xE9;taire. S&#x2019;il s&#x2019;agit d&#x2019;une mutation avec mat&#xE9;rialisation diff&#xE9;r&#xE9;e, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre en charge de la mutation est &#xE9;galement responsable de la mat&#xE9;rialisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113860">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde beauftragt einen Ingenieur-Geometer mit der Nachf&#xFC;hrung der amtlichen Vermessung bei:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;autorit&#xE9; comp&#xE9;tente mandate un ing&#xE9;nieur g&#xE9;om&#xE8;tre pour la mise &#xE0; jour de la mensuration officielle concernant:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67972">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Waldfeststellungen, Rodungen und Aufforstungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la constatation de la nature foresti&#xE8;re, d&#xE9;frichement et reboisement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67973">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Schutzgebiete (Hoch- und Flachmoore);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les zones de protection (hauts- et bas-marais);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67974">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Perimeter mit permanenter Bodenverschiebung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les p&#xE9;rim&#xE8;tres des territoires en mouvements permanents;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67975">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Neuerrichtung und Instandstellung von Fixpunkten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la reconstruction et remise en &#xE9;tat des points fixes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67976">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xC4;nderung von Hoheitsgrenzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la modification des limites territoriales.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113861">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Werkeigent&#xFC;mer beauftragt einen Ingenieur-Geometer mit der Nachf&#xFC;hrung der amtlichen Vermessung bei der Erstellung und dem Abbruch von Rohrleitungen, die dem Rohrleitungsgesetz&#xA0;unterstehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le propri&#xE9;taire d&#x2019;ouvrage mandate un ing&#xE9;nieur g&#xE9;om&#xE8;tre d&#x2019;effectuer la mise &#xE0; jour de la mensuration officielle lors de la construction et de la d&#xE9;molition de conduites soumise &#xE0; la loi f&#xE9;d&#xE9;rale sur les installations de transport par conduites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50005">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nachf&#xFC;hrung w&#xE4;hrend laufenden Arbeiten in der amtlichen Vermessung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mise &#xE0; jour lors de travaux en cours dans la mensuration officielle</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113669">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend der Ausf&#xFC;hrung einer Ersterhebung, einer ordentlichen oder technischen Erneuerung oder einer provisorischen Numerisierung muss der mit diesen Arbeiten beauftragte Ingenieur-Geometer mit der laufenden Nachf&#xFC;hrung beauftragt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu&#x2019;un premier relev&#xE9;, un renouvellement ordinaire ou technique, ou encore une num&#xE9;risation pr&#xE9;alable est en cours, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre charg&#xE9; de ces travaux doit &#xEA;tre mandat&#xE9; pour l&#x2019;ex&#xE9;cution de la mise &#xE0; jour permanente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113670">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend der Ausf&#xFC;hrung einer periodischen Nachf&#xFC;hrung oder bei besonderen Anpassungen von aussergew&#xF6;hnlich hohem nationalen Interesse bleibt die freie Wahl eines Ingenieur-Geometers gew&#xE4;hrt. Der mit der laufenden Nachf&#xFC;hrung beauftragte Ingenieur-Geometer hat die Nachf&#xFC;hrungsarbeiten mit dem Ingenieur-Geometer abzusprechen, welcher mit den Arbeiten der periodischen Nachf&#xFC;hrung beauftragt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pendant l'ex&#xE9;cution d'une mise &#xE0; jour p&#xE9;riodique ou lors d'adaptations particuli&#xE8;res qui pr&#xE9;sentent un int&#xE9;r&#xEA;t national exceptionnellement &#xE9;lev&#xE9;, le libre choix de l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre est garanti. L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre en charge de la mise &#xE0; jour permanente doit alors coordonner les travaux avec l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre en charg&#xE9; de la mise &#xE0; jour p&#xE9;riodique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50006">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fixpunkte und Hoheitsgrenzpunkte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Points fixes et limites territoriales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113672">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ingenieur-Geometer hat fehlende Fix- und Hoheitsgrenzpunkte umgehend der Vermessungsaufsicht zu melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ing&#xE9;nieur g&#xE9;om&#xE8;tre doit signaler sans tarder les points fixes et les points limites territoriaux manquants &#xE0; l'instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113673">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sind bei Arbeiten der laufenden Nachf&#xFC;hrung neue Lagefixpunkte der Kategorie 3 (LFP 3) zu setzen, ist dies vorg&#xE4;ngig zwischen Ingenieur-Geometer und Vermessungsaufsicht abzusprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si des nouveaux points fixes planim&#xE9;triques de cat&#xE9;gorie 3 (PFP 3 selon OTEMO)doivent &#xEA;tre pos&#xE9;s durant les travaux de mise &#xE0; jour permanente, un accord pr&#xE9;alable doit &#xEA;tre trouv&#xE9; entre l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre et l'instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113674">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht koordiniert die Rekonstruktion von fehlenden Hoheitsgrenzpunkten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'instance de surveillance coordonnela reconstruction des limites territoriales manquantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50007">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Projektierte Objekte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objets projet&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113675">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Mitteilung durch die Gemeinde sind die projektierten Objekte sofort nach der rechtskr&#xE4;ftig erteilten Baubewilligung durch den mit der Unterzeichnung des dem Baugesuch beigelegtem Situationsplans beauftragten Ingenieur-Geometers nachzuf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les objets projet&#xE9;s, la commune avise l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre qui a &#xE9;tabli le plan de situation officiel contenu dans le permis de construire en vigueur. L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre met &#xE0; jour sans tarder les donn&#xE9;es relatives aux objets projet&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113676">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht kann der Gemeinde betreffend projektierte Objekte Weisungen erteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'instance de surveillance peut donner des instructions &#xE0; la commune concernant les donn&#xE9;es n&#xE9;cessaires pour les objets projet&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50008">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Expropriationen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Expropriations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113682">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Umfasst eine Expropriation mehrere Grundst&#xFC;cke, spricht der ausf&#xFC;hrende Ingenieur-Geometer das Vorgehen mit der Vermessungsaufsicht ab.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cas o&#xF9; une expropriation concerne plusieurs immeubles, l'ing&#xE9;nieur g&#xE9;om&#xE8;tre convient de la marche &#xE0; suivre avec l'instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50009">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;berragende Bauten und Anlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Empi&#xE9;tement de constructions et d&#x2019;installations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113684">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird bei einer Mutation festgestellt, dass eine Baute oder Anlage auf ein benachbartes Grundst&#xFC;ck &#xFC;berragt, so teilt der ausf&#xFC;hrende Ingenieur-Geometer dies schriftlich den betroffenen Grundeigent&#xFC;mern mit und macht auf die Bestimmungen von Artikel 674 und 675 ZGB aufmerksam. Er teilt dies auch dem Grundbuchamt mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si lors d'une mutation, il est constat&#xE9; qu&#x2019;une construction ou une installation empi&#xE8;te sur l&#x2019;immeuble voisin, l'ing&#xE9;nieur g&#xE9;om&#xE8;tre ex&#xE9;cutant doit aviser le propri&#xE9;taire concern&#xE9; par &#xE9;crit et le rendre attentif aux articles 674 et 675 du code civil (CC). Il en avise &#xE9;galement le registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15051">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Anforderungen und Modalit&#xE4;ten bei Mutationen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Exigences et modalit&#xE9;s relatives aux mutations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50010">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113690">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r eine Grenz&#xE4;nderung muss ein Mutationsprotokoll durch einen Ingenieur-Geometer erstellt werden. Mit Ablieferung der Mutationsunterlagen an den Auftraggeber wird gleichzeitig das technische Dossier der Mutation an die Vermessungsaufsicht geliefert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un proc&#xE8;s-verbal de mutation doit &#xEA;tre &#xE9;tabli par un ing&#xE9;nieur g&#xE9;om&#xE8;tre pour toute modification de limites. Parall&#xE8;lement &#xE0; la remise du dossier de mutation au mandant, le dossier technique relatif &#xE0; la mutation doit &#xEA;tre d&#xE9;pos&#xE9; aupr&#xE8;s de l&#x2019;instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113691">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit Ausnahme der im Bundesrecht vorgesehenen F&#xE4;lle wird das Mutationsprotokoll erst erstellt, nachdem die Grenzzeichen angebracht wurden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A l'exception des cas pr&#xE9;vus par le droit f&#xE9;d&#xE9;ral, le proc&#xE8;s-verbal de mutation doit &#xEA;tre &#xE9;tabli apr&#xE8;s la pose des signes de d&#xE9;marcation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50011">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mutationsunterlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Documents de mutation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113692">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Mutationsprotokoll enth&#xE4;lt folgendes:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le proc&#xE8;s-verbal de mutation contient les &#xE9;l&#xE9;ments suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67977">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Deckblatt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la page de titre;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67978">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationsplan inkl. Abschnittsfl&#xE4;chen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le plan de mutation avec les surfaces partielles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67979">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mutationstabelle;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le tableau de mutation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67980">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Liegenschaftsbeschrieb "alter Zustand";</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la description des biens-fonds selon l'ancien &#xE9;tat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67981">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Liegenschaftsbeschrieb "neuer Zustand".</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la description des biens-fonds selon le nouvel &#xE9;tat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113693">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das technische Dossier f&#xFC;r den Kanton enth&#xE4;lt neben dem Mutationsprotokoll, auch die Feldaufnahmen mit den dazugeh&#xF6;rigen Berechnungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le dossier technique &#xE0; l'intention du canton comportera, en sus du proc&#xE8;s-verbal de mutation, les lev&#xE9;s de terrain ainsi que les calculs y relatifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50012">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">B&#xFC;romutation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mutation de bureau</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113695">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Mutationsprotokoll kann ohne vorg&#xE4;ngige Vermarkung und Einmessung nur erstellt werden, wenn:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un proc&#xE8;s-verbal de mutation sans abornement ni mensuration pr&#xE9;alable ne peut &#xEA;tre &#xE9;tabli que si:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67982">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die &#xD6;rtlichkeiten nicht zug&#xE4;nglich sind um diese Arbeiten vorzunehmen und es nicht m&#xF6;glich ist die Hindernisse zu entfernen ohne grossen Schaden zu verursachen, oder</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les lieux ne sont pas accessibles pour effectuer ces op&#xE9;rations et s'il n'est pas possible d'&#xE9;liminer les obstacles sans causer des d&#xE9;g&#xE2;ts importants, ou</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67983">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">umfangreiche Parzellierungen im Zusammenhang mit einem Detailbebauungsplan vorgenommen werden dessen Verwirklichung unmittelbar bevorsteht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des morcellements importants sont effectu&#xE9;s en relation avec un plan d'am&#xE9;nagement de d&#xE9;tail dont la r&#xE9;alisation est imminente.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113696">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der ausf&#xFC;hrende Ingenieur-Geometer vermerkt auf dem Mutationsprotokoll, dass die Vermarkung und die Vermessung sp&#xE4;ter vorgenommen werden und die Eigent&#xFC;mer davon in Kenntnis gesetzt wurden und sich verpflichteten, sp&#xE4;tere Erwerber dar&#xFC;ber in Kenntnis zu setzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; indique sur le proc&#xE8;s-verbal de mutation que l'abornement et le lev&#xE9; interviendront ult&#xE9;rieurement, que les propri&#xE9;taires ont eu connaissance de cette situation et qu'ils ont l&#x2019;obligation d&#x2019;en informer tout futur acqu&#xE9;reur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113862">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sobald die Umst&#xE4;nde es erlauben, bringt der ausf&#xFC;hrende Ingenieur-Geometer die Grenzzeichen von Amtes wegen an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s que les circonstances le permettent, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre proc&#xE8;de d'office &#xE0; la pose des signes de d&#xE9;marcation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50013">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Projektmutation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mutation de projet</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113697">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Mutationsprotokoll kann anhand eines Bauprojektes erstellt werden, wenn die genaue Lage einer Grenze mit den Grenzen des geplanten Baus &#xFC;bereinstimmen muss.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un proc&#xE8;s-verbal de mutation peut &#xEA;tre &#xE9;tabli sur la base d'un projet de construction lorsque l'emplacement exact d'une limite doit correspondre aux limites d'une construction projet&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113698">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der ausf&#xFC;hrende Ingenieur-Geometer vermerkt dies auf dem Mutationsprotokoll und beim zust&#xE4;ndigen Grundbuchamt wird mit Vorlage des Aktes eine diesbez&#xFC;gliche Anmerkung gemacht. Die Bauabsteckung wird unter der Kontrolle des ausf&#xFC;hrenden Ingenieur-Geometers vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; indique ce fait sur le proc&#xE8;s-verbal de mutation. Le registre foncier comp&#xE9;tent proc&#xE8;de &#xE0; l&#x2019;inscription d&#x2019;une mention y relative. L'implantation de la construction est effectu&#xE9;e sous le contr&#xF4;le de cet ing&#xE9;nieur g&#xE9;om&#xE8;tre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113699">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Weicht die im Mutationsprotokoll festgelegte Grenze von der Grenze im Bauvorhaben ab, l&#xE4;dt der ausf&#xFC;hrende Ingenieur-Geometer die betroffenen Eigent&#xFC;mer zwecks Anpassung der Grenze vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la limite fix&#xE9;e sur le proc&#xE8;s-verbal de mutation diff&#xE8;re de la limite du projet de construction, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; convoque les propri&#xE9;taires concern&#xE9;s dans le but d&#x2019;adapter la limite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113700">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kommt eine Einigung zustande, so erstellt der ausf&#xFC;hrende Ingenieur-Geometer ein Mutationsprotokoll. Andernfalls sind die Parteien auf den Zivilweg zu verweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas d&#x2019;accord, l&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; dresse un proc&#xE8;s-verbal de mutation; si aucun accord n&#x2019;est trouv&#xE9;, les parties pourront saisir l&#x2019;autorit&#xE9; comp&#xE9;tente en vertu du droit priv&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113701">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach der Vermarkung teilt der zust&#xE4;ndige Ingenieur-Geometer dem Grundbuchamt mit:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s l&#x2019;abornement, l'ing&#xE9;nieur g&#xE9;om&#xE8;tre informe le registre foncier que :</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67984">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dass die Anmerkung gel&#xF6;scht werden kann;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mention peut &#xEA;tre radi&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67985">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dass eine Korrekturmutation erfolgen wird und die Anmerkung erst nach deren Vollzug zu l&#xF6;schen ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une mutation de correction doit &#xEA;tre effectu&#xE9;e, la mention pouvant &#xEA;tre radi&#xE9;e seulement apr&#xE8;s ex&#xE9;cution de cette mutation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15052">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Koordination der Verfahren bei landwirtschaftlichen Bodenverbesserungen und Baulandumlegungen mit der amtlichen Vermessung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Coordination des proc&#xE9;dures avec la mensuration officielle lors d'am&#xE9;liorations fonci&#xE8;res agricoles et de remembrements urbains</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50014">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kombiniertes Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">M&#xE9;thode combin&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113702">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei landwirtschaftlichen Bodenverbesserungen, in denen das Eigentum ver&#xE4;ndert wird, sowie in Baulandumlegungen ist das kombinierte Verfahren mit der amtlichen Vermessung anzuwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre d&#x2019;am&#xE9;liorations fonci&#xE8;res agricoles impliquant une modification de limites et de remembrements urbains, la mensuration officielle s&#x2019;effectue selon la m&#xE9;thode combin&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113703">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als kombiniertes Verfahren gilt, wenn die Arbeiten der Landumlegung oder der G&#xFC;terzusammenlegung mit der amtlichen Vermessung in einem Werkvertrag geregelt sind und vom gleichen Ingenieur-Geometer ausgef&#xFC;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette m&#xE9;thode combin&#xE9;e implique que les travaux de remembrement ou de remaniement parcellaire et les travaux de mensuration officielle sont r&#xE9;gl&#xE9;s dans un m&#xEA;me contrat et qu'ils sont ex&#xE9;cut&#xE9;s par le m&#xEA;me ing&#xE9;nieur g&#xE9;om&#xE8;tre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113704">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim kombinierten Verfahren sind die betroffenen Dienststellen entsprechend ihren Aufgaben verantwortlich f&#xFC;r die Durchf&#xFC;hrung und die Kontrolle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les services concern&#xE9;s par la m&#xE9;thode combin&#xE9;e sont responsables de l'ex&#xE9;cution et du contr&#xF4;le de leurs t&#xE2;ches respectives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113705">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach dem Beginn der oben genannten Arbeiten darf im betroffenen Perimeter nur mehr der beauftragte Ingenieur-Geometer Arbeiten ausf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s le d&#xE9;but des travaux mentionn&#xE9;s ci-dessus, seul l'ing&#xE9;nieur g&#xE9;om&#xE8;tre mandat&#xE9; est habilit&#xE9; &#xE0; ex&#xE9;cuter des travaux dans les p&#xE9;rim&#xE8;tres concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113863">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht bestimmt den Perimeter und den Umfang der Dokumenten- und Daten&#xFC;bergabe an sie.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;instance de surveillance fixe le p&#xE9;rim&#xE8;tre et d&#xE9;signe les documents ainsi que les donn&#xE9;es &#xE0; lui transmettre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113864">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xDC;bergabe der Akten und Daten an die kantonale Vermessungsaufsicht erfolgt nach dem Eintrag im Grundbuch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La transmission des documents et des donn&#xE9;es &#xE0; l&#x2019;instance de surveillance suit l&#x2019;inscription au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50015">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Alt-Bestand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ancien &#xE9;tat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113706">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Alt-Bestand m&#xFC;ssen bei einer bestehenden amtlichen Vermessung die Daten aus dieser &#xFC;bernommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ancien &#xE9;tat est &#xE9;tabli sur la base des donn&#xE9;es de la mensuration officielle existante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113865">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls die amtliche Vermessung nicht besteht, so sind die Daten entsprechend den Weisungen der Vermessungsaufsicht zu bestimmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la mensuration officielle fait d&#xE9;faut, les donn&#xE9;es doivent &#xEA;tre d&#xE9;termin&#xE9;es selon les directives de l&#x2019;instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50016">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Neu-Bestand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nouvel &#xE9;tat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113707">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim &#xDC;bertrag des Neu-Bestandes auf das Feld muss bereits die Absteckung der Punkte mit einer Aufnahme kontrolliert werden. Diese Aufnahme ist entsprechend zu dokumentieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le report du nouvel &#xE9;tat sur le terrain, l'implantation des points est directement contr&#xF4;l&#xE9;e au moyen d&#x2019;un lev&#xE9;, qui doit &#xEA;tre document&#xE9; en cons&#xE9;quence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113708">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dieser Absteckung wird klar, welche Punkte am vorgesehenen Standort angebracht werden k&#xF6;nnen und welche verschoben werden m&#xFC;ssen. Anschliessend werden die Grenzzeichen angebracht. Diese sind durch eine entsprechende Vermessung zu kontrollieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette implantation doit permettre de voir quels points peuvent &#xEA;tre directement mat&#xE9;rialis&#xE9;s &#xE0; l'endroit pr&#xE9;vu et quels points doivent &#xEA;tre d&#xE9;plac&#xE9;s. Les signes de d&#xE9;marcation sont ensuite pos&#xE9;s. Ceux-ci doivent &#xEA;tre contr&#xF4;l&#xE9;s gr&#xE2;ce &#xE0; une mensuration appropri&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113709">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim Anbringen der Grenzzeichen gelten die Anforderungen der jeweiligen Toleranzstufe, die eingehalten werden m&#xFC;ssen, damit die theoretisch berechneten Koordinatenwerte &#xFC;bernommen werden d&#xFC;rfen. In einem solchen Fall gilt die Kontrolle der Grenzzeichen gleichzeitig als zweite Aufnahme. Falls ein Punkt nicht am vorgesehenen Standort angebracht werden konnte, muss er kontrolliert aufgenommen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin que les coordonn&#xE9;es th&#xE9;oriques calcul&#xE9;es puissent &#xEA;tre reprises, les exigences relatives au niveau de tol&#xE9;rance en vigueur doivent &#xEA;tre respect&#xE9;es lors de la pose des signes de d&#xE9;marcation. Le contr&#xF4;le effectu&#xE9; dans ce contexte a valeur de deuxi&#xE8;me lev&#xE9;. Si un point ne peut pas &#xEA;tre implant&#xE9; &#xE0; l'endroit voulu, il doit faire l'objet d'un lev&#xE9; contr&#xF4;l&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50017">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Eintrag ins Grundbuch</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inscription au registre foncier</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113711">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die amtliche Vermessung muss vor dem Eintrag des Neu-Bestandes ins Grundbuch abgeschlossen sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La mensuration officielle doit &#xEA;tre achev&#xE9;e avant l'inscription du nouvel &#xE9;tat au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113712">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Eintrag ins Grundbuch m&#xFC;ssen folgende Unterlagen vorhanden sein:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;inscription au registre foncier sera accompagn&#xE9;e des pi&#xE8;ces suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67898">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Katasterauszug (f&#xFC;r Katastergemeinden) mit Angabe der Herkunft (durch den Registerhalter) und das Lastenverzeichnis (durch das Grundbuchamt);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">extraits de cadastre (pour les communes-cadastre) avec indication de la provenance (par le teneur de cadastre) et &#xE9;tat des charges (par le registre foncier);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67899">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Situationsplan mit Alt-Bestand und rechtsg&#xFC;ltigem Perimeter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan de situation de l&#x2019;ancien &#xE9;tat avec le p&#xE9;rim&#xE8;tre approuv&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67900">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Situationsplan mit Alt-Bestand, Dienstbarkeiten und rechtsg&#xFC;ltigem Perimeter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan de situation de l'ancien &#xE9;tat comprenant les servitudes inscrites au registre foncier avant le remaniement du p&#xE9;rim&#xE8;tre approuv&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67901">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Situationsplan mit Neu-Bestand und rechtsg&#xFC;ltigem Perimeter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan de situation du nouvel &#xE9;tat du p&#xE9;rim&#xE8;tre approuv&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67902">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Situationsplan mit Neu-Bestand, mit unver&#xE4;nderten, ver&#xE4;nderten und/oder neuen Dienstbarkeiten und rechtsg&#xFC;ltigem Perimeter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan de situation du nouvel &#xE9;tat avec l&#x2019;assiette des servitudes maintenues, modifi&#xE9;es et/ou constitu&#xE9;es du p&#xE9;rim&#xE8;tre approuv&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67903">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Dienstbarkeiten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les servitudes avec:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67986">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Beschrieb der Dienstbarkeiten, Angabe der belasteten und beg&#xFC;nstigten Grundst&#xFC;cke,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l&#x2019;indication de leur nature ainsi que des fonds servants et dominants,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67987">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Angabe der zu l&#xF6;schenden oder zu &#xE4;ndernden Dienstbarkeiten;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l&#x2019;indication si elles sont &#xE0; radier ou &#xE0; modifier;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67988">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gegen&#xFC;berstellung der Parzellen Alt-Bestand - Neu-Bestand mit Angabe von Plannummer, Parzellennummer, Parzellenfl&#xE4;che und Eigent&#xFC;mernummer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la comparaison ancien &#xE9;tat - nouvel &#xE9;tat avec l&#x2019;indication du num&#xE9;ro de plan, du num&#xE9;ro de l&#x2019;immeuble, de la surface et du num&#xE9;ro de propri&#xE9;taire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67989">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Liegenschaftsbeschrieb Alt-Bestand;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la description des immeubles selon l'ancien &#xE9;tat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67990">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Liegenschaftsbeschrieb Neu-Bestand, mit Angabe der Eigent&#xFC;mer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la description des immeubles selon le nouvel &#xE9;tat, avec l&#x2019;indication des propri&#xE9;taires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67991">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">G&#xFC;terzettel pro Eigent&#xFC;mer.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le bulletin de propri&#xE9;t&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15053">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Zusammenarbeit zwischen der amtlichen Vermessung, dem Grundbuch und den Steuerbeh&#xF6;rden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Collaboration entre la mensuration officielle, le registre foncier et les autorit&#xE9;s fiscales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50018">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaboration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113713">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ingenieur-Geometer, das zust&#xE4;ndige Grundbuchamt und die Steuerbeh&#xF6;rden unterst&#xFC;tzen sich bei Arbeiten, welche im Zusammenhang mit der amtlichen Vermessung stehen, gegenseitig. Sie erteilen einander die zur Erf&#xFC;llung ihrer Aufgaben erforderlichen Ausk&#xFC;nfte unentgeltlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ing&#xE9;nieur g&#xE9;om&#xE8;tre, le registre foncier concern&#xE9; et les autorit&#xE9;s fiscales collaborent pour les travaux de la mensuration officielle. Ils s'&#xE9;changent gratuitement les informations n&#xE9;cessaires &#xE0; l&#x2019;accomplissement de leurs t&#xE2;ches respectives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113714">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vermessungsaufsicht sorgt, gegebenenfalls unter Beizug der Steuerbeh&#xF6;rden, daf&#xFC;r, dass die Informationsebene "Liegenschaften" mit dem Grundbuch &#xFC;bereinstimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;instance de surveillance veille, avec l'aide des autorit&#xE9;s fiscales, &#xE0; ce que la couche d'information "biens-fonds" corresponde avec celle du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113866">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im &#xDC;brigen richtet sich die Zusammenarbeit zwischen den Ingenieur-Geometern und den Grundbuch&#xE4;mtern nach den Weisungen der zust&#xE4;ndigen kantonalen Stelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le reste, les relations entre les ing&#xE9;nieurs g&#xE9;om&#xE8;tres et le registre foncier s'&#xE9;tabliront conform&#xE9;ment aux directives de l&#x2019;autorit&#xE9; cantonale comp&#xE9;tente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113867">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;ber Streitigkeiten zwischen den Ingenieur-Geometern und den Grundbuch&#xE4;mtern und der Vermessungsaufsicht entscheidet der Staatsrat endg&#xFC;ltig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les diff&#xE9;rends entre les ing&#xE9;nieurs g&#xE9;om&#xE8;tres, le registre foncier et l&#x2019;instance de surveillance sont r&#xE9;gl&#xE9;s par le Conseil d'Etat hors proc&#xE9;dure de recours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113868">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Eintrag einer Mutation muss die Urkundsperson (Notar oder Registerhalter) die notwendigen Informationen betreffend der Schatzungen bei der zust&#xE4;ndigen Steuerbeh&#xF6;rde einfordern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'inscription d'une mutation, le requ&#xE9;rant (notaire, teneur de registre ou particulier) doit demander les indications n&#xE9;cessaires concernant les taxes aupr&#xE8;s des autorit&#xE9;s fiscales comp&#xE9;tentes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15054">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Verfahren f&#xFC;r die Festlegung der Perimeter der Gebiete mit dauernden Bodenverschiebungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Proc&#xE9;dure pour la constatation du p&#xE9;rim&#xE8;tre des territoires en mouvement permanent</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50019">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz der Gebietsausscheidung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe de d&#xE9;limitation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113715">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dauernde Bodenverschiebungen sind permanente grossfl&#xE4;chige (mehrere Grundst&#xFC;cke und mehrere Hektaren umfassende), hangabw&#xE4;rts gerichtete gleitende Bewegungen. Sie verlaufen langsam und &#xFC;ber gr&#xF6;ssere Zeitr&#xE4;ume.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les territoires en mouvement permanent vis&#xE9;s par la pr&#xE9;sente ordonnance sont caract&#xE9;ris&#xE9;s par des mouvements de glissement permanent &#xE0; grande &#xE9;chelle (plusieurs immeubles et plusieurs hectares concern&#xE9;s). Ils se produisent lentement et sur de grandes p&#xE9;riodes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113869">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als massgebliche Kriterien bei der Bezeichnung von Gebieten mit dauernden Bodenverschiebungen sind die Bodenbedeckung, die Bodennutzung aber auch der Wert der betroffenen Grundst&#xFC;cke zu ber&#xFC;cksichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les crit&#xE8;res pr&#xE9;pond&#xE9;rants pour la d&#xE9;signation de ces territoires sont la couverture du sol, l'utilisation du sol, mais aussi la valeur des immeubles concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113870">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern wirtschaftlich unbedeutendes Gebiet von dauernden Bodenverschiebungen betroffen ist, kann bei Ber&#xFC;cksichtigung dieser Kriterien auf die Bezeichnung als Gebiet mit dauernden Bodenverschiebungen und auf das Anlegen eines Perimeterplanes verzichtet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la mesure o&#xF9; des territoires improductifs sont touch&#xE9;s par des glissements de terrain permanents, il peut &#xEA;tre renonc&#xE9;, compte tenu de ces crit&#xE8;res, &#xE0; leur d&#xE9;signation et &#xE0; l'&#xE9;tablissement d'un p&#xE9;rim&#xE8;tre correspondant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113871">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Toleranzstufe 5 kann aus Kostengr&#xFC;nden auf eine Ausscheidung von Gebieten mit dauernden Bodenverschiebungen verzichtet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En ce qui concerne le niveau de tol&#xE9;rance 5, il est possible de renoncer pour des raisons de co&#xFB;t &#xE0; une d&#xE9;limitation de ces territoires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50020">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kriterien f&#xFC;r die Gebietsausscheidung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Crit&#xE8;res de d&#xE9;limitation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113716">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Folgende Kriterien m&#xFC;ssen f&#xFC;r die Ausscheidung von Gebieten mit dauernden Bodenverschiebungen erf&#xFC;llt sein:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une d&#xE9;limitation de territoires en mouvement permanent est &#xE9;tablie si les crit&#xE8;res suivants sont remplis :</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67992">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bodenverschiebungen &#xFC;berschreiten folgende Richtwerte: Toleranz der Ebene Liegenschaften f&#xFC;r exakt definierte Punkte, gem&#xE4;ss Artikel 31 TVAV</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les glissements d&#xE9;passent les valeurs indicatives suivantes: tol&#xE9;rances de la couche d'information des biens-fonds pour des points exactement d&#xE9;finis, conform&#xE9;ment &#xE0; l'article 31 de l&#x2019;ordonnance technique du DDPS sur la mensuration officielle (OTEMO) :</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67993">
+                            <partNumber>NT2</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Toleranz =3*3.5 cm =10.5 cm / 10 Jahre = ca. 1 cm / Jahr</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">Tol&#xE9;rance =3*3.5 cm =10.5 cm / 10 ans = env. 1cm / an</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67994">
+                            <partNumber>NT3</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Toleranz =3*7 cm =21.0 cm / 10 Jahre = ca. 2 cm / Jahr</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">Tol&#xE9;rance =3*7 cm =21.0 cm / 10 ans = env. 2 cm / an</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67995">
+                            <partNumber>NT4</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Toleranz =3*15 cm =45.0 cm / 10 Jahre = ca. 5 cm / Jahr</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">Tol&#xE9;rance =3*15 cm =45.0 cm / 10 ans = env. 5 cm / an</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:67996">
+                            <partNumber>NT5</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">In der Regel keine Ausscheidung</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale pas de d&#xE9;limitation</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67997">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zeitspanne zwischen 0-Messung und Zweitvermessung soll in der Regel 20 Jahre betragen. Wiederholungsmessungen sollen bei Bedarf nach 10 Jahren durchgef&#xFC;hrt werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en g&#xE9;n&#xE9;ral, un laps de temps de vingt ans doit s'&#xE9;couler entre la mesure 0 et la deuxi&#xE8;me mensuration. Des mesures de r&#xE9;p&#xE9;tition des points de contr&#xF4;le peuvent au besoin &#xEA;tre ex&#xE9;cut&#xE9;es apr&#xE8;s dix ans;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67998">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bodenverschiebung ist noch wirksam und nicht vollst&#xE4;ndig zum Stillstand gekommen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le glissement est encore actif et ne s'est pas enti&#xE8;rement immobilis&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:67999">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bodenverschiebungsvektoren verlaufen etwa in der Falllinie (Plausibilit&#xE4;t);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les vecteurs de glissement sont plus ou moins parall&#xE8;les &#xE0; la ligne de plus grande pente (plausibilit&#xE9;);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68000">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">falls die H&#xF6;he der Fix- und Kontrollpunkte bestimmt worden ist, muss diese bei der Beurteilung der Plausibilit&#xE4;t der Bodenverschiebungen mit verwendet werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si l'altitude des points fixes et des points de contr&#xF4;le a &#xE9;t&#xE9; d&#xE9;termin&#xE9;e, celle-ci doit aussi &#xEA;tre utilis&#xE9;e dans l'appr&#xE9;ciation de la plausibilit&#xE9; des glissements;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68001">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sind nur Teile einer Parzelle betroffen, muss in der Regel die ganze Parzelle dem Perimeter "Gebiet mit dauernder Bodenverschiebung" zugeordnet werden. Die Anmerkung im Grundbuch erfolgt ebenfalls f&#xFC;r ganze Parzellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si seules certaines parties d'un immeuble sont concern&#xE9;es, il faut en g&#xE9;n&#xE9;ral englober tout l&#x2019;immeuble dans la "zone de glissement". L'inscription d'une mention au registre foncier s'op&#xE8;re &#xE9;galement pour l&#x2019;entier de l&#x2019;immeuble;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68002">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gebiet, welches durch die Bodenverschiebung verkleinert wird, ist in den Perimeter einzubeziehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la zone d'&#xE9;crasement doit &#xEA;tre int&#xE9;gr&#xE9;e dans le p&#xE9;rim&#xE8;tre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50021">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht und Auflage</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annoncer et d&#xE9;p&#xF4;t public</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113717">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einwohnergemeinden, Grundeigent&#xFC;mer und Ingenieur-Geometer sind verpflichtet, bekannte Gebiete mit dauernder Bodenverschiebung im Sinne von Artikel 660a ZGB, vor Inangriffnahme der Vermessungsarbeiten der kantonalen Vermessungsaufsicht zu melden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes, les propri&#xE9;taires et les ing&#xE9;nieurs g&#xE9;om&#xE8;tres ont l'obligation d'annoncer &#xE0; l&#x2019;instance de surveillance les territoires en mouvement permanent au sens de l'article 660a CC dont ils ont connaissance, avant d'entreprendre des travaux de mensuration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113872">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist der Perimeter festgestellt, wird er w&#xE4;hrend 30 Tagen &#xF6;ffentlich aufgelegt; die betroffenen Grundeigent&#xFC;mer werden durch &#xF6;ffentliche Bekanntmachung und zudem schriftlich in Kenntnis gesetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une fois le p&#xE9;rim&#xE8;tre fix&#xE9;, celui-ci est mis en d&#xE9;p&#xF4;t public pendant une dur&#xE9;e de trente jours; les propri&#xE9;taires fonciers concern&#xE9;s en sont inform&#xE9;s par publication officielle et par courrier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113873">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend der Auflagefrist k&#xF6;nnen sie beim Staatsrat Einsprache erheben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pendant la dur&#xE9;e du d&#xE9;p&#xF4;t public, ils peuvent former une r&#xE9;clamation &#xE9;crite aupr&#xE8;s du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50074">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Angaben zum Perimeter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Indications du p&#xE9;rim&#xE8;tre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113874">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Perimeterplan "Gebiet mit dauernder Bodenverschiebung" enth&#xE4;lt folgende Informationen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le plan du p&#xE9;rim&#xE8;tre "territoire en mouvement permanent" contient les informations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68003">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Parzellengrenzen und Parzellennummern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la limite et le num&#xE9;ro des immeubles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68004">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bodenbedeckung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la couverture du sol;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68005">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Parzellenscharfe Abgrenzung des Gebiets mit dauernder Bodenverschiebung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la d&#xE9;limitation de l&#x2019;immeuble pr&#xE8;s de la zone de glissement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68006">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nordrichtung, Massstab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l&#x2019;indication du nord et de l'&#xE9;chelle;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68007">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Titel mit Name der Einwohnergemeinde und des Gebiets mit dauernder Bodenverschiebung, Datum, Unterschrift des Ingenieur-Geometers;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le titre avec le nom de la commune et de la zone de glissement, la date, la signature du g&#xE9;om&#xE8;tre;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68008">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nomenklatur;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la nomenclature;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68009">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eventuell H&#xF6;henkurven;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;ventuellement, les courbes de niveau;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68010">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zonenzuteilung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;ventuellement, la r&#xE9;partition des zones.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113875">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Folgende Dokumente sind dem Perimeterplan beizulegen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les documents suivants accompagnent le plan du p&#xE9;rim&#xE8;tre:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68011">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Liste der Parzellenfl&#xE4;chen alt-neu, falls vorhanden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la liste des surfaces des anciens et nouveaux immeubles, si elle existe;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68012">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eigent&#xFC;merverzeichnis (Liste mit Zuordnung Parzelle - Eigent&#xFC;mer);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la liste des propri&#xE9;taires (liste faisant appara&#xEE;tre les immeubles avec leurs propri&#xE9;taires respectifs);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68013">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Technischer Bericht (Anlass der Ausscheidung, Vorgehen, evtl. Mitwirkung von Experten);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le rapport technique (la raison de la d&#xE9;limitation, la proc&#xE9;dure, l&#x2019;&#xE9;ventuelle participation d'experts);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68014">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Geologisches Gutachten (bei dessen fehlen, st&#xFC;tzt man sich auf die Gefahrenkarte);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l&#x2019;expertise g&#xE9;ologique (&#xE0; d&#xE9;faut il y a lieu de se r&#xE9;f&#xE9;rer &#xE0; la carte de danger);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68015">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Akten Genehmigungsverfahren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les documents concernant la proc&#xE9;dure d'autorisation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:68016">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Datentr&#xE4;ger mit dem alten Zustand und der Zweitvermessung aufbewahren, falls vorhanden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le support de donn&#xE9;es avec l'ancien &#xE9;tat et la deuxi&#xE8;me mensuration, s&#x2019;il existe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50075">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Genehmigung des Perimeterplans</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Approbation du plan du p&#xE9;rim&#xE8;tre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113876">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Abschluss der Einsprache- und Rekursverfahren genehmigt der Staatsrat den Perimeterplan.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les proc&#xE9;dures de r&#xE9;clamation et de recours sont termin&#xE9;es, le Conseil d'Etat approuve le plan du p&#xE9;rim&#xE8;tre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113877">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieser Entscheid wird im Amtsblatt ver&#xF6;ffentlicht und eine Anmerkung im Grundbuch wird f&#xFC;r die betroffenen Grundst&#xFC;cke vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette d&#xE9;cision est publi&#xE9;e au bulletin officiel et une mention est inscrite au registre foncier pour les immeubles concern&#xE9;s sur r&#xE9;quisition de l&#x2019;instance de surveillance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50076">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahrenskosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais de proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113878">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verfahrenskosten gehen zu Lasten des Kantons.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de la proc&#xE9;dure de d&#xE9;limitation sont &#xE0; la charge du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50077">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bei Stillstand der Bodenverschiebungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Immobilisation du territoire en mouvement permanent</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113879">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Kommt ein Gebiet mit dauernden Bodenverschiebungen zum Stillstand und wird dieser Zustand durch Wiederholungsmessungen best&#xE4;tigt, so kann der Staatsrat die L&#xF6;schung der Anmerkung im Grundbuch veranlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si un territoire en mouvement permanent est d&#xE9;finitivement stabilis&#xE9; et si cet &#xE9;tat est confirm&#xE9; par des campagnes de mesures p&#xE9;riodiques, le Conseil d'Etat peut ordonner la suppression de la mention au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15055">
+            <structureContent lang="de">
+              <structureOrder>8</structureOrder>
+              <structureText>Datenabgabe und Geb&#xFC;hren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>8</structureOrder>
+              <structureText>Diffusion des donn&#xE9;es et &#xE9;moluments</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50078">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>33</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Daten und Ausz&#xFC;ge aus der amtlichen Vermessung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Donn&#xE9;es et extraits de la mensuration officielle</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113880">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Daten und Ausz&#xFC;ge der amtlichen Vermessung k&#xF6;nnen in elektronischer Form geb&#xFC;hrenfrei &#xFC;ber den Kanton bezogen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es et les extraits de la mensuration officielle peuvent &#xEA;tre obtenus gratuitement sous forme &#xE9;lectronique aupr&#xE8;s du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50079">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>34</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beglaubigte Ausz&#xFC;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Extraits certifi&#xE9;s conforme</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113881">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geb&#xFC;hr f&#xFC;r die Beglaubigung eines analogen Auszugs richtet sich nach Artikel 73a TVAV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;molument pour le certificat de conformit&#xE9; d&#x2019;un extrait est fix&#xE9; selon l'article 73a OTEMO.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113882">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Geometer stellt f&#xFC;r seine Aufwendungen nach Artikel 38 VAV Rechnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le g&#xE9;om&#xE8;tre facture ses d&#xE9;penses selon l'article 38 de l'ordonnance sur la mensuration officielle (OMO).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50080">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>35</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anschlussgeb&#xFC;hren Nachf&#xFC;hrungsinfrastruktur Kanton</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emolument pour l&#x2019;infrastructure de mise &#xE0; jour du canton</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113883">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ingenieur-Geometer, welcher sich an die Nachf&#xFC;hrungsinfrastruktur des Kantons anschliesst, ist zur Entrichtung der j&#xE4;hrlichen Pauschalgeb&#xFC;hr sowie der Geb&#xFC;hren pro Mutation verpflichtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ing&#xE9;nieur g&#xE9;om&#xE8;tre qui se raccorde &#xE0; l'infrastructure de la mise &#xE0; jour est dans l'obligation de verser l'&#xE9;molument forfaitaire annuel ainsi que l'&#xE9;molument par mutation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113884">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Ingenieur-Geometer kann &#xFC;ber ein oder mehrere Anschl&#xFC;sse an die Nachf&#xFC;hrungsinfrastruktur verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un ing&#xE9;nieur g&#xE9;om&#xE8;tre peut disposer d'un ou de plusieurs raccordements &#xE0; l'infrastructure de mise &#xE0; jour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113885">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Nutzung einer Floatinglizenz betr&#xE4;gt die j&#xE4;hrliche Pauschalgeb&#xFC;hr f&#xFC;r den ersten Anschluss 5'000 Franken. Jeder weitere Anschluss kostet 4'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l&#x2019;utilisation d&#x2019;une licence flottante, l&#x2019;&#xE9;molument forfaitaire annuel pour la premi&#xE8;re connexion s&#x2019;&#xE9;l&#xE8;ve &#xE0; 5'000 francs. Chaque connexion suppl&#xE9;mentaire sera factur&#xE9;e 4'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113886">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r fixe Lizenzen muss ein Vertrag von minimal 3 j&#xE4;hriger Dauer abgeschlossen werden. Die j&#xE4;hrliche Geb&#xFC;hr f&#xFC;r die ersten drei Jahre betr&#xE4;gt 20'000 Franken, jede j&#xE4;hrliche Verl&#xE4;ngerung kostet 10'000 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l&#x2019;acc&#xE8;s est accord&#xE9; exclusivement &#xE0; un ing&#xE9;nieur g&#xE9;om&#xE8;tre (licence fixe), un contrat d&#x2019;une dur&#xE9;e minimale de trois ans est conclu. L&#x2019;&#xE9;molument annuel s&#x2019;&#xE9;l&#xE8;ve &#xE0; 20'000 francs. A l&#x2019;issue de la p&#xE9;riode contractuelle, le co&#xFB;t de l&#x2019;&#xE9;molument annuel de renouvellement est fix&#xE9; &#xE0; 10'000 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113887">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die prozentuale Abgabe an den Kanton f&#xFC;r alle Mutationen, die auf der Informatikplattform des Kantons ausgef&#xFC;hrt wurden, betr&#xE4;gt 3 Prozent der Abrechnung, die der Ingenieur-Geometer auf Grund des Richttarifs erstellt und auf der zentralen Informatikplattform abgelegt hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les mutations en cours d&#x2019;ex&#xE9;cution sur la plateforme informatique centrale, l&#x2019;&#xE9;molument per&#xE7;u par le canton s&#x2019;&#xE9;l&#xE8;ve &#xE0; trois pour cent du montant indiqu&#xE9; dans le d&#xE9;compte d&#xE9;pos&#xE9; par les ing&#xE9;nieurs g&#xE9;om&#xE8;tres selon le tarif indicatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="15059">
+            <structureContent lang="de">
+              <structureOrder>9</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>9</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:50081">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung und &#xC4;nderung bisherigen Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation et modification du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113888">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Geb&#xFC;hrentarif gem&#xE4;ss Artikel 11 der kantonalen Verordnung &#xFC;ber die Geoinformation ist f&#xFC;r die amtliche Vermessung nicht mehr anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le tarif des &#xE9;moluments selon l'article 11 de l'ordonnance cantonale sur l&#x2019;information g&#xE9;ographique n'est plus applicable pour la mensuration officielle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113889">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung &#xFC;ber die amtliche Vermessung vom 29. Juni 2006 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ordonnance sur la mensuration officielle du 29 juin 2006 est abrog&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:50082">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Liberalisierung der amtlichen Vermessung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Lib&#xE9;ralisation de la mensuration officielle</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:113890">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Liberalisierung der amtlichen Vermessung tritt am 1 April 2018 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La lib&#xE9;ralisation de la mensuration officielle rentre en vigueur au 1<format upper="true">er</format> avril 2018.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113891">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zentrale Datenbank ist in Betrieb. Die laufenden Nachf&#xFC;hrungsvertr&#xE4;ge gem&#xE4;ss Art. T1-1 Abs. 1 und 2 des Gesetzes &#xFC;ber die amtliche Vermessung werden per 31. M&#xE4;rz 2018 beendet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La plateforme informatique centrale est en fonction. Les contrats de mise &#xE0; jour en cours, mentionn&#xE9;s &#xE0; l&#x2019;article T1-1, alin&#xE9;as 1 et 2 de la loi sur la mensuration officielle seront r&#xE9;sili&#xE9;s au 31 mars 2018.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113892">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle im Standard AV93 anerkannten Lose sind sp&#xE4;testens bei Inkrafttreten der Verordnung der Vermessungsaufsicht zu liefern, damit diese Lose in die zentrale Datenverwaltung integriert werden k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les lots reconnus au standard MO93 doivent &#xEA;tre livr&#xE9;s &#xE0; l&#x2019;autorit&#xE9; de surveillance au plus tard &#xE0; l&#x2019;entr&#xE9;e en vigueur de l&#x2019;ordonnance, afin qu&#x2019;ils puissent &#xEA;tre int&#xE9;gr&#xE9;s sur la plateforme informatique centrale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113893">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r alle noch nicht im Standard AV93 anerkannten Lose, deren Ablieferungstermin bereits abgelaufen ist, regelt die Vermessungsaufsicht den Abgabetermin, grunds&#xE4;tzlich sind daf&#xFC;r 4 Monate nach Inkrafttreten der Verordnung vorgesehen. Dieser Absatz gilt nicht f&#xFC;r Lose, die die Geb&#xE4;udeadressen betreffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour tous les lots non reconnus au standard MO93 et dont le d&#xE9;lai de livraison est &#xE9;chu, l&#x2019;autorit&#xE9; de surveillance fixe la date limite de livraison pour la v&#xE9;rification, en principe au plus tard 4 mois apr&#xE8;s l&#x2019;entr&#xE9;e en vigueur de l&#x2019;ordonnance. Cet alin&#xE9;a ne s&#x2019;applique pas aux lots concernant l&#x2019;adressage des b&#xE2;timents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:113894">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Inkrafttreten der Verordnung sind alle neuen Mutationen, in Gebieten mit einer anerkannten amtlichen Vermessung im Standard AV93, nur g&#xFC;ltig, wenn diese Mutationen auf der zentralen Informatikplattform erstellt wurden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s l&#x2019;entr&#xE9;e en vigueur de l&#x2019;ordonnance, toutes les nouvelles mutations &#xE9;tablies dans les secteurs reconnus au standard MO93 ne sont valables que si elles sont &#xE9;tablies sur la plateforme informatique centrale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+    <appendices>
+      <appendix lang="de">
+        <appendixReference>
+          <description>1 Richttarif</description>
+          <appendixContent>
+            <appendixLink>
+              <linkID>1</linkID>
+              <uri>https://lex.vs.ch/frontend/annex_document_dictionaries/17</uri>
+            </appendixLink>
+          </appendixContent>
+        </appendixReference>
+      </appendix>
+      <appendix lang="fr">
+        <appendixReference>
+          <description>1 Tarif indicatif</description>
+          <appendixContent>
+            <appendixLink>
+              <linkID>2</linkID>
+              <uri>https://lex.vs.ch/frontend/annex_document_dictionaries/18</uri>
+            </appendixLink>
+          </appendixContent>
+        </appendixReference>
+      </appendix>
+    </appendices>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2018-04-01</dateForce>
+      <dateVersion>2018-04-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 11/2018</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1235</normID>
+      <number>143.102</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Beschluss betreffend den Ausweis zum Bezug von Einheimischbilletten</title>
+      <title lang="fr">Arr&#xEA;t&#xE9; concernant la carte de l&#xE9;gitimation pour le retrait de billets d'indig&#xE8;ne</title>
+    </shortTitles>
+    <type>Arr&#xEA;t&#xE9;</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1994-11-16</dateAdoption>
+      <dateForce>1994-12-01T00:00:00</dateForce>
+      <dateLastChange>1994-12-01</dateLastChange>
+      <dateVersion>1994-12-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Bundesratsverordnung &#xFC;ber die Tarifanpassung vom 17. Juli 1964;</basis> <basis>eingesehen die Schaffung eines Ausweises f&#xFC;r den Bezug von Einheimischbilletten durch das Bundesamt f&#xFC;r Verkehr;</basis> <basis>auf Antrag des Justiz-, Polizei- und Milit&#xE4;rdepartements,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'ordonnance du Conseil f&#xE9;d&#xE9;ral sur le rapprochement tarifaire du 17 juillet 1964;</basis> <basis>vu la cr&#xE9;ation par le D&#xE9;partement f&#xE9;d&#xE9;ral des transports d'une carte de l&#xE9;gitimation pour le retrait des billets d'indig&#xE8;ne;</basis> <basis>sur proposition du D&#xE9;partement de la justice, de la police et des affaires militaires,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1994 f 113 | d 127</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4230">
+        <structureContent lang="de">
+          <structureText>Beschluss<break type="line"/>betreffend den Ausweis zum Bezug von Einheimischbilletten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Arr&#xEA;t&#xE9;<break type="line"/>concernant la carte de l&#xE9;gitimation pour le retrait de billets d'indig&#xE8;ne</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:14303">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:32858">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Gemeinde ist berechtigt nachfolgende Geb&#xFC;hren zu erheben:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La commune est autoris&#xE9;e &#xE0; percevoir les &#xE9;moluments suivants:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:15547">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausstellung eines Ausweises f&#xFC;r Einheimische<tab/>10 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#xE9;tablissement de la carte d'indig&#xE8;ne<tab/>10 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:15548">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">j&#xE4;hrliche Verl&#xE4;ngerung der Wohnsitzbest&#xE4;tigung<tab/>3 Franken</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">prolongation annuelle de l'attestation de domicile figurant sur la carte<tab/>3 francs</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:14304">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:32859">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die festgelegten Geb&#xFC;hren f&#xFC;r die alten Identit&#xE4;tskarten oder Wohnsitzausweise f&#xFC;r Ausl&#xE4;nder bleiben bis zu deren Verfall anwendbar.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les &#xE9;moluments fix&#xE9;s pour les anciennes cartes d'identit&#xE9; ou de l&#xE9;gitimation pour &#xE9;trangers restent applicables jusqu'&#xE0; l'&#xE9;ch&#xE9;ance d&#xE9;finitive desdites cartes.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:14305">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:32860">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der vorliegende Beschluss tritt am 1. Dezember 1994 in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le pr&#xE9;sent arr&#xEA;t&#xE9; entre en vigueur le 1<format upper="true">er</format> d&#xE9;cembre 1994.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1994-12-01</dateForce>
+      <dateVersion>1994-12-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1994 f 113 | d 127</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

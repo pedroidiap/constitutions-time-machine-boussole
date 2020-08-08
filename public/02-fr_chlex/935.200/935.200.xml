@@ -1,0 +1,2003 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:49</normID>
+      <number>935.200</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">VBRA</abbreviation>
+      <abbreviation lang="fr">OGAR</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber das Bergf&#xFC;hrerwesen und das Anbieten weiterer Risikoaktivit&#xE4;ten</title>
+      <title lang="fr">Ordonnance sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2013-12-18</dateAdoption>
+      <dateForce>2014-01-01T00:00:00</dateForce>
+      <dateLastChange>2014-01-01</dateLastChange>
+      <dateVersion>2014-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;</basis> <basis>eingesehen das Gesetz &#xFC;ber das Bergf&#xFC;hrerwesen und das Anbieten weiterer Risikoaktivit&#xE4;ten vom 11. Oktober 2007 (GBRA);</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft, Energie und Raumentwicklung,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 alin&#xE9;a 2 de la constitution cantonale;</basis> <basis>vu la loi sur les guides de montagne et les organisateurs d'autres activit&#xE9;s du 11 octobre 2007 (LGAR);</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;conomie, de l'&#xE9;nergie et du territoire,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 52/2013</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="99">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber das Bergf&#xFC;hrerwesen und das Anbieten weiterer Risikoaktivit&#xE4;ten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="101">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:280">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; comp&#xE9;tente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:592">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige kantonale Beh&#xF6;rde ist die Dienststelle, die f&#xFC;r den Tourismus zust&#xE4;ndig ist (nachfolgend: die Dienststelle).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; cantonale comp&#xE9;tente est le service charg&#xE9; du tourisme (ci-apr&#xE8;s: service).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:281">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonale Kommission</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:593">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle st&#xFC;tzt sich auf die Kompetenz einer kantonalen Kommission, die das beratende Organ des Staates auf dem Gebiet ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service s'appuie sur la comp&#xE9;tence d'une commission cantonale, organe consultatif de l'Etat en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:594">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt, nachdem er die betroffenen Berufsorganisationen angeh&#xF6;rt hat, die "Kantonale Kommission &#xFC;ber das Bergf&#xFC;hrerwesen und das Anbieten weiterer Risikoaktivit&#xE4;ten (KBRA)"; dabei ber&#xFC;cksichtigt er die verschiedenen betroffenen Berufe und sorgt daf&#xFC;r, dass die sprachlichen und geografischen Regionen unter den Mitgliedern ausgewogen vertreten sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Apr&#xE8;s consultation des organisations professionnelles concern&#xE9;es, le Conseil d'Etat nomme la commission, appel&#xE9;e "Commission cantonale sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque (CGAR)" en tenant compte des diff&#xE9;rentes professions concern&#xE9;es et en veillant &#xE0; une r&#xE9;partition linguistique et g&#xE9;ographique &#xE9;quilibr&#xE9;e de ses membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:595">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle f&#xFC;hrt f&#xFC;r die Dienststelle Kontrollen bei juristischen und nat&#xFC;rlichen Personen durch, die eine T&#xE4;tigkeit nach dem Gesetz aus&#xFC;ben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission proc&#xE8;de pour le service &#xE0; des contr&#xF4;les aupr&#xE8;s des personnes morales ou physiques exer&#xE7;ant une activit&#xE9; d&#xE9;finie par la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="102">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Bewilligungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Autorisations</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="103">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Allgemeines</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:282">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>3</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Berufsaus&#xFC;bungsbewilligungen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation d'exercer</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:596">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Dienststelle erteilt Berufspersonen die Bewilligung zur Aus&#xFC;bung der Aktivit&#xE4;ten gem&#xE4;ss Artikel 2 des kantonalen Gesetzes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service d&#xE9;livre aux professionnels l'autorisation d'exercer les prestations list&#xE9;es &#xE0; l'article 2 de la loi cantonale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:597">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Dienststelle erteilt die Berufsaus&#xFC;bungsbewilligung der nat&#xFC;rlichen Person, die nachweist, dass sie die erforderlichen Ausbildungs- und Weiterbildungskurse besucht hat, und dass sie Gew&#xE4;hr f&#xFC;r die Einhaltung der Pflichten bietet, welche von der Gesetzgebung &#xFC;ber das Bergf&#xFC;hrerwesen und das Anbieten weiterer Risikoaktivit&#xE4;ten auferlegt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service d&#xE9;livre l'autorisation d'exercer &#xE0; la personne physique ou morale qui apporte la preuve qu'il a suivi les cours de formation ainsi que de formation continue exig&#xE9;s et offre toute garantie de remplir les devoirs impos&#xE9;s par la l&#xE9;gislation sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:598">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Berufsaus&#xFC;bungsbewilligung f&#xFC;r Aktivit&#xE4;ten, die nicht dem Bundesrecht unterstehen, wird f&#xFC;r die Dauer der entsprechenden Versicherungsdeckung ausgestellt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La dur&#xE9;e de l'autorisation des activit&#xE9;s non soumises &#xE0; la loi f&#xE9;d&#xE9;rale est limit&#xE9;e &#xE0; la dur&#xE9;e de couverture de l'assurance correspondante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:599">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ausstellung der Berufsaus&#xFC;bungsbewilligung wird mit einer Vignette nachgewiesen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une vignette atteste de la d&#xE9;livrance de l'autorisation d'exercer.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:283">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>4</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Betriebsbewilligung - Unternehmen und Organisationen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Autorisation d'exploiter - Entreprises et organisations</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:600">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Dienststelle stellt Unternehmen und Organisationen nach Artikel 7 Absatz 2 des kantonalen Gesetzes eine Betriebsbewilligung aus.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service d&#xE9;livre une autorisation d'exploiter aux entreprises et organisations, au sens de l'article 7 alin&#xE9;a 2 de la loi cantonale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:601">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Betriebsbewilligung f&#xFC;r Aktivit&#xE4;ten, die nicht dem Bundesrecht unterliegen, wird f&#xFC;r die Dauer der entsprechenden Versicherungsdeckung ausgestellt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La dur&#xE9;e de l'autorisation des activit&#xE9;s non soumises &#xE0; la loi f&#xE9;d&#xE9;rale est limit&#xE9;e &#xE0; la dur&#xE9;e de couverture de l'assurance correspondante.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:602">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ausstellung der Betriebsbewilligung wird mit einer Vignette nachgewiesen. Sie muss in den R&#xE4;umlichkeiten des Unternehmens oder der Organisation so angebracht werden, dass sie f&#xFC;r die Kundschaft sichtbar ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une vignette atteste de la d&#xE9;livrance de l'autorisation d'exploiter. Elle devra &#xEA;tre dispos&#xE9;e dans les locaux de l'entreprise ou organisation de mani&#xE8;re &#xE0; &#xEA;tre visible par la client&#xE8;le.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="104">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Spezifische Anforderungen an die angebotene Aktivit&#xE4;t</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Exigences sp&#xE9;cifiques selon la prestation offerte</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:284">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderungen f&#xFC;r den Betrieb einer Bergsteigerschule oder eines Bergf&#xFC;hrerb&#xFC;ros</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences pour l'exploitation d'une &#xE9;cole d'alpinisme ou d'un bureau de guides</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:603">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Damit eine Betriebsbewilligung f&#xFC;r eine Bergsteigerschule oder eines Bergf&#xFC;hrerb&#xFC;ros erteilt wird, m&#xFC;ssen die Gesuchsteller &#xFC;ber einen eidgen&#xF6;ssischen Fachausweis f&#xFC;r Bergf&#xFC;hrer verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour obtenir une autorisation d'exploiter une &#xE9;cole d'alpinisme ou un bureau de guides, le demandeur doit &#xEA;tre en possession du brevet f&#xE9;d&#xE9;ral de guide de montagne.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:604">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch muss folgende Informationen enthalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande doit contenir les informations suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:204">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Organisation: verantwortliche Mitglieder, Direktor, Personal, Ausbildung und Stellvertreter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives &#xE0; l'organisation: membres responsables, directeur, personnel, formation et rempla&#xE7;ant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:205">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Strukturen: B&#xFC;ro, Verkaufsstellen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux structures: bureau, points de vente;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:206">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich T&#xE4;tigkeiten: Programm, Dokumentation;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux activit&#xE9;s: programme, documentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:207">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">administrativer Art: Nachweis einer Berufshaftpflichtversicherung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">administratives: attestation d'assurance responsabilit&#xE9; civile professionnelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:605">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Gesuchsteller muss in der Bergsteigerschule und im Bergf&#xFC;hrerb&#xFC;ro t&#xE4;tig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le demandeur doit &#xEA;tre actif au sein de l'&#xE9;cole d'alpinisme et du bureau des guides.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:285">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderung f&#xFC;r den Betrieb eines Kletterb&#xFC;ros</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences pour l'exploitation d'un bureau d'escalade</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:606">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Damit eine Betriebsbewilligung f&#xFC;r ein Kletterb&#xFC;ro erteilt wird, muss der Gesuchsteller &#xFC;ber einen eidgen&#xF6;ssischen Fachausweis f&#xFC;r Kletterer verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour obtenir une autorisation d'exploiter un bureau d'escalade, le demandeur doit &#xEA;tre en possession du brevet f&#xE9;d&#xE9;ral de moniteur d'escalade.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:607">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch muss folgende Informationen enthalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande doit contenir les informations suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:208">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Organisation: verantwortliche Mitglieder, Direktor, Personal, Ausbildung und Stellvertreter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives &#xE0; l'organisation: membres responsables, directeur, personnel, formation et rempla&#xE7;ant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:209">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Strukturen: B&#xFC;ro, Verkaufsstellen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux structures: bureau, points de vente;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:210">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich T&#xE4;tigkeiten: Programm, Dokumentation;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux activit&#xE9;s: programme, documentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:211">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">administrativer Art: Nachweis einer Berufshaftpflichtversicherung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">administratives: attestation d'assurance responsabilit&#xE9; civile professionnelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:608">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Gesuchsteller muss im Kletterb&#xFC;ro t&#xE4;tig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le demandeur doit &#xEA;tre actif au sein du bureau d'escalade.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:286">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderungen f&#xFC;r den Betrieb einer Schneesport-, Ski-, Langlauf-, Snow-board- oder Telemarkschule</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences pour l'exploitation d'une &#xE9;cole de sports de neige, de ski alpin, de ski de fond, de snowboard ou de t&#xE9;l&#xE9;mark</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:609">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Damit eine Betriebsbewilligung f&#xFC;r eine Schneesport-, Ski-, Langlauf-, Snowboard- oder Telemarkschule erteilt wird, muss der Gesuchsteller &#xFC;ber einen eidgen&#xF6;ssischen Fachausweis f&#xFC;r Schneesportlehrer verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour obtenir une autorisation d'exploiter une &#xE9;cole de sports de neige, de ski alpin, de ski de fond, de snowboard ou de t&#xE9;l&#xE9;mark, le demandeur doit &#xEA;tre en possession du brevet f&#xE9;d&#xE9;ral de professeur de sports de neige.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:610">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch muss folgende Informationen enthalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande doit contenir les informations suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:212">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Organisation: verantwortliche Mitglieder, Direktor, Personal, Ausbildung und Stellvertreter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives &#xE0; l'organisation: membres responsables, directeur, personnel, formation et rempla&#xE7;ant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:213">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Strukturen: B&#xFC;ro, Verkaufsstellen, Besammlungspl&#xE4;tze;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux structures: bureau, points de vente, places de rassemblement;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:214">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich T&#xE4;tigkeiten: Art des Unterrichts, Programm, Dokumentation;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux activit&#xE9;s: genre d'enseignement, programme, documentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:215">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">administrativer Art: Nachweis einer Berufshaftpflichtversicherung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">administratives: attestation d'assurance responsabilit&#xE9; civile professionnelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:611">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Direktor muss den Kurs f&#xFC;r Direktorenaspiranten erfolgreich besucht haben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le directeur doit avoir suivi et r&#xE9;ussi le cours de candidat directeur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:612">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Schule muss zudem nachweisen, dass mindestens 20 Prozent der von ihr angestellten Personen pro Sportart den eidgen&#xF6;ssischen Fachausweis als Schneesportlehrer, einen Fachausweis als Instruktor +VT+TR (SSSA) oder einen Fachausweis als Instruktor (SSBS) haben, und dass mindestens 50 Prozent der Personen eine Ausbildung haben (ISIA, SSSA, SSBS, J+S).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'&#xE9;cole doit &#xE9;galement apporter les preuves qu'au moins 20 pour cent des personnes qu'elle emploie sont au b&#xE9;n&#xE9;fice du brevet f&#xE9;d&#xE9;ral de professeur de sports de neige, du brevet d'instructeur +VT+TR (SSSA) ou du brevet d'instructeur (SSBS), et ceci par discipline, et qu'au moins 50 pour cent des personnes soient en possession d'une formation (ISIA, SSSA, SSBS, J+S).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:613">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Personal, das nicht &#xFC;ber eine in Absatz 4 dieses Artikels genannte Ausbildung verf&#xFC;gt, muss &#xFC;ber eine mindestens f&#xFC;nft&#xE4;gige interne Ausbildung unter der Verantwortung eines Schneesportlehrers mit eidg. Fachausweis oder eines Inhabers des Fachausweises als Instruktor +VT+TR verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le personnel qui n'est pas en possession d'une des formations cit&#xE9;es &#xE0; l'alin&#xE9;a 4 du pr&#xE9;sent article doit disposer d'une formation interne d'au minimum cinq jours, donn&#xE9;e sous la responsabilit&#xE9; d'un professeur de sports de neige titulaire d'un brevet f&#xE9;d&#xE9;ral ou d'un possesseur du brevet d'instructeur +VT+TR.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:614">
+                        <partNumber>6</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Schneesportlehrer und Instruktor +VT+TR m&#xFC;ssen ihre Berufsaus&#xFC;bungsbewilligung erneuern (Verpflichtung zum Besuch von Weiterbildungskursen), die &#xFC;brigen ausgebildeten Angestellten (Instruktor, Lehrer f&#xFC;r Kinder; ISIA) m&#xFC;ssen ihre Weiterbildungskurse absolviert haben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les professeurs de sports de neige, instructeurs +VT+TR (SSSA) et instructeurs (SSBS) doivent renouveler leur autorisation d'exercer (obligation de cours de perfectionnement); les autres employ&#xE9;s form&#xE9;s (instructeur, moniteur enfants, ISIA) doivent avoir suivi leurs cours de perfectionnement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:287">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderungen f&#xFC;r den Betrieb eines Wanderleiterb&#xFC;ros</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences pour l'exploitation d'un bureau d'accompagnateurs de randonn&#xE9;e</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:615">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Damit eine Bewilligung f&#xFC;r den Betrieb eines Wanderleiterb&#xFC;ros erteilt wird, muss der Gesuchsteller &#xFC;ber einen eidgen&#xF6;ssischen Fachausweis als Wanderleiter verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour obtenir une autorisation d'exploiter un bureau d'accompagnateurs de randonn&#xE9;e, le demandeur doit &#xEA;tre en possession du brevet f&#xE9;d&#xE9;ral d'accompagnateur en montagne.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:616">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch muss folgende Informationen enthalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande doit contenir les informations suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:216">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Organisation: verantwortliche Mitglieder, Direktor, Personal, Ausbildung und Stellvertreter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives &#xE0; l'organisation: membres responsables, directeur, personnel, formation et rempla&#xE7;ant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:217">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Strukturen: B&#xFC;ro, Verkaufsstellen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux structures: bureau, points de vente;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:218">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich T&#xE4;tigkeiten: Programm, Dokumentation;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux activit&#xE9;s: programme, documentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:219">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">administrativer Art: Nachweis einer Berufshaftpflichtversicherung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">administratives: attestation d'assurance responsabilit&#xE9; civile professionnelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:617">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Gesuchsteller muss in einem Wanderleiterb&#xFC;ro t&#xE4;tig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le demandeur doit &#xEA;tre actif au sein du bureau d'accompagnateurs de randonn&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:288">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Anforderungen f&#xFC;r die Aus&#xFC;bung von anderen gewerbsm&#xE4;ssigen T&#xE4;tigkeiten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Exigences pour l'exploitation des autres activit&#xE9;s commerciales</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:618">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Damit die Bewilligung f&#xFC;r eine andere gewerbsm&#xE4;ssige T&#xE4;tigkeit im Sinne von Artikel 2 Absatz 2 des kantonalen Gesetzes erteilt wird, muss der Gesuchsteller &#xFC;ber die entsprechenden vom SBFI anerkannten Fachausweise verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour obtenir l'autorisation d'exploiter une autre activit&#xE9; commerciale, au sens de l'article 2 alin&#xE9;a 2 de la loi cantonale, le demandeur doit &#xEA;tre en possession des brevets respectifs, reconnus par le SEFRI.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:619">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch muss folgende Informationen enthalten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande doit contenir les informations suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:220">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Organisation: verantwortliche Mitglieder, Direktor, Personal, Ausbildung und Stellvertreter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives &#xE0; l'organisation: membres responsables, directeur, personnel, formation et rempla&#xE7;ant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:221">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich Strukturen: B&#xFC;ro, Verkaufsstellen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux structures: bureau, points de vente;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:222">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">bez&#xFC;glich T&#xE4;tigkeiten: Programm, Dokumentation;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">relatives aux activit&#xE9;s: programme, documentation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:223">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">administrativer Art: Nachweis einer Berufshaftpflichtversicherung.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">administratives: attestation d'assurance responsabilit&#xE9; civile professionnelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:620">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Gesuchsteller muss in den entsprechenden Gesch&#xE4;ftseinheiten t&#xE4;tig sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le demandeur doit &#xEA;tre actif au sein des entit&#xE9;s commerciales respectives.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:621">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Aktivit&#xE4;ten Canyoning, River-Rafting, Wildwasserfahrten und Bungee-Jumping, mit Ausnahme der Aktivit&#xE4;ten von Schaustellern, die &#xFC;ber eine Bewilligung gem&#xE4;ss Artikel 25 der Verordnung vom 4. September 2002 &#xFC;ber das Gewerbe der Reisenden verf&#xFC;gen, unterliegen einer Zertifizierung gem&#xE4;ss der Bundesgesetzgebung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les activit&#xE9;s de canyoning, de rafting, les descentes en eaux vives et le saut &#xE0; l'&#xE9;lastique, &#xE0; l'exclusion des activit&#xE9;s propos&#xE9;es par les forains disposant d'une autorisation conform&#xE9;ment &#xE0; l'article 25 de l'ordonnance sur le commerce itin&#xE9;rant du 4 septembre 2002 sont soumises &#xE0; certification selon la loi f&#xE9;d&#xE9;rale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="105">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Bewilligungsverfahren</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Proc&#xE9;dure d'obtention des autorisations</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:289">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bewilligungsgesuch</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Demande d'autorisation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:622">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gesuche f&#xFC;r eine Berufsaus&#xFC;bungs- oder Betriebsbewilligung m&#xFC;ssen bei der Dienststelle auf dem entsprechenden kantonalen amtlichen Formular eingereicht werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les demandes d'obtention d'autorisation d'exercer ou d'exploiter doivent &#xEA;tre soumises au service en utilisant le formulaire cantonal officiel respectif.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:290">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geb&#xFC;hren</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Emoluments</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:623">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Geb&#xFC;hren f&#xFC;r die Erteilung, die Erneuerung und den Entzug einer Bewilligung betreffend Aktivit&#xE4;ten, die nicht dem Bundesgesetz unterstellt sind, betragen 25 Franken pro Jahr. Ausnahme f&#xFC;r die Personen die im Besitz einer Bundesbewilligung sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les &#xE9;moluments pour l'octroi, le renouvellement et le retrait d'une autorisation concernant les activit&#xE9;s non soumises &#xE0; la loi f&#xE9;d&#xE9;rale sont fix&#xE9;s &#xE0; 25 francs par ann&#xE9;e, sauf pour les personnes au b&#xE9;n&#xE9;fice d'une autorisation f&#xE9;d&#xE9;rale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="106">
+                <structureContent lang="de">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>Verzeichnis der Bewilligungen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>Registre des autorisations</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:291">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Inhalt</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Contenu</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:624">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Verzeichnis beinhaltet folgende Daten:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le registre contient les donn&#xE9;es suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:224">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Name und Vorname beziehungsweise Firmenname des Bewilligungsinhabers;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">nom et pr&#xE9;nom ou raison sociale du titulaire de l'autorisation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:225">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Postadresse;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">adresse postale;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:226">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Bewilligungsart;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">type d'autorisation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:227">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Datum des Ablaufs der Bewilligung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">date d'&#xE9;ch&#xE9;ance de l'autorisation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:228">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Internet-Auftritt des Bewilligungsinhabers, sofern dieser freiwillig bekannt gegeben wurde.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">site Internet du titulaire de l'autorisation pour autant que ce dernier l'ait indiqu&#xE9; volontairement.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:625">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Verzeichnis wird auf der Internetseite des Kantons Wallis und einmal im Jahr im Kantonalen Amtsblatt ver&#xF6;ffentlicht; es wird von der Dienststelle nachgef&#xFC;hrt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le registre est publi&#xE9; sur le site Internet du canton du Valais et une fois par an au Bulletin officiel. Il est tenu &#xE0; jour par le service.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="107">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Erstausbildung und Weiterbildung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Formation initiale et formation continue</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:292">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bergf&#xFC;hrer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Guide de montagne</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:626">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Bergf&#xFC;hrer werden wollen, m&#xFC;ssen &#xFC;ber eine der folgenden Ausbildungen verf&#xFC;gen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est guide de montagne la personne au b&#xE9;n&#xE9;fice de l'une des formations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:229">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eidgen&#xF6;ssischer Fachausweis f&#xFC;r Bergf&#xFC;hrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet f&#xE9;d&#xE9;ral de guide de montagne;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:230">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausweis der IVBV.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">licence de l'UIAGM.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:293">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bergf&#xFC;hreraspirant</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Aspirant guide</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:627">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Bergf&#xFC;hreraspiranten werden wollen, m&#xFC;ssen &#xFC;ber den provisorischen Fachausweis f&#xFC;r Bergf&#xFC;hreraspiranten, der vom SBV ausgestellt wird, verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est aspirant guide de montagne, la personne au b&#xE9;n&#xE9;fice du brevet provisoire d'aspirant guide d&#xE9;livr&#xE9; par l'ASGM.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:294">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kletterf&#xFC;hrer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Moniteur d'escalade</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:628">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Kletterf&#xFC;hrer werden wollen, m&#xFC;ssen &#xFC;ber die Auszeichnung Kletterf&#xFC;hrer mit eidgen&#xF6;ssischem Fachausweis im Sinne von Artikel 43 BBG oder &#xFC;ber einen vom SBFI anerkannten gleichwertigen ausl&#xE4;ndischen F&#xE4;higkeitsausweis verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est moniteur d'escalade la personne qui justifie d'un titre de "moniteur d'escalade avec brevet f&#xE9;d&#xE9;ral" au sens de l'article 43 LFPr ou d'un certificat de capacit&#xE9; &#xE9;tranger reconnu comme &#xE9;quivalent par le SEFRI.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:295">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schneesportlehrer, Ski-, Langlauf-, Snowboard- und Telemarklehrer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Professeur de sports de neige, professeur de ski alpin, de ski de fond, de snowboard et de t&#xE9;l&#xE9;mark</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:629">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Schneesportlehrer, Ski-, Langlauf-, Snowboard- und Telemarklehrer werden wollen, m&#xFC;ssen &#xFC;ber eine der folgenden Ausbildungen verf&#xFC;gen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est professeur de sports de neige, professeur de ski alpin, de ski de fond, de snowboard et de t&#xE9;l&#xE9;mark, la personne au b&#xE9;n&#xE9;fice de l'une des formations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:231">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eidgen&#xF6;ssischer Fachausweis f&#xFC;r Schneesportlehrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet f&#xE9;d&#xE9;ral de professeur de sports de neige;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:232">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fachausweis als Instruktor, +VT+TR, von der SSSA ausgestellt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet d'instructeur +VT+TR d&#xE9;livr&#xE9; par la SSSA;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:233">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fachausweis als Instruktor des SSBS.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet d'instructeur de la SSBS.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:630">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der eidgen&#xF6;ssische Fachausweis f&#xFC;r Schneesportlehrer berechtigt zum Unterricht des Ger&#xE4;tes, f&#xFC;r das die Person den Fachausweis f&#xFC;r Instruktor +VT+TR erhalten hat, und gelegentlich in dem Fach, f&#xFC;r das sie das Modul "Zweit-Ger&#xE4;t" erhalten hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet f&#xE9;d&#xE9;ral de professeur de sports de neige permet l'enseignement de la discipline pour laquelle la personne a obtenu le brevet d'instructeur +VT+TR, et occasionnellement, pour la discipline pour laquelle elle a obtenu le module "deuxi&#xE8;me engin".</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:631">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fachausweis f&#xFC;r Instruktor der SSBS berechtigt nur zum Snowboardunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet d'instructeur d&#xE9;livr&#xE9; par la SSBS permet uniquement l'enseignement du snowboard.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:632">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fachausweis f&#xFC;r Instruktor Skilehrer +VT+TR der SSSA berechtigt nur zum Skiunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet d'instructeur +VT+TR de ski d&#xE9;livr&#xE9; par la SSSA permet uniquement l'enseignement du ski.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:633">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fachausweis f&#xFC;r Instruktor Snowboard +VT+TR der SSSA berechtigt nur zum Snowboardunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet d'instructeur +VT+TR de snowboard d&#xE9;livr&#xE9; par la SSSA permet uniquement l'enseignement du snowboard.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:634">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fachausweis f&#xFC;r Instruktor Telemark +VT+TR der SSSA berechtigt nur zum Telemarkunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet d'instructeur +VT+TR de t&#xE9;l&#xE9;mark d&#xE9;livr&#xE9; par la SSSA permet uniquement l'enseignement du T&#xE9;l&#xE9;mark.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:635">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fachausweis f&#xFC;r Instruktor Langlauf +VT+TR der SSSA berechtigt nur zum Langlaufunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le brevet d'instructeur +VT+TR de ski de fond d&#xE9;livr&#xE9; par la SSSA permet uniquement l'enseignement du ski de fond.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:296">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wanderleiter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Accompagnateur de randonn&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:636">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Wanderleiter werden wollen, m&#xFC;ssen &#xFC;ber die Auszeichnung "Wanderleiter mit eidgen&#xF6;ssischem Fachausweis" im Sinne von Artikel 43 BBG oder &#xFC;ber einen von der UIMLA anerkannten gleichwertigen ausl&#xE4;ndischen F&#xE4;higkeitsausweis verf&#xFC;gen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est accompagnateur de randonn&#xE9;e la personne qui justifie d'un titre d'accompagnateur de randonn&#xE9;e avec brevet f&#xE9;d&#xE9;ral au sens de l'article 43 LFPr ou d'un certificat de capacit&#xE9; &#xE9;tranger reconnu comme &#xE9;quivalent par l'UIMLA.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:297">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Canyoningf&#xFC;hrer oder -leiter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Guide ou moniteur de canyoning</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:637">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die Canyoningf&#xFC;hrer oder -leiter von werden wollen, m&#xFC;ssen &#xFC;ber eine der nachfolgenden Ausbildung verf&#xFC;gen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est guide ou moniteur de canyoning la personne au b&#xE9;n&#xE9;fice de l'une des formations suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:234">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fachausweis f&#xFC;r Canyoningleiter, anerkannt von der SBFI;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet de moniteur de canyoning reconnu par le SEFRI;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:235">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Fachausweis f&#xFC;r Bergf&#xFC;hrer mit Zusatzausbildung in Canyoning, anerkannt von ASGM und UIAGM.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">brevet de guide de montagne avec formation compl&#xE9;mentaire en canyoning reconnu par l'ASGM et l'UIAGM.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:298">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">River-Rafting und Wildwasserfahrten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rafting et descente en eaux vives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:638">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die River-Rafting-F&#xFC;hrer werden wollen, m&#xFC;ssen &#xFC;ber eine vom SBFI anerkannte Ausbildung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est guide ou moniteur de rafts, la personne au b&#xE9;n&#xE9;fice d'une formation reconnue par le SEFRI.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:299">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Weiterbildungskurse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cours de formation continue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:639">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Weiterbildungskurse gelten die von den jeweiligen Berufsverb&#xE4;nden angebotenen oder anerkannten Kurse.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cours de formation continue sont les cours dispens&#xE9;s ou reconnus par leurs associations professionnelles respectives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:640">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die eine Bewilligung ben&#xF6;tigen, sind verpflichtet, eine Weiterbildung im Sinn von Artikel 15 der Bundesverordnung zu besuchen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes soumises &#xE0; autorisation ont l'obligation de suivre une formation continue selon l'article 15 de l'ordonnance f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:300">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Leistungsvereinbarungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contrat de prestations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:641">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gibt es kein angemessener Ausbildung oder Weiterbildungsangebot, so &#xFC;bertr&#xE4;gt die Dienststelle die Ausbildung mittels Leistungsvereinbarungen an Dritte.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En l'absence d'offre de formation et de formation continue ad&#xE9;quate, le service confie l'ex&#xE9;cution de la formation et la formation continue &#xE0; des tiers par le biais de contrats de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:642">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In der Leistungsvereinbarung werden die Arten und die Einzelheiten der Ausbildung, der Weiterbildung, der Pr&#xFC;fungen und der Beschwerden festgehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le contrat de prestations pr&#xE9;cisera les types et les modalit&#xE9;s de formation, de formation continue, d'examen et de recours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="108">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:301">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:643">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle dieser Verordnung widersprechende Bestimmungen sind aufgehoben, insbesondere die Verordnung &#xFC;ber die Aus&#xFC;bung der Bergf&#xFC;hrer-, Schneesportlehrer- und Wanderleiterberufe sowie das gewerbsm&#xE4;ssige Anbieten von Sportaktivit&#xE4;ten mit erh&#xF6;hten Sicherheitsanforderungen vom 15. April 2008.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;es toutes dispositions contraires &#xE0; la pr&#xE9;sente ordonnance, en particulier l'ordonnance sur l'exercice des professions de guide de montagne, de professeur de sports de neige et d'accompagnateur en montagne, ainsi que sur l'offre commerciale d'activit&#xE9;s sportives n&#xE9;cessitant des exigences &#xE9;lev&#xE9;es en mati&#xE8;re de s&#xE9;curit&#xE9; du 15 avril 2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:302">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:644">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung wird im Kantonalen Amtsblatt ver&#xF6;ffentlicht, und tritt am 1. Januar 2014 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur le 1<format upper="true">er</format> janvier 2014.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4740">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15720">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Abk&#xFC;rzungsverzeichnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Lexique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35958">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Abk&#xFC;rzung</cell>
+                              <cell>Bedeutung</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>BBG</cell>
+                              <cell>Berufsbildungsgesetz</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>ISIA</cell>
+                              <cell>International Ski Instructors Association</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>IVBV</cell>
+                              <cell>Internationale Vereinigung der Bergf&#xFC;hrerverb&#xE4;nde</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>J + S</cell>
+                              <cell>Jugend &amp;amp; Sport</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SBFI</cell>
+                              <cell>Staatssekretariat f&#xFC;r Bildung, Forschung und Innovation</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SBV</cell>
+                              <cell>Schweizerischer Bergf&#xFC;hrerverband</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SSBS</cell>
+                              <cell>Schweizer Snowboard Schulungsverband</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SSSA</cell>
+                              <cell>Swiss Snow Sports Association</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>TR</cell>
+                              <cell>Modul Tourismus + Recht im Schneesport</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>UIMLA</cell>
+                              <cell>Union of International Mountain Leaders Associations</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>VT</cell>
+                              <cell>Modul Varianten + Touren</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">
+                        <table>
+                          <tableContent>
+                            <row rowType="header">
+                              <cell>Abr&#xE9;viation</cell>
+                              <cell>Signification</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>ASGM</cell>
+                              <cell>Association suisse des guides de montagne</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>ISIA</cell>
+                              <cell>International Ski Instructors Association</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>J + S</cell>
+                              <cell>Jeunesse &amp;amp; Sport</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>LFPr</cell>
+                              <cell>Loi f&#xE9;d&#xE9;rale sur la formation professionnelle</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SEFRI</cell>
+                              <cell>Secr&#xE9;tariat d&amp;#39;&#xE9;tat &#xE0; la formation, la recherche et l&amp;#39;innovation</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SSBS</cell>
+                              <cell>Association suisse des &#xE9;coles de snowboard</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>SSSA</cell>
+                              <cell>Swiss Snow Sports Association</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>TR</cell>
+                              <cell>module Tourisme et loi dans les sports de neige</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>UIAGM</cell>
+                              <cell>Union internationale des associations de guides de montagne</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>UIMLA</cell>
+                              <cell>Union internationale des associations d&amp;#39;accompagnateurs en montagne</cell>
+                            </row>
+                            <row rowType="data">
+                              <cell>VT</cell>
+                              <cell>module Hors-piste et randonn&#xE9;e</cell>
+                            </row>
+                          </tableContent>
+                        </table>
+                      </mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2014-01-01</dateForce>
+      <dateVersion>2014-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 52/2013</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

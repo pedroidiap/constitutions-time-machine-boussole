@@ -1,0 +1,3126 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:65</normID>
+      <number>931.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Bergwerke und Steinbr&#xFC;che</title>
+      <title lang="fr">Loi sur les mines et carri&#xE8;res</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rath des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1856-11-21</dateAdoption>
+      <dateForce>1856-12-28T00:00:00</dateForce>
+      <dateLastChange>1997-01-01</dateLastChange>
+      <dateVersion>1997-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rath des Kantons Wallis</authorityDescription><basis>in Erw&#xE4;gung, dass das Gesetz&#xA0;&#xFC;ber den Bergbau vom 6. Dezember 1828 den gegenw&#xE4;rtigen Forderungen und Bed&#xFC;rfnissen dieses Industriezweiges nicht mehr entspricht;</basis> <basis>auf Antrag des Staatsrathes,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>consid&#xE9;rant que la loi&#xA0;sur l'exploitation des mines du 6 d&#xE9;cembre 1828 ne r&#xE9;pond plus aux exigences de cette branche d'industrie;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1852-1857 f 360 | d 388</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="169">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Bergwerke und Steinbr&#xFC;che</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les mines et carri&#xE8;res</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="171">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Eintheilung der mineralischen Substanzen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Classification des substances min&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:480">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1083">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die mineralischen Substanzen, die entweder im Innern der Erde verschlossen sind oder auf der Oberfl&#xE4;che derselben sich befinden, werden, in Bezug ihrer Gewinnungsart, in Bergwerke und Steinbr&#xFC;che eingetheilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les substances min&#xE9;rales renferm&#xE9;es dans le sein de la terre ou existant &#xE0; sa surface, sont class&#xE9;es, relativement aux conditions de leur exploitation, sous les qualifications de mines et de carri&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:481">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1084">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Bergwerken versteht man die mineralischen Massen, welche in Adern, Lagern oder Nestern Mineralstoffe enthalten, wie das Gold das Silber, die Platine, das Quecksilber, das Blei, das Eisen, das Kupfer, das Zinn, der Zink, der Bissmuth, der Kobalt, der Nickel, der Arsenik, der Talk, das Spiesglas, das Neissblei, die schwefels&#xE4;urigen Salze mit metallischem Grundstoffe, schwefels&#xE4;uriger Talkerde, der Alaun, die Erdharze und Erdpeche, die fossilen Brennstoffe, wie der Holzessig, die Kohlenblende und die Steinkohlen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les mines comprennent les masses min&#xE9;rales contenant en filons, en couches ou en amas, des mati&#xE8;res m&#xE9;talliques, telles que l'or, l'argent, le platine, le mercure, le plomb, le fer, le cuivre, l'&#xE9;tain, le zinc, le bismuth, le cobalt, le nickel, l'arsenic, le mangan&#xE8;se, l'antimoine, le molybd&#xE8;ne, du soufre, des sulfates &#xE0; base m&#xE9;tallique, du sulfate de magn&#xE9;sie, de l'alun, des bitumes et asphalte, des combustibles fossiles tels que les lignites, les houilles, les anthracites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:482">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1085">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Steinbr&#xFC;chen werden verstanden, die Schiefersteine, der Sandstein, der Marmor, der Granit, die Bausteine aller Gattung, die Feuersteine, die Backsteine, die M&#xFC;hlesteine, die Kalk-, Gyps- und Kreidensteine, die Thonerde, die Walkererde, die Topferde, die fettige Alaunerde die als D&#xFC;nger gebraucht wird, der Torf, der Sand, die Anh&#xE4;ufungen von Kieselsteinen und &#xFC;berhaupt die erdigen Substanzen von irgend welcher Gattung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les carri&#xE8;res renferment les ardoises, les gr&#xE8;s, marbres, granits, les pierres &#xE0; b&#xE2;tir de toute nature, pierres &#xE0; fusil, pierres &#xE0; fourneau, pierres meuli&#xE8;res, pierres &#xE0; chaux, &#xE0; pl&#xE2;tre, la craie, les marnes, argiles, terres &#xE0; foulon, terres &#xE0; poterie, terres alumineuses, pyriteuses exploit&#xE9;es comme engrais, la tourbe, le sable, les d&#xE9;p&#xF4;ts de cailloux et en g&#xE9;n&#xE9;ral les substances terreuses de nature quelconque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:483">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1086">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das gemeine Salz, sei es rein oder vermischt, ganz oder verd&#xFC;nnt, geh&#xF6;rt weder zur einen noch zur andern der obgenannten Kategorien und seine Ausbeutung steht einzig dem Staate zu.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le sel commun, pur ou m&#xE9;lang&#xE9;, &#xE0; l'&#xE9;tat solide ou en dissolution, n'est compris ni dans l'une ni dans l'autre des cat&#xE9;gories pr&#xE9;c&#xE9;dentes, et son exploitation ne peut &#xEA;tre entreprise que par l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="172">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Substanzen von der ersten Klasse. Bergwerke</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Substances de la premi&#xE8;re classe. Mines</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="173">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Von dem Aufsuchen (Sch&#xFC;rfen) und dem Finden der Minen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>De la recherche et de la d&#xE9;couverte des mines</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:484">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1087">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Aufsuchen von Minen (Sch&#xFC;rfen nach Minen) ist, unter dem bei Artikeln 8 und 9 gemachtem Vorbehalt, auf seinem eigenen Boden jedem Eigenth&#xFC;mer gestattet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La recherche des mines est facultative &#xE0; chaque propri&#xE9;taire sur son propre terrain, sous les r&#xE9;serves mentionn&#xE9;es aux articles 8 et 9.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1088">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unter den gleichen Bedingungen kann er vom Eigenth&#xFC;mer des zu nutzenden Bodens auch jedem Drittmann erlaubt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle peut &#xEA;tre accord&#xE9;e &#xE0; toute tierce personne, moyennant les m&#xEA;mes r&#xE9;serves, par le propri&#xE9;taire du terrain &#xE0; exploiter.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1089">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Dessenungeachtet erwirbt sich der Aufseher in beiden F&#xE4;llen die Eigenschaft eines Entdeckers erst am Tage, wo er seine Nachsuchungen bei der Minenverwaltung wird haben einschreiben lassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">N&#xE9;anmoins, dans l'un et l'autre cas, l'explorateur n'acquerra des droits &#xE0; la qualit&#xE9; d'inventeur que du jour o&#xF9; il aura pris inscription de ses recherches aupr&#xE8;s de l'administration des mines.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1090">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese Einschreibung muss den im Kanton gew&#xE4;hlten Wohnsitz des Aufsuchers, die Art der Mine, den Gegenstand seiner Nachsuchungen und die Orte, wo sie sollen gemacht werden, enthalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette inscription devra relater le domicile choisi dans le canton par l'explorateur, la nature de la mine, objet de ses recherches, et les lieux o&#xF9; celles- ci doivent s'effectuer.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:485">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1091">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Niemand darf auf fremdem Boden, ohne Bewilligung des Eigenth&#xFC;mers der Oberfl&#xE4;che, Nachforschungen zur Entdeckung von Minen vornehmen, in demselben Sucheisen oder Erdbohrer einsenken, ausser mit einer besondern Bevollm&#xE4;chtigung durch die Minenverwaltung, diese kann aber nur unter der Bedingung ertheilt werden, dass der dar&#xFC;ber vorerst anzuh&#xF6;rende Eigenth&#xFC;mer vorl&#xE4;ufig entsch&#xE4;digt sei.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Nul ne peut faire des recherches pour d&#xE9;couvrir des mines, enfoncer des sondes ou tari&#xE8;res sur un terrain qui ne lui appartient pas, en l'absence du consentement du propri&#xE9;taire de la surface, qu'avec une autorisation sp&#xE9;ciale de l'administration des mines, donn&#xE9;e &#xE0; la charge d'une pr&#xE9;alable indemnit&#xE9; envers le propri&#xE9;taire et apr&#xE8;s qu'il aura &#xE9;t&#xE9; entendu.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1092">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Gesuch, mittelst dessen der Nachsucher diese Bevollm&#xE4;chtigung verlangt, muss jede durch die im vorigen Artikel erw&#xE4;hnte Einschreibung geforderte Auskunft enthalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande par laquelle l'explorateur r&#xE9;clame cette autorisation devra contenir tous les renseignements exig&#xE9;s dans l'inscription mentionn&#xE9;e &#xE0; l'article pr&#xE9;c&#xE9;dent.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:486">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1093">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In eingemauerten Pl&#xE4;tzen, H&#xF6;fen oder G&#xE4;rten zun&#xE4;chst den Wohnungen darf ohne f&#xF6;rmliche Bewilligung des Eigenth&#xFC;mers der Oberfl&#xE4;che kein Aufsuchen vorgenommen werden die Erm&#xE4;chtigung des Departements bringt in diesem Falle von sich aus dieses Recht nicht mit.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette autorisation ne pourra donner le droit, sans un consentement formel du propri&#xE9;taire de la surface, de pratiquer les recherches dans les enclos mur&#xE9;s, cours ou jardins attenant aux habitations.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1094">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Desgleichen auch bringt sie das Recht nicht mit, ohne f&#xF6;rmliche Bewilligung der Eigenth&#xFC;mer in einer Entfernung von weniger als 300 Schuhen von den Wohnungen Bohrungen anzustellen und Schachten oder Stollen zu bauen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elle ne pourra pas non plus donner le droit de faire des sondes et d'ouvrir des puits ou galeries &#xE0; une distance moindre que 300 pieds des habitations, sans le consentement formel de leur propri&#xE9;taire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1095">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn in dieser Entfernung noch Geb&#xE4;ude in Gefahr k&#xE4;men, so ist deren Eigenth&#xFC;mer berechtigt, es zu beweisen und daf&#xFC;r B&#xFC;rgschaft zu verlangen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si, &#xE0; cette distance, il peut y avoir danger pour ses b&#xE2;timents, le propri&#xE9;taire peut le faire constater et demander des garanties.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1096">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Aufsuchen darf in keinem Falle gestattet werden auf einem schon bewilligten Boden f&#xFC;r eine Mine gleicher Gattung, oder f&#xFC;r den von der Minenverwaltung eine Nachsuchungsgestattung (Sch&#xFC;rfzettel) bereits aus gestellt ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Dans aucun cas, les recherches ne pourront &#xEA;tre autoris&#xE9;es sur un terrain d&#xE9;j&#xE0; conc&#xE9;d&#xE9; pour une mine de m&#xEA;me nature, ou pour lequel il existerait d&#xE9;j&#xE0; une autorisation de recherche par l'administration des mines.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:487">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1097">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die allf&#xE4;lligen Aufsuchungsarbeiten k&#xF6;nnen bei &#xF6;ffentlichen Strassen und Wegen, bei k&#xFC;nstlichen Wasserl&#xE4;ufen, bei Mineralquellen, nur in einer Entfernung von 100 Schuhen betrieben werden.&#xA0;Werden unterirdische G&#xE4;nge gemacht, so wird hiezu die Erlaubniss des Br&#xFC;cken- und Strassendepartementes erfordert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les travaux de recherche ne pourront &#xEA;tre pouss&#xE9;s &#xE0; une distance moindre que 100 pieds des routes et autres passages publics, des cours d'eau artificiels, des sources min&#xE9;rales; ils ne pourront &#xEA;tre conduits souterrainement en galeries qu'apr&#xE8;s une permission d&#xE9;livr&#xE9;e par le D&#xE9;partement des ponts et chauss&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:488">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1098">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die von den Eigenth&#xFC;mer oder von dem dazu bevollm&#xE4;chtigten Drittmann genommene Einschreibung, so wie die von der Minenverwaltung auf gefertigte Erm&#xE4;chtigte sind f&#xFC;r ein Jahr g&#xFC;ltig; diese k&#xF6;nnen in den bei Art. 12 vorgesehenen F&#xE4;llen nach Verlauf dieser Frist und nach Einvernahme des Eigenth&#xFC;mers der Oberfl&#xE4;che wieder erneuert werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'inscription prise par le propri&#xE9;taire ou par le tiers qu'il a autoris&#xE9; et l'autorisation de rechercher d&#xE9;livr&#xE9;e par l'administration des mines seront valables pour une ann&#xE9;e; elles pourront &#xEA;tre renouvel&#xE9;es au bout de ce temps, dans les cas pr&#xE9;vus &#xE0; l'article 12, le propri&#xE9;taire de la surface entendu.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:489">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1099">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Einschreibung und die Erm&#xE4;chtigung sind wirkungslos, wenn das Aufsuchen innert drei Monaten nicht begonnen oder w&#xE4;hrend mehr als sechs Monaten eingestellt worden ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'inscription et l'autorisation seront sans effet si les travaux de recherche n'ont pas commenc&#xE9; dans les trois mois, ou s'ils sont suspendus pendant plus de six mois.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:490">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1100">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Aufsucher ist gehalten, allen durch seine Arbeiten veranlassten Schaden zu bezahlen und auf Verlangen des Grundeigenth&#xFC;mers vorl&#xE4;ufig bei jedem Aufsuchen eine B&#xFC;rgschaft zu leisten f&#xFC;r die Bezahlung der allf&#xE4;lligen Schadloshaltungen die ihm zur Last fallen k&#xF6;nnten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'explorateur sera tenu de payer tous les dommages occasionn&#xE9;s par ses travaux et, sur la demande du propri&#xE9;taire du fonds, il devra, pr&#xE9;alablement &#xE0; toute recherche, fournir caution de payer les indemnit&#xE9;s qui tomberont &#xE0; sa charge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:491">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1101">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn in Folge der Aufsuchungsarbeiten (Sch&#xFC;rfungen) die Lagerst&#xE4;tte des Minerals in ausbeutungsm&#xF6;glichen Nestern, Lagern oder Adern entdeckt worden ist, so hat der Ausfinder sich bei der Mineverwaltung, je nach dem Falle, entweder um f&#xFC;r den Fund eine Erkl&#xE4;rung, oder um die Erm&#xE4;chtigung die Aufsuchungsarbeiten fortsetzen zu d&#xFC;rfen, abzufinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque les travaux de recherche auront amen&#xE9; la d&#xE9;couverte du g&#xEE;te min&#xE9;ral en amas, couche ou filon, exploitable, l'explorateur devra recourir &#xE0; l'administration des mines pour en obtenir, suivant les cas, soit la d&#xE9;claration de d&#xE9;couverte de la mine, soit l'autorisation de poursuivre les travaux de recherche.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:492">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1102">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concession einer bei den Arbeiten eines Strassen- oder Eisenbahnbaues entdeckten Mine ist dem Staate oder der Eisenbahngesellschaft gesichert, unbeschadet jedoch der durch einen Drittmann erworbenen Rechte.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La concession d'une mine d&#xE9;couverte par les travaux de construction d'une route ou d'un chemin de fer, est assur&#xE9;e &#xE0; l'Etat ou &#xE0; la Compagnie du chemin de fer, sans pr&#xE9;judice des droits acquis par des tiers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="174">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Von den Concessionen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Des concessions</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:493">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1103">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bergwerke k&#xF6;nnen nur auf eine vom Grossen Rathe ausgefertigte Concessionsurkunde hin gebaut werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les mines ne peuvent &#xEA;tre exploit&#xE9;es qu'en vertu d'un acte de concession d&#xE9;livr&#xE9; par le Grand Conseil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1104">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verm&#xF6;ge einer besondern Vollmacht hiezu abseiten des Grossen Rathes kann der Staatsrath zu ihrer &#xDC;bertragung autorisieren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Leur transfert peut &#xEA;tre autoris&#xE9; par le Conseil d'Etat ensuite de d&#xE9;l&#xE9;gation du Grand Conseil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:494">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1105">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concession kann nur eine als entdeckt erkl&#xE4;rte Mine zum Gegenstand haben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La concession ne peut avoir pour objet qu'une mine d&#xE9;clar&#xE9;e d&#xE9;couverte.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:495">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1106">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jede selbst f&#xFC;r sich allein handelnde (Eigenth&#xFC;mer) oder mit andern vergesellschaftete (Gewerbschaften) Person hat das Recht, die Concession eines Bergwerkes zu begehren, und eintretendenfalls, f&#xFC;r die Entdeckung der Mine Entsch&#xE4;digung zu erhalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toute personne, agissant isol&#xE9;ment ou en soci&#xE9;t&#xE9;, a le droit de demander et peut obtenir, s'il y a lieu, une concession de mine.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:496">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1107">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn Derienige, welcher die Concession verlangt, f&#xFC;r einen geh&#xF6;rigen Bau nicht Garantie bietet, so kann ihm der Grosse Rath dieselbe verweigern; wird ihm aber, eintretenden Falls, f&#xFC;r die Entdeckung der Mine eine Entsch&#xE4;digung zusprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le solliciteur ne pr&#xE9;sente pas des garanties pour l'exploitation convenable, la concession pourra lui &#xEA;tre refus&#xE9;e par le Grand Conseil, qui lui assurera, s'il y a lieu, une indemnit&#xE9; pour la d&#xE9;couverte de la mine.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:497">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>18</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1108">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Vorzug f&#xFC;r die Concession eines neuen Bergwerkes geb&#xFC;hrt dem Auffinder. Wenn er aber innert den drei Monaten von der Fundeserkl&#xE4;rung von welcher im Artikel 12 die Rede ist, an zu z&#xE4;hlen, sein Concessionsbegehren nicht gestellt hat, so ist er von seinem Vorzuge verfallen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La pr&#xE9;f&#xE9;rence pour la concession d'une mine nouvelle appartiendra &#xE0; l'inventeur ou &#xE0; ses ayants droit, si dans les trois mois &#xE0; dater de la d&#xE9;claration de d&#xE9;couverte dont il est parl&#xE9; &#xE0; l'article 12, l'inventeur n'a pas fait sa demande en concession, il sera d&#xE9;chu de son privil&#xE8;ge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:498">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1109">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ausweis der Eigenschaft als Auffinder geschieht durch die bei der Minenverwaltung gem&#xE4;ss den Artikeln 5 und 6 vorgenommene Einschreibung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La qualit&#xE9; d'inventeur sera justifi&#xE9;e par l'inscription prise &#xE0; l'administration des mines, &#xE0; teneur des articles 5 et 6.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:499">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1110">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wird die Concession nicht dem Auffinder zuerkannt, so wird der Vorzug auf das erste unter den durch gegenw&#xE4;rtiges Gesetz aufgestellten Bedingungen an die Mineverwaltung gerichtete Begehren verliehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si la concession n'est pas adjug&#xE9;e &#xE0; l'inventeur, la pr&#xE9;f&#xE9;rence sera accord&#xE9;e &#xE0; la premi&#xE8;re demande adress&#xE9;e &#xE0; l'administration des mines dans les conditions d&#xE9;termin&#xE9;es par la pr&#xE9;sente loi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:500">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>21</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1111">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Concessionsbegehren hat einfach durch Einreichung einer Bittschrift der Mineverwaltung zu geschehen, welche dasselbe mit ihrer Betagung auf ein besonderes Register eintragen zu lassen hat. Diese Eintragung ist durch die Unterschrift des Departementschefs und im Verhinderungsfalle durch ein anderes Mitglied der Staatsrathes zu constatiren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande en concession sera faite par voie de simple p&#xE9;tition adress&#xE9;e &#xE0; l'administration des mines, qui la fera enregistrer &#xE0; sa date sur un registre particulier. L'inscription sera constat&#xE9;e par la signature du chef du D&#xE9;partement et en cas d'emp&#xEA;chement par un autre membre du Conseil d'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1112">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Begehren soll zur Unterst&#xFC;tzung mit einem regelm&#xE4;ssigen Plane der Oberfl&#xE4;che begleitet sein, der nebstdem die der Concession anzuweisenden Begrenzungen enthalten soll; ferner auch die Namen der Gemeinde und des Ortes, wo die Mine liegt, bezeichnet, die der Concession anzuweisenden Grenzen, die Art des auszubeutenden Minerals, und den vom Gesuchsteller im Kanton gew&#xE4;hlten Wohnsitz; endlich hat er die Verpflichtung, sich bei dem Bau nach der von dem Grossen Rathe bestimmten Weise zu richten und die vom Artikel 17 vorgeschriebenen Ausweise zu enthalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande devra &#xEA;tre accompagn&#xE9;e &#xE0; l'appui, d'un plan r&#xE9;gulier de la surface, indiquant les noms de la commune et du lieu o&#xF9; la mine est situ&#xE9;e, les limites &#xE0; assigner &#xE0; la concession, la nature du minerai &#xE0; exploiter, le domicile choisi dans le canton par le demandeur; elle renfermera enfin l'engagement de se conformer au mode d'exploitation d&#xE9;termin&#xE9; par le Grand Conseil et les justifications prescrites par l'article 17.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:501">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>22</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1113">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sollte der Bau unter H&#xE4;usern oder Wohnungen, unter eingemauerten Pl&#xE4;tzen, unter andern Bergwerken oder in deren unmittelbaren N&#xE4;he sich ausdehnen, so hat der Ansucher f&#xFC;r allf&#xE4;llige Schadloshaltungen der m&#xF6;glichen Unf&#xE4;lle eine vorl&#xE4;ufige B&#xFC;rgschaft zu leisten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si l'exploitation doit s'&#xE9;tendre sous des maisons ou lieux d'habitation, sous des enclos mur&#xE9;s, sous d'autres exploitations ou dans leur voisinage imm&#xE9;diat, le demandeur devra donner caution pr&#xE9;alable de payer toute indemnit&#xE9; en cas d'accident.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:502">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>23</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1114">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In den f&#xFC;nfzehn auf die Einreichung des Begehrens folgenden Tagen hat der Staatsrath dessen Kundmachung zu verordnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Dans les quinze jours qui suivront la pr&#xE9;sentation de la demande, le Conseil d'Etat en ordonnera les publications.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1115">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese hat dreimal von f&#xFC;nfzehn zu f&#xFC;nfzehn Tagen an dem gew&#xF6;hnlichen Ausrufungsorte in allen denjenigen Gemeinden stattzufinden, auf deren Gebiet sich die Concession erstrecken soll.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Elles auront lieu trois fois, de quinzaine en quinzaine, aux cri&#xE9;es ordinaires, dans toutes les communes sur le territoire desquelles la concession doit s'&#xE9;tendre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1116">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kundmachungszettel sollen in den n&#xE4;mlichen Gemeinden w&#xE4;hrend sechzig Tagen angeschlagen bleiben und mittelst eines Auszuges ins Amtsblatt einger&#xFC;ckt werden, alles dies auf Unkosten des Ansuchers.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les affiches auront lieu aux m&#xEA;mes endroits, pendant soixante jours, et elles seront ins&#xE9;r&#xE9;es par extrait dans le Bulletin officiel, le tout aux frais du requ&#xE9;rant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:503">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>24</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1117">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Einsprachen wider das Begehren werden bis auf den 40sten auf die letzte Ver&#xF6;ffentlichung folgenden Tag mit eingeschlossen, beim Staatsrathe abgenommen, dieselben sind rangweise in das Register einzutragen, dessen beim Artikel 21 erw&#xE4;hnt ist und mittelst Auszuges den betheiligten Parteien mitzuteilen. Dieses Register hat &#xFC;brigens jedem offen zu stehen, der es nachzu-schlagen begehrt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les oppositions &#xE0; la demande seront admises au Conseil d'Etat, jusqu'au quaranti&#xE8;me jour inclusivement qui suivra la derni&#xE8;re publication; elles seront inscrites par ordre sur le registre dont il est fait mention &#xE0; l'article 21 et communiqu&#xE9;es par extrait aux parties int&#xE9;ress&#xE9;es. Le registre sera d'ailleurs ouvert &#xE0; tous ceux qui en demanderont communication.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:504">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>25</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1118">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nachdem alle Einsprachen werden ausgemittelt sein, und fr&#xFC;hestens nach Verlauf der beim Artikel 24 anberaumten Frist, wird der Staatsrath &#xFC;ber das Begehren in Berathung treten und dem Grossen Rathe in seiner n&#xE4;chsten Sitzung seinen Vorantrag dar&#xFC;ber vorlegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque toutes les oppositions auront &#xE9;t&#xE9; vid&#xE9;es et au plus t&#xF4;t apr&#xE8;s l'expiration du d&#xE9;lai fix&#xE9; par l'article 24, le Conseil d'Etat d&#xE9;lib&#xE9;rera sur la demande et soumettra son pr&#xE9;avis au Grand Conseil en sa prochaine session.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:505">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>26</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1119">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concessions-Urkunde soll enthalten den Geschlechts- und Taufnamen sowie die Eigenschaft des Concession&#xE4;rs, den Wohnsitz, den er im Kanton sich wird ausgew&#xE4;hlt haben, die Gattung nebst der Lage des concedirten Bergwerkes die dem Auffinder, eintretenden Falls, zu bezahlende Entsch&#xE4;digung, die dem Staate f&#xFC;r die Bewilligung zu entrichtende Taxe sowie auch die dem Concession&#xE4;ren auferlegten besondern Bedingnisse.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'acte de concession indiquera le nom, pr&#xE9;nom et qualit&#xE9; du concessionnaire, le domicile qu'il aura choisi dans le canton, la nature et la situation de la mine conc&#xE9;d&#xE9;e, l'indemnit&#xE9; &#xE0; payer &#xE0; l'inventeur, le cas &#xE9;ch&#xE9;ant, la taxe &#xE0; payer &#xE0; l'Etat pour prix de la concession, ainsi que les conditions particuli&#xE8;res impos&#xE9;es au concessionnaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1120">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die bestimmten Begrenzungen sollen auf dem in Gem&#xE4;ssheit des Artikels 21 vorgelegten Plane abgezeichnet und eine Copie desselben der Concessions-Urkunde beigelegt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les limites fix&#xE9;es seront trac&#xE9;es sur le plan pr&#xE9;sent&#xE9; en conformit&#xE9; de l'article 21 et une copie de ce plan restera annex&#xE9;e &#xE0; l'acte de concession.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1121">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ausdehnung der Concession darf ein Quadrat von einer halben Schweizerstunde durch Seite nicht &#xFC;berschreiten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La concession ne pourra exc&#xE9;der un carr&#xE9; d'une demi-lieue f&#xE9;d&#xE9;rale de c&#xF4;t&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:506">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>27</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1122">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Concessions-Beschluss ist ein Mal in den beim Artikel 23 bezeichneten Ortschaften nach den gew&#xF6;hnlichen F&#xF6;rmlichkeiten und auf Unkosten des Ansuchers zu verk&#xFC;ndigen und in's Amtsblatt einzur&#xFC;cken. Ferner soll er, innert dreissig Tagen von der Concession an, in's Hypothekarbureau des Kreises eingeschrieben werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le d&#xE9;cret de concession sera ins&#xE9;r&#xE9; dans le Bulletin officiel et publi&#xE9; une fois aux lieux indiqu&#xE9;s &#xE0; l'article 23, suivant les formes ordinaires et aux frais du concessionnaire. Il sera de plus transcrit au bureau des hypoth&#xE8;ques de l'arrondissement dans le d&#xE9;lai de trente jours d&#xE8;s la concession.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="175">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Rechte und Verpflichtungen des Concession&#xE4;rs</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Droits et obligations du concessionnaire</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:507">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>28</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1123">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Von der Betagung des Concessions-Beschlusses an wird die bewilligte Mine, unter Verpflichtung ihres Baues, zum ewigen, verf&#xFC;gbaren und &#xFC;ber tragbaren Eigenthume, gleich wie alle andern G&#xFC;ter, und von dem man nicht vertrieben werden kann, ausser in der F&#xE4;llen haut den F&#xF6;rmlichkeiten, wie sie f&#xFC;r anderes Eigenthum vorgeschrieben sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">D&#xE8;s la date du d&#xE9;cret de concession, la mine conc&#xE9;d&#xE9;e devient, &#xE0; charge d'exploitation, une propri&#xE9;t&#xE9; perp&#xE9;tuelle, disponible et transmissible comme tous autres biens et dont on ne peut &#xEA;tre d&#xE9;poss&#xE9;d&#xE9; que dans les cas et selon les formes prescrites pour les autres propri&#xE9;t&#xE9;s.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1124">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es darf jedoch ein Bergwerk ohne die Erm&#xE4;chtigung des Grossen Rathes weder verkauft noch vertheilt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toutefois une mine ne peut &#xEA;tre vendue, c&#xE9;d&#xE9;e ou partag&#xE9;e sans l'autorisation du Grand Conseil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1125">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jeder Verkaufs-, Abtretungs-, Schenkungs- oder Vertheilungsact einer Mine ist unter Nichtigkeitsstrafe durch einen Notar im Kanton zu stipuliren und den Vorschriften des Artikels 27 unterworfen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Tout acte de vente, cession, donation, ou partage de mine devra, &#xE0; peine de nullit&#xE9;, &#xEA;tre stipul&#xE9; par un notaire du canton et soumis aux prescriptions de l'article 27.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:508">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>29</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1126">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Bergwerke werden zu den unbeweglichen G&#xFC;tern gez&#xE4;hlt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les mines sont immeubles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1127">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unbewegliche G&#xFC;ter sind ferner die Geb&#xE4;ude, die Maschinen, die Schachten, G&#xE4;nge und &#xFC;brigen Arbeiten, die gem&#xE4;ss dem Artikel 365 des Civil-Gesetzbuches als bleibend angebracht werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont aussi immeubles, les b&#xE2;timents, machines, puits, galeries et autres travaux &#xE9;tablis &#xE0; demeure conform&#xE9;ment &#xE0; l'article 365 du Code civil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1128">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ihrer Bestimmung nach sind auch noch unbewegliche G&#xFC;ter die zum Bau dienenden Tauwerke, Ger&#xE4;thschaften und Werkzeuge.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont aussi immeubles par destination: les agr&#xE8;s, outils et ustensiles servant &#xE0; l'exploitation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:509">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>30</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1129">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zu den beweglichen G&#xFC;tern werden gez&#xE4;hlt: die gewonnenen Materialien, die Vorr&#xE4;the und andern Mobiliengegenst&#xE4;nde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont meubles, les mati&#xE8;res extraites, les approvisionnements et autres objets mobiliers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1130">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Actien oder Antheile an einer Gesellschaft der an einer Unternehmung zum Bau ihre Bergwerke sind gleichfalls beweglich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont aussi meubles les actions ou int&#xE9;r&#xEA;ts dans une soci&#xE9;t&#xE9; ou entreprise pour l'exploitation des mines.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:510">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>31</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1131">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concession einer Berggrube bildet ein von der Oberfl&#xE4;che des Bodens getrenntes Eigenthum, und obschon die n&#xE4;mliche Person im Besitze Beider w&#xE4;re, so wird das Bergwerk als ein neues Eigenthum angesehen, auf welches neue Hypotheken ausgesetzt werden k&#xF6;nnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La concession d'une mine constitue une propri&#xE9;t&#xE9; distincte de celle de la surface du sol et lors m&#xEA;me que l'une et l'autre seraient poss&#xE9;d&#xE9;es par la m&#xEA;me personne, la mine sera consid&#xE9;r&#xE9;e comme propri&#xE9;t&#xE9; nouvelle sur laquelle de nouvelles hypoth&#xE8;ques pourront &#xEA;tre assises.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1132">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diejenigen denen eine Mine bewilligt wurde haben das Recht von den Gemeinden und Privateigenth&#xFC;mern die Pl&#xE4;tze um den &#xD6;ffnungen, aus denen die Erzeugnisse der Bergwerke gezogen werden, zur Niederlage derselben zu verlangen, sowie auch den Boden f&#xFC;r die zur Fortschaffung der Mineralien bis zu einer &#xF6;ffentlichen Strasse bestimmten Wege.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les concessionnaires de mines seront en droit de requ&#xE9;rir des communes et des propri&#xE9;taires particuliers les emplacements dont ils auront besoin autour des ouvertures par lesquelles se fait l'extraction des produits de la mine pour les y d&#xE9;poser, et les terrains qui leur sont n&#xE9;cessaires pour les chemins destin&#xE9;s au transport de ce mat&#xE9;riau jusqu'&#xE0; une voie publique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:511">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>32</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1133">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Werth der Rechte, die aus der Concession zu Gunsten des Eigenth&#xFC;mers der Oberfl&#xE4;che, im Sinne des Artikels 26 hervorgehen, wird von dem Werthe der gesagten Oberfl&#xE4;che nicht trennbar und soll mit diesem f&#xFC;r die von den Gl&#xE4;ubigern des Eigenth&#xFC;mers genommenen Hypotheken haften.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La valeur des droits r&#xE9;sultant de la concession en faveur du propri&#xE9;taire de la surface, &#xE0; teneur de l'article 26, demeurera r&#xE9;unie &#xE0; la valeur de ladite surface et sera affect&#xE9;e avec elle aux hypoth&#xE8;ques prises par les cr&#xE9;anciers du propri&#xE9;taire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:512">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>33</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1134">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diejenigen, denen ein Bergwerk bewilligt ist, sind berechtigt, in den Gemeind- und Privatwaldungen in der N&#xE4;he ihrer Anlagen das zur Ausbeutung f&#xFC;r die unterirdischen Arbeiten oder die Wohnungen der Arbeiter n&#xF6;thige Holz zu verlangen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les concessionnaires de mines sont autoris&#xE9;s &#xE0; requ&#xE9;rir dans les for&#xEA;ts communales et particuli&#xE8;res, &#xE0; proximit&#xE9; de leurs &#xE9;tablissements, les bois n&#xE9;cessaires &#xE0; l'exploitation pour des travaux souterrains ou pour le logement des ouvriers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1135">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Dessungeachtet aber k&#xF6;nnen sie gehalten werden, &#xFC;ber die Menge des n&#xF6;thigen Holzes und dessen Gebrauch an der Ortsbeh&#xF6;rde sich auszuweisen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils pourront n&#xE9;anmoins &#xEA;tre tenus de justifier devant l'autorit&#xE9; locale de la quantit&#xE9; de bois n&#xE9;cessaires et de leur emploi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1136">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausgenommen sind die Gemeindeverwaltungen so wegen Gefahr von Erdst&#xFC;rzen in Bann sind, jene, deren Erhaltung im &#xF6;ffentlichen Interesse liegt, und die Privatwaldungen, deren Gebrauch dem Eigenth&#xFC;mer f&#xFC;r die Hausbed&#xFC;rfnisse unentbehrlich ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Son except&#xE9;es les for&#xEA;ts communales embannis&#xE9;es par crainte d'&#xE9;boulements, celles dont la conservation int&#xE9;resse la s&#xFB;ret&#xE9; publique et les for&#xEA;ts particuli&#xE8;res dont l'usage est indispensable &#xE0; leurs propri&#xE9;taires pour leur usage domestique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1137">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In Abgang eines freundschaftlichen &#xDC;bereinkommens &#xFC;ber den Preis des vom Concession&#xE4;ren durch Requisition gelieferten Holzes wird derselbe durch Sachkundige bestimmt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">A d&#xE9;faut d'arrangement amiable sur le prix des bois fournis &#xE0; r&#xE9;quisition des concessionnaires, le r&#xE8;glement s'en fera par experts.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:513">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>34</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1138">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls der Concession&#xE4;r oder seine Rechtshabenden willens w&#xE4;ren, das Bergwerk durch Verkauf oder sonstwie in mehrere unabh&#xE4;ngige Loose zu vertheilen, so haben sie dazu die beim Artikel 28 vorgeschriebene Erm&#xE4;chtigung einzuholen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque le concessionnaire ou ses ayants droit voudront partager la mine par vente ou autrement, en plusieurs lots ind&#xE9;pendants, ils devront en obtenir l'autorisation ainsi qu'il est dit &#xE0; l'article 28.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1139">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Theilungs-Begehren soll an die Mineverwaltung gerichtet werden mit einem Plane der Concession und mit dem Plane der innern Arbeiten; es soll &#xFC;berdies mit den beim Artikel 17 vorgemerkten Ausweisen in Bezug auf jeden Theilhaber begleitet sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande en partage sera adress&#xE9;e &#xE0; l'administration des mines avec un plan de la concession et un autre des travaux int&#xE9;rieurs; elle sera de plus accompagn&#xE9;e des justifications indiqu&#xE9;es &#xE0; l'article 17, relativement &#xE0; chacun des co-partageants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:514">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>35</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1140">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Geh&#xF6;rt eine Concession von Bergwerken mehreren Personen oder einer Gesellschaft an, so haben die Concession&#xE4;ren oder die Gesellschaft (Gewerbschaft), wenn sie dazu von der Mineverwaltung angefordert werden, sich auszuweisen, dass mittelst einer speziellen Verabredung, dahin gesorgt sei, dass die Ausbeutungsarbeiten einer einzigen Direction unterworfen und zu einem gemeinschaftlichen Interesse zugeordnet seien.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsqu'une concession de mines appartiendra &#xE0; plusieurs personnes ou &#xE0; une soci&#xE9;t&#xE9;, les concessionnaires ou la soci&#xE9;t&#xE9; devront, quand ils en sont requis par l'administration des mines, justifier qu'il est pourvu par une convention sp&#xE9;ciale &#xE0; ce que les travaux d'exploitation soient soumis &#xE0; une direction unique et coordonn&#xE9;s dans un int&#xE9;r&#xEA;t commun.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1141">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie sind gleichfalls gehalten, vor eben diesem Departement einen Spezialbevollm&#xE4;chtigten zu bestellen, um sie gegen&#xFC;ber der Verwaltung sowohl als Kl&#xE4;ger, wie als Verantworter zu vertreten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils seront pareillement tenus de constituer par-devant le m&#xEA;me d&#xE9;partement un mandataire sp&#xE9;cial pour les repr&#xE9;senter envers l'administration, tant en demandant qu'en d&#xE9;fendant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1142">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn die Concession&#xE4;ren, in der ihnen anberaumten Frist, den von dem 1.&#xA7; gegenw&#xE4;rtigen Artikels verlangten Ausweis nicht leisten, oder die Clauseln ihrer Verabredungen, welche die Einheit der Concession zu sichern haben, nicht vollbringen sollten, so kann der Staatsrath die Arbeiten theilweise oder ganz einstellen lassen, oder, je nach den F&#xE4;llen, einen Commiss&#xE4;r bestimmen, der f&#xFC;r die Concession&#xE4;re mit der Verwaltung beladen ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Faute par les concessionnaires d'avoir fait dans le d&#xE9;lai qui leur aura &#xE9;t&#xE9; assign&#xE9;, la justification requise par le paragraphe premier du pr&#xE9;sent article, ou d'ex&#xE9;cuter les clauses de leurs conventions qui auraient pour objet d'assurer l'unit&#xE9; de la concession, le Conseil d'Etat pourra prononcer la suspension de tout ou partie des travaux, ou nommer suivant les cas un commissaire charg&#xE9; d'administrer pour le compte des concessionnaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1143">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Commiss&#xE4;r kann bezahlt werden, und in diesem Falle wird sein Gehalt, der den Concession&#xE4;ren obliegt, von dem Staatsrathe bestimmt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le commissaire pourra &#xEA;tre r&#xE9;tribu&#xE9;; dans ce cas le Conseil d'Etat fixera le taux de son traitement qui sera &#xE0; la charge des concessionnaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:515">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>36</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1144">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls durch Mangel an Einheit in dem Bau-System mehrerer an einander stossenden oder nahestehenden Bergwerke die Existenz einer derselben oder die &#xF6;ffentliche Sicherheit gef&#xE4;hrdet werden sollte, kann der Staatsrath, nach Anh&#xF6;r der Betheiligten, die Concession&#xE4;re dahin verpflichten, innert der ihnen zu bestimmenden Frist, Agenten auszuw&#xE4;hlen mit dem Auftrage, den Bau der verschiedenen Bergwerke einer einzigen Direction zu unterwerfen, und die Arbeiten im gemeinsamen Interesse der Concession&#xE4;re zu ordnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque le d&#xE9;faut d'unit&#xE9; dans le syst&#xE8;me d'exploitation de plusieurs mines contigu&#xEB;s ou voisines, comprises dans des concessions diff&#xE9;rentes, compromettra l'existence de l'une des mines ou la s&#xFB;ret&#xE9; publique, le Conseil d'Etat pourra, apr&#xE8;s avoir entendu les int&#xE9;ress&#xE9;s, obliger les concessionnaires &#xE0; faire choix, dans le d&#xE9;lai qui leur sera fix&#xE9;, d'agents charg&#xE9;s de soumettre les exploitations de diff&#xE9;rentes mines &#xE0; une direction unique et de coordonner les travaux dans l'int&#xE9;r&#xEA;t commun des concessionnaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1145">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sind diese Agenten, deren nicht mehr als drei sein d&#xFC;rfen, in der verordneten Frist nicht erw&#xE4;hlt worden, so kann der Staatsrath einen oder mehrere Commissarien ernennen, mit dem Auftrage, die gef&#xE4;hrdeten Bergwerke zu ver-walten und an denselben die zur Abwendung der Gefahren nothwendigen Arbeiten vorzunehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si ces agents, dont le nombre ne pourra &#xEA;tre sup&#xE9;rieur &#xE0; trois, n'ont pas &#xE9;t&#xE9; &#xE9;lus dans le d&#xE9;lai prescrit, le Conseil d'Etat pourra nommer un ou plusieurs commissaires charg&#xE9;s d'administrer les mines compromises et d'y faire ex&#xE9;cuter tous travaux n&#xE9;cessaires pour &#xE9;loigner les dangers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1146">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat wird die Art und Weise, nach welcher die Commissarien &#xFC;ber ihre Verwaltung Rechenschaft abzugeben haben, vorschreiben, sowie die Grundlagen, nach welchen die Producte der Bergwerke und die gehabten Unkosten vertheilt werden sollen, er hat zugleich den Gehalt der Commissarien zu bestimmen, der dann in den Ausgaben als Sollen der Concession&#xE4;re zu stehen hat.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat r&#xE9;glera le mode suivant lequel les commissaires rendront compte de leur administration et les bases d'apr&#xE8;s lesquelles seront r&#xE9;partis les produits des mines et les d&#xE9;penses effectu&#xE9;es; il fixera en m&#xEA;me temps le traitement des commissaires, qui figurera dans les d&#xE9;penses &#xE0; la charge des concessionnaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:516">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>37</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1147">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn, wegen der N&#xE4;he oder aus irgend einer andern Ursache, durch die Arbeiten f&#xFC;r den Bau eines Bergwerkes dem eines andern Bergwerkes in Betreff des Wassers, welches in diese letztere in gr&#xF6;sserer Menge sich durchzieht, Schaden erfolgen sollte; wenn, anderseits, diese n&#xE4;mlichen Arbeiten eine entgegengesetzte Wirkung hervorbringen und dahin zielen das Wasser eines andern Bergwerkes zum Theil oder ganz abzuf&#xFC;hren, so tritt abseiten eines Bergwerkes zu Gunsten des andern Schadloshaltung ein deren Berichtigung durch Sachkundige zu geschehen hat.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque, par l'effet du voisinage ou pour toute autre cause, les travaux d'exploitation d'une mine occasionnent des dommages &#xE0; l'exploitation d'une autre mine, &#xE0; raison des eaux qui p&#xE9;n&#xE8;trent dans cette derni&#xE8;re en plus grande quantit&#xE9;, lorsque, d'un autre c&#xF4;t&#xE9;, ces m&#xEA;mes travaux produisent un effet contraire et tendent &#xE0; &#xE9;vacuer tout ou partie des eaux d'une autre mine, il y aura lieu &#xE0; indemnit&#xE9; d'une mine en faveur de l'autre; le r&#xE8;glement s'en fera par experts.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:517">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>38</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1148">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concession&#xE4;re von Bergwerken sind gehalten, dem Eigenth&#xFC;mer der Oberfl&#xE4;che jeden Schaden abzutragen, den sie auf dessen Boden, wo sie ihre Arbeiten vollbringen, verursachen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les concessionnaires de mines sont tenus de payer tous les dommages caus&#xE9;s au propri&#xE9;taire de la surface sur le terrain duquel ils &#xE9;tablissent leurs travaux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1149">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn die abseiten der Minen-Aufsucher oder der Eigenth&#xFC;mer derselben veranstalteten Arbeiten nicht vor&#xFC;bergehend sind und wenn der Boden, auf dem diese gemacht wurden, wieder angebaut, wie fr&#xFC;her, hergestellt wird, so soll die Schadloshaltung j&#xE4;hrlich auf das Doppel des Reinertrages des besch&#xE4;digten Bodens berechnet werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si les travaux, entrepris par les explorateurs ou par les propri&#xE9;taires de mines, ne sont que passagers et si le sol o&#xF9; ils ont &#xE9;t&#xE9; faits peut &#xEA;tre remis en culture comme il l'&#xE9;tait auparavant, l'indemnit&#xE9; sera r&#xE9;gl&#xE9;e annuellement au double de ce qu'aurait produit net le terrain endommag&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1150">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kann in Folge der Arbeiten der Boden nicht mehr urbar gemacht werden, so kann der Eigenth&#xFC;mer des Bodens von den Concession&#xE4;ren begehren, dass sie ihm die besch&#xE4;digten Theile abkaufen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque apr&#xE8;s les travaux, les terrains ne seront plus propres &#xE0; la culture, le propri&#xE9;taire du sol pourra exiger des concessionnaires l'acquisition des parties endommag&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1151">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Eigenth&#xFC;mer der Oberfl&#xE4;che solches begehrt, so sollen die auf einem allzugrossen Theile ihrer Oberfl&#xE4;che besch&#xE4;digten oder zu sehr verfallenen Landst&#xFC;cke von dem Eigenth&#xFC;mer des Bergwerkes ganz abgekauft werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le propri&#xE9;taire de la surface le requiert, les pi&#xE8;ces de terre trop endommag&#xE9;es ou d&#xE9;grad&#xE9;es sur une trop grande partie de leur surface, devront &#xEA;tre achet&#xE9;es en totalit&#xE9; par le propri&#xE9;taire de la mine.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1152">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ankaufspreis soll auf freundschaftlichem Wege oder durch Sachkundige ausgemittelt werden, in diesem letzteren Falle soll der Besichtigungspreis um das Drittel erh&#xF6;ht werden und sich auf den Zustand des Bodens vor dessen Verfall gr&#xFC;nden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le prix d'acquisition sera convenu &#xE0; l'amiable ou r&#xE9;gl&#xE9; par des experts; dans ce dernier cas le prix d'expertise sera augment&#xE9; d'un tiers et il sera bas&#xE9; sur l'&#xE9;tat des terrains avant leur d&#xE9;gradation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:518">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>39</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1153">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diejenigen, denen das Aufsuchen von Minen erlaubt, oder deren Bau bewilligt worden, sind gegen&#xFC;ber dem Staate folgenden Taxen und Grundsteuern unterworfen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les permissionnaires et les concessionnaires de mines sont assujettis envers l'Etat aux taxes et redevances suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17659">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Kraft der Artikel 6 und 7 zu erhaltende Einschreibung und Bevollm&#xE4;ch-tigung, sowie auch die beim Artikel 12 dieses Gesetzes erw&#xE4;hnte Erkl&#xE4;rung &#xFC;ber die Entdeckung einer Mine sind mit einer Taxe von 5 Franken beschwert: jedes Concessionsbegehren muss von einer Hinterlegung von 100 Franken begleitet sein, welche zur Bezahlung des Concessionsrechtes bestimmt ist;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'inscription ou l'autorisation &#xE0; obtenir en vertu des articles 6 et 7, et la d&#xE9;claration de d&#xE9;couverte mentionn&#xE9;e &#xE0; l'article 12 de la pr&#xE9;sente loi sont soumises &#xE0; une taxe de 5 francs. Toute demande en concession doit &#xEA;tre accompagn&#xE9;e du d&#xE9;p&#xF4;t d'une somme de 100 francs qui sera affect&#xE9;e au paiement du droit de concession;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:21127">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">jede Bergwerksbewilligung ist einer Taxe von 100 bis 1'000 Franken unterworfen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">toute concession de mine sera soumise &#xE0; une taxe de 100 &#xE0; 1'000 francs;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:21128">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">jede &#xDC;bertragung einer Taxe von 50 bis 500 Franken;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">tout transfert sera soumis &#xE0; une taxe de 50 &#xE0; 500 francs;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17660">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">jeder Mineconcession&#xE4;r zahlt dem Staate j&#xE4;hrlich eine bestimmte, und eine zum Ertrag deren Ausbeutung verh&#xE4;ltnissm&#xE4;ssige Grundsteuer.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">tout concessionnaire de mine paiera annuellement &#xE0; l'Etat une redevance fixe et une redevance proportionnelle au produit de l'extraction.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:35686">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die bestimmte Grundsteuer ist von mindestens 25 Franken bis zu h&#xF6;chstens 200 Franken.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La redevance fixe sera de 25 francs au minimum et de 200 francs au maximum par concession.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1159">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die verh&#xE4;ltnism&#xE4;ssige Steuer wird j&#xE4;hrlich im Verlauf des Monats J&#xE4;nner zu 3 Prozent des Bruttoertrags der Mineralien bestimmt, das heisst nach dem, was im vorhergehenden Jahre aus dem Bergwerk gewonnen wurde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La redevance proportionnelle sera fix&#xE9;e dans le courant du mois de janvier de chaque ann&#xE9;e au 3 pour cent&#xA0;de la valeur du minerai brut, c'est-&#xE0;-dire au sortir de la mine, extrait pendant l'ann&#xE9;e pr&#xE9;c&#xE9;dente.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1160">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Concession&#xE4;re beweisen den Ertrag ihrer Ausbeutung durch die hiezu zu haltenden Register, oder durch die Rechnungen der gewonnenen Mineralien und deren Verkauf in Brutto, oder, falls dieselben geschmolzen oder gereinigt werden, durch die Urkunden, welche deren Ergebniss darthun.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les concessionnaires justifieront des produits de leur exploitation, soit par les registres qu'ils tiendront &#xE0; cet effet, soit par leurs comptes d'extraction et de vente du minerai brut, ou, dans le cas o&#xF9; ce minerai aurait &#xE9;t&#xE9; fondu ou coupell&#xE9;, par les documents qui en constateront le r&#xE9;sultat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1161">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Verwaltung ist dessungeachtet berechtigt, auf eigene Kosten Controlle zu halten, um den Ertrag des Gewinns und den Verkauf von Bruttomaterialien zu bew&#xE4;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'administration aura n&#xE9;anmoins la facult&#xE9; d'&#xE9;tablir, &#xE0; ses frais, des contr&#xF4;les pour v&#xE9;rifier les produits de l'extraction et des ventes en minerai brut.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1162">
+                        <partNumber>6</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Concession&#xE4;r zum Nachtheile des Staates, in seinen Registern, Erkl&#xE4;rungen oder Urkunden, die er zur Feststellung des Ertrages seiner Ausbeutung und massgebend f&#xFC;r die verh&#xE4;ltnissm&#xE4;ssige Steuer, vorweist, sich Betrug h&#xE4;tte zu schulden kommen lassen, so verf&#xE4;llt er f&#xFC;r das erste Mal in eine Busse, die das Doppelte dieser Steuer betr&#xE4;gt. Im R&#xFC;ckfalle ist diese Busse das Vierfache derselben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le concessionnaire avait commis des fraudes au pr&#xE9;judice de l'Etat dans les registres, d&#xE9;clarations ou documents qu'il pr&#xE9;sentera pour &#xE9;tablir les produits de son exploitation et la redevance proportionnelle en r&#xE9;sultat, il encourra pour la premi&#xE8;re fois la peine du double de cette redevance. S'il y a r&#xE9;cidive, la peine sera du quadruple.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1163">
+                        <partNumber>7</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Im R&#xFC;ckfalle ist das correctionelle Belangen vorbehalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En cas de r&#xE9;cidive, l'action correctionnelle est r&#xE9;serv&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:519">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>40</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1164">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der dem Eigenth&#xFC;mer der Oberfl&#xE4;che, unter welcher der Bau eines Bergwerkes stattfindet, schuldige Abtrag soll auf das Viertel der dem Staate schuldigen verh&#xE4;ltnissm&#xE4;ssigen Steuer berechnet werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La redevance due au propri&#xE9;taire de la surface sous laquelle l'exploitation d'une mine aura lieu, sera r&#xE9;gl&#xE9;e au quart de la redevance proportionnelle due &#xE0; l'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1165">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn die Concession unter mehrere Eigenthume sich erstreckt, so muss der Abtrag zwischen den verschiedenen Eigenth&#xFC;mern im Verh&#xE4;ltnisse der Oberfl&#xE4;che, die jeder derselben besitzt, vertheilt werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque la concession s'&#xE9;tendra au-dessous de plusieurs propri&#xE9;t&#xE9;s, la redevance sera partag&#xE9;e entre les divers propri&#xE9;taires proportionnellement &#xE0; la surface que poss&#xE8;de chacun d'eux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="176">
+                <structureContent lang="de">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>Von der Aufsicht &#xFC;ber die Bergwerke</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>De la surveillance des mines</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:520">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>41</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1166">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Bau der Bergwerke steht unter der Aufsicht eines Departementes des Staatsrathes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'exploitation des mines est sous la surveillance d'un d&#xE9;partement du Conseil d'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1167">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bei jeder Besichtigung haben die Concession&#xE4;re die Untersuchung der innern Arbeiten in allen ihren Einzelheiten zu erm&#xF6;glichen. Sie haben best&#xE4;ndig einen Plan ihrer unterirdischen Arbeiten und ein sommarisches Register &#xFC;ber die Umst&#xE4;nde des Baues und &#xFC;ber die Menge der gewonnenen Materialien offen zu halten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">A chaque inspection, les concessionnaires devront fournir le moyen de visiter les travaux int&#xE9;rieurs dans tous leurs d&#xE9;tails. Ils tiendront constamment &#xE0; jour un plan de leurs travaux souterrains et un registre sommaire des circonstances de l'exploitation et des quantit&#xE9;s de mat&#xE9;riaux extraites.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1168">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Ergebniss der Besichtigungen wird in dieses Register eingetragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le r&#xE9;sultat des inspections sera inscrit sur un registre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:521">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>42</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1169">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Im Falle von Gefahr oder bei Richtung von Arbeiten, durch welche die Erhaltung des Bergwerkes gef&#xE4;hrdet werden m&#xF6;chte, hat der Staatsabgeordnete durch eine in das im vorstehenden Artikel erw&#xE4;hnte Register eingeschriebene Anzeige dem Concession&#xE4;r zu verbieten, seinen Bau in jenem Theile fortzusetzen, wo Gefahr oder die schlechte Richtung vorhanden ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En cas de danger ou de direction des travaux nuisibles &#xE0; la conservation de la mine, le d&#xE9;l&#xE9;gu&#xE9; du Conseil d'Etat devra, par une signification inscrite au registre dont il est parl&#xE9; &#xE0; l'article pr&#xE9;c&#xE9;dent, interdire au concessionnaire de continuer son exploitation dans la partie sur laquelle existe le danger ou la mauvaise direction.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1170">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Verbot besteht so lang, als selbes auf die R&#xFC;cksprache des Concession&#xE4;rs vom Staatsrathe nicht wird aufgehoben sein; dieser hat dann zu gleicher Zeit die geeigneten Massnahmen vorzuschreiben, um die an der Ausbeutung bezeichneten Schwierigkeiten abzuwenden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'interdiction subsistera tant qu'elle n'aura pas &#xE9;t&#xE9; lev&#xE9;e sur le recours du concessionnaire, par le Conseil d'Etat qui prescrira en m&#xEA;me temps les mesures propres &#xE0; &#xE9;loigner les inconv&#xE9;nients signal&#xE9;s dans l'exploitation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:522">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>43</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1171">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Tr&#xE4;gt sich im Innern des Bergwerkes oder bei den daherr&#xFC;hrenden Arbeiten ein Ungl&#xFC;cksfall zu, so hat der Concession&#xE4;r oder der Oberaufseher der Arbeiten unverz&#xFC;glich die Mineverwaltung und den Pr&#xE4;sidenten der Gemeinde, wo das Bergwerk liegt, dar&#xFC;ber in Kenntniss zu setzen, um die Gattung und die Ursache des Unfalls amtlich zu erwahren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En cas de sinistre survenu dans l'int&#xE9;rieur d'une mine ou dans les travaux qui en d&#xE9;pendent, le concessionnaire ou le chef des travaux devra en informer imm&#xE9;diatement l'administration des mines et le pr&#xE9;sident de la commune o&#xF9; la mine est situ&#xE9;e, afin que la nature et la cause de l'accident soient constat&#xE9;s officiellement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1172">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eintrat der Ungl&#xFC;cksfall aus Mangel an schicklicher Anleitung der Arbeiten, so ist der Concession&#xE4;r f&#xFC;r alle daherigen Folgen verantwortlich, und er kann deshalben, je nach dem Falle, vor die zust&#xE4;ndigen Gerichte gezogen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le sinistre est survenu par d&#xE9;faut d'une direction convenable des travaux, le concessionnaire sera responsable de toutes les cons&#xE9;quences qui en r&#xE9;sulteront et il pourra, suivant les cas, &#xEA;tre traduit &#xE0; cet effet devant les tribunaux comp&#xE9;tents.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="177">
+                <structureContent lang="de">
+                  <structureOrder>2.5</structureOrder>
+                  <structureText>Von der Abtretung der Bergwerke</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.5</structureOrder>
+                  <structureText>De l'abandon des mines</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:523">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>44</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1173">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Werden die Arbeiten eines Bergwerkes eingestellt oder auf die Art angeleitet, den Untergang des Baues herbeizuf&#xFC;hren, so kann der Staatsrath entweder dem Concession&#xE4;r die Wahl stellen, in einer bestimmten Frist die ihm verordneten Arbeiten zu vollziehen, oder die Abtretung des ihm concedirten Bergwerkes zu begehren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si les travaux d'une mine sont suspendus ou dirig&#xE9;s de fa&#xE7;on &#xE0; amener la ruine de l'exploitation, le Conseil d'Etat pourra mettre le concessionnaire en demeure d'ex&#xE9;cuter, dans un d&#xE9;lai d&#xE9;termin&#xE9;, les ouvrages qui lui seront prescrits, ou de demander l'abandon de la mine qui lui a &#xE9;t&#xE9; conc&#xE9;d&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1174">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zu dieser Massnahme ist der Staatsrath auf das Ansuchen eines Drittmanus verpflichtet, wenn anders derselbe f&#xFC;r die Zahlung der Interventionskosten die ihm zur Last bleiben, hinreichende B&#xFC;rgschaft leistet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Cette mise en demeure est obligatoire pour le Conseil d'Etat, &#xE0; la r&#xE9;quisition d'un tiers, moyennant que celui-ci fournisse des garanties suffisantes pour le paiement des frais de son intervention, qui restent &#xE0; sa charge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:524">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>45</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1175">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das abseiten des Concession&#xE4;rs an den Staatsrath gerichtete Abtretungsgesuch soll in das beim Artikel 21 erw&#xE4;hnte Register eingetragen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La demande en abandon, adress&#xE9;e au Conseil d'Etat par le concessionnaire, sera inscrite sur le registre dont il est fait mention &#xE0; l'article 21.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1176">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gleich nach seiner Eintragung sollen von dem Staatsrathe ein oder mehrere Sachkundige bestellt werden, mit dem Auftrage, contradictorisch mit dem Concession&#xE4;r den Zustand der Bergwerke und des Materials, so sie enth&#xE4;lt, zu constatiren. Das Verbal der Untersuchung soll von den Sachkundigen unter-schrieben, und dem Concession&#xE4;r zur Annahme vorgelegt werden, dem es untersagt ist, unter Strafe von 100 bis 500 Franken, an dem Bergwerke fernere Arbeiten zu machen und dazu verpflichtet ist, die Stellen wieder in denjenigen Stand zu setzen, in dem sie vor Besichtigung der Sachkundigen sich befanden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Aussit&#xF4;t sa transcription, il sera d&#xE9;l&#xE9;gu&#xE9; par le Conseil d'Etat un ou plusieurs experts charg&#xE9;s de constater contradictoirement avec le concessionnaire l'&#xE9;tat de la mine et du mat&#xE9;riel qu'elle contient. Le proc&#xE8;s-verbal de l'enqu&#xEA;te sera sign&#xE9; par les experts et pr&#xE9;sent&#xE9; &#xE0; l'acceptation du concessionnaire auquel il sera interdit de faire aucun travail ult&#xE9;rieur dans la mine &#xE0; peine de 100 &#xE0; 500 francs d'amende, outre l'obligation de remettre les lieux dans l'&#xE9;tat o&#xF9; ils se trouvaient lors de la visite des experts.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1177">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vom Datum der Aufnahme dieses Verbals an, wird der Concession&#xE4;r aller neuen Abtr&#xE4;ge zu Gunsten des Staates oder der Eigenth&#xFC;mer f&#xFC;r seine Ausbeutung entladen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">A dater de la r&#xE9;daction de ce proc&#xE8;s-verbal, le concessionnaire sera exon&#xE9;r&#xE9; de toutes les redevances nouvelles &#xE0; payer &#xE0; l'Etat ou aux propri&#xE9;taires &#xE0; raison de son exploitation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:525">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>46</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1178">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Weigert sich der Concession&#xE4;r, das Untersuchungs-Verbal zu unterzeichnen, so hat er innert den zehn auf die Vorlegung dieses Schriftst&#xFC;ckes folgenden Tagen, seine Gr&#xFC;nde schriftlich anzubringen; nach dieser Frist wird daf&#xFC;r gehalten, dass er es angenommen habe, und wird nicht mehr zugelassen, gegen dessen Inhalt einzusprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le concessionnaire se refuse &#xE0; signer le proc&#xE8;s-verbal d'enqu&#xEA;te, il devra dans les dix jours qui suivront la pr&#xE9;sentation de cette pi&#xE8;ce, d&#xE9;duire ses motifs par &#xE9;crit; pass&#xE9; ce d&#xE9;lai, il sera cens&#xE9; l'avoir accept&#xE9;e et il ne sera plus admis &#xE0; r&#xE9;clamer contre son contenu.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:526">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>47</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1179">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nach Einsicht des Verbals der Sachkundigen und der Einsprachen des Concession&#xE4;rs, wenn er deren eingereicht hat, wird der Staatsrath des in Gem&#xE4;ssheit des Artikels 1941 des Civilgesetzbuches, zur Eintragung der von Seite des Concession&#xE4;rs geschehenen Abtretung des ihm concedirten Bergwerkes und zur Bereinigung von allf&#xE4;llig auf demselben haftenden Lasten, laut Bestimmung des Artikel 560 und folgende des Gesetzbuches &#xFC;ber die b&#xFC;rgerliche Processordnung, schreiben lassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sur le vu du proc&#xE8;s-verbal des experts et des r&#xE9;clamations du concessionnaire, s'il en a pr&#xE9;sent&#xE9;es, le Conseil d'Etat fera proc&#xE9;der, conform&#xE9;ment &#xE0; l'article 1941 du Code civil, &#xE0; la transcription de l'acte de renoncement du concessionnaire &#xE0; la mine qui lui a &#xE9;t&#xE9; conc&#xE9;d&#xE9;e, et &#xE0; la purge des charges dont la mine pourra &#xEA;tre grev&#xE9;e, ainsi qu'il est dit aux articles 560 et suivants du Code de proc&#xE9;dure civile.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:527">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>48</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1180">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nach Abfluss der beim Artikel 562 der b&#xFC;rgerlichen Processordnung erw&#xE4;hnten Frist und nachdem alle Einsprachen beseitigt worden sind, wird der Staatsrath das abgetretene Bergwerk zur &#xF6;ffentlichen Versteigerung ausrufen lassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Apr&#xE8;s l'expiration du d&#xE9;lai mentionn&#xE9; &#xE0; l'article 562 du Code de proc&#xE9;dure civile, et lorsque toutes les oppositions auront &#xE9;t&#xE9; vid&#xE9;es, le Conseil d'Etat fera vendre aux ench&#xE8;res la mine abandonn&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1181">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die allf&#xE4;lligen Bewerber sind gehalten, sich &#xFC;ber hinl&#xE4;ngliche Mittel auszuweisen, um den durch die anf&#xE4;ngliche Concessionsurkunde, deren jede Clausel von dem Ank&#xE4;ufer angenommen werden muss, auferlegten Bedingungen zu entsprechen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les concurrents seront tenus de justifier des facult&#xE9;s suffisantes pour satisfaire aux conditions impos&#xE9;es par l'acte primitif de concession, dont toutes les clauses devront &#xEA;tre accept&#xE9;es par l'acqu&#xE9;reur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:528">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>49</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1182">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ankaufspreis soll verwendet werden: zur Abzahlung erstlich der von dem evincirten Concession&#xE4;r durch den Bau des Bergwerkes gegen&#xFC;ber dem Staate eingegangenen Schuld, sammt allen daherigen Kosten; dann zweitens, zur Abbezahlung der Hypothekarschulden und anderweitigen Lasten, mit denen das abgetretene Bergwerk beschwert ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le prix d'acquisition servira &#xE0; solder: en premi&#xE8;re ligne, la dette contract&#xE9;e envers l'Etat par le cessionnaire &#xE9;vinc&#xE9;, &#xE0; raison de l'exploitation de la mine et tous les frais; en deuxi&#xE8;me ligne, les cr&#xE9;ances hypoth&#xE9;caires et autres charges pesant sur la mine abandonn&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1183">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der allf&#xE4;llige &#xDC;berschuss soll dem evincirten Concession&#xE4;r zukommen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le surplus, s'il y en a, sera remis au concessionnaire &#xE9;vinc&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:529">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>50</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1184">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls sich kein Ank&#xE4;ufer einstellen sollte, wird das Bergwerk wieder als lastenfreies Staatsverm&#xF6;gen erkl&#xE4;rt und kann sodann neuerdings verleihet werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Dans le cas o&#xF9; il ne se pr&#xE9;senterait aucun acqu&#xE9;reur, la mine sera d&#xE9;clar&#xE9;e rentrer sans charges au domaine de l'Etat, et elle sera susceptible d'une nouvelle concession.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1185">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der evincirte Concession&#xE4;r oder seine Rechtshabenden sind berechtigt, die zum Bau geh&#xF6;renden Maschinen und Ger&#xE4;thschaften, die ohne Gef&#xE4;hrdung des Bergwerkes weggenommen werden k&#xF6;nnen, an sich zu ziehen, mit der Verpflichtung, alle bis zur Besitzesaustreibung schuldigen Geb&#xFC;hren abzutragen, und mit Vorbehalt des Rechtes dem Staate, die zum fernern Bau des Bergwerkes nothwendigen Gegenst&#xE4;nde auf Erachtung von Sachkundigen behalten zu k&#xF6;nnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le concessionnaire &#xE9;vinc&#xE9; ou ses ayants droit auront la facult&#xE9; de retirer les machines et agr&#xE8;s attach&#xE9;s &#xE0; l'exploitation et qui pourront &#xEA;tre s&#xE9;par&#xE9;s sans pr&#xE9;judice pour la mine, &#xE0; la charge de payer toutes les taxes dues jusqu'&#xE0; la d&#xE9;possession et sauf, au domaine de l'Etat, &#xE0; retenir &#xE0; dire d'experts, les objets n&#xE9;cessaires &#xE0; l'exploitation ult&#xE9;rieure de la mine.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:530">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>51</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:1186">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wenn der Concession&#xE4;r, nachdem er die Arbeiten w&#xE4;hrend mehr denn einem Jahre unterbrochen, selbe, ausser dem Falle einer bew&#xE4;hrten &#xDC;bergewalt, wieder vorzunehmen, oder die im Artikel 45 angewiesenen Abtretungsbegehren zu stellen sich weigert, so hat der Staatsrath amtshalber zum Verkaufe des als abgetreten betrachteten Bergwerkes oder zur dessen Wiedereinverleibung dem Staatsverm&#xF6;gen zu schreiten, wobei die bei den Artikeln 47, 48, 49 und 50 vorgeschriebenen F&#xF6;rmlichkeiten zu befolgen sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si le concessionnaire, apr&#xE8;s avoir suspendu ses travaux pendant plus d'une ann&#xE9;e, hors le cas constat&#xE9; de force majeure, refuse de les reprendre ou d'introduire la demande en abandon indiqu&#xE9;e &#xE0; l'article 45, le Conseil d'Etat proc&#xE9;dera d'office &#xE0; la vente ou &#xE0; la rentr&#xE9;e au domaine de la mine cens&#xE9;e abandonn&#xE9;e, en observant les formalit&#xE9;s prescrites aux articles 47, 48, 49 et 50.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="178">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:531">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>52</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1187">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;s</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:14966">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>53</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody/>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="179">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>&#xDC;bergangs-Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions transitoires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:532">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>54</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1188">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verf&#xFC;gungen gegenw&#xE4;rtigen Gesetzes sind auf die fr&#xFC;hern Concessionen anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la pr&#xE9;sente loi sont applicables aux concessions ant&#xE9;rieures.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1189">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem Concession&#xE4;ren, so vorzieht, unter dem Gesetze vom 6. December 1828 zu bleiben, wird es gestattet wenn er diese seine Absicht innert den drei auf die Inkrafttretung gegenw&#xE4;rtigen Gesetzes folgenden Monaten dem Verwaltungsrath durch ein schriftliches Verlangen erkl&#xE4;rt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le concessionnaire qui pr&#xE9;f&#xE9;rerait &#xEA;tre r&#xE9;gi par la loi du 6 d&#xE9;cembre 1828, y sera admis, moyennant qu'il d&#xE9;clare son intention, par une demande adress&#xE9;e &#xE0; l'administration des mines, dans les trois mois d&#xE8;s la mise en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1190">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedenfalls aber aufh&#xF6;rt diese Beg&#xFC;nstigung mit der Erneuerung der &#xDC;bertragung der Concession.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toutefois ce b&#xE9;n&#xE9;fice s'&#xE9;teindra par le renouvellement ou par le transfert de sa concession.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:533">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>55</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1191">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die alten Concessionen, welche in neue umgewandelt werden, sind der &#xDC;bertragungstaxe unterworfen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les concessions anciennes qui seront converties en concessions nouvelles, seront assujetties &#xE0; la taxe de transfert.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:534">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>56</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1192">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nur diejenigen Concession&#xE4;ren sind zum Genusse der Wohltat des 54ten Artikels zugelassen, deren Bergwerke zur Zeit der Bekanntmachung gegenw&#xE4;rtigen Gesetzes in voller Ausbeutung stehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ne sont admis &#xE0; jouir du b&#xE9;n&#xE9;fice de l'article 54 que les concessionnaires dont les mines seront en pleine exploitation &#xE0; l'&#xE9;poque de la promulgation de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:535">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>57</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1193">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Den Concession&#xE4;ren, welche die Ausdehnung ihrer Concession zu beschr&#xE4;nken gewillt w&#xE4;ren, ist es von Rechtswegen gestattet, einzig denjenigen Theil, den sie bauen wollen, beizubehalten, unter der Verpflichtung, einen Plan dieses Theiles einzureichen, so wie solches beim Art. 21 gesagt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les concessionnaires qui voudront faire r&#xE9;duire l'&#xE9;tendue de leur concession, obtiendront de plein droit de conserver la partie seule qu'ils d&#xE9;sirent exploiter, &#xE0; la charge de fournir un plan de cette partie, ainsi qu'il est dit &#xE0; l'article 21.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:536">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>58</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1194">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausdehnung der alten in neue umgewandelte Minen, welche die im zweiten Absatz des Art. 26 bestimmte &#xFC;berschreitet, kann auf den Theil der Concession, wo nicht gebaut wird, durch den Staatsrath beschr&#xE4;nkt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;tendue des anciennes concessions, converties en concessions nouvelles, qui exc&#xE8;de celle fix&#xE9;e au second alin&#xE9;a de l'article 26, pourra &#xEA;tre r&#xE9;duite par le Conseil d'Etat sur la partie de la concession o&#xF9; n'existe aucune exploitation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:537">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>59</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1195">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Drei Monate nach Inkrafttreten gegenw&#xE4;rtigen Gesetzes ver&#xF6;ffentlicht der Staatsrath durch Amtsblatt das Verzeichniss aller im Kanton bewilligten Bergwerke, und besorgt auf Kosten der Concession&#xE4;re deren Einschreibung in die betreffenden Hypothek&#xE4;mter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Trois mois apr&#xE8;s la mise en vigueur de la pr&#xE9;sente loi, le Conseil d'Etat rendra public, par la voie du Bulletin officiel, l'&#xE9;tat de toutes les mines conc&#xE9;d&#xE9;es dans le canton et il en fera op&#xE9;rer, aux frais des concessionnaires, la transcription dans les bureaux d'hypoth&#xE8;ques respectifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:538">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>60</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1196">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aufsuchungsgestattungen (Sch&#xFC;rfzettel) oder die Concessionsbewilligungen, welche bei der Bekanntmachung dieses Gesetzes noch nicht ertheilt sind, m&#xFC;ssen innert vierzig Tagen, von dieser Bekanntmachung an gerechnet, von den Berechtigten in die durch Artikel 6 und 7 bezeichnete Einschreibung oder Bevollm&#xE4;chtigung umge&#xE4;ndert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les permis de fouilles ou les demandes en concession non encore accord&#xE9;s &#xE0; l'&#xE9;poque de la promulgation de la pr&#xE9;sente loi devront, dans le d&#xE9;lai de quarante jours &#xE0; dater de cette promulgation, &#xEA;tre &#xE9;chang&#xE9;s par les ayants droit contre l'inscription ou l'autorisation &#xE9;nonc&#xE9;e aux articles 5 et 6.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1197">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bis zum Ablauf dieser Frist kann auf dem Boden, welcher den Gegenstand dieser Aufsuchungsgestattung oder Concessionsbegehrens bildet keine andere Einschreibung oder Concessionsbewilligung ertheilt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Jusqu'&#xE0; l'expiration de ce d&#xE9;lai, aucune autre inscription ou autorisation de recherches ne pourra &#xEA;tre accord&#xE9;e sur les terrains faisant l'objet de ces permis de fouille ou demandes en concession.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1198">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Verlauf eines Monats aber sind die Inhaber, die ihre erste Urkunde nicht haben erneuern lassen, allen Vorzugs auf das Recht der Nachsuchung verlustig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le terme d'un mois &#xE9;coul&#xE9;, les porteurs qui n'auront pas renouvel&#xE9; leurs titres primitifs, seront d&#xE9;chus de tout privil&#xE8;ge au droit de recherche.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="180">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Von der Besichtigung durch Sachkundige. Von der Polizei und der Gerichtsbarkeit in bezug der Bergwerke und Steinbr&#xFC;che</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Des expertises. De la police et de la juridiction relatives aux mines et carri&#xE8;res</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:539">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>61</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1199">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:540">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>62</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1200">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in Vollziehung gegenw&#xE4;rtigen Gesetzes vorzunehmenden Besichtigungen durch Sachkundige haben gem&#xE4;ss dem Gesetze des 22. Wintermonats 1841 zu geschehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les expertises &#xE0; op&#xE9;rer en ex&#xE9;cution de la pr&#xE9;sente loi, auront lieu conform&#xE9;ment &#xE0; la loi du 22 novembre 1841.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:541">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>63</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1201">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vergehen gegen die Bestimmungen gegenw&#xE4;rtigen Gesetzes werden wie die Zuwiderhandlungen gegen das Heerstrassenwesen angezeigt und bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infractions aux dispositions de la pr&#xE9;sente loi seront d&#xE9;nonc&#xE9;es et r&#xE9;prim&#xE9;es comme les contraventions en mati&#xE8;re de voirie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:542">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>64</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1202">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vergehungen wider die Bestimmungen gegenw&#xE4;rtigen Gesetzes werden mit einer Busse von h&#xF6;chstens 500 und von wenigstens 5 Franken belegt, un-sch&#xE4;dlich der Schadloshaltungen, zu denen sie Anlass gegeben h&#xE4;tten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les contrevenants aux dispositions de la pr&#xE9;sente loi seront punis d'une amende de 500 francs au plus et de 5 francs au moins, sans pr&#xE9;judice des dommages-int&#xE9;r&#xEA;ts auxquels ils pourront &#xEA;tre condamn&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:543">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>65</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1203">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz vom 6. Christmonat 1828 ist zur&#xFC;ckgenommen, ausgenommen f&#xFC;r die durch Artikel 54 vorgesehenen F&#xE4;lle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi du 6 d&#xE9;cembre 1828 est rapport&#xE9;e, sauf pour les cas pr&#xE9;vus &#xE0; l'article 54.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1856-12-28</dateForce>
+      <dateVersion>1997-01-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1996 f 82 | d 84</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

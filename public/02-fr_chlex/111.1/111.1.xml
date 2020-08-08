@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1255</normID>
+      <number>111.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber das Siegel der Republik</title>
+      <title lang="fr">Loi sur le sceau de la R&#xE9;publique</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Landrath der Republik</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1802-09-04</dateAdoption>
+      <dateForce>1802-09-04T00:00:00</dateForce>
+      <dateLastChange>1802-09-04</dateLastChange>
+      <dateVersion>1802-09-04</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription>Der Landrath der Republik</authorityDescription>
+        <basis>nach angeh&#xF6;rtem Bericht seines konstitutionellen Ausschusses &#xFC;ber das Siegel, so die Republik anzunehmen hat,</basis>
+        <formal>beschliesst:</formal>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription>La di&#xE8;te de la R&#xE9;publique</authorityDescription>
+        <basis>apr&#xE8;s avoir entendu le rapport de la Commission de constitution sur le sceau &#xE0; adopter pour la R&#xE9;publique,</basis>
+        <formal>ordonne:</formal>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1802 f 30 | d 37</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4279">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber das Siegel der Republik</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur le sceau de la R&#xE9;publique</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:14794">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:34077">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Farben der Republik werden sein: weiss und roth, auf diesem Grunde werden zw&#xF6;lf Sterne gesetzt werden. (Seit 1815 sind es 13 Sterne). Die Legende wird sein: "Sigillum Reipublicae Valesiae". Die Siegel der verschiedenen Beh&#xF6;rden werden unter den Namen jener Autorit&#xE4;t haben, die sie braucht.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les couleurs de la R&#xE9;publique sont le blanc et le rouge; sur ce fond il y aura douze &#xE9;toiles (port&#xE9; &#xE0; 13 par la Constitution du 12 mai 1815), et pour l&#xE9;gende: SIGILLUM REIPUBLICAE VALLESIAE. Les sceaux des diff&#xE9;rentes autorit&#xE9;s porteront au bas le nom de leur office.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1802-09-04</dateForce>
+      <dateVersion>1802-09-04</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1802 f 30 | d 37</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

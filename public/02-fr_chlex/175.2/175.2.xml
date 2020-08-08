@@ -1,0 +1,1635 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1107</normID>
+      <number>175.2</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Burgerschaften</title>
+      <title lang="fr">Loi sur les bourgeoisies</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1989-06-28</dateAdoption>
+      <dateForce>1991-01-01T00:00:00</dateForce>
+      <dateLastChange>2008-01-01</dateLastChange>
+      <dateVersion>2008-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 80 - 82 der Kantonsverfassung;</basis> <basis>eingesehen die Artikel 47, Absatz 2, und 56 des Gesetzes&#xA0;&#xFC;ber die Gemeindeordnung vom 13. November 1980 (GGO);</basis> <basis>auf Antrag des Staatsrates,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 80 &#xE0; 82 de la Constitution cantonale;</basis> <basis>vu les articles 47, alin&#xE9;a 2, et 56 de la loi&#xA0;sur le r&#xE9;gime communal du 13 novembre 1980&#xA0;(LRC);</basis> <basis>vu la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1990 f 6 | d 6</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3604">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Burgerschaften</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les bourgeoisies</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3606">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12227">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28199">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz legt die Grunds&#xE4;tze der Verwaltung und Nutzung des Burgerverm&#xF6;gens sowie die Burgerrechte fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi fixe les principes de gestion et de jouissance des biens et droits bourgeoisiaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28200">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es erg&#xE4;nzt die Gesetzgebung &#xFC;ber die Gemeindeordnung in Bezug auf die Burgergemeinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle compl&#xE8;te la l&#xE9;gislation sur le r&#xE9;gime communal en ce qui concerne les communes bourgeoisiales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28201">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleibt die Spezialgesetzgebung, soweit sie durch vorliegendes Gesetz nicht aufgehoben oder abge&#xE4;ndert wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e la l&#xE9;gislation sp&#xE9;ciale dans la mesure o&#xF9; elle n'est pas abrog&#xE9;e ou modifi&#xE9;e par la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28202">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz bezeichnen die Begriffe "Burger", "Bewerber", "Walliser", "Miteidgenosse" und "Gesuchsteller" Personen beiden Geschlechts.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, les termes "bourgeois", "int&#xE9;ress&#xE9;", "Valaisans", "Conf&#xE9;d&#xE9;r&#xE9;s" et "requ&#xE9;rant" d&#xE9;signent les personnes des deux sexes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12228">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Name</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nom</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28203">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden tragen den Namen der Einwohnergemeinden. Ausnahmen sind nur m&#xF6;glich, wenn auf dem Gebiet einer Einwohnergemeinde mehr als eine Burgergemeinde oder auf dem Gebiet mehrerer Einwohnergemeinden nur eine Burgergemeinde besteht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales portent le nom des communes municipales. Des exceptions ne sont possibles que lorsque le territoire d'une commune municipale comprend plusieurs communes bourgeoisiales ou lorsqu'une commune bourgeoisiale englobe plusieurs communes municipales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3607">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufgaben und Befugnisse</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>T&#xE2;ches et attributions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12229">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28204">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13541">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">verleihen im Rahmen der Gesetzgebung das Burgerrecht und das Ehrenburgerrecht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">octroient, dans le cadre de la l&#xE9;gislation, le droit de bourgeoisie et la bourgeoisie d'honneur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13542">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">verwalten ihr Verm&#xF6;gen, indem sie die Burgerg&#xFC;ter unterhalten und bewirtschaften;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assument la gestion du patrimoine bourgeoisial en assurant l'entretien et l'exploitation des propri&#xE9;t&#xE9;s bourgeoisiales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13543">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xF6;rdern und unterst&#xFC;tzen im Rahmen ihrer M&#xF6;glichkeit Werke allgemeinen Interesses. Bei der Erf&#xFC;llung dieser Aufgaben sind die Einwohner- und Burgergemeinden unter Beachtung ihrer Selbst&#xE4;ndigkeit bestrebt, ihre T&#xE4;tigkeiten zu koordinieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">encouragent et soutiennent dans la mesure de leurs moyens les &#x153;uvres d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral. Pour l'accomplissement de ces t&#xE2;ches et dans le respect de leur autonomie, les communes municipales et bourgeoisiales s'efforcent de coordonner leurs activit&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13544">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">f&#xFC;hren das Burgerregister auf der Grundlage des elektronischen Schweizer Zivilstandsregisters. Sie f&#xFC;hren ausserdem ein getrenntes Register der Ehrenburger.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tiennent le r&#xE9;pertoire des bourgeois sur la base du registre informatis&#xE9; de l'&#xE9;tat civil suisse. Elles tiennent &#xE9;galement un r&#xE9;pertoire s&#xE9;par&#xE9; des bourgeois d'honneur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12230">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Naturalleistungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prestations en nature</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28205">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden gew&#xE4;hren die in der Gesetzgebung &#xFC;ber Strassen, &#xFC;ber Flussl&#xE4;ufe sowie &#xFC;ber Fuss- und Wanderwege vorgesehenen Naturalleistungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales accordent les prestations en nature pr&#xE9;vues dans la l&#xE9;gislation sur les routes et cours d'eau ainsi que sur les chemins pour pi&#xE9;tons et les chemins de randonn&#xE9;e p&#xE9;destre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12231">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzielle Leistungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prestations financi&#xE8;res</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28206">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden entrichten an andere &#xF6;ffentliche K&#xF6;rperschaften jene Geldleistungen, die in der Steuergesetzgebung sowie im Recht &#xFC;ber die Erhebung von Kausalabgaben vorgesehen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les obligations p&#xE9;cuniaires des communes bourgeoisiales &#xE0; l'&#xE9;gard des autres collectivit&#xE9;s publiques sont celles fix&#xE9;es par la l&#xE9;gislation fiscale et celles r&#xE9;gissant la perception des redevances causales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3608">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12232">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Burgerversammlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assembl&#xE9;e bourgeoisiale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28207">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Erg&#xE4;nzung der bestehenden Befugnisse ber&#xE4;t und beschliesst die Burgerversammlung &#xFC;ber:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En compl&#xE9;ment des comp&#xE9;tences existantes, l'assembl&#xE9;e bourgeoisiale d&#xE9;lib&#xE8;re et d&#xE9;cide:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13545">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Name und Wappen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du nom et des armoiries;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16076">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Aufnahme neuer Burger;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de l'admission de nouveaux bourgeois;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16077">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verleihung des Ehrenburgerrechtes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de l'octroi du droit de bourgeoisie d'honneur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16078">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">weitere Gesch&#xE4;fte, die ihr durch die Spezialgesetzgebung, oder das Burgerreglement &#xFC;bertragen werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'autres affaires qui lui sont attribu&#xE9;es par la l&#xE9;gislation sp&#xE9;ciale ou par le r&#xE8;glement bourgeoisial.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12233">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Interessenkonflikte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conflits d'int&#xE9;r&#xEA;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28208">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden Einwohner- und Burgergemeinde vom gleichen Rat verwaltet, kann dieser bei einem Interessenkonflikt einen die Burgergemeinde verpflichtenden Beschluss nur nach Einholen der Vormeinung der Burgerkommission fassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de conflits d'int&#xE9;r&#xEA;t et lorsque les communes municipales et bourgeoisiales sont administr&#xE9;es par le m&#xEA;me conseil, celui-ci ne peut prononcer une d&#xE9;cision engageant la bourgeoisie qu'avec le pr&#xE9;avis de la commission bourgeoisiale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3609">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Verm&#xF6;gen und Nutzung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Fortune et jouissance</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12234">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verm&#xF6;gen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fortune</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28209">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verm&#xF6;gen der Burgergemeinden umfasst alle G&#xFC;ter und Rechte, die im Eigentum der Burgergemeinden sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fortune des communes bourgeoisiales comprend tous les avoirs et droits qui sont propri&#xE9;t&#xE9; de la commune bourgeoisiale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12235">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verm&#xF6;gensverwaltung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Jouissance de la fortune</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28210">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden verf&#xFC;gen im Rahmen der Gesetzgebung frei &#xFC;ber ihr Verm&#xF6;gen und ihre Eink&#xFC;nfte, soweit sie die in Artikel 3-5 dieses Gesetzes vorgesehenen Aufgaben erf&#xFC;llen oder im allgemeinen Wohl und im Interesse der Burger handeln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de la l&#xE9;gislation, les communes bourgeoisiales disposent librement de leur fortune et de leurs revenus, pour autant qu'elles accomplissent les t&#xE2;ches pr&#xE9;vues aux articles 3 &#xE0; 5 de la pr&#xE9;sente loi ou agissent pour le bien g&#xE9;n&#xE9;ral et dans l'int&#xE9;r&#xEA;t des bourgeois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12236">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Burgergeb&#xE4;ude</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">B&#xE2;timents bourgeoisiaux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28211">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt anderslautender Vereinbarungen behalten jene Geb&#xE4;ulichkeiten der Burgergemeinde, die der Verwaltung oder dem Schulwesen gewidmet sind und von der Einwohnergemeinde ben&#xF6;tigt werden, diese Zweckbestimmung, sofern sie f&#xFC;r die Burgerverwaltung nicht unerl&#xE4;sslich sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf convention contraire, les b&#xE2;timents bourgeoisiaux affect&#xE9;s aux services administratifs ou aux &#xE9;coles qui sont n&#xE9;cessaires &#xE0; la commune municipale, conservent cette affectation s'ils ne sont pas indispensables &#xE0; l'administration bourgeoisiale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28212">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einwohner- und Burgergemeinde beteiligen sich an der Renovation und dem Unterhalt dieser Geb&#xE4;ude im Verh&#xE4;ltnis ihres Nutzungsanteils.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes municipales et bourgeoisiales concourent &#xE0; la r&#xE9;novation et &#xE0; l'entretien de ces immeubles proportionnellement &#xE0; leur part de jouissance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12237">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Burgernutzen im Allgemeinen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Jouissance bourgeoisiale en g&#xE9;n&#xE9;ral</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28213">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerreglement kann zugunsten der Burger den Burgernutzen vorsehen, sofern dadurch gemeinn&#xFC;tzige Zwecke verfolgt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits de jouissance bourgeoisiaux peuvent &#xEA;tre conf&#xE9;r&#xE9;s aux bourgeois par le biais du r&#xE8;glement bourgeoisial pour autant que des buts d'int&#xE9;r&#xEA;t commun soient vis&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28214">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12238">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Naturalnutzen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Jouissance en nature</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28215">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden k&#xF6;nnen namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales peuvent notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13546">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Burgern unentgeltlich oder zu Vorzugsbedingungen Bau- und Brennholz liefern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">fournir aux bourgeois, gratuitement ou &#xE0; des conditions pr&#xE9;f&#xE9;rentielles, du bois de construction et du bois de chauffage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13547">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Burgerboden unentgeltlich oder zu Vorzugsbedingungen zur Nutzung &#xFC;berlassen unter der Auflage, dass die Beg&#xFC;nstigten ihn pers&#xF6;nlich bewirtschaften.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">remettre en jouissance des terrains bourgeoisiaux, gratuitement ou &#xE0; des conditions pr&#xE9;f&#xE9;rentielles, &#xE0; charge pour les b&#xE9;n&#xE9;ficiaires de les exploiter personnellement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28216">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerreglement setzt die Bedingungen f&#xFC;r die Verleihung dieser Nutzungsrechte sowie die Nutzungsdauer fest und bezeichnet die Anspruchsberechtigten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE8;glement bourgeoisial fixe les conditions de jouissance de ces droits, la dur&#xE9;e de leur mise &#xE0; disposition et d&#xE9;termine les ayants droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12239">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Barnutzen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Jouissance en esp&#xE8;ces</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28217">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden d&#xFC;rfen an die anspruchsberechtigten, in der Gemeinde wohns&#xE4;ssigen Burger Bargeld zulasten ihrer buchhalterischen Rechnungs&#xFC;bersch&#xFC;sse nur aus sozialen Gr&#xFC;nden oder aus gemeinn&#xFC;tzigen Erw&#xE4;gungen aussch&#xFC;tten und nur soweit, als ihre finanzielle Situation dies erlaubt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales ne peuvent allouer aux bourgeois ayants droit domicili&#xE9;s dans la commune une somme d'argent, &#xE0; pr&#xE9;lever sur leur b&#xE9;n&#xE9;fice comptable, que pour des raisons sociales ou pour des consid&#xE9;rations d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral et dans la mesure o&#xF9; leur situation financi&#xE8;re le permet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12240">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Besteuerung der Burgergemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Imposition des communes bourgeoisiales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28218">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden sind f&#xFC;r das Verm&#xF6;gen und das Einkommen von der Steuerpflicht befreit, soweit diese &#xF6;ffentlichen und kulturellen Zwecken dienen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales sont exon&#xE9;r&#xE9;es de l'imp&#xF4;t sur la fortune et le revenu lorsque ceux-ci sont affect&#xE9;s &#xE0; des buts d'int&#xE9;r&#xEA;t public et culturel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3610">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Burgerrecht und Ehrenburgerrecht</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Droit de bourgeoisie et bourgeoisie d'honneur</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12241">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Burgerrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit de bourgeoisie</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28219">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerrecht wird auf Gesuch des Bewerbers hin und auf Antrag des Burgerrates von der Burgerversammlung erteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit de bourgeoisie est conf&#xE9;r&#xE9; &#xE0; la requ&#xEA;te de l'int&#xE9;ress&#xE9; par l'assembl&#xE9;e bourgeoisiale sur la proposition du conseil bourgeoisial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28220">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerrecht wird analog den Bestimmungen des Zivilrechts des Bundes &#xFC;ber das B&#xFC;rgerrecht &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit de bourgeoisie se transmet par analogie aux dispositions du droit civil f&#xE9;d&#xE9;ral en mati&#xE8;re de droit de cit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12242">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erteilung des Burgerrechts
+a) ordentliche</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Octroi du droit de bourgeoisie
+a) Ordinaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28221">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Erteilung des Burgerrechts kann das Burgerreglement eine Wohnsitzdauer von h&#xF6;chstens f&#xFC;nf Jahren vorschreiben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'octroi du droit de bourgeoisie, le r&#xE8;glement bourgeoisial peut exiger une dur&#xE9;e de domicile jusqu'&#xE0; cinq ans au maximum.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12243">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">b) erleichterte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">b) Facilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28222">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Erteilung des Burgerrechtes an die seit 15 Jahren in der Gemeinde wohns&#xE4;ssigen Walliser und Miteidgenossen muss erleichtert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'octroi du droit de bourgeoisie &#xE0; des Valaisans et &#xE0; des Conf&#xE9;d&#xE9;r&#xE9;s domicili&#xE9;s depuis quinze ans dans la commune doit &#xEA;tre facilit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28223">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die erleichterte Erteilung des Burgerrechts kann das Burgerreglement die Wohnsitzdauer herabsetzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'octroi du droit de bourgeoisie facilit&#xE9;, le r&#xE8;glement bourgeoisial peut r&#xE9;duire la dur&#xE9;e du domicile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28224">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird das Burgerrecht im Sinne der Abs&#xE4;tze 1 und 2 ohne triftigen Grund verweigert, kann der Gesuchsteller beim Staatsrat Beschwerde einreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si le droit de bourgeoisie, au sens des alin&#xE9;as 1 et 2, est refus&#xE9; sans motif l&#xE9;gitime, le requ&#xE9;rant peut recourir aupr&#xE8;s du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12244">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einburgerungsgeb&#xFC;hr</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Taxe d'agr&#xE9;gation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28225">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die an den Lebenskostenindex gebundene Einburgerungsgeb&#xFC;hr von h&#xF6;chstens 15'000 Franken wird durch das Burgerreglement bestimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La taxe d'agr&#xE9;gation de 15'000 francs au maximum, index&#xE9;e au co&#xFB;t de la vie, est fix&#xE9;e par le r&#xE8;glement bourgeoisial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28226">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerreglement hat Erm&#xE4;ssigungen vorzusehen f&#xFC;r Walliser, f&#xFC;r Ehegatten von Burgern, f&#xFC;r Kinder, f&#xFC;r Personen, die im Sinne von Artikel 17 das Burgerrecht erleichtert erhalten. Die finanzielle Lage der Gesuchsteller sowie die Wohnsitzdauer in der Burgergemeinde sind ebenfalls zu ber&#xFC;cksichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des r&#xE9;ductions sont consenties par le biais du r&#xE8;glement bourgeoisial notamment aux Valaisans, aux conjoints de bourgeois, aux enfants, aux personnes qui obtiennent le droit de bourgeoisie facilit&#xE9; au sens de l'article 17. La situation financi&#xE8;re des requ&#xE9;rants et la dur&#xE9;e de leur domicile dans la commune bourgeoisiale sont &#xE9;galement prises en consid&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28227">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Je nach der finanziellen Lage des Bewerbers oder wenn derselbe in der Burgergemeinde nicht wohnhaft ist oder daselbst nicht wenigstens ein Jahr Wohnsitz hatte, kann das Burgerreglement h&#xF6;here Einburgerungsgeb&#xFC;hren vorsehen. Diese Geb&#xFC;hr darf jedoch nicht h&#xF6;her sein als zehn Prozent des Jahreseinkommens, zus&#xE4;tzlich ein Prozent des Verm&#xF6;gens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Selon la situation financi&#xE8;re du requ&#xE9;rant ou lorsque celui-ci n'est pas domicili&#xE9; dans la commune bourgeoisiale ou n'y a jamais &#xE9;t&#xE9; domicili&#xE9; plus d'un an, le r&#xE8;glement bourgeoisial peut pr&#xE9;voir des taxes d'agr&#xE9;gation sup&#xE9;rieures. Cette taxe ne doit toutefois pas d&#xE9;passer le dix pour cent du revenu annuel et un pour cent de la fortune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28228">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Burgerrat setzt die Einburgerungsgeb&#xFC;hr sowie eventuelle Abgaben fest. Sein Entscheid kann mit Beschwerde beim Staatsrat angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conseil bourgeoisial fixe la taxe d'agr&#xE9;gation ainsi que les &#xE9;ventuels &#xE9;moluments. Sa d&#xE9;cision peut faire l'objet d'un recours au Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12245">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ehrenburgerrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit de bourgeoisie d'honneur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28229">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden k&#xF6;nnen an Personen, die sich besondere Verdienste erworben haben, das Ehrenburgerrecht verleihen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les bourgeoisies peuvent octroyer la bourgeoisie d'honneur &#xE0; des personnes particuli&#xE8;rement m&#xE9;ritantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28230">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Ehrenburgerrecht ist pers&#xF6;nlich und un&#xFC;bertragbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La bourgeoisie d'honneur est personnelle et non transmissible.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28231">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in der Gemeinde wohns&#xE4;ssigen Walliser oder Schweizer Ehrenburger besitzen das aktive und passive Stimm- und Wahlrecht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les bourgeois d'honneur valaisans ou conf&#xE9;d&#xE9;r&#xE9;s domicili&#xE9;s dans la commune poss&#xE8;dent la pleine capacit&#xE9; civique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28232">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Ehrenburgerrecht gibt keinen Anspruch auf Nutzung des Burgerverm&#xF6;gens, es sei denn, das Burgerreglement bestimme ausdr&#xFC;cklich etwas anderes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La bourgeoisie d'honneur ne conf&#xE8;re pas de droit aux avoirs bourgeoisiaux, sauf exception pr&#xE9;vue express&#xE9;ment par le r&#xE8;glement bourgeoisial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12246">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nachweis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">L&#xE9;gitimation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28233">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Eintragung ins Burgerverzeichnis bildet grunds&#xE4;tzlich den Nachweis f&#xFC;r den Erwerb und das Bestehen des Burgerrechtes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, l'inscription au r&#xE9;pertoire des bourgeois constitue la preuve de l'acquisition et de l'existence du droit de bourgeoisie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3611">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12247">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendung des bestehenden Rechtes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Application du droit existant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28234">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Gesetzes &#xFC;ber die Gemeindeordnung vom 13. November 1980, vor allem jene &#xFC;ber die Autonomie, die Urversammlung, die Einberufung und die Beratungen des Gemeinderates, des Pr&#xE4;sidenten, die politischen Rechte, die Verwaltungsgrunds&#xE4;tze, die Fusion und Trennung von Gemeinden, die Beziehung zur Einwohnergemeinde, die staatliche Aufsicht und die Rechtsmittel gelten auch f&#xFC;r die Burgergemeinden. Dasselbe gilt f&#xFC;r die Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 und das Gesetz&#xA0;&#xFC;ber die Wahlen und Abstimmungen vom 17. Mai 1972.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi sur le r&#xE9;gime communal du 13 novembre 1980, celles relatives principalement &#xE0; l'autonomie, &#xE0; l'assembl&#xE9;e primaire, aux convocations et d&#xE9;lib&#xE9;rations du conseil communal, au pr&#xE9;sident, aux droits politiques, aux principes d'administration, &#xE0; la fusion et &#xE0; la scission des communes, aux relations avec la commune municipale, &#xE0; la surveillance de l'Etat et aux voies de recours sont applicables &#xE9;galement aux communes bourgeoisiales. Il en est de m&#xEA;me en ce qui concerne les dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976 et de la loi sur les &#xE9;lections et les votations du 17 mai 1972.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12248">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Burgerreglemente</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE8;glements bourgeoisiaux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28235">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Burgergemeinden erlassen innert zwei Jahren seit Inkrafttreten dieses Gesetzes ein Burgerreglement oder passen das bestehende an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes bourgeoisiales &#xE9;dictent un r&#xE8;glement bourgeoisial ou adaptent celui existant dans les deux ans d&#xE8;s l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28236">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Burgerreglement hat namentlich Bestimmungen &#xFC;ber die Verwaltung, die Bewirtschaftung und Nutzung der Burgerg&#xFC;ter, die Einburgerungsgeb&#xFC;hr sowie das Ehrenburgerrecht zu enthalten. Es gew&#xE4;hrleistet die Rechtsgleichheit zwischen Burgerinnen und Burgern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE8;glement bourgeoisial doit renfermer notamment les dispositions relatives &#xE0; l'administration, &#xE0; l'exploitation et &#xE0; la jouissance des biens bourgeoisiaux, aux taxes d'agr&#xE9;gation, ainsi qu'&#xE0; la bourgeoisie d'honneur. Il assure l'&#xE9;galit&#xE9; des droits entre bourgeoises et bourgeois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12249">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28237">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die diesem Gesetz widersprechenden Bestimmungen sind aufgehoben, namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;es les dispositions contraires &#xE0; la pr&#xE9;sente loi, notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13548">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber die Anerkennung des B&#xFC;rger- und Gemeinderechtes vom 1. Mai 1829;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi concernant les droits de bourgeoisie et de communaut&#xE9; du 11 mai 1829;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13549">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber die Burgerschaften vom 23. November 1870;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur les bourgeoisies du 23 novembre 1870;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13550">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend das R&#xFC;ckfallrecht der Burgerg&#xFC;ter vom 21. November 1873;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur la suppression des droits d'&#xE9;chute de biens bourgeoisiaux du 21 novembre 1873;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13551">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend die zum &#xF6;ffentlichen Dienste der Gemeinden bestimmten Burgerg&#xFC;ter vom 27. November 1877;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi d&#xE9;terminant les avoirs bourgeoisiaux affect&#xE9;s au service public des communes du 27 novembre 1877;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13552">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beschluss betreffend die Vollziehung des Gesetzes &#xFC;ber die Burgerschaften vom 1. April 1871;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; concernant l'ex&#xE9;cution de la loi sur les bourgeoisies du 15 avril 1871;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13553">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Dekret betreffend die Nutzung der Burgerg&#xFC;ter vom 25. Wintermonat 1880;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le d&#xE9;cret concernant la jouissance des droits du 25 novembre 1880;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13554">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beschluss &#xFC;ber die Organisation der Kontrolle der Gemeinderechnungen vom 1. April 1894;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; concernant l'organisation du contr&#xF4;le des comptes communaux du 17 avril 1894;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13555">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beschluss betreffend die Wertberechnung des Terrains in der Rhoneebene vom 30. November 1923.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; concernant le calcul de la valeur des terrains dans la plaine du Rh&#xF4;ne du 30 novembre 1923.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12250">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ab&#xE4;nderung und Anpassung von Gesetzen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modification et adaptation des lois</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28238">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Folgende Erlasse werden ge&#xE4;ndert:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les actes l&#xE9;gislatifs suivants sont modifi&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17109">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber die &#xF6;ffentliche Armenpflege vom 2. Juni 1955;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur l'assistance publique du 2 juin 1955;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17110">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur l'instruction publique du 4 juillet 1962;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17111">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Beschluss betreffend die Reorganisation der Gemeinde- und Burgerarchive vom 17. Juni 1922;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; concernant la r&#xE9;organisation des archives communales et bourgeoisiales du 17 juin 1922;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17112">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Steuergesetz vom 10. M&#xE4;rz 1976;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi fiscale du 10 mars 1976;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17113">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege vom Oktober 1976;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur la proc&#xE9;dure et la juridiction administratives du 6 octobre 1976 (LPJA);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17114">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz &#xFC;ber die Gemeindeordnung vom 13. November 1980.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi sur le r&#xE9;gime communal du 13 novembre 1980.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34250">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Artikel 14, letzter Absatz des Stempelgesetzes vom 14. November 1953 ist ebenfalls auf die Burgergemeinden anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'article 14, dernier alin&#xE9;a, de la loi sur le timbre du 14 novembre 1953 est &#xE9;galement applicable aux communes bourgeoisiales;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12251">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28239">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einb&#xFC;rgerungsgesuche, &#xFC;ber die im Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes von der Burgerversammlung noch nicht entschieden wurde, unterliegen dem neuen Recht und werden an die Einwohnergemeinde &#xFC;berwiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes de naturalisation qui n'ont pas encore fait l'objet d'une d&#xE9;cision de l'assembl&#xE9;e bourgeoisiale au moment de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi sont soumises au nouveau droit et transmises &#xE0; la commune municipale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28240">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28241">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beim Inkrafttreten dieser Gesetzes&#xE4;nderung erwerben die Burger automatisch das Gemeindeb&#xFC;rgerrecht, das ihrem(ihren) Burgerrecht(en) entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au moment de l'entr&#xE9;e en vigueur de la pr&#xE9;sente modification l&#xE9;gislative, les bourgeois acqui&#xE8;rent automatiquement le droit de cit&#xE9; communal correspondant &#xE0; leur(s) droit(s) de bourgeoisie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12252">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkfrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28242">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt nach der Annahme durch das Volk den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la date d'entr&#xE9;e en vigueur de la pr&#xE9;sente loi d&#xE8;s son adoption par le peuple.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1991-01-01</dateForce>
+      <dateVersion>2008-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 40/2007</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

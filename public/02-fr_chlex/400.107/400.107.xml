@@ -1,0 +1,1185 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:979</normID>
+      <number>400.107</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement &#xFC;ber das Schulinspektorat der obligatorischen Schulzeit und des Unterrichts der Sekundarstufe II</title>
+      <title lang="fr">R&#xE8;glement concernant l'inspection des &#xE9;coles de la scolarit&#xE9; obligatoire et de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2005-03-23</dateAdoption>
+      <dateForce>2005-01-01T00:00:00</dateForce>
+      <dateLastChange>2015-08-01</dateLastChange>
+      <dateVersion>2015-08-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 103 bis 106 und 130 des Gesetzes &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962;</basis> <basis>auf Antrag des Departements f&#xFC;r Erziehung, Kultur und Sport,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 103 &#xE0; 106 et 130 de la loi sur l'instruction publique du 4 juillet 1962;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 15/2005</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3037">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>&#xFC;ber das Schulinspektorat der obligatorischen Schulzeit und des Unterrichts der Sekundarstufe II</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>concernant l'inspection des &#xE9;coles de la scolarit&#xE9; obligatoire et de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3039">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:10512">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24149">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement regelt die Grunds&#xE4;tze zur Organisation und zum Ablauf der Inspektion der obligatorischen Schulzeit, des Unterrichts der Primar- und Sekundarstufe I und II. Die Inspektion des Berufsschulunterrichts unterliegt besonderen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement d&#xE9;finit les principes de l'organisation et du fonctionnement de l'inspection de l'enseignement de la scolarit&#xE9; obligatoire, de l'enseignement primaire et secondaire des premier et deuxi&#xE8;me degr&#xE9;s. L'inspection de l'enseignement professionnel fait l'objet de dispositions particuli&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24150">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xFC;r Erziehung, Kultur und Sport (nachfolgend: Departement) erl&#xE4;sst zus&#xE4;tzliche Bestimmungen und Weisungen, was insbesondere die administrative Organisation der Inspektion der betreffenden Schulen anbelangt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement de l'&#xE9;ducation, de la culture et du sport (ci-apr&#xE8;s: d&#xE9;partement) &#xE9;dicte les directives compl&#xE9;mentaires, portant notamment sur l'organisation administrative de l'inspection des &#xE9;coles concern&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24151">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede im vorliegenden Reglement benutzte Bezeichnung einer Person, eines Statutes, einer Funktion oder eines Berufes wird f&#xFC;r Frau und Mann im gleichen Sinne verwendet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute d&#xE9;signation de personne, de statut, de fonction ou de profession utilis&#xE9;e dans le pr&#xE9;sent r&#xE8;glement s'applique indiff&#xE9;remment aux femmes et aux hommes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10513">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allgemeiner Auftrag</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mission g&#xE9;n&#xE9;rale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24152">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schulinspektor vertritt das Departement in den Schulen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur est le repr&#xE9;sentant du d&#xE9;partement dans les &#xE9;coles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24153">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er f&#xFC;hrt die im Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vorgesehenen Aufgabenbereiche aus und wacht &#xFC;ber die Anwendung der kantonalen Bildungs- und Erziehungspolitik, im Besonderen im p&#xE4;dagogischen Bereich. In diesem Sinne obliegt es ihm, die korrekte Anwendung der Weisungen und Entscheidungen des Departements durch die lokalen und regionalen Schulbeh&#xF6;rden und Schuldirektionen zu kontrollieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il exerce les attributions pr&#xE9;vues par la loi sur l'instruction publique et veille &#xE0; la bonne application de la politique scolaire et &#xE9;ducative cantonale, en mati&#xE8;re p&#xE9;dagogique en particulier. Dans ce sens, il lui incombe de contr&#xF4;ler la bonne application par les autorit&#xE9;s scolaires locales et r&#xE9;gionales et les directions d'&#xE9;cole des directives et d&#xE9;cisions du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24154">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem Inspektor obliegt die Beaufsichtigung des Unterrichts. Er unterst&#xFC;tzt eine angenehme Schulatmosph&#xE4;re.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il exerce la surveillance sur l'enseignement et encourage le d&#xE9;veloppement d'un climat favorable au travail scolaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10514">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgabenbereiche des Inspektors</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fonction de l'inspecteur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24155">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Aufgabenbereich des Schulinspektors umfasst die Beratung, die Koordination, die Kontrolle und die p&#xE4;dagogische Betreuung der Lehrpersonen, die Zusammenarbeit, den Aufbau der Kontakte und die zuk&#xFC;nftigen Entwicklungen. Das Departement kann ihm besondere Aufgaben &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La fonction d'inspecteur comprend des t&#xE2;ches de conseil, de coordination, de contr&#xF4;le et d'encadrement p&#xE9;dagogique des ma&#xEE;tres, de collaboration, de relations et de prospective. Le d&#xE9;partement peut lui confier des mandats particuliers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24156">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schulinspektor ist f&#xFC;r alle im Lehrplan angef&#xFC;hrten F&#xE4;cher und ihre Koordination verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur est responsable de toutes les disciplines du programme et de leur coordination.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24157">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die besonderen Ausf&#xFC;hrungen, die f&#xFC;r bestimmte Fachbereiche gelten, bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont r&#xE9;serv&#xE9;es les dispositions en la mati&#xE8;re concernant les branches particuli&#xE8;res.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10515">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erzieherische und administrative Aufgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches p&#xE9;dagogiques et administratives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24158">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aufgaben des Schulinspektors sind haupts&#xE4;chlich p&#xE4;dagogischer Art. Er f&#xFC;hrt die administrativen Arbeiten aus, die mit seinem Amt in Verbindung stehen. Ausserdem erstattet er der zust&#xE4;ndigen Dienststelle in regelm&#xE4;ssigen Abst&#xE4;nden Rechenschaft &#xFC;ber seine T&#xE4;tigkeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les t&#xE2;ches de l'inspecteur sont principalement d'ordre p&#xE9;dagogique. Il assure les travaux administratifs li&#xE9;s &#xE0; sa fonction et en outre rend compte de son activit&#xE9; par un rapport p&#xE9;riodique au service dont il rel&#xE8;ve.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24159">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die detaillierte Beschreibung der Aufgaben des Schulinspektors ist im Pflichtenheft, jeder zu inspizierenden Schulstufe entsprechend, aufgef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La description d&#xE9;taill&#xE9;e des t&#xE2;ches de l'inspecteur est fix&#xE9;e dans un cahier des charges propre &#xE0; chaque degr&#xE9; &#xE0; inspecter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10516">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beziehungen - Kontakte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Relations - Contacts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24160">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schulinspektor arbeitet mit den kommunalen und regionalen Beh&#xF6;rden, den Schuldirektionen und den Eltern zusammen. Er f&#xF6;rdert die Kontakte zwischen schulischen und ausserschulischen Kreisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur collabore avec les autorit&#xE9;s communales et r&#xE9;gionales, les directions d'&#xE9;coles et avec les parents. Il favorise les contacts entre les milieux scolaires et parascolaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24161">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Schulinspektor organisiert nach Bedarf und auf seine Initiative hin Zusammenk&#xFC;nfte mit Schulkommissionen, Schuldirektionen und/oder Lehrpersonen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur organise, si besoin est, de sa propre initiative des rencontres avec les commissions scolaires, les directions d'&#xE9;coles et/ou les enseignants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3040">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Statut</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Statut</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:10517">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Statut des Inspektors der obligatorischen Schulzeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statut de l'inspecteur de la scolarit&#xE9; obligatoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24162">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Statut des Inspektors der obligatorischen Schulzeit ist grunds&#xE4;tzlich dem Statut der Lehrpersonen der obligatorischen Schulzeit gleichgestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le statut de l'inspecteur de la scolarit&#xE9; obligatoire correspond en principe &#xE0; celui d'un enseignant de la scolarit&#xE9; obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24163">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er unterliegt den Bestimmungen &#xFC;ber das Statut der Beamten bez&#xFC;glich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est cependant soumis aux dispositions relatives au statut des fonctionnaires pour ce qui concerne:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11759">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der j&#xE4;hrlichen Arbeitszeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le temps de travail annuel;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11760">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der t&#xE4;glichen Arbeitszeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'horaire de travail quotidien;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11761">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ferienanspruch;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le droit aux vacances;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11762">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Disziplinarmassnahmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les mesures disciplinaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24164">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Besoldungsanspruch richtet sich nach der im Gesetz &#xFC;ber die Besoldung des Lehrpersonals der Primar-, Orientierungs- und Mittelschulen vorgesehenen Besoldungstabelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit aux traitements est r&#xE9;gl&#xE9; conform&#xE9;ment aux plans de classement pr&#xE9;vus dans la loi concernant le traitement du personnel enseignant des &#xE9;coles primaires, du cycle d'orientation et des &#xE9;coles secondaires du deuxi&#xE8;me degr&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24165">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Inspektor ist der Pensionskasse des Lehrpersonals angeschlossen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur de la scolarit&#xE9; obligatoire est affili&#xE9; &#xE0; la caisse de retraite du personnel enseignant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10518">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Statut des Inspektors f&#xFC;r die Sekundarstufe II</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Statut de l'inspecteur de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24166">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Statut des Inspektors der Sekundarstufe II ist grunds&#xE4;tzlich dem Statut der Lehrperson der entsprechenden Stufe gleichgestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le statut de l'inspecteur de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9; correspond &#xE0; celui d'un enseignant du m&#xEA;me degr&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24167">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er unterliegt den Bestimmungen &#xFC;ber das Statut der Beamten bez&#xFC;glich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur du secondaire II est cependant soumis aux dispositions du statut des fonctionnaires en ce qui concerne:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11763">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der j&#xE4;hrliche Arbeitszeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le temps de travail annuel;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11764">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem t&#xE4;glichen Arbeitszeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'horaire de travail quotidien;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11765">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ferienanspruch;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le droit aux vacances;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11766">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Disziplinarmassnahmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les mesures disciplinaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24168">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Besoldungsanspruch richtet sich nach der im Gesetz &#xFC;ber die Besoldung des Lehrpersonals der Primar-, Orientierungs- und Mittelschulen vorgesehenen Besoldungstabelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le traitement est calcul&#xE9; conform&#xE9;ment au plan de classement pr&#xE9;vu dans la loi concernant le traitement du personnel enseignant des &#xE9;coles primaires du cycle d'orientation et des &#xE9;coles secondaires du deuxi&#xE8;me degr&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24169">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Inspektor ist der Pensionskasse der Staatsbeamten und -angestellten angeschlossen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il est affili&#xE9; &#xE0; la caisse de pension des fonctionnaires et employ&#xE9;s de l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10519">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anstellungsbedingungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions de nomination</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24170">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kandidat f&#xFC;r das Amt als Schulinspektor hat folgende Bedingungen zu erf&#xFC;llen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le candidat &#xE0; la fonction d'inspecteur doit remplir les conditions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11767">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;ber gute menschliche Eigenschaften und Berufskompetenz verf&#xFC;gen und Interesse an schulischen Fragen zeigen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">faire preuve des qualit&#xE9;s humaines, des comp&#xE9;tences professionnelles et de l'int&#xE9;r&#xEA;t p&#xE9;dagogique requis;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11768">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die von Gesetzes wegen verlangten oder als gleichwertig anerkannten Berufsdiplome f&#xFC;r die zu inspizierende Schulstufe besitzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">poss&#xE9;der les titres exig&#xE9;s par la loi ou reconnus &#xE9;quivalents pour l'enseignement dans le degr&#xE9; &#xE0; inspecter;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11769">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine angemessene schulische Erfahrung in der betreffenden Schulstufe mitbringen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">b&#xE9;n&#xE9;ficier d'une exp&#xE9;rience p&#xE9;dagogique suffisante dans le degr&#xE9; d'enseignement correspondant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24171">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann zus&#xE4;tzliche Anforderungen verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut &#xE9;mettre des exigences suppl&#xE9;mentaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10520">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Lehrt&#xE4;tigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Activit&#xE9; d'enseignant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24172">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss dem Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen beh&#xE4;lt der Schulinspektor in der Regel einen Teil seiner Unterrichtsstunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Selon la loi sur l'instruction publique, l'inspecteur scolaire conserve, en principe, une activit&#xE9; d'enseignant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24173">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In den F&#xE4;llen, wo der Inspektor in Teilzeit unterrichtet, untersteht er prorata temporis der zust&#xE4;ndigen Schulbeh&#xF6;rde. Sein Statut und seine Besoldung richten sich nach derjenigen der Lehrpersonen der betreffenden Stufe.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les cas o&#xF9; l'inspecteur conserve une activit&#xE9; d'enseignant, il rel&#xE8;ve, &#xE0; ce titre et prorata temporis, de l'autorit&#xE9; scolaire comp&#xE9;tente, son statut et son traitement sont ceux des enseignants du degr&#xE9; concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10521">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stellenausschreibung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mise au concours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24174">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ernennung des Schulinspektors erfolgt nach der Ausschreibung im kantonalen Amtsblatt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La nomination de l'inspecteur est pr&#xE9;c&#xE9;d&#xE9;e d'une mise au concours dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10522">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wahlbeh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; de nomination</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24175">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt den Inspektor auf Antrag des Departementvorstehers.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur est nomm&#xE9; par le Conseil d'Etat sur la proposition du chef du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10523">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Administrative Unterstellung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rattachement administratif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24176">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement definiert die Unterstellung des Schulinspektors.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;finit la subordination de l'inspecteur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10524">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vertretung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Suppl&#xE9;ance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24177">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn der Schulinspektor l&#xE4;ngere Zeit arbeitsunf&#xE4;hig ist, bezeichnet das Departement einen Amtskollegen f&#xFC;r die Erledigung von Arbeiten, die vorrangig und wichtig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'inspecteur est emp&#xEA;ch&#xE9; d'exercer ses fonctions pour une dur&#xE9;e prolong&#xE9;e, le d&#xE9;partement d&#xE9;signe un coll&#xE8;gue charg&#xE9; des t&#xE2;ches urgentes et prioritaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10525">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Weiterbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation continue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24178">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement definiert auf Vorschlag der Dienststelle die Weiterbildung, die f&#xFC;r die Aus&#xFC;bung seines Amtes notwendig ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;finit, sur proposition du service, la formation continue, n&#xE9;cessaire &#xE0; la fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24179">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Teilnahme an obligatorischen, empfohlenen oder freiwilligen Kursen von insgesamt maximal drei Tagen pro Jahr wird vom Departementsvorsteher auf Antrag des Dienstchefs genehmigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le chef du d&#xE9;partement approuve, sur proposition du chef de service, le caract&#xE8;re obligatoire, recommand&#xE9; ou facultatif des cours dont la dur&#xE9;e annuelle maximale autoris&#xE9;e est de trois journ&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24180">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Reise- und Kurskosten f&#xFC;r freiwillige Kurse, f&#xFC;r welche der Inspektor die Bewilligung erhalten hat, gehen zu Lasten des Inspektors.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de transports et d'inscription pour les cours facultatifs pour lesquels l'inspecteur a obtenu l'autorisation sont &#xE0; sa charge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3041">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>T&#xE4;tigkeitsbereiche</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Champ d'activit&#xE9;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:10526">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">T&#xE4;tigkeitsbereiche f&#xFC;r den obligatorischen Unterricht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'activit&#xE9; pour l'inspecteur de l'enseignement obligatoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24181">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem Schulinspektor unterstehen die Primarschulen des 1. bis 8. Schuljahres, die Orientierungsschulen, die Hilfs- und Sonderschulen, die Sonderschulinstitutionen und die Privatschulen, die noch schulpflichtige Kinder aufnehmen. Er kontrolliert die p&#xE4;dagogische Sch&#xFC;lerhilfe sowie den St&#xFC;tzunterricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur exerce son activit&#xE9; dans les &#xE9;coles primaires de la 1<format upper="true">re</format> &#xE0; la 8<format upper="true">e</format> ann&#xE9;e de programme, secondaires I, les classes de l'enseignement sp&#xE9;cialis&#xE9;, les institutions qui ont en charge les enfants en difficult&#xE9; ainsi que dans les &#xE9;coles priv&#xE9;es qui comptent des &#xE9;l&#xE8;ves de scolarit&#xE9; correspondante. Il contr&#xF4;le les mesures d'appui et de soutien p&#xE9;dagogique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10527">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">T&#xE4;tigkeitsbereiche des Inspektors f&#xFC;r den Unterricht der Sekundarstufe II</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'activit&#xE9; pour l'inspecteur de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24182">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Inspektion des Unterrichts der Sekundarstufe II ist in den folgenden Schulen verschieden organisiert:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspection de l'enseignement secondaire du deuxi&#xE8;me degr&#xE9; a pour objet les &#xE9;tablissements suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11770">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Schulen mit vom Bund anerkannten Maturit&#xE4;ten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;coles d&#xE9;livrant des certificats de maturit&#xE9; reconnus par la Conf&#xE9;d&#xE9;ration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:11771">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Handelsmittelschulen, bei denen die Abschlusspr&#xFC;fungen vom zust&#xE4;ndigen Bundesamt f&#xFC;r die Schulen der Sekundarstufe II, deren Diplome durch die EDK anerkannt sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;coles sup&#xE9;rieures de commerce dont les examens finaux sont reconnus par l'office f&#xE9;d&#xE9;ral comp&#xE9;tent et les &#xE9;coles du secondaire II dont les dipl&#xF4;mes sont reconnus par la CDIP.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3042">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:10528">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebungsbestimmung - &#xDC;bergangsbestimmung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation - Disposition transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24183">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement hebt alle gegenteiligen Bestimmungen auf, insbesondere die des R&#xE8;glements&#xA0;&#xFC;ber das Schulinspektorat vom 22. M&#xE4;rz 1991.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge toutes les dispositions qui lui sont contraires, en particulier le r&#xE8;glement concernant l'inspection de l'enseignement du 22 mars 1991.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:24184">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die w&#xE4;hrend des Inkrafttretens des vorliegenden Reglements amtierenden Inspektoren sind nicht den Bestimmungen unterworfen, welche die Anstellungsbedingungen des vorliegenden Reglements betreffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les inspecteurs en fonction lors de l'entr&#xE9;e en vigueur du pr&#xE9;sent r&#xE8;glement ne sont pas soumis aux dispositions concernant les conditions de nomination pr&#xE9;vues dans le pr&#xE9;sent r&#xE8;glement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:10529">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:24185">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement wird im kantonalen Amtsblatt ver&#xF6;ffentlicht und tritt r&#xFC;ckwirkend auf den 1. Januar 2005 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement sera publi&#xE9; au Bulletin officiel pour entrer en vigueur avec effet r&#xE9;troactif au 1<format upper="true">er</format> janvier 2005.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2005-01-01</dateForce>
+      <dateVersion>2015-08-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 13/2016, 8/2015</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

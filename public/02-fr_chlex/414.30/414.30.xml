@@ -1,0 +1,1266 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1423</normID>
+      <number>414.30</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">FSV</abbreviation>
+      <abbreviation lang="fr">AESS</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Interkantonale Fachschulvereinbarung</title>
+      <title lang="fr">Accord intercantonal sur les &#xE9;coles sup&#xE9;rieures</title>
+    </shortTitles>
+    <type>Accord intercantonal</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de"/>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1998-08-27</dateAdoption>
+      <dateForce>2002-10-21T00:00:00</dateForce>
+      <dateLastChange>2002-10-21</dateLastChange>
+      <dateVersion>2002-10-21</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription/>
+        <formal/>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription/>
+        <formal/>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 27/2002, 49/2002</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="5163">
+        <structureContent lang="de">
+          <structureText>Interkantonale Fachschulvereinbarung<comment>
+  <commentReferencing>1</commentReferencing>
+  <number>1</number>
+</comment></structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Accord intercantonal<break type="line"/>sur les &#xE9;coles sup&#xE9;rieures<comment>
+  <commentReferencing>2</commentReferencing>
+  <number>2</number>
+</comment></structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5165">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17110">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck, Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objectifs, domaine d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39228">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vereinbarung regelt f&#xFC;r den Bereich der terti&#xE4;ren Fachschulen (exkl. Universit&#xE4;ten und Fachhochschulen):</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'accord r&#xE8;gle dans le domaine des &#xE9;coles sup&#xE9;rieures sp&#xE9;cialis&#xE9;es du degr&#xE9; tertiaire (&#xE0; l'exclusion des universit&#xE9;s et des hautes &#xE9;coles sp&#xE9;cialis&#xE9;es):</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30889">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den interkantonalen Zugang,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'acc&#xE8;s aux dites &#xE9;coles sur le plan intercantonal,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30890">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Stellung der Studierenden,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le statut des &#xE9;tudiantes et &#xE9;tudiants,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30891">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Abgeltung, welche die Wohnsitzkantone der Studierenden den Tr&#xE4;gern der Fachschulen leisten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les contributions que les cantons de domicile des &#xE9;tudiantes et &#xE9;tudiants ont &#xE0; verser aux instances responsables desdites &#xE9;coles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39229">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Interkantonale Vereinbarungen, welche die Mittr&#xE4;gerschaft oder Mitfinanzierungvon Fachschulen oder h&#xF6;here als die in dieser Vereinbarung vorgesehenen Abgeltungen f&#xFC;r den Fachschulbesuch regeln, gehen dieser Vereinbarung vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les accords intercantonaux, qui r&#xE8;glent la coresponsabilit&#xE9; ou le cofinancement d'une ou de plusieurs &#xE9;coles sup&#xE9;rieures sp&#xE9;cialis&#xE9;es ou qui pr&#xE9;voient des contributions plus &#xE9;lev&#xE9;es que celles pr&#xE9;vues dans le pr&#xE9;sent accord, priment ce dernier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17111">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Liste der Schulen und der zahlenden Kantone</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Liste des &#xE9;coles et des cantons d&#xE9;biteurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39230">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vereinbarungskantone halten in einer Liste fest,</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons signataires &#xE9;tablissent une liste dans laquelle ils indiquent:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30892">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">welche Schulen und Studieng&#xE4;nge sie als Standortkanton f&#xFC;r den interkantonalen Zugang anbieten,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les &#xE9;coles ou fili&#xE8;res dans lesquelles ils admettent, en leur qualit&#xE9; de cantons o&#xF9; ces &#xE9;coles ont leur si&#xE8;ge, les &#xE9;tudiantes et &#xE9;tudiants d'autres cantons,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30893">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">welche Beitr&#xE4;ge f&#xFC;r den Studienbesuch vom Wohnsitzkanton der ausserkantonalen Studierenden zu entrichten sind,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants des contributions que devra leur verser le canton de domicile des &#xE9;tudiantes et &#xE9;tudiants issus d'autres cantons,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30894">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von welchen Angeboten sie als Wohnsitzkanton von Studierenden Gebrauch machen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les offres qu'ils ont retenues pour leurs ressortissants en tant que cantons de domicile d'&#xE9;tudiantes et &#xE9;tudiants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39231">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Liste wird als Anhang zu dieser Vereinbarung gef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette liste est dress&#xE9;e en annexe du pr&#xE9;sent accord.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17112">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wohnsitzkanton</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Canton de domicile</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39232">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Wohnsitzkanton von Studierenden gilt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est r&#xE9;put&#xE9; canton de domicile:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30895">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Heimatkanton f&#xFC;r Schweizerinnen und Schweizer, deren Eltern im Ausland wohnen oder die elternlos im Ausland wohnen; bei mehreren Heimatkantonen gilt das zuletzt erworbene B&#xFC;rgerrecht,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton d'origine pour les &#xE9;tudiantes et &#xE9;tudiants de nationalit&#xE9; suisse dont les parents r&#xE9;sident &#xE0; l'&#xE9;tranger ou qui, orphelins de p&#xE8;re et de m&#xE8;re, vivent &#xE0; l'&#xE9;tranger; dans les cas o&#xF9; il y a plusieurs origines cantonales, la plus r&#xE9;cente est prise en compte,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30896">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der zugewiesene Kanton f&#xFC;r m&#xFC;ndige Fl&#xFC;chtlinge und Staatenlose, die elternlos sind oder deren Eltern im Ausland wohnen; vorbehalten bleibt Buchstabe d,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton d'assignation pour les r&#xE9;fugi&#xE9;es ou r&#xE9;fugi&#xE9;s et les apatrides qui ont atteint l'&#xE2;ge de la majorit&#xE9; et qui sont orphelins de p&#xE8;re et de m&#xE8;re ou dont les parents r&#xE9;sident &#xE0; l'&#xE9;tranger; est r&#xE9;serv&#xE9;e la lettre d,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30897">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Kanton des zivilrechtlichen Wohnsitzes f&#xFC;r m&#xFC;ndige Ausl&#xE4;nderinnen und Ausl&#xE4;nder, die elternlos sind oder deren Eltern im Ausland wohnen; vorbehalten bleibt Buchstabe d,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton dans lequel se trouve le domicile civil pour les &#xE9;trang&#xE8;res et &#xE9;trangers qui ont atteint l'&#xE2;ge de la majorit&#xE9; et qui sont orphelins de p&#xE8;re et de m&#xE8;re ou dont les parents r&#xE9;sident &#xE0; l'&#xE9;tranger; est r&#xE9;serv&#xE9;e la lettre d,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30898">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Kanton, in dem m&#xFC;ndige Studierende mindestens zwei Jahre ununterbrochen gewohnt haben und, ohne gleichzeitig in Ausbildung zu sein, finanziell unabh&#xE4;ngig gewesen sind; als Erwerbst&#xE4;tigkeit gelten auch die F&#xFC;hrung eines Familienhaushaltes und das Leisten von Milit&#xE4;rdienst,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton dans lequel les &#xE9;tudiantes et &#xE9;tudiants majeurs ont r&#xE9;sid&#xE9; en permanence pendant deux ans au moins et o&#xF9; ils ont exerc&#xE9; - sans &#xEA;tre simultan&#xE9;ment en formation - une activit&#xE9; lucrative qui leur a permis d'&#xEA;tre financi&#xE8;rement ind&#xE9;pendants; la gestion d'un m&#xE9;nage familial et l'accomplissement du service militaire sont &#xE9;galement consid&#xE9;r&#xE9;s comme activit&#xE9;s lucratives,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30899">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in allen &#xFC;brigen F&#xE4;llen der Kanton, in dem sich bei Studienbeginn der zivilrechtliche Wohnsitz der Eltern befindet bzw. der Sitz der zuletzt zust&#xE4;ndigen Vormundschaftsbeh&#xF6;rde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans tous les autres cas, le canton dans lequel se trouve le domicile civil des parents ou le si&#xE8;ge des autorit&#xE9;s tut&#xE9;laires comp&#xE9;tentes en dernier lieu, lorsque l'&#xE9;tudiant ou l'&#xE9;tudiante commence ses &#xE9;tudes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5166">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Beitr&#xE4;ge</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Contributions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17113">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Festsetzung der Beitr&#xE4;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;termination du montant des contributions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39233">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Abgeltungen werden als Beitr&#xE4;ge pro Studierende und pro Semester festgelegt. Sie beziehen sich auf Vollzeitausbildungen (mindestens 18 Jahreswochenstunden) oder auf Teilzeitausbildungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les contributions sont vers&#xE9;es par &#xE9;tudiant et par semestre. Elles sont valables pour les formations &#xE0; plein temps (au moins 18 heures hebdomadaires par ann&#xE9;e) ou les formations &#xE0; temps partiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39234">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Standortkantone legen die Beitr&#xE4;ge f&#xFC;r die von ihnen angebotenen Schulen und Studieng&#xE4;nge fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons si&#xE8;ges fixent les montants des contributions percevables par &#xE9;tablissement ou par fili&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39235">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dabei gelten folgende Grunds&#xE4;tze:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les principes suivants sont applicables:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30900">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">F&#xFC;r die Ermittlung der Beitragsh&#xF6;he ist von den durchschnittlichen Ausbildungskosten auszugehen. Massgeblich sind dabei die Betriebskosten, abz&#xFC;glich der individuellen Studiengeb&#xFC;hren, der Infrastrukturkosten und allf&#xE4;lliger Bundesbeitr&#xE4;ge.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants des contributions sont fix&#xE9;s en fonction des frais de formation moyens. Sont d&#xE9;terminants &#xE0; cet effet les frais d'exploitation, apr&#xE8;s d&#xE9;duction des taxes d'&#xE9;tudes individuelles, des frais d'infrastructure et des subventions f&#xE9;d&#xE9;rales, si la fili&#xE8;re y a droit;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30901">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Beitragsh&#xF6;he soll h&#xF6;chstens drei Viertel der durchschnittlichen Ausbildungskosten abdecken.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les contributions sont fix&#xE9;es de sorte qu'elles couvrent trois quarts au maximum des frais de formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30902">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Beitragsh&#xF6;he f&#xFC;r ausserkantonale Studierende darf nicht h&#xF6;her sein als f&#xFC;r Studierende mit Wohnsitz im Kanton.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants per&#xE7;us aupr&#xE8;s des &#xE9;tudiantes et &#xE9;tudiants issus d'autres cantons ne doivent pas &#xEA;tre plus &#xE9;lev&#xE9;s que ceux vers&#xE9;s par les &#xE9;tudiantes et &#xE9;tudiants domicili&#xE9;s dans le canton si&#xE8;ge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39236">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine vom Vorstand der EDK eingesetzte Arbeitsgruppe von f&#xFC;nf Mitgliedern &#xFC;berpr&#xFC;ft auf Verlangen eines Vereinbarungspartners die Beitragsh&#xF6;he und gibt eine Empfehlung ab. Die Standortkantone sind gehalten, auf Verlangen der Arbeitsgruppe die Beitragsh&#xF6;he zu belegen und zu begr&#xFC;nden. Die Kosten dieser Abkl&#xE4;rungen werden auf die Parteien aufgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un groupe de travail mis en place par le Comit&#xE9; de la CDIP et constitu&#xE9; de cinq membres proc&#xE8;de sur demande &#xE0; un examen du montant des contributions et &#xE9;met une recommandation. Sur demande du groupe de travail, les cantons si&#xE8;ges sont tenus de justifier les montants des contributions. Les frais y aff&#xE9;rents sont repartis entre les diff&#xE9;rentes parties.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17114">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Modalit&#xE4;ten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39237">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beitr&#xE4;ge werden in die Liste nach Artikel 2 eingetragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les montants sont inscrits dans les listes conform&#xE9;ment &#xE0; l'article 2.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39238">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie gelten jeweils f&#xFC;r eine Periode von zwei Jahren bzw. f&#xFC;r den Rest der Beitragsperiode (Art. 16, Abs. 2).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils sont valables pour une p&#xE9;riode de deux ans ou jusqu'&#xE0; la fin de la p&#xE9;riode pour laquelle le montant est fix&#xE9; (art. 16, 2e al.).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5167">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Studierende</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Etudiantes et &#xE9;tudiants</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17115">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Behandlung von Studierenden aus Vereinbarungskantonen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Traitement des &#xE9;tudiantes et &#xE9;tudiants issus de cantons signataires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39239">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Standortkantone bzw. die von ihnen angebotenen Schulen gew&#xE4;hren den Studierenden, deren Schulbesuch dieser Vereinbarung untersteht, die gleiche Rechtsstellung wie den eigenen Studierenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les cantons o&#xF9; les &#xE9;coles ont leur si&#xE8;ge ou les &#xE9;coles elles-m&#xEA;mes accordent aux &#xE9;tudiantes et &#xE9;tudiants pour lesquels la fr&#xE9;quentation d'une &#xE9;cole sup&#xE9;rieure sp&#xE9;cialis&#xE9;e est soumise au pr&#xE9;sent accord les m&#xEA;mes droits qu'&#xE0; leurs propres &#xE9;tudiantes et &#xE9;tudiants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17116">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Behandlung von Studierenden aus Nichtvereinbarungskantonen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Traitement des &#xE9;tudiantes et &#xE9;tudiants issus de cantons non
+signataires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39240">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Studierende sowie Studienanw&#xE4;rterinnen und -anw&#xE4;rter aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, haben keinen Anspruch auf Gleichbehandlung. Sie k&#xF6;nnen zu einem Studiengang zugelassen werden, wenn die Studierenden aus den Vereinbarungskantonen Aufnahme gefundenhaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tudiantes et &#xE9;tudiants ainsi que les candidates et candidats aux &#xE9;tudes issus de cantons qui n'ont pas adh&#xE9;r&#xE9; au pr&#xE9;sent accord n'ont aucun droit &#xE0; l'&#xE9;galit&#xE9; de traitement. Ils n'ont acc&#xE8;s &#xE0; une fili&#xE8;re d'&#xE9;tudes que dans la mesure o&#xF9; les &#xE9;tudiantes et &#xE9;tudiants des cantons signataires y ont &#xE9;t&#xE9; admis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39241">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Studierenden aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, wird nebst den Studiengeb&#xFC;hren eine Geb&#xFC;hr auferlegt, welche mindestens der Abgeltung nach Artikel 4 entspricht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tudiantes et &#xE9;tudiants issus de cantons qui n'ont pas adh&#xE9;r&#xE9; au pr&#xE9;sent accord doivent, en plus de leurs taxes d'&#xE9;tudes, s'acquitter d'un montant au moins &#xE9;quivalent aux contributions d&#xE9;finies &#xE0; l'article 4.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17117">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Studiengeb&#xFC;hren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Taxes individuelles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39242">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schulen k&#xF6;nnen von den Studierenden angemessene Studiengeb&#xFC;hren erheben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;coles peuvent percevoir des taxes individuelles appropri&#xE9;es de la part de leurs &#xE9;tudiantes et &#xE9;tudiants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39243">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Studiengeb&#xFC;hren pro Studiengang m&#xFC;ssen f&#xFC;r alle Studierenden, deren Schulbesuch unter diese Vereinbarung f&#xE4;llt, eingeschlossen diejenigen des Standortkantons, gleich sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les taxes des &#xE9;tudiantes et &#xE9;tudiants qui effectuent la m&#xEA;me formation et pour lesquels la fr&#xE9;quentation d'une &#xE9;cole sup&#xE9;rieure sp&#xE9;cialis&#xE9;e est soumise au pr&#xE9;sent accord, y compris celles des &#xE9;tudiantes et &#xE9;tudiants issus du canton o&#xF9; l'&#xE9;tablissement a son si&#xE8;ge, doivent toutes &#xEA;tre du m&#xEA;me montant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5168">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Vollzug</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Ex&#xE9;cution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17118">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitragsverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure de paiement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39248">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Standortkanton bezeichnet f&#xFC;r jede Schule die Zahlstelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton o&#xF9; l'&#xE9;tablissement a son si&#xE8;ge d&#xE9;termine pour chaque &#xE9;cole le centre de paiement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17119">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesch&#xE4;ftsstelle und Arbeitsgruppe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Secr&#xE9;tariat et groupe de travail</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39246">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Generalsekretariat der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) ist Gesch&#xE4;ftsstelle dieser Vereinbarung. Ihr obliegeninsbesondere folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Secr&#xE9;tariat g&#xE9;n&#xE9;ral de la Conf&#xE9;rence suisse des directeurs cantonaux de l'instruction publique (CDIP) assume les fonctions de secr&#xE9;tariat de l'accord. Il doit s'acquitter notamment des t&#xE2;ches suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30903">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Information der Vereinbarungskantone,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">information des cantons partenaires,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30904">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Koordination,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">coordination,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:30905">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Regelung von Verfahrensfragen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">r&#xE9;glementation des questions relatives aux proc&#xE9;dures.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39247">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Beratung der Gesch&#xE4;ftsstelle sowie f&#xFC;r die Erarbeitung von Empfehlungen gem&#xE4;ss Artikel 4 Absatz 4 setzt der Vorstand der EDK eine Arbeitsgruppe von f&#xFC;nf Mitgliedern ein. Diese setzt sich zusammen aus je einer Vertreterin oder einem Vertreter der vier EDK-Regionen sowie einer Vertreterinoder einem Vertreter der Finanzdirektorenkonferenz (FDK).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La CDIP met en place un groupe de travail constitu&#xE9; de cinq membres qui fait office d'organe de consultation et qui est charg&#xE9; de l'&#xE9;laboration des recommandations conform&#xE9;ment &#xE0; l'article 4, 4e alin&#xE9;a. Ce groupe est compos&#xE9; de quatre repr&#xE9;sentantes ou repr&#xE9;sentants des r&#xE9;gions de la CDIP, &#xE0; raison d'un repr&#xE9;sentant ou d'une repr&#xE9;sentante par r&#xE9;gion, ainsi que d'un repr&#xE9;sentant ou d'une repr&#xE9;sentante de la Conf&#xE9;rence des directeurs cantonaux des finances (CDF).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17120">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ermittlung der Studierendenzahl</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;termination du nombre d'&#xE9;tudiantes et d'&#xE9;tudiants</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39245">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Schule erstellt zu Beginn eines Semesters eine Namensliste der Studierenden je Studiengang zuhanden des zahlungspflichtigen Kantons. Diese enth&#xE4;lt den Wohnsitzkanton gem&#xE4;ss Artikel 3 und f&#xFC;hrt die Studierenden des Vollzeit- bzw. berufsbegleitenden Studiums getrennt auf.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au d&#xE9;but du semestre, chaque &#xE9;cole dresse &#xE0; l'intention du canton d&#xE9;biteur une liste nominale des &#xE9;tudiantes et &#xE9;tudiants ventil&#xE9;s en fonction des fili&#xE8;res d'&#xE9;tudes. Cette liste indique le canton de domicile de l'&#xE9;tudiant o&#xF9; de l'&#xE9;tudiante &#xE9;tabli conform&#xE9;ment aux prescriptions de l'article 3 du pr&#xE9;sent accord et distingue les &#xE9;tudiantes et &#xE9;tudiants qui font une formation &#xE0; plein temps de ceux qui effectuent leurs &#xE9;tudes en cours d'emploi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17121">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzugskosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais aff&#xE9;rents &#xE0; l'ex&#xE9;cution de l'accord</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39244">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der Gesch&#xE4;ftsstelle f&#xFC;r den Vollzug dieser Vereinbarung sind durch die Vereinbarungskantone nach Massgabe der Bev&#xF6;lkerungszahl zu tragen. Sie werden ihnen j&#xE4;hrlich in Rechnung gestellt. F&#xFC;r besondere Abkl&#xE4;rungen,die sich nur auf einzelne Kantone und Schulen beziehen, k&#xF6;nnen die Kosten auf die betroffenen Kantone abgew&#xE4;lzt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais occasionn&#xE9;s au secr&#xE9;tariat par l'ex&#xE9;cution du pr&#xE9;sent accord sont &#xE0; la charge des cantons signataires et d&#xE9;termin&#xE9;s en fonction du nombre d'habitants. Ils leur sont factur&#xE9;s annuellement. S'il est n&#xE9;cessaire de proc&#xE9;der &#xE0; des analyses extraordinaires qui ne concernent que certains cantons ou certaines &#xE9;coles, les frais y relatifs peuvent &#xEA;tre imput&#xE9;s aux cantons concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5169">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Rechtspflege</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Voies de droit</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17122">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schiedsinstanz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Instance d'arbitrage</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39249">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r allf&#xE4;llige, sich aus der Anwendung oder Auslegung dieser Vereinbarungergebende Streitigkeiten zwischen den Vereinbarungskantonen wird ein Schiedsgericht eingesetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une commission arbitrale est mise en place en vue de r&#xE9;gler tous les probl&#xE8;mes litigieux qui pourraient surgir entre les cantons partenaires dans le cadre de l'application et de l'interpr&#xE9;tation du pr&#xE9;sent accord.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39250">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses setzt sich aus drei Mitgliedern zusammen, welche durch die Parteien bestimmt werden. K&#xF6;nnen sich die Parteien nicht einigen, so wird das Schiedsgericht durch den Vorstand der EDK bestimmt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette commission est compos&#xE9;e de trois membres d&#xE9;sign&#xE9;s par les parties. Si ces derni&#xE8;res n'arrivent pas &#xE0; se mettre d'accord, le Comit&#xE9; de la CDIP se charge de d&#xE9;signer les membres de la commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39251">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Konkordates &#xFC;ber die Schiedsgerichtsbarkeit vom27. M&#xE4;rz 1969 (SR 279) finden Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions du concordat sur l'arbitrage du 27 mars 1969 (RS 279) sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39252">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Schiedsgericht entscheidet endg&#xFC;ltig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission arbitrale tranche sans appel les litiges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5170">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17123">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitritt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Adh&#xE9;sion</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39260">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen. Mit dem Beitritt verpflichten sich die Kantone, die f&#xFC;r den Vollzug dieser Vereinbarung notwendigen Daten in vorgeschriebener Weise zur Verf&#xFC;gungzu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;clarations d'adh&#xE9;sion au pr&#xE9;sent accord doivent &#xEA;tre communiqu&#xE9;es au Secr&#xE9;tariat g&#xE9;n&#xE9;ral de la CDIP. Par leur adh&#xE9;sion, les cantons s'engagent &#xE0; fournir, sous la forme prescrite, les donn&#xE9;es n&#xE9;cessaires &#xE0; l'application du pr&#xE9;sent accord.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17124">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">In-Kraft-Treten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39258">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Vereinbarung tritt in Kraft, wenn mindestens f&#xFC;nfzehn Kantone den Beitritt erkl&#xE4;rt haben, fr&#xFC;hestens aber auf den Beginn des Studienjahres1999/2000.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s qu'il a re&#xE7;u l'adh&#xE9;sion de quinze cantons au moins, le pr&#xE9;sent accord entre en vigueur, au plus t&#xF4;t cependant au d&#xE9;but de l'ann&#xE9;e scolaire 1999-2000.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39259">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf den Zeitpunkt des In-Kraft-Tretens wird die Interregionale Vereinbarung &#xFC;ber Beitr&#xE4;ge an Fachschulen im terti&#xE4;ren Bereich vom 17. September1992 durch Beschluss der an dieser Vereinbarung beteiligten Kantone aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au moment de l'entr&#xE9;e en vigueur du pr&#xE9;sent accord, l'accord interr&#xE9;gional sur la participation au financement des &#xE9;tablissements de formation non universitaires au degr&#xE9; tertiaire du 17 septembre 1992 est abrog&#xE9; par d&#xE9;cision des cantons ayant adh&#xE9;r&#xE9; audit accord.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17125">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Revision</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;vision</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39256">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vereinbarung kann mit Zustimmung einer Zweidrittelmehrheit der beteiligten Kantone revidiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'accord peut &#xEA;tre r&#xE9;vis&#xE9; moyennant l'approbation de la majorit&#xE9; des deux tiers des cantons signataires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:39257">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine &#xC4;nderung der Anh&#xE4;nge ist alle zwei Jahre auf Beginn des Studienjahres m&#xF6;glich, erstmals fr&#xFC;hestens per 1. August 2001. &#xC4;nderungen des Anhanges werden aufgenommen, soweit sie vor Ende des dem &#xC4;nderungstermin vorangehenden Kalenderjahres bei der Gesch&#xE4;ftsstelle eintreffen. Alle &#xC4;nderungentreten auf einen gleichen Zeitpunkt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les annexes peuvent &#xEA;tre modifi&#xE9;es tous les deux ans au d&#xE9;but de l'ann&#xE9;e d'&#xE9;tudes, et ce, pour la premi&#xE8;re fois &#xE0; partir du 1er ao&#xFB;t 2001. Les modifications sont prises en compte dans la mesure o&#xF9; elles parviennent au secr&#xE9;tariat avant la fin de l'ann&#xE9;e civile pr&#xE9;c&#xE9;dant l'ann&#xE9;e scolaire pour laquelle les modifications sont pr&#xE9;vues. Toutes les modifications entrent en vigueur en m&#xEA;me temps.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17126">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">K&#xFC;ndigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;nonciation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39255">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vereinbarung kann unter Einhaltung einer Frist von zwei Jahren jeweils auf den 30. September durch schriftliche Erkl&#xE4;rung an die Gesch&#xE4;ftsstelle gek&#xFC;ndigt werden, erstmals jedoch nach f&#xFC;nf Beitrittsjahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au 30 septembre de chaque ann&#xE9;e, l'accord peut &#xEA;tre d&#xE9;nonc&#xE9; par d&#xE9;claration &#xE9;crite adress&#xE9;e au secr&#xE9;tariat moyennant un pr&#xE9;avis de deux ans. Une d&#xE9;nonciation de l'accord ne peut intervenir qu'apr&#xE8;s cinq ans d'adh&#xE9;sion.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17127">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Weiterdauer der Verpflichtungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Maintien des obligations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39254">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">K&#xFC;ndigt ein Kanton die Vereinbarung oder streicht er einen Studiengang eines Kantons aus dem Anhang, bleiben seine Verpflichtungen aus dieser Vereinbarung f&#xFC;r die zum Zeitpunkt des Austritts eingeschriebenen Studierenden weiter bestehen. In gleicher Weise bleibt der Anspruch auf Gleichstellung (Art. 6) erhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'un canton d&#xE9;nonce le pr&#xE9;sent accord ou lorsqu'il biffe une fili&#xE8;re d'&#xE9;tudes figurant &#xE0; l'annexe, les obligations qu'il avait dans le cadre de cet accord demeurent inchang&#xE9;es &#xE0; l'&#xE9;gard des &#xE9;tudiantes et &#xE9;tudiants qui &#xE9;taient inscrits dans une &#xE9;cole sup&#xE9;rieure sp&#xE9;cialis&#xE9;e au moment de la d&#xE9;nonciation de l'accord. De m&#xEA;me, le droit &#xE0; l'&#xE9;galit&#xE9; de traitement (art. 6) continue d'&#xEA;tre valable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:17128">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">F&#xFC;rstentum Liechtenstein</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principaut&#xE9; du Liechtenstein</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:39253">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieser Vereinbarung kann das F&#xFC;rstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten der anderen Vereinbarungspartner zu.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La principaut&#xE9; du Liechtenstein peut adh&#xE9;rer au pr&#xE9;sent accord sur la base de sa propre l&#xE9;gislation. Elle jouit alors des m&#xEA;mes droits et doit s'acquitter des m&#xEA;mes obligations que les cantons signataires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <normComments>
+    <normComment>
+      <commentReferenced>1</commentReferenced>
+      <commentNumber>1</commentNumber>
+      <commentText>Beitritt des Kantons Wallis am 24.05.2002. Inkrafttreten am 21.10.2002.</commentText>
+    </normComment>
+    <normComment>
+      <commentReferenced>2</commentReferenced>
+      <commentNumber>2</commentNumber>
+      <commentText>Adh&#xE9;sion par le canton du Valais le 24.05.2002. Entr&#xE9;e en vigueur le 21.10.2002.</commentText>
+    </normComment>
+  </normComments>
+  <history>
+    <info>
+      <dateForce>2002-10-21</dateForce>
+      <dateVersion>2002-10-21</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 27/2002, 49/2002</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

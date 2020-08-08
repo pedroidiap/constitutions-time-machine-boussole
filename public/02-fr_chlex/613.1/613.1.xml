@@ -1,0 +1,2307 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:577</normID>
+      <number>613.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GIFA</abbreviation>
+      <abbreviation lang="fr">LPFI</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber den interkommunalen Finanzausgleich</title>
+      <title lang="fr">Loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-09-15</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-01-01</dateLastChange>
+      <dateVersion>2012-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31, 38, 42, 54 und 77 und folgende der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31, 38, 42, 54 et 77 et suivants de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 52/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1880">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber den interkommunalen Finanzausgleich</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1882">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6442">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14800">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz hat zum Ziel:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour but:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7933">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ungleichheiten aufgrund von unterschiedlichen Ressourcen und Lasten zwischen den Munizipalgemeinden auszugleichen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'att&#xE9;nuer les in&#xE9;galit&#xE9;s r&#xE9;sultant des diff&#xE9;rences de ressources et de charges entre les communes municipales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7934">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Solidarit&#xE4;t unter diesen zu st&#xE4;rken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de renforcer la solidarit&#xE9; entre elles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7935">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Gemeinden ein Minimum an finanziellen Ressourcen zu gew&#xE4;hrleisten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de garantir aux communes une dotation minimale en ressources financi&#xE8;res.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6443">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Moyens</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14801">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um die erw&#xE4;hnten Ziele von Artikel 1 zu erreichen, werden folgende Instrumente verwendet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour atteindre les buts mentionn&#xE9;s &#xE0; l&#x2019;article 1 les instruments suivants sont utilis&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7936">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">horizontaler Ressourcenausgleich, der durch die ressourcenstarken Gemeinden zugunsten der ressourcenschwachen Gemeinden finanziert wird;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une p&#xE9;r&#xE9;quation horizontale des ressources financ&#xE9;e par les communes &#xE0; fort potentiel de ressources en faveur des communes &#xE0; faible potentiel de ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7937">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">vertikaler Ressourcenausgleich, der durch den Kanton finanziert wird, erg&#xE4;nzend zum horizontalen Ressourcenausgleich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une p&#xE9;r&#xE9;quation verticale des ressources financ&#xE9;e par le canton en compl&#xE9;ment &#xE0; la p&#xE9;r&#xE9;quation horizontale des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7938">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Lastenausgleich, der durch den Kanton finanziert wird, um &#xFC;berm&#xE4;ssige strukturelle Lasten auszugleichen, die von gewissen Gemeinden getragen werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une compensation des charges financ&#xE9;e par le canton pour att&#xE9;nuer la charge structurelle excessive support&#xE9;e par certaines communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7939">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">H&#xE4;rteausgleich, der durch den Kanton und die Gemeinden finanziert wird.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une compensation des cas de rigueur financ&#xE9;e par le canton et par les communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6444">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzausgleichsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fonds de p&#xE9;r&#xE9;quation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14802">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Instrumente zum Finanzausgleich werden umgesetzt mittels:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les instruments de la p&#xE9;r&#xE9;quation financi&#xE8;re sont r&#xE9;alis&#xE9;s au moyen:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7940">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eines Ressourcenausgleichsfonds;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'un fonds de p&#xE9;r&#xE9;quation des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7941">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eines Lastenausgleichsfonds;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'un fonds de compensation des charges;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7942">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eines H&#xE4;rteausgleichsfonds.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'un fonds de compensation pour les cas de rigueur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14803">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Fonds werden durch das mit den Finanzen beauftragte Departement verwaltet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces fonds sont g&#xE9;r&#xE9;s par le D&#xE9;partement en charge des finances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1883">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Ressourcenausgleich</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>P&#xE9;r&#xE9;quation des ressources</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1884">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Allgemeines</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>G&#xE9;n&#xE9;ralit&#xE9;s</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:6445">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>4</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ziel</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Objectif</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14804">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ziel des Ressourcenausgleichs ist es, die Unterschiede im Ressourcenpotential der Gemeinden teilweise auszugleichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La p&#xE9;r&#xE9;quation des ressources a pour objectif de compenser partiellement les disparit&#xE9;s de potentiel de ressources entre les communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6446">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ressourcenpotential</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Potentiel de ressources</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14805">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Ressourcenpotential im Sinne des vorliegenden Gesetzes entspricht f&#xFC;r jede Gemeinde der Summe ihrer Pro-Kopf-Ertr&#xE4;ge aus folgenden Ressourcen:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le potentiel de ressources au sens de la pr&#xE9;sente loi correspond, pour chaque commune, au total des rendements par habitant des ressources suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7943">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Einkommenssteuer der nat&#xFC;rlichen Personen zum Koeffizienten 1 ohne Indexierung, zu 100 Prozent f&#xFC;r die wohns&#xE4;ssigen Personen und zu 75 Prozent f&#xFC;r die nichtwohns&#xE4;ssigen Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur le revenu des personnes physiques, au coefficient 1, sans indexation, &#xE0; hauteur de 100 pour cent pour les personnes domicili&#xE9;es et 75 pour cent pour les personnes non domicili&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7944">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Verm&#xF6;genssteuer der nat&#xFC;rlichen Personen zum Koeffizienten 1, zu 100 Prozent f&#xFC;r die wohns&#xE4;ssigen Personen und zu 75 Prozent f&#xFC;r die nichtwohns&#xE4;ssigen Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur la fortune des personnes physiques au coefficient 1, &#xE0; hauteur de 100 pour cent pour les personnes domicili&#xE9;es et 75 pour cent pour les personnes non domicili&#xE9;es;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7945">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Quellensteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t &#xE0; la source;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7946">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Aufwandsteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur la d&#xE9;pense;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7947">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Steuer f&#xFC;r Kapitalleistungen aus beruflicher Vorsorge;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur les prestations en capital provenant de la pr&#xE9;voyance;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7948">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Liquidationsgewinnsteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur les b&#xE9;n&#xE9;fices de liquidation;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7949">
+                            <partNumber>g)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Lotteriegewinnsteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur les gains de loterie;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7950">
+                            <partNumber>h)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Erbschafts- und Schenkungssteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur les successions et donations;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7951">
+                            <partNumber>i)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Grundst&#xFC;ckgewinnsteuer;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur les gains immobiliers;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7952">
+                            <partNumber>j)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Gewinn- und Kapitalsteuer der juristischen Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t sur le b&#xE9;n&#xE9;fice et le capital des personnes morales;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7953">
+                            <partNumber>k)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Grundst&#xFC;cksteuer der juristischen und der nat&#xFC;rlichen Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'imp&#xF4;t foncier des personnes morales et des personnes physiques;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7954">
+                            <partNumber>l)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Netto-Wasserzinsen zu 75 Prozent.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les redevances hydrauliques nettes &#xE0; hauteur de 75 pour cent.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14806">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Begriff des Wohnsitzes f&#xFC;r die Buchstaben a und b wird durch das Steuergesetz bestimmt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La notion de domicile pour les lettres a et b est d&#xE9;termin&#xE9;e par la loi fiscale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6447">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Festlegung des Ressourcenindexes</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">D&#xE9;termination de l'indice de ressources</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14807">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Ressourcenindex einer Gemeinde entspricht dem Verh&#xE4;ltnis zwischen ihrem durchschnittlichen Ressourcenpotential pro Einwohner f&#xFC;r den Referenzzeitraum und dem durchschnittlichen Ressourcenpotential s&#xE4;mtlicher Gemeinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#x2019;indice de ressources d&#x2019;une commune correspond au rapport entre son potentiel de ressources moyen par habitant pour la p&#xE9;riode de r&#xE9;f&#xE9;rence et le potentiel de ressources moyen de l&#x2019;ensemble des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14808">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Referenzzeitraum umfasst die drei letzten aufeinander folgenden Steuerjahre, f&#xFC;r die kantonale Daten vorliegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La p&#xE9;riode de r&#xE9;f&#xE9;rence correspond aux trois ann&#xE9;es fiscales cons&#xE9;cutives les plus r&#xE9;centes pour lesquelles les donn&#xE9;es cantonales sont disponibles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14809">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gemeinden mit einem Ressourcenindex &#xFC;ber 100 Punkte gelten als ressourcenstarke Gemeinden. Gemeinden mit einem Ressourcenindex unter 100 Punkten gelten als ressourcenschwache Gemeinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes ayant un indice de ressources sup&#xE9;rieur &#xE0; 100 points sont r&#xE9;put&#xE9;es communes &#xE0; fort potentiel de ressources. Les communes ayant un indice de ressources inf&#xE9;rieur &#xE0; 100 points sont r&#xE9;put&#xE9;es communes &#xE0; faible potentiel de ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6448">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Bev&#xF6;lkerung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Population</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14810">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Nimmt das vorliegende Gesetz auf eine Bev&#xF6;lkerungszahl oder auf ein Verh&#xE4;ltnis pro Einwohner Bezug, ist die vom Staatsrat festgelegte so genannte zivilrechtliche Bev&#xF6;lkerungszahl massgebend.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque la pr&#xE9;sente loi se r&#xE9;f&#xE8;re &#xE0; un chiffre de la population ou &#xE0; un rapport par habitant, c&#x2019;est le chiffre de la population dite l&#xE9;gale arr&#xEA;t&#xE9; par le Conseil d&#x2019;Etat qui fait foi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1885">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Horizontaler Ressourcenausgleich</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>P&#xE9;r&#xE9;quation horizontale des ressources</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:6449">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Finanzierung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Financement</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14811">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die ressourcenstarken Gemeinden finanzieren den horizontalen Ressourcenausgleich.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes &#xE0; fort potentiel de ressources financent la p&#xE9;r&#xE9;quation horizontale des ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14812">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jede ressourcenstarke Gemeinde bezahlt pro Einwohner einen einheitlichen Prozentsatz auf der Differenz zwischen ihrem Ressourcenpotential und dem durchschnittlichen Ressourcenpotential s&#xE4;mtlicher Gemeinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Chaque commune &#xE0; fort potentiel de ressources verse, par habitant, un pourcentage uniforme de la diff&#xE9;rence entre son potentiel de ressources et le potentiel de ressources moyen de l&#x2019;ensemble des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14813">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Entsprechend der Entwicklung der Ressourcendisparit&#xE4;ten zwischen den Gemeinden legt der Staatsrat j&#xE4;hrlich den Beitrag der ressourcenstarken Gemeinden fest. Dieser liegt in einer Spanne von 15 bis 25 Prozent der Differenz zwischen ihrem Ressourcenpotential und dem durchschnittlichen Ressourcenpotential s&#xE4;mtlicher Gemeinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En fonction de l&#x2019;&#xE9;volution des disparit&#xE9;s de ressources entre les communes, le Conseil d&#x2019;Etat fixe annuellement la contribution des communes &#xE0; fort potentiel de ressources dans une fourchette de 15 &#xE0; 25 pour cent de la diff&#xE9;rence entre leur potentiel de ressources et le potentiel de ressources moyen de l&#x2019;ensemble des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6450">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verteilung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">R&#xE9;partition</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14814">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ressourcenschwache Gemeinden erhalten Betr&#xE4;ge im Rahmen des horizontalen Ressourcenausgleichs.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes &#xE0; faible potentiel de ressources re&#xE7;oivent des montants au titre de la p&#xE9;r&#xE9;quation horizontale des ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14815">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Betr&#xE4;ge, die den ressourcenschwachen Gemeinden zugeteilt werden, steigen progressiv entsprechend der Differenz ihres Ressourcenindexes im Verh&#xE4;ltnis zum Ressourcenindex s&#xE4;mtlicher Gemeinden an.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les montants allou&#xE9;s aux communes &#xE0; faible potentiel de ressources augmentent progressivement en fonction de l&#x2019;&#xE9;cart de leurs indices de ressources par rapport &#xE0; l&#x2019;indice des ressources de l&#x2019;ensemble des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14816">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Anstieg der zugewiesenen Betr&#xE4;ge wird so festgelegt, dass die Rangstufe der Gemeinden, basierend auf ihrem Ressourcenindex, nach der Verteilung des horizontalen Ressourcenausgleichs unver&#xE4;ndert bleibt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L&#x2019;augmentation des montants allou&#xE9;s est fix&#xE9;e de sorte que le classement des communes, bas&#xE9; sur l&#x2019;indice des ressources, ne soit pas modifi&#xE9; apr&#xE8;s versement de la contribution au titre de la p&#xE9;r&#xE9;quation horizontale des ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="1886">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Vertikaler Ressourcenausgleich</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>P&#xE9;r&#xE9;quation verticale des ressources</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:6451">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ziel</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Objectif</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14817">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ziel des vertikalen Ressourcenausgleichs ist, dass nach Ber&#xFC;cksichtigung des horizontalen Ressourcenausgleichs alle Gemeinden &#xFC;ber ein minimales Ressourcenpotential verf&#xFC;gen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La p&#xE9;r&#xE9;quation verticale des ressources vise &#xE0; permettre &#xE0; toutes les communes de disposer d&#x2019;un potentiel de ressources minimal apr&#xE8;s prise en compte de la p&#xE9;r&#xE9;quation horizontale des ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14818">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das minimale Ressourcenpotential entspricht einem gewissen Prozentsatz des durchschnittlichen Ressourcenpotentials s&#xE4;mtlicher Gemeinden, der entsprechend den von Gesetzes wegen zugewiesenen Mitteln jedes Jahr vom Staatsrat festgelegt wird.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le potentiel de ressources minimal correspond &#xE0; un certain pourcentage du potentiel de ressources moyen de l'ensemble des communes, d&#xE9;termin&#xE9; chaque ann&#xE9;e par le Conseil d'Etat, en fonction des moyens affect&#xE9;s par la loi.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14819">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das minimale Ressourcenpotential muss nach Addition der Beitr&#xE4;ge aus dem horizontalen Ressourcenausgleich und dem vertikalen Ressourcenausgleich prinzipiell in einer Spanne von 80 bis 90 Prozent des durchschnittlichen Ressourcenpotentials s&#xE4;mtlicher Gemeinden liegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le potentiel de ressources minimal doit en principe se situer, apr&#xE8;s addition des versements des p&#xE9;r&#xE9;quations horizontale et verticale des ressources, dans une fourchette de 80 &#xE0; 90 pour cent du potentiel de ressources moyen de l'ensemble des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6452">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Finanzierung und Verteilung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Financement et r&#xE9;partition</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14820">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Um den vertikalen Ressourcenausgleich zu finanzieren, weist der Kanton dem Ressourcenausgleichsfonds einen zus&#xE4;tzlichen Beitrag zu. Es handelt sich dabei um einen Betrag, der mindestens zwei Dritteln des Beitrags der ressourcenstarken Gemeinden entspricht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Pour financer la p&#xE9;r&#xE9;quation verticale des ressources le canton dote le fonds de p&#xE9;r&#xE9;quation des ressources d&#x2019;une contribution compl&#xE9;mentaire d&#x2019;un montant au minimum &#xE9;gal aux deux tiers de la contribution des communes &#xE0; fort potentiel de ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14821">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In Erg&#xE4;nzung zum horizontalen Ressourcenausgleich wird dieser Betrag zwischen den ressourcenarmen Gemeinden verteilt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ce montant est r&#xE9;parti entre les communes &#xE0; faible potentiel de ressources, en compl&#xE9;ment de la p&#xE9;r&#xE9;quation horizontale des ressources.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:6453">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Betragsbegrenzung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Limitation des montants</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14822">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gesamtsumme, die einer Gemeinde gem&#xE4;ss den Artikeln 9 und 11 des vorliegenden Gesetzes zugeteilt wird, ist wie folgt begrenzt:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La somme totale allou&#xE9;e &#xE0; une commune au sens des articles 9 et 11 de la pr&#xE9;sente loi est limit&#xE9;e de la mani&#xE8;re suivante:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7955">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">f&#xFC;r die ersten 3'000 Einwohner: 100 Prozent des Ausgleichs pro Einwohner;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour ses 3'000 premiers habitants, 100 pour cent de la r&#xE9;partition par habitant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7956">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">3'001 bis 5'000 Einwohner: 60 Prozent des Ausgleichs pro Einwohner;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour ses habitants de 3'001 &#xE0; 5'000, 60 pour cent de la r&#xE9;partition par habitant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7957">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">5'001 bis 7'000 Einwohner: 50 Prozent des Ausgleichs pro Einwohner;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour ses habitants de 5'001 &#xE0; 7'000, 50 pour cent de la r&#xE9;partition par habitant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7958">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">7'001 bis 10'000 Einwohner: 40 Prozent des Ausgleichs pro Einwohner;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour ses habitants de 7'001 &#xE0; 10'000, 40 pour cent de la r&#xE9;partition par habitant;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:7959">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">ab 10'001 Einwohnern: 30 Prozent des Ausgleichs pro Einwohner.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">pour ses habitants de 10'001 et plus, 30 pour cent de la r&#xE9;partition par habitant.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:14823">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die im Sinne von Absatz 1 abgezogenen Betr&#xE4;ge werden dem H&#xE4;rteausgleichsfonds zugewiesen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les montants retenus au sens de l&#x2019;alin&#xE9;a 1 sont allou&#xE9;s au fonds de compensation pour les cas de rigueur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1887">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Lastenausgleich</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Compensation des charges</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6454">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objectif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14824">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dem Lastenausgleich sollen die &#xFC;berm&#xE4;ssigen strukturellen Lasten, die von gewissen Gemeinden getragen werden, teilweise ausgeglichen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La compensation des charges a pour objectif de compenser partiellement la charge structurelle excessive support&#xE9;e par certaines communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14825">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er kommt den Gemeinden zugute, die durch ihr geotopografisches und soziodemografisches Umfeld benachteiligt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle b&#xE9;n&#xE9;ficie aux communes d&#xE9;favoris&#xE9;es en raison de leur environnement g&#xE9;o-topographique et socio-d&#xE9;mographique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6455">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kriterien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Crit&#xE8;res</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14826">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Lastenausgleich basiert auf den folgenden Kriterien:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La compensation des charges est fond&#xE9;e sur&#xA0; les crit&#xE8;res suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7960">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gewichtete Wohnh&#xF6;he der Bev&#xF6;lkerung in Schichten von 100 H&#xF6;henmetern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'altitude pond&#xE9;r&#xE9;e de la population par couche de cent m&#xE8;tres d'altitude;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7961">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">L&#xE4;nge der auf dem Gemeindegebiet gelegenen kantonalen und kommunalen Strassen in Kilometern pro Einwohner;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la longueur des routes cantonales et communales situ&#xE9;es sur le territoire communal en kilom&#xE8;tre par habitant;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7962">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">produktive Fl&#xE4;che in Hektaren des Gemeindegebiets pro Einwohner, ohne bewaldete Fl&#xE4;chen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la surface productive en hectare, sans les surfaces bois&#xE9;es, du territoire communal par habitant;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7963">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Anzahl in der Gemeinde wohnhafte 80-j&#xE4;hrige und &#xE4;ltere Personen im Verh&#xE4;ltnis zur Gesamtbev&#xF6;lkerung der Gemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le nombre de personnes &#xE2;g&#xE9;es de 80 ans et plus domicili&#xE9;es dans la commune, proportionnellement au chiffre total de la population communale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7964">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Anzahl in der Gemeinde wohnhafte bis 16-j&#xE4;hrige Kinder im Verh&#xE4;ltnis zur Gesamtbev&#xF6;lkerung der Gemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le nombre d'enfants jusqu'&#xE0; 16 ans domicili&#xE9;s dans la commune, proportionnellement au chiffre total de la population communale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7965">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Anzahl Wohnungen pro Einwohner auf dem Gemeindegebiet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le nombre de logements par habitant sur le territoire communal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6456">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Lastenindex</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Indice des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14827">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r jedes der in Artikel 14 aufgef&#xFC;hrten Kriterien wird aufgrund der neuesten verf&#xFC;gbaren Daten ein Standardindex berechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour chacun des crit&#xE8;res &#xE9;num&#xE9;r&#xE9;s &#xE0; l&#x2019;article 14, il est calcul&#xE9; un indice standardis&#xE9; sur la base des donn&#xE9;es les plus r&#xE9;centes qui sont disponibles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6457">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gewichtung und Berechnung des synthetischen Lastenindexes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pond&#xE9;ration et calcul de l'indice synth&#xE9;tique des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14828">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in Artikel 15 erw&#xE4;hnten Standardindizes werden zu einem einzigen synthetischen Lastenindex gem&#xE4;ss einer Gewichtung von eins bis zwei pro Kriterium zusammengefasst.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les indices standardis&#xE9;s mentionn&#xE9;s &#xE0; l&#x2019;article 15 sont r&#xE9;unis en un seul indice synth&#xE9;tique des charges selon une pond&#xE9;ration de un &#xE0; deux par crit&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6458">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;ufnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Alimentation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14829">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Rahmen des Lastenausgleichs j&#xE4;hrlich zu verteilende Summe wird durch den Kanton finanziert und entspricht 45 Prozent des Gesamtbetrags, der dem Ressourcenausgleich zugewiesen wird, mindestens aber 8 Millionen Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La somme &#xE0; r&#xE9;partir annuellement au titre de la compensation des charges est financ&#xE9;e par le canton et correspond au 45 pour cent du montant total allou&#xE9; &#xE0; la p&#xE9;r&#xE9;quation des ressources mais au minimum &#xE0; huit millions de francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6459">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verteilung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14830">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gemeinden, deren synthetischer Lastenindex &#xFC;ber dem Durchschnitt s&#xE4;mtlicher Gemeinden liegt, erhalten einen Lastenausgleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes ayant un indice synth&#xE9;tique des charges sup&#xE9;rieur &#xE0; la moyenne de l&#x2019;ensemble des communes re&#xE7;oivent des montants au titre de la compensation des charges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14831">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede ausgleichsberechtigte Gemeinde hat im Verh&#xE4;ltnis zu ihrer Bev&#xF6;lkerungszahl, die anhand ihres synthetischen Lastenindexes gewichtet wird, Anspruch auf einen Teil des Fonds.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque commune b&#xE9;n&#xE9;ficiaire a droit &#xE0; une part du fonds correspondant &#xE0; un montant proportionnel au chiffre de sa population pond&#xE9;r&#xE9; par son indice synth&#xE9;tique des charges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1888">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>H&#xE4;rteausgleichsfonds</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Fonds de compensation pour les cas de rigueur</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6460">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziele</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objectifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14832">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der H&#xE4;rteausgleichsfonds:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le fonds de compensation pour les cas de rigueur sert &#xE0;:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7966">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">erleichtert den &#xDC;bergang ins neue System des Finanzausgleichs und der Aufgabenentflechtung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">faciliter la transition vers le nouveau syst&#xE8;me de p&#xE9;r&#xE9;quation et de r&#xE9;partition des t&#xE2;ches;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7967">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">kompensiert bei einer Fusion, bis zu einem Maximalbetrag von 500'000 Franken pro Jahr w&#xE4;hrend der Dauer von vier Jahren, die Differenz zwischen dem Nettobetrag, der sich f&#xFC;r die neu fusionierte Gemeinde ergibt, und der Summe der den Gemeinden vor der Fusion individuell gew&#xE4;hrten Betr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">compenser en cas de fusion, &#xE0; hauteur d'un montant maximum de 500'000 francs par ann&#xE9;e sur une p&#xE9;riode de quatre ans, la diff&#xE9;rence entre le montant net d&#xE9;termin&#xE9; pour la nouvelle commune et la somme des montants allou&#xE9;s individuellement avant la fusion;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7968">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">gew&#xE4;hrt punktuelle Finanzhilfen an finanzschwache Gemeinden oder einer Gruppe von Gemeinden, die kommunale oder regionale Projekte umgesetzt haben, oder an Gemeinden, die sich in einer schwierigen finanziellen Lage befinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">octroyer des aides financi&#xE8;res ponctuelles &#xE0; des communes ou &#xE0; un groupe de communes &#xE9;conomiquement faibles qui ont r&#xE9;alis&#xE9; des projets communaux ou r&#xE9;gionaux, ainsi qu'&#xE0; des communes en situation financi&#xE8;re difficile.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6461">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Funktionsweise des H&#xE4;rteausgleichsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fonctionnement du fonds de compensation pour les cas de rigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14833">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der H&#xE4;rteausgleichsfonds wird finanziert durch:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le fonds de compensation pour les cas de rigueur est financ&#xE9; par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7969">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den verf&#xFC;gbaren Saldo bei der Aufl&#xF6;sung des interkommunalen Finanzausgleichsfonds gem&#xE4;ss altem System;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le solde final disponible &#xE0; la dissolution du fonds de p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale selon l'ancien syst&#xE8;me;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7970">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Betr&#xE4;ge aus der Betragsbegrenzung in Artikel 12 und jene aus Artikel 24;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants provenant de la limitation pr&#xE9;vue &#xE0; l'article 12 et par ceux retenus &#xE0; l'article 24;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7971">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zus&#xE4;tzliche Mittel k&#xF6;nnen dem Fonds &#xFC;ber das ordentliche Budget zugewiesen werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des montants suppl&#xE9;mentaires pouvant &#xEA;tre allou&#xE9;s au fonds par la voie du budget ordinaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7972">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sofern notwendig, ist die Nachfinanzierung des Fonds erlaubt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le postfinancement du fonds est autoris&#xE9; si n&#xE9;cessaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14834">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vom H&#xE4;rteausgleichsfonds beg&#xFC;nstigten Gemeinden gem&#xE4;ss Artikel 19 Buchstabe a sind jene, die in der finanziellen Gesamtbilanz bez&#xFC;glich der neuen Aufgabenteilung zwischen dem Kanton und den Gemeinden zus&#xE4;tzliche Lasten aufweisen, und deren Ressourcenpotential pro Einwohner unter dem Durchschnitt des Ressourcenpotentials pro Einwohner s&#xE4;mtlicher Gemeinden liegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes b&#xE9;n&#xE9;ficiaires de la compensation pour les cas de rigueur selon l&#x2019;article 19 lettre a sont celles pr&#xE9;sentant des charges financi&#xE8;res suppl&#xE9;mentaires dans le bilan financier global relatif &#xE0; la nouvelle r&#xE9;partition des t&#xE2;ches entre le canton et les communes et dont le potentiel de ressources par habitant est inf&#xE9;rieur au potentiel de ressources moyen par habitant de l&#x2019;ensemble des communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14835">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat beschliesst auf dem Verordnungsweg die Liste der beg&#xFC;nstigten Gemeinden und den notwendigen Betrag des H&#xE4;rteausgleichsfonds gem&#xE4;ss Absatz 2. Dieser Betrag wird w&#xE4;hrend maximal 16 Jahren ausbezahlt. Er ist ab Inkrafttreten des vorliegenden Gesetzes w&#xE4;hrend vier Jahren fix und verringert sich danach j&#xE4;hrlich um 7.69 Prozent des Anfangbetrags.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te, par voie d'ordonnance, la liste des communes b&#xE9;n&#xE9;ficiaires et le montant n&#xE9;cessaire du fonds de compensation des cas de rigueur selon l'alin&#xE9;a 2. Ce montant est vers&#xE9; durant 16 ans au maximum. Il est fixe pour quatre ans d&#xE8;s la mise en vigueur de la pr&#xE9;sente loi, puis diminue chaque ann&#xE9;e de 7.69 pour cent du montant initial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14836">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die den Gemeinden &#xFC;berwiesenen Betr&#xE4;ge sind ohne Zweckbindung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les fonds sont vers&#xE9;s aux communes sans &#xEA;tre subordonn&#xE9;s &#xE0; une affectation d&#xE9;termin&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14837">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Recht auf Leistungen aus dem H&#xE4;rteausgleichsfonds gem&#xE4;ss Artikel 19 Buchstabe a wird sistiert, wenn das Ressourcenpotential pro Einwohner der Gemeinde den Durchschnitt des Ressourcenpotentials pro Einwohner s&#xE4;mtlicher Gemeinden &#xFC;bersteigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit aux prestations de compensation pour les cas de rigueur au sens de l&#x2019;article 19 lettre a est suspendu lorsque le potentiel de ressources par habitant de la commune d&#xE9;passe le potentiel de ressources moyen par habitant de l&#x2019;ensemble des communes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1889">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Ausf&#xFC;hrung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Ex&#xE9;cution</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6462">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">J&#xE4;hrlicher Beschluss des Staatsrats</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Arr&#xEA;t&#xE9; annuel du Conseil d'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14838">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Folgende Elemente bilden j&#xE4;hrlich, vor dem 1. Juli, Gegenstand eines Beschlusses des Staatsrates f&#xFC;r das Folgejahr:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque ann&#xE9;e le Conseil d&#x2019;Etat porte, avant le 1<format upper="true">er</format> juillet, un arr&#xEA;t&#xE9; traitant les &#xE9;l&#xE9;ments ci-apr&#xE8;s concernant l&#x2019;ann&#xE9;e suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7973">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Ressourcenindex jeder Gemeinde vor dem Ressourcenausgleich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'indice de ressources de chaque commune avant p&#xE9;r&#xE9;quation des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7974">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Prozentsatz der Beitr&#xE4;ge der ressourcenstarken Gemeinden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le pourcentage de la contribution des communes &#xE0; fort potentiel de ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7975">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die als horizontaler Ressourcenausgleich zu verteilende Summe;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la somme &#xE0; r&#xE9;partir au titre de la p&#xE9;r&#xE9;quation horizontale des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7976">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die als vertikaler Ressourcenausgleich zu verteilende Summe;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la somme &#xE0; r&#xE9;partir au titre de la p&#xE9;r&#xE9;quation verticale des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7977">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Mindestziel des Ressourcenausgleichs;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'objectif minimal de potentiel de ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7978">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Betrag, der von jeder im horizontalen Ressourcenausgleich beitragspflichtigen Gemeinde pro Einwohner geschuldet ist;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le montant d&#xFB; par habitant pour chaque commune contributrice au titre de la p&#xE9;r&#xE9;quation horizontale des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7979">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Betrag, der jeder vom Ressourcenausgleich beg&#xFC;nstigten Gemeinde pro Einwohner zusteht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le montant &#xE0; recevoir par habitant pour chaque commune b&#xE9;n&#xE9;ficiaire au titre de la p&#xE9;r&#xE9;quation des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7980">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der synthetische Lastenindex jeder Gemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'indice synth&#xE9;tique des charges de chaque commune;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7981">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die als Lastensausgleich zu verteilende Summe;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la somme &#xE0; r&#xE9;partir au titre de la compensation des charges;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7982">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Betrag, der jeder Gemeinde als Lastenausgleich pro Einwohner zusteht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le montant &#xE0; recevoir par habitant pour chaque commune au titre de la compensation des charges;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7983">
+                        <partNumber>k)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die F&#xE4;lligkeiten der Ein- und Auszahlungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les &#xE9;ch&#xE9;ances des paiements et des versements.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14839">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieser Beschluss, der individuelle Daten der Gemeinden enth&#xE4;lt, hat einen rein informativen Wert und kann nicht angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cet arr&#xEA;t&#xE9;, en tant qu&#x2019;il contient des donn&#xE9;es individuelles des communes, a simple valeur indicative et ne peut faire l&#x2019;objet de recours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6463">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;ufnung und Verteilung der Fonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dures d'alimentation et de r&#xE9;partition des fonds</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14840">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedes Jahr erstellt die Kantonale Finanzverwaltung aufgrund der Elemente des Beschlusses die individuellen Entscheide betreffend &#xC4;ufnung und Verteilung der Fonds und teilt sie den Gemeinden mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque ann&#xE9;e, sur la base des &#xE9;l&#xE9;ments de l&#x2019;arr&#xEA;t&#xE9;, l&#x2019;Administration cantonale des finances &#xE9;tablit et notifie aux communes les d&#xE9;cisions individuelles en mati&#xE8;re d&#x2019;alimentation et de r&#xE9;partition des fonds.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14841">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen diese Entscheide kann innerhalb von 30 Tagen nach Zustellung bei der Kantonalen Finanzverwaltung, welche mit dem interkommunalen Finanzausgleich beauftragt ist, Einsprache erhoben werden, mit der M&#xF6;glichkeit der sp&#xE4;teren Beschwerde beim Staatsrat beziehungsweise beim Kantonsgericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces d&#xE9;cisions sont susceptibles de r&#xE9;clamation aupr&#xE8;s de l&#x2019;Administration cantonale des finances en charge de la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale dans un d&#xE9;lai de 30 jours &#xE0; dater de leur notification, avec possibilit&#xE9; de recours ult&#xE9;rieurs successifs aupr&#xE8;s du Conseil d&#x2019;Etat, respectivement du Tribunal cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14842">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird nach der Verteilung der Betr&#xE4;ge aus dem Ressourcen- und Lastenausgleich bei einer Gemeinde ein signifikanter Fehler festgestellt, kann dieser r&#xFC;ckwirkend korrigiert werden, mit Wirksamkeit auf den n&#xE4;chsten interkommunalen Finanzausgleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si une erreur significative concernant une commune est d&#xE9;tect&#xE9;e apr&#xE8;s r&#xE9;partition des diff&#xE9;rents fonds de p&#xE9;r&#xE9;quation des ressources et de compensation des charges, cette derni&#xE8;re peut &#xEA;tre corrig&#xE9;e r&#xE9;troactivement avec effet sur la prochaine application du syst&#xE8;me de p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14843">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Fehler kann auf maximal zwei Jahre r&#xFC;ckwirkend korrigiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La correction de l&#x2019;erreur de mani&#xE8;re r&#xE9;troactive ne s&#x2019;applique toutefois que pour deux ann&#xE9;es au maximum.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6464">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausgleich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Compensation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14844">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann Schulden der Gemeinden gegen&#xFC;ber dem Staat mit Beitr&#xE4;gen zugunsten der Gemeinden, die sich aus dem vorliegenden Gesetz ergeben, kompensieren. Der Ausgleich muss von der betroffenen Gemeinde nicht genehmigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut compenser des cr&#xE9;ances des communes envers l'Etat avec des montants en faveur des communes d&#xE9;coulant de la pr&#xE9;sente loi. La compensation ne n&#xE9;cessite pas l'accord de la commune concern&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6465">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Reduktion - Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;duction - Suppression</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14845">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann die Betr&#xE4;ge, die einer ausgleichsberechtigten Gemeinde geschuldet werden, reduzieren oder sogar aufheben, wenn diese von grossen ausserordentlichen Ertr&#xE4;gen profitiert, die bei der Bestimmung ihres Ressourcenpotentials gem&#xE4;ss dem vorliegenden Gesetz nicht ber&#xFC;cksichtigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat peut r&#xE9;duire, voire supprimer, les montants dus &#xE0; une commune b&#xE9;n&#xE9;ficiaire de la p&#xE9;r&#xE9;quation financi&#xE8;re dans le cas o&#xF9; celle-ci b&#xE9;n&#xE9;fice directement ou indirectement de revenus extraordinaires importants non pris en compte dans la d&#xE9;termination de son potentiel de ressources au sens de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14846">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im Sinne von Absatz 1 abgezogenen Betr&#xE4;ge werden dem H&#xE4;rteausgleichsfonds zugewiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les montants retenus au sens de l&#x2019;alin&#xE9;a 1 sont allou&#xE9;s au fonds de compensation pour les cas de rigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6466">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beurteilung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14847">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat beurteilt regelm&#xE4;ssig das Finanzausgleichssystem und dessen Ergebnisse.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat proc&#xE8;de p&#xE9;riodiquement &#xE0; une &#xE9;valuation du syst&#xE8;me de p&#xE9;r&#xE9;quation financi&#xE8;re et de ses r&#xE9;sultats.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14848">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er teilt dem Grossen Rat seine Folgerungen mit und schl&#xE4;gt ihm gegebenenfalls notwendige Gesetzes&#xE4;nderungen vor.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il fait part de ses conclusions au Grand Conseil et lui propose, le cas &#xE9;ch&#xE9;ant, les modifications l&#xE9;gislatives n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1890">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6467">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14849">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit Inkrafttreten des vorliegenden Gesetzes sind die Bestimmungen betreffend die abgestufte Subventionierung nicht mehr anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi, les dispositions pr&#xE9;vues en mati&#xE8;re de subventionnement diff&#xE9;rentiel ne sont plus applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14850">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Entscheide, die vor Inkrafttreten des vorliegenden Gesetzes in Bezug auf die abgestuften Subventionierungen gef&#xE4;llt wurden, werden beibehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises en mati&#xE8;re de subventionnement diff&#xE9;rentiel avant l&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi sont toutefois maintenues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14851">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bis die neue kantonale Informatikplattform des Einwohnerregisters eingesetzt ist, basiert die zivilrechtliche Bev&#xF6;lkerung gem&#xE4;ss Artikel 7 des vorliegenden Gesetzes auf den Daten des ESPOP.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La population dite l&#xE9;gale au sens de l&#x2019;article 7 de la pr&#xE9;sente loi est la population qui r&#xE9;sulte du syst&#xE8;me dit ESPOP jusqu&#x2019;&#xE0; la mise en &#x153;uvre de la nouvelle plate-forme informatique cantonale du registre des habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14852">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Solange die statistischen Daten der 80-j&#xE4;hrigen und &#xE4;lteren Personen und der bis 16-j&#xE4;hrigen Kinder nicht j&#xE4;hrlich verf&#xFC;gbar sind, gelten die Daten der eidgen&#xF6;ssischen Volksz&#xE4;hlung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aussi longtemps que les donn&#xE9;es statistiques relatives aux personnes &#xE2;g&#xE9;es de 80 ans et plus et aux enfants &#xE2;g&#xE9;s de z&#xE9;ro &#xE0; 16 ans ne sont pas disponibles annuellement, ce sont les donn&#xE9;es du recensement f&#xE9;d&#xE9;ral de la population qui font foi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6468">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausf&#xFC;hrungsbestimmung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Disposition d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14853">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat regelt die Ausf&#xFC;hrungsbestimmungen mittels Verordnung und Beschl&#xFC;ssen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat arr&#xEA;te par voie d&#x2019;ordonnance et d&#x2019;arr&#xEA;t&#xE9;s les dispositions d&#x2019;ex&#xE9;cution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6469">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14854">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz hebt alle ihm zuwiderlaufenden Bestimmungen auf, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi abroge toutes les dispositions contraires et notamment les dispositions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7984">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Artikel 195 bis 201 des Steuergesetzes vom 10. M&#xE4;rz 1976;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les articles 195 &#xE0; 201 de la loi fiscale du 10 mars 1976;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7985">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verordnung zum interkommunalen Finanzausgleich vom 23. September 1992;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'ordonnance sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale du 23 septembre 1992;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7986">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Grundreglement betreffend die Berechnung der abgestuften Subventionierung vom 9. April 2008;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE8;glement de base fixant le mode de calcul de la subvention diff&#xE9;rentielle du 9 avril 2008;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7987">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Artikel 2 Absatz 2 Buchstabe b und Artikel 4 Absatz 4 der Verordnung &#xFC;ber Gemeindefusionen vom 8. Juni 2005.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'article 2 alin&#xE9;a 2 lettre b et l'article 4 alin&#xE9;a 4 de l'ordonnance sur les fusions de communes du 8 juin 2005.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2012-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 52/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

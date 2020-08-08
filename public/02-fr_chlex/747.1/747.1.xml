@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:385</normID>
+      <number>747.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Vollziehungsgesetz zum Bundesgesetz &#xFC;ber das Schiffsregister</title>
+      <title lang="fr">Loi d'ex&#xE9;cution de la loi f&#xE9;d&#xE9;rale sur le registre des bateaux</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1924-11-19</dateAdoption>
+      <dateForce>1924-11-19T00:00:00</dateForce>
+      <dateLastChange>1924-11-19</dateLastChange>
+      <dateVersion>1924-11-19</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>in Vollziehung des Bundesgesetzes vom 28. September 1923 &#xFC;ber das Schiffsregister;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>en ex&#xE9;cution de la loi f&#xE9;d&#xE9;rale sur le registre des bateaux du 28 septembre 1923;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1923-1925 f 192 | d 181</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1319">
+        <structureContent lang="de">
+          <structureText>Vollziehungsgesetz zum Bundesgesetz &#xFC;ber das Schiffsregister</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>d'ex&#xE9;cution de la loi f&#xE9;d&#xE9;rale sur le registre des bateaux</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:4217">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:9660">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde, um die im Artikel 62 des vorgenannten Bundesgesetzes vorgesehene Busse auszusprechen, ist das Finanzdepartement, das nach Anh&#xF6;rung des Beteiligten entscheidet.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le D&#xE9;partement des finances constitue l'autorit&#xE9; comp&#xE9;tente charg&#xE9;e de prononcer l'amende pr&#xE9;vue par l'article 62 de la loi f&#xE9;d&#xE9;rale pr&#xE9;cit&#xE9;e. Il la prononcera apr&#xE8;s avoir entendu l'int&#xE9;ress&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:9661">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Rekurs an den Staatsrat bleibt vorbehalten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le recours au conseil d'Etat est r&#xE9;serv&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:4218">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:9662">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Frist f&#xFC;r den Rekurs an den Staatsrat betr&#xE4;gt 15 Tage, gerechnet von der Mitteilung des begr&#xFC;ndeten Entscheides des Finanzdepartementes.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le d&#xE9;lai de recours au Conseil d'Etat est de quinze jours &#xE0; partir de la communication de la d&#xE9;cision motiv&#xE9;e du D&#xE9;partement des finances.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:4219">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:9663">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Mit der Anwendung der Strafen f&#xFC;r die Zuwiderhandlungen gem&#xE4;ss Artikel 63 und folgende des Bundesgesetzes sind die Korrektionel- und Kriminalgerichte betraut, nach einer in Gem&#xE4;ssheit der Bestimmungen der Strafprozessordnung durchgef&#xFC;hrten Untersuchung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'application des peines pr&#xE9;vues aux articles 63 et suivants de la loi est attribu&#xE9;e aux tribunaux correctionnels et criminels, apr&#xE8;s enqu&#xEA;te faite en conformit&#xE9; des dispositions du Code de proc&#xE9;dure p&#xE9;nale.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:4220">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:9664">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gem&#xE4;ss Artikel 30 Ziffer 3 Buchstabe b der Kantonsverfassung wird das gegenw&#xE4;rtige Gesetz der Volksabstimmung nicht unterbreitet.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Conform&#xE9;ment &#xE0; l'article 30 chiffre 3 lettre b de la Constitution cantonale, la pr&#xE9;sente loi ne sera pas soumise &#xE0; la votation populaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1924-11-19</dateForce>
+      <dateVersion>1924-11-19</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1923-1925 f 192 | d 181</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

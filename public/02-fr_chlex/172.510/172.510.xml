@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1143</normID>
+      <number>172.510</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement &#xFC;ber die Delegiertenversammlung der PKWAL</title>
+      <title lang="fr">R&#xE8;glement concernant l'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s de CPVAL</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2010-04-21</dateAdoption>
+      <dateForce>2010-01-01T00:00:00</dateForce>
+      <dateLastChange>2010-01-01</dateLastChange>
+      <dateVersion>2010-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 57 Absatz 1 der Kantonsverfassung und 88 des Gesetzes &#xFC;ber die Organisation der R&#xE4;te und die Beziehungen zwischen den Gewalten vom 28. M&#xE4;rz 1996;</basis> <basis>eingesehen die Ziffer II/2 der &#xC4;nderung vom 10. September 2009 des Gesetzes &#xFC;ber die staatlichen Vorsorgeeinrichtungen;</basis> <basis>auf Antrag des Departements der Finanzen, Institutionen und der Gesundheit,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du Canton du Valais</authorityDescription><basis>vu les articles 57 alin&#xE9;a 1 de la Constitution cantonale et 88 de la loi sur l'organisation des conseils et les rapports entre les pouvoirs du 28 mars 1996;</basis> <basis>vu le chiffre II/2 de la modification du 10 septembre 2009 de la loi r&#xE9;gissant les institutions &#xE9;tatiques de pr&#xE9;voyance;</basis> <basis>sur la proposition du D&#xE9;partement des finances, des institutions et de la sant&#xE9;,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 17/2010</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3789">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>&#xFC;ber die Delegiertenversammlung der PKWAL</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>concernant l'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s de CPVAL</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3791">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Zusammensetzung und Ernennung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Composition et d&#xE9;signation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12841">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29543">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement regelt die Zusammensetzung die Ernennung und die Organisation der Delegiertenversammlung der PKWAL (nachfolgend: die Kasse).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement r&#xE8;gle la composition, la d&#xE9;signation et l'organisation de l'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s de CPVAL (ci-apr&#xE8;s: la Caisse).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12842">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammensetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Composition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29544">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Delegiertenversammlung setzt sich aus 150 Mitgliedern zusammen, welche die Versicherten und Rentenbez&#xFC;ger vertreten und aus diesen ausgew&#xE4;hlt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s se compose de 150 membres, repr&#xE9;sentant les assur&#xE9;s et les b&#xE9;n&#xE9;ficiaires de rente, et choisis parmi ceux-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12843">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ernennung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;signation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29545">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Delegierten werden durch die Verb&#xE4;nde der Angestellten und/oder Rentner ernannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;l&#xE9;gu&#xE9;s sont d&#xE9;sign&#xE9;s par les associations de personnel et/ou de retrait&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29546">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorstand der Kasse bestimmt die Verb&#xE4;nde, welche befugt sind, Delegierte zu ernennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le comit&#xE9; de la Caisse d&#xE9;signe les associations habilit&#xE9;es &#xE0; d&#xE9;signer les d&#xE9;l&#xE9;gu&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29547">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorstand legt im &#xDC;brigen f&#xFC;r jeden Verband die Anzahl Delegierte fest, und zwar aufgrund der jeweiligen Mitgliederzahl der verschiedenen Verb&#xE4;nde am 1. Januar jenes Jahres, in dem die Ernennung erfolgt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le comit&#xE9; d&#xE9;termine de plus le nombre de d&#xE9;l&#xE9;gu&#xE9;s auquel chaque association a droit, ce en fonction des effectifs respectifs des membres des diverses associations au 1<format upper="true">er</format> janvier de l'ann&#xE9;e o&#xF9; intervient la d&#xE9;signation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29548">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anzahl Delegierter kann 45 pro Verband nicht &#xFC;berschreiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le nombre de d&#xE9;l&#xE9;gu&#xE9;s ne pourra exc&#xE9;der 45 par association.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12844">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtsdauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e du mandat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29549">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ernennung der Delegierten erfolgt grunds&#xE4;tzlich f&#xFC;r eine Dauer von vier Jahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;signation des d&#xE9;l&#xE9;gu&#xE9;s intervient en principe pour une dur&#xE9;e de quatre ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12845">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Repr&#xE4;sentativer Charakter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Repr&#xE9;sentativit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29550">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verb&#xE4;nde der Versicherten und/oder der Rentenbez&#xFC;ger achten auf eine ausgewogene Vertretung der Versicherten und der Rentenbez&#xFC;ger, sowie der verschiedenen Personenkategorien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations de personnel et/ou de retrait&#xE9;s veillent &#xE0; une repr&#xE9;sentation &#xE9;quitable des assur&#xE9;s et des b&#xE9;n&#xE9;ficiaires de rente, ainsi que des diverses cat&#xE9;gories de personnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12846">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kommunikation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communication</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29551">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Listen der Delegierten werden sp&#xE4;testens bis zum 15. Mai 2010 von den Verb&#xE4;nden dem Vorstand der Kasse &#xFC;bermittelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les listes des d&#xE9;l&#xE9;gu&#xE9;s seront transmises au comit&#xE9; de la Caisse par les associations, au plus tard le 15 mai 2010.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29552">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verb&#xE4;nde teilen gleichzeitig ihren Mitgliedern die Delegiertenlisten mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les associations communiqueront en m&#xEA;me temps les listes des d&#xE9;l&#xE9;gu&#xE9;s &#xE0; leurs membres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12847">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anfechtung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contestation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29553">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Versicherte oder der Rentenbez&#xFC;ger, der die Ernennung der Delegierten durch den jeweiligen Verband beanstandet, kann innert 30 Tagen nach Zustellung der Delegiertenliste an die Verbandsmitglieder schriftlich beim Vorstand der Kasse Einsprache erheben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assur&#xE9; ou le b&#xE9;n&#xE9;ficiaire de rente qui conteste la d&#xE9;signation des d&#xE9;l&#xE9;gu&#xE9;s par l'association le concernant peut recourir par &#xE9;crit aupr&#xE8;s du comit&#xE9; de la Caisse dans le d&#xE9;lai de 30 jours d&#xE8;s notification de la liste des d&#xE9;l&#xE9;gu&#xE9;s aux membres des associations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29554">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheidung des Vorstandes ist definitiv.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision du comit&#xE9; est d&#xE9;finitive.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29555">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Demission oder Tod eines Delegierten bezeichnet der Vorstand des entsprechenden Verbandes unverz&#xFC;glich einen anderen Ersatzdelegierten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de d&#xE9;mission ou de d&#xE9;c&#xE8;s d'un d&#xE9;l&#xE9;gu&#xE9;, le comit&#xE9; de l'association concern&#xE9;e d&#xE9;signe imm&#xE9;diatement un autre d&#xE9;l&#xE9;gu&#xE9; en remplacement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3792">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12848">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ordentliche Versammlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assembl&#xE9;e ordinaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29556">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die ordentliche Delegiertenversammlung findet einmal pro Jahr statt, in der Regel in der ersten H&#xE4;lfte des Kalenderjahres.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e ordinaire des d&#xE9;l&#xE9;gu&#xE9;s se r&#xE9;unit une fois l'an, en principe durant la premi&#xE8;re moiti&#xE9; de l'ann&#xE9;e civile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12849">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausserordentliche Versammlung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assembl&#xE9;e extraordinaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29557">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausserordentliche Delegiertenversammlung findet statt, wenn es der Vorstand beschliesst oder auf Antrag von 1/5 der Delegierten oder 1/10 der Versicherten und der Rentenbez&#xFC;ger.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s se r&#xE9;unit en s&#xE9;ance extraordinaire lorsque le comit&#xE9; le d&#xE9;cide ou que la demande en est faite par le 1/5 des d&#xE9;l&#xE9;gu&#xE9;s ou le 1/10 des assur&#xE9;s et des b&#xE9;n&#xE9;ficiaires de rente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12850">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einberufung und Tagesordnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Convocation et ordre du jour</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29558">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Datum der ordentlichen Versammlung wird den Delegierten mindestens einen Monat vorher zur Kenntnis gebracht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La date de l'assembl&#xE9;e ordinaire est port&#xE9;e &#xE0; la connaissance des d&#xE9;l&#xE9;gu&#xE9;s au moins un mois d'avance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29559">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Delegiertenversammlung wird durch den Vorstand mindestens 14 Tage im Voraus mittels pers&#xF6;nlicher Einladung einberufen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e des d&#xE9;l&#xE9;gu&#xE9;s est convoqu&#xE9;e par le comit&#xE9; 14 jours au moins d'avance, par invitation personnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29560">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einladung beinhaltet die Tagesordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La convocation indique l'ordre du jour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29561">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Delegierte, die Antr&#xE4;ge &#xFC;ber Gesch&#xE4;fte, die nicht auf der Tagesordnung vorgesehen sind, stellen m&#xF6;chten, m&#xFC;ssen diese bis sp&#xE4;testens sieben Tage vor der Versammlung schriftlich bei der Direktion der Kasse hinterlegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;l&#xE9;gu&#xE9;s qui entendent formuler des propositions sur des objets non pr&#xE9;vus &#xE0; l'ordre du jour doivent d&#xE9;poser celles-ci par &#xE9;crit aupr&#xE8;s de la direction de la Caisse au plus tard sept jours avant l'assembl&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12851">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ablauf</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;roulement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29562">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Versammlung wird durch den Pr&#xE4;sidenten des Vorstandes pr&#xE4;sidiert. Im Verhinderungsfall &#xFC;bernimmt der Vizepr&#xE4;sident des Vorstandes oder bei dessen Abwesenheit ein anderes vom Vorstand bezeichnetes Mitglied den Vorsitz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e est pr&#xE9;sid&#xE9;e par le pr&#xE9;sident du comit&#xE9;. En cas d'emp&#xEA;chement, la pr&#xE9;sidence est assum&#xE9;e par le vice-pr&#xE9;sident du comit&#xE9; ou, &#xE0; son d&#xE9;faut, par un autre membre d&#xE9;sign&#xE9; par celui-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29563">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorsitzende der Versammlung ernennt die Stimmenz&#xE4;hler aus den Delegierten</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sident de l'assembl&#xE9;e nomme les scrutateurs parmi les d&#xE9;l&#xE9;gu&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29564">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorsitzende der Versammlung gibt keine Stimme ab; er entscheidet bei Stimmengleichheit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sident de l'assembl&#xE9;e ne vote pas; il d&#xE9;partage en cas d'&#xE9;galit&#xE9; de voix.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29565">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die ordnungsgem&#xE4;ss einberufene Versammlung kann unabh&#xE4;ngig der Zahl der anwesenden Mitglieder beschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assembl&#xE9;e r&#xE9;guli&#xE8;rement convoqu&#xE9;e peut d&#xE9;lib&#xE9;rer quel que soit le nombre de membres pr&#xE9;sents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29566">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beschl&#xFC;sse erfolgen durch Handheben mit absolutem Mehr der anwesenden Delegierten. Bei Wahlen gilt im zweiten Wahlgang das einfache Mehr.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions sont prises &#xE0; main lev&#xE9;e, &#xE0; la majorit&#xE9; absolue des d&#xE9;l&#xE9;gu&#xE9;s pr&#xE9;sents. En cas d'&#xE9;lection, la majorit&#xE9; relative est applicable au deuxi&#xE8;me tour.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29567">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine geheime Abstimmung findet auf Beschluss des Vorstandes hin oder auf Verlangen von 1/5 der anwesenden Delegierten statt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le scrutin secret est appliqu&#xE9; sur d&#xE9;cision du comit&#xE9; ou lorsque le 1/5 des d&#xE9;l&#xE9;gu&#xE9;s pr&#xE9;sents le demande.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:29568">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Protokoll der Sitzung wird von der Direktion der Kasse gef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le proc&#xE8;s-verbal de la s&#xE9;ance est tenu par la direction de la Caisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3793">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12852">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsdauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e de validit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29569">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement weist einen provisorischen Charakter auf. Seine Geltungsdauer reicht bis hin zum Austausch durch Verabschiedung eines neuen ordentlichen Reglements, vorgesehen durch das Gesetz &#xFC;ber die staatlichen Vorsorgekassen vom 12. Oktober 2006.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement rev&#xEA;t un caract&#xE8;re provisoire. Sa dur&#xE9;e de validit&#xE9; s'&#xE9;tend jusqu'&#xE0; son remplacement par l'adoption d'un nouveau r&#xE8;glement selon la proc&#xE9;dure ordinaire pr&#xE9;vue par la loi r&#xE9;gissant les institutions &#xE9;tatiques de pr&#xE9;voyance du 12 octobre 2006.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12853">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Publikation und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Publication et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:29570">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement wird im Amtsblatt ver&#xF6;ffentlicht um r&#xFC;ckwirkend am 1. Januar 2010 in Kraft zu treten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement sera publi&#xE9; au Bulletin Officiel pour entrer en vigueur, avec effet r&#xE9;troactif, au 1<format upper="true">er</format> janvier 2010.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2010-01-01</dateForce>
+      <dateVersion>2010-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 17/2010</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

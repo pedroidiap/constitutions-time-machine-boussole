@@ -1,0 +1,74 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container p-5">
+        <div class="row">
+            <div class="col-7">
+                <h3 class="mb-3">
+                    <a href="{{ path('article-details', {'id': debat.article.id}) }}" class="cons-icon-back d-inline-block">
+                        <svg class="bi bi-chevron-left" width="0.8em" height="0.8em" viewBox="0 0 16 16"
+                             fill="currentColor"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd"
+                                  d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+                        </svg>
+                    </a>
+                    Débat du {{ debat.dateSeance|date('d.m.Y') }} à propos de
+                    l'{{ debat.articles.nomArticle }}
+                </h3>
+                {% if debat.intervenants is empty %}
+                    <p class="card-text">
+                    <p>Intervenant(s) inconnu(s)</p>
+                {% else %}
+                    <p>Intervention(s) de
+                        {% for intervenant in debat.intervenants %}
+                            <span>
+                                {{ intervenant.titre }} {{ intervenant.nom }} {{ intervenant.prenom }}{% if not loop.last %},{% endif %}
+                            </span>
+                        {% endfor %}
+                    </p>
+                    </p>
+                {% endif %}
+                <p>{{ debat.texte|raw }}</p>
+            </div>
+            {% if debat.article.debats is not empty %}
+            <div class="col-5 mt-5">
+                <h4>Autres débats concernant cet article</h4>
+                {% for articlesDebat in debat.article.debats %}
+                    {% if debat.id != articlesDebat.id %}
+                    <div class="card m-3 d-flex align-items-stretch">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                Débat {{ loop.index }}, le {{ articlesDebat.dateSeance|date('d.m.Y') }}
+                            </h5>
+                            <p class="card-text">
+                                {{ articlesDebat.texte|length > 100 ? articlesDebat.texte|raw|slice(0, 200) ~ '...' : articlesDebat.texte|raw }}
+                            </p>
+                            {% if articlesDebat.intervenants is empty %}
+                                <p class="card-text">
+                                <p>Intervenant(s) inconnu(s)</p>
+                            {% else %}
+                                <p>Intervention(s) de
+                                    {% for intervenant in articlesDebat.intervenants %}
+                                        <span>
+                                                {{ intervenant.titre }} {{ intervenant.nom }} {{ intervenant.prenom }}{% if not loop.last %},{% endif %}
+                                            </span>
+                                    {% endfor %}
+                                </p>
+                                </p>
+                            {% endif %}
+                            <a href="{{ path('debat-details', {'id': articlesDebat.id}) }}"
+                               class="btn btn-outline-dark">
+                                En savoir plus
+                            </a>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+                {% else %}
+                <p>Aucun débat entourant cet article.</p>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+{% endblock %}

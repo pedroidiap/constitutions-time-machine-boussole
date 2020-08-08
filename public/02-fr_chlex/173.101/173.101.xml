@@ -1,0 +1,2421 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1586</normID>
+      <number>173.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement der Staatsanwaltschaft des Kantons Wallis</title>
+      <title lang="fr">R&#xE8;glement du minist&#xE8;re public du canton du Valais</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Das B&#xFC;ro der Staatsanwaltschaft</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-01-03</dateAdoption>
+      <dateForce>2011-01-03T00:00:00</dateForce>
+      <dateLastChange>2017-06-01</dateLastChange>
+      <dateVersion>2017-06-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Das B&#xFC;ro der Staatsanwaltschaft</authorityDescription><basis>eingesehen Artikel 2 des Gesetzes &#xFC;ber die Organisation der R&#xE4;te und die Beziehungen zwischen den Gewalten vom 28. M&#xE4;rz 1996 (GORBG);</basis> <basis>eingesehen das Gesetz &#xFC;ber die Rechtspflege vom 11. Februar 2009 (RPflG);</basis> <basis>eingesehen die kantonale Gesetzgebung &#xFC;ber die Einf&#xFC;hrung des Schweizerischen Strafgesetzbuches und der Schweizerischen Strafprozessordnung,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le bureau du minist&#xE8;re public du canton du Valais</authorityDescription><basis>vu l'article 2 de la loi sur l'organisation des conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);</basis> <basis>vu la loi sur l'organisation de la justice du 11 f&#xE9;vrier 2009 (LOJ);</basis> <basis>vu la l&#xE9;gislation cantonale relative &#xE0; l'application du Code p&#xE9;nal suisse et du Code de proc&#xE9;dure p&#xE9;nale suisse,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 2/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="6967">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>der Staatsanwaltschaft des Kantons Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>du minist&#xE8;re public du canton du Valais</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6968">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22886">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52772">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement ordnet die interne Organisation der Staatsanwaltschaft des Kantons Wallis, die interne Aufsicht, die Vorkontrolle von Einstellungs-, Nichtanhandnahme-, Sistierungsverf&#xFC;gungen und von Strafbefehlen, die Mitteilungen, die Beziehung zu den Medien und die Archivierung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement arr&#xEA;te l'organisation interne du minist&#xE8;re public du canton du Valais, la surveillance interne, le contr&#xF4;le pr&#xE9;alable des ordonnances de classement, de non-entr&#xE9;e en mati&#xE8;re, de suspension et des ordonnances p&#xE9;nales, les informations, les relations avec les m&#xE9;dias et l'archivage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52773">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es gilt f&#xFC;r alle &#xC4;mter der Staatsanwaltschaft des Kantons Wallis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il s'applique &#xE0; tous les offices du minist&#xE8;re public du canton du Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52774">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorrangiges Recht des Bundes oder des Kantons sowie Einzelanweisungen des Generalstaatsanwalts bleiben jeweils vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit de rang sup&#xE9;rieur de la Conf&#xE9;d&#xE9;ration et du canton ainsi que les directives sp&#xE9;cifiques du procureur g&#xE9;n&#xE9;ral demeurent r&#xE9;serv&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52775">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Soweit das vorliegende Reglement f&#xFC;r die Stellung der Staatsanw&#xE4;lte keine Regelung enth&#xE4;lt, sind sinngem&#xE4;ss die f&#xFC;r das Staatspersonal in der Staatsverwaltung geltenden Vorschriften anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions valables pour le personnel de l'administration cantonale sont applicables par analogie, dans la mesure o&#xF9; ce r&#xE8;glement ne contient pas de r&#xE9;glementation relative au statut des procureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22887">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Terminologie</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Terminologie</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52776">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In diesem Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise f&#xFC;r Frau und Mann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans ce r&#xE8;glement, toute d&#xE9;signation de personne, de statut ou de fonction vise sans distinction l'homme et la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52777">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Soweit nicht anders bestimmt, ist mit der Bezeichnung Staatsanwalt der Generalstaatsanwalt, sein Stellvertreter, der Oberstaatsanwalt, der Staatsanwalt, der Staatsanwalt-Stellvertreter und der ausserordentliche Staatsanwalt gemeint.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire, le terme procureur vise le procureur g&#xE9;n&#xE9;ral, le procureur g&#xE9;n&#xE9;ral adjoint, le premier procureur, le procureur, le substitut et le procureur extraordinaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52778">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Soweit nicht anders bestimmt, sind mit der Bezeichnung Amt oder Staatsanwaltschaft die Zentrale Staatsanwaltschaft und die Regionalen Staatsanwaltschaften gemeint.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire, les termes office ou minist&#xE8;re public visent l'office central et les offices r&#xE9;gionaux du minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52779">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Soweit nicht anders bestimmt, sind mit der Bezeichnung Amtsleitung der Generalstaatsanwalt und sein Stellvertreter f&#xFC;r alle &#xC4;mter des Kantons und der Oberstaatsanwalt f&#xFC;r das betreffende Regionale Amt gemeint.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire, le terme direction de l'office vise le procureur g&#xE9;n&#xE9;ral et le procureur g&#xE9;n&#xE9;ral adjoint pour l'ensemble des offices du canton, ainsi que le premier procureur pour l'office r&#xE9;gional concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22944">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ernennungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nominations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52946">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Ernennungen, die nicht einer anderen Beh&#xF6;rde vorbehalten bleiben, werden durch das B&#xFC;ro der Staatsanwaltschaft vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le bureau du Minist&#xE8;re public proc&#xE8;de &#xE0; toutes les nominations qui ne rel&#xE8;vent pas d'une autre autorit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52947">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Grunds&#xE4;tzlich schreibt das B&#xFC;ro freie Stellen im Amtsblatt aus. Ausserdem kann die Ausschreibung auf anderen Wegen wie der Publikation in der Tagespresse erfolgen. Befriedigt das Ausschreibungsergebnis nicht, kann von einer Ernennung Umgang genommen, der Posten auf dem Berufungsweg besetzt oder nochmals ausgeschrieben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il met, en principe, au concours les postes vacants dans le Bulletin officiel. Il peut, en outre, proc&#xE9;der &#xE0; la mise au concours par d'autres moyens notamment par une publication dans les principaux quotidiens. Si le r&#xE9;sultat de la mise au concours est insuffisant, il peut &#xEA;tre renonc&#xE9; &#xE0; repourvoir le poste ou celui-ci peut &#xEA;tre repourvu par voie d'appel d'offres ou par une nouvelle mise au concours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52948">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Ver&#xE4;nderung des Besch&#xE4;ftigungsgrades oder f&#xFC;r Anstellungen von kurzer Dauer kann von einer &#xF6;ffentlichen Ausschreibung abgesehen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'une modification du taux d'activit&#xE9; ou pour un engagement limit&#xE9; dans le temps ou une affaire, la mise au concours publique n'est pas obligatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52949">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ernennung von Staatsanw&#xE4;lten, ausserordentlichen Staatsanw&#xE4;lten und Substituten sowie der Weibel wird im Amtsblatt publiziert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les nominations de procureurs, procureurs extraordinaires et substituts, ainsi que d'huissiers, sont publi&#xE9;es dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22945">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2b</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wiederernennungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Renominations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52950">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern keine Gr&#xFC;nde f&#xFC;r eine Nichtwiederernennung vorliegen, werden alle ernannten Staatsanw&#xE4;lte, ausserordentliche Staatsanw&#xE4;lte und Substitute jeweils auf den 1. Januar, welcher der Wiederwahl des B&#xFC;ros der Staatsanwaltschaft folgt, f&#xFC;r die Dauer von vier Jahren wieder ernannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la mesure o&#xF9; il n'y a pas de motifs de refus de nouvelle nomination, les procureurs, procureurs extraordinaires et substituts nomm&#xE9;s sont reconduits dans leur fonction pour une dur&#xE9;e de quatre ans avec effet au 1<format upper="true">er</format> janvier suivant la r&#xE9;&#xE9;lection du bureau du Minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52951">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nichtwiederernennungen werden der betroffenen Person sechs Monate im Voraus schriftlich und begr&#xFC;ndet er&#xF6;ffnet. Sie muss vorg&#xE4;ngig die Gelegenheit zur Stellungnahme haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de refus de renomination, une d&#xE9;cision &#xE9;crite et motiv&#xE9;e doit &#xEA;tre notifi&#xE9;e &#xE0; l'int&#xE9;ress&#xE9; six mois avant la fin de la p&#xE9;riode administrative. L'int&#xE9;ress&#xE9; doit avoir la possibilit&#xE9; de se d&#xE9;terminer pr&#xE9;alablement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22946">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2c</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vereidigung und Amtsgeheimnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assermentation et secret de fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52952">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das B&#xFC;ro der Staatsanwaltschaft vereidigt alle Staatsanw&#xE4;lte, ausserordentliche Staatsanw&#xE4;lte und Substituten sowie die Weibel nach ihrer Ernennung sowie nach jeder Wiederernennung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le bureau du Minist&#xE8;re public assermente les procureurs, procureurs extraordinaires et substituts, ainsi que les huissiers apr&#xE8;s leur nomination et apr&#xE8;s chaque renomination.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52953">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung informiert das administrative Personal und die Praktikanten bei Amtsantritt &#xFC;ber ihre Geheimhaltungspflicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office instruit le personnel administratif et les stagiaires sur le secret de fonction lors de leur entr&#xE9;e en fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22947">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2d</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Demission von Magistraten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;mission des magistrats</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52954">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte und Substituten k&#xF6;nnen jederzeit bei der Ernennungsbeh&#xF6;rde ihre Demission einreichen. Sie haben dabei eine Frist von sechs Monaten auf Ende jedes Monats zu beachten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les procureurs et substituts peuvent pr&#xE9;senter leur d&#xE9;mission en tout temps aupr&#xE8;s de l'autorit&#xE9; de nomination. Ils observent un pr&#xE9;avis de six mois pour la fin d'un mois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52955">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ernennungsbeh&#xF6;rde kann diese Frist verk&#xFC;rzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; de nomination peut r&#xE9;duire ce d&#xE9;lai.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6969">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Interne Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation interne</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22888">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeit des Zentralen Amtes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tence de l'office central</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52780">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als F&#xE4;lle von besonderer Bedeutung gelten ausser den in Artikel 7 EGStPO genannten F&#xE4;llen insbesondere auch:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peuvent &#xEA;tre consid&#xE9;r&#xE9;s comme des cas d'une importance particuli&#xE8;re, outre ceux &#xE9;nonc&#xE9;s &#xE0; l'article 7 LACPP, notamment les cas suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37045">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Serienstraftaten, die einer einheitlichen Behandlung bed&#xFC;rfen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les infractions en s&#xE9;rie qui appellent un traitement uniforme;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37046">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Straftaten, die spezialisierten Staatsanw&#xE4;lten oder Mitarbeitern bei der Zentralen Staatsanwaltschaft zuzuweisen sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les infractions qui doivent &#xEA;tre attribu&#xE9;es &#xE0; des procureurs ou collaborateurs sp&#xE9;cialis&#xE9;s du minist&#xE8;re public central;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37047">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Straftaten im Zusammenhang mit Grossereignissen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les infractions en rapport avec des &#xE9;v&#xE9;nements majeurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37048">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Straftaten, in die Magistraten oder Mitglieder der Walliser Kantonspolizei involviert sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les infractions impliquant des magistrats ou des membres de la police cantonale valaisanne.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22889">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Arbeitsaufteilung unter den Staatsanw&#xE4;lten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition du travail entre les procureurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52781">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;ber die Fallzuteilung entscheidet die Amtsleitung nach allgemeinen oder besonderen Weisungen des Generalstaatsanwalts und nach Weisungen der Oberstaatsanw&#xE4;lte f&#xFC;r das unter ihre Zust&#xE4;ndigkeit fallende Amt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office d&#xE9;cide de l'attribution des causes conform&#xE9;ment aux directives g&#xE9;n&#xE9;rales ou particuli&#xE8;res du procureur g&#xE9;n&#xE9;ral et aux instructions des premiers procureurs pour leur office respectif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52782">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte &#xFC;bernehmen entsprechend ihren Sprachkenntnissen grunds&#xE4;tzlich F&#xE4;lle aus dem gesamten Zust&#xE4;ndigkeitsbereich ihres Amtes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, les procureurs traitent les causes qui rel&#xE8;vent de l'ensemble des comp&#xE9;tences de leur office, en fonction de leurs connaissances linguistiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22890">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Spezialisierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sp&#xE9;cialisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52783">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt kann innerhalb der zentralen Staatsanwaltschaft spezialisierte Staatsanw&#xE4;lte bezeichnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral peut d&#xE9;signer des procureurs du minist&#xE8;re public sp&#xE9;cialis&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52784">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung kann bestimmte Bereiche des Strafrechts priorit&#xE4;r spezialisierten Staatsanw&#xE4;lten zuweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office peut attribuer des domaines sp&#xE9;cifiques du droit p&#xE9;nal en priorit&#xE9; &#xE0; des procureurs sp&#xE9;cialis&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52785">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt kann f&#xFC;r spezialisierte Bereiche einen kantonalen Koordinator einsetzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral peut nommer un coordinateur cantonal pour des domaines sp&#xE9;cialis&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52786">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das B&#xFC;ro der Staatsanwaltschaft bezeichnet die Staatsanw&#xE4;lte, welche die Aufgaben der Jugendstaatsanwaltschaft wahrnehmen (Art. 21 Jugendstrafprozessordnung; Art. 26 Abs. 2 Bst. c RPflG).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le bureau du minist&#xE8;re public d&#xE9;signe les procureurs qui assument les t&#xE2;ches du minist&#xE8;re public des mineurs (art. 21 de la proc&#xE9;dure p&#xE9;nale applicable aux mineurs; art. 26 al. 2 let. c LOJ).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22891">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stellvertretungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Remplacements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52787">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte k&#xF6;nnen sich in Verhinderungsf&#xE4;llen f&#xFC;r einzelne Prozesshandlungen vertreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les procureurs peuvent se remplacer de cas en cas pour certains actes de proc&#xE9;dure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52788">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung kann ein Dossier aus Gr&#xFC;nden der Sprachkenntnisse oder der besseren Arbeitsaufteilung vor&#xFC;bergehend oder zur Vornahme bestimmter Prozesshandlungen einem Stellvertreter &#xFC;bertragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office est autoris&#xE9;e &#xE0; confier &#xE0; un rempla&#xE7;ant un dossier, pour des raisons de connaissances linguistiques ou d'une meilleure r&#xE9;partition de travail, provisoirement ou pour la mise en oeuvre de certains actes de proc&#xE9;dure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52789">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Oberstaatsanwalt bestimmt, welcher Staatsanwalt seines Amtes ihn im Verhinderungsfalle vertritt. Ist nichts anderes bestimmt, ist der Staatsanwalt mit der h&#xF6;chsten Amtsdauer sein Stellvertreter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le premier procureur d&#xE9;cide lequel parmi les procureurs de son office le remplace en cas d'emp&#xEA;chement. A d&#xE9;faut de d&#xE9;cision, le procureur le plus ancien en fonction le remplace.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22892">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vertretung der Institution nach aussen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Repr&#xE9;sentation institutionnelle externe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52790">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanwaltschaft wird nach aussen, insbesondere gegen&#xFC;ber dem Grossen Rat, dem Staatsrat und dem Kantonsgericht, durch den Generalstaatsanwalt vertreten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La repr&#xE9;sentation du minist&#xE8;re public vis-&#xE0;-vis de l'ext&#xE9;rieur en particulier envers le Grand Conseil, le Conseil d'Etat et le Tribunal cantonal est assur&#xE9;e par le procureur g&#xE9;n&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52791">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Fragen von allgemeiner Bedeutung kann der Generalstaatsanwalt die Meinung der Staatsanw&#xE4;lte einholen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">S'il y a lieu de traiter des questions de port&#xE9;e g&#xE9;n&#xE9;rale, le procureur g&#xE9;n&#xE9;ral peut recueillir l'opinion des procureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22893">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Interne Organisation und Aus&#xFC;bung des Staatsanwaltsamtes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation interne et exercice de la fonction de procureur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52792">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt erl&#xE4;sst Weisungen &#xFC;ber die interne Organisation der &#xC4;mter und die Aus&#xFC;bung des Staatsanwaltsamtes, insbesondere &#xFC;ber die Abkl&#xE4;rung der Zust&#xE4;ndigkeiten, die Verfahrenser&#xF6;ffnung und den Verfahrensabschluss, die Strafuntersuchung generell und in Sonderf&#xE4;llen, Meldepflichten und Mitteilungen, Rechtshilfe, Einvernahmen, Zwangsmassnahmen und den Beizug von Gutachtern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral arr&#xEA;te les directives concernant l'organisation interne des offices et l'exercice de la fonction de procureur, en particulier la d&#xE9;finition des comp&#xE9;tences, l'ouverture et &#xE0; la cl&#xF4;ture d'une proc&#xE9;dure, l'instruction p&#xE9;nale en g&#xE9;n&#xE9;ral et dans des cas particuliers, les informations et obligations d'aviser, l'entraide judiciaire, les auditions, les mesures de contrainte et le recours &#xE0; des experts.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52793">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung organisiert nach Bedarf regelm&#xE4;ssig Besprechungen unter den Staatsanw&#xE4;lten, an denen namentlich &#xFC;ber Fragen der Organisation, Praxis und Zuteilung der F&#xE4;lle beraten wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Suivant les besoins, la direction des offices du minist&#xE8;re public r&#xE9;unit les procureurs pour discuter notamment des questions relatives &#xE0; l'organisation, &#xE0; la pratique et &#xE0; l'attribution des cas.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52794">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt versammelt mindestens ein Mal im Jahr unter seiner Leitung alle Staatsanw&#xE4;lte.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au moins une fois par ann&#xE9;e, le procureur g&#xE9;n&#xE9;ral r&#xE9;unit sous sa direction tous les procureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22894">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit mit der Polizei</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaboration avec la police</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52795">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt regelt die Zusammenarbeit der Staatsanw&#xE4;lte mit der Polizei in den Weisungen n&#xE4;her.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral pr&#xE9;cise dans des directives les r&#xE8;gles relatives &#xE0; la collaboration des procureurs avec la police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22895">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bereitschaftsdienst (Pikett-Dienst)</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Permanence (Service de piquet)</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52796">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte der regionalen &#xC4;mter leisten nach einem Turnus Bereitschaftsdienst. Der Generalstaatsanwalt kann einen Bereitschaftsdienst auch f&#xFC;r die Zentrale Staatsanwaltschaft vorsehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les procureurs des offices r&#xE9;gionaux assument la permanence &#xE0; tour de r&#xF4;le. Le procureur g&#xE9;n&#xE9;ral peut &#xE9;galement ordonner une permanence de l'office central.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52797">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Bereitschaftsdienst wird durch eine allgemeine Weisung des Generalstaatsanwalts sowie erforderlichenfalls durch Weisungen der Oberstaatsanw&#xE4;lte n&#xE4;her geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La permanence fait l'objet d'une directive g&#xE9;n&#xE9;rale du procureur g&#xE9;n&#xE9;ral compl&#xE9;t&#xE9;e au besoin d'instructions plus d&#xE9;taill&#xE9;es des premiers procureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22896">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Internationale Rechtshilfe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entraide judiciaire internationale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52798">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt erl&#xE4;sst Weisungen &#xFC;ber die Anforderungen an Rechtshilfeersuchen in F&#xE4;llen internationaler Rechtshilfe (Art. 16 EGStPO und&#xA0;Art. 354 ff. StPO).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral arr&#xEA;te les directives relatives aux exigences pr&#xE9;valant dans les commissions rogatoires en mati&#xE8;re d'entraide judiciaire internationale (art. 16 LACP et art. 354 ss CPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22897">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nationale Rechtshilfe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entraide judiciaire nationale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52799">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nationale Rechtshilfebegehren werden grunds&#xE4;tzlich im direkten Gesch&#xE4;ftsverkehr zwischen den beteiligten Staatsanwaltschaften ausgef&#xFC;hrt (Art. 15 Abs. 1 EGStPO und Art. 46 StPO).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les requ&#xEA;tes d'entraide judiciaire nationales se font en principe par voie de communication directe entre les minist&#xE8;res publics concern&#xE9;s (art. 15 al.1 LACCP et art. 46 CPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52800">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt erl&#xE4;sst diesbez&#xFC;glich n&#xE4;here Weisungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral arr&#xEA;te des directives sp&#xE9;cifiques &#xE0; ce sujet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22898">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Konflikte &#xFC;ber die Zust&#xE4;ndigkeit und den Gerichtsstand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conflits de comp&#xE9;tences et de fors</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52801">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xA0;Der Generalstaatsanwalt erl&#xE4;sst spezielle Weisungen &#xFC;ber die Behandlung von Konflikten &#xFC;ber die Zust&#xE4;ndigkeit und den Gerichtsstand.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral arr&#xEA;te des directives sp&#xE9;cifiques au sujet de la gestion des conflits de for et de comp&#xE9;tence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52802">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er entscheidet in innerkantonalen Konflikten &#xFC;ber den Gerichtsstand zwischen den regionalen &#xC4;mtern (Art. 40 Abs. 1 StPO und&#xA0;Art. 7 Bst. c EGStPO).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il tranche les conflits de for et de comp&#xE9;tence intracantonaux entre les offices d'arrondissements (art. 40 al. 1 CPP et 7 let. c LACPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22899">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dossierverwaltung, Dossierf&#xFC;hrung und Buchhaltung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Administration et tenue des dossiers, comptabilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52803">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten und zu f&#xFC;hren sind. Er erl&#xE4;sst Weisungen f&#xFC;r die Buchhaltung in den &#xC4;mtern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral arr&#xEA;te des directives relatives &#xE0; l'administration et &#xE0; la tenue des dossiers. Il arr&#xEA;te les directives sur la comptabilit&#xE9; dans les offices.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22900">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inspektion und Rechenschaftsablegung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inspection et obligation de rendre compte</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52804">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt f&#xFC;hrt bei jedem Amt und bei jedem Staatsanwalt im Hinblick auf die Erstattung des Berichtes &#xFC;ber die Amtsf&#xFC;hrung der Staatsanwaltschaft j&#xE4;hrlich eine Inspektion durch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral proc&#xE8;de chaque ann&#xE9;e &#xE0; une inspection aupr&#xE8;s de chaque office et aupr&#xE8;s de chaque procureur en vue d'&#xE9;tablir le rapport sur l'administration et la gestion du minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52805">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der inspizierte Staatsanwalt hat dabei &#xFC;ber seine Amtsf&#xFC;hrung (Behandlung und Erledigung der F&#xE4;lle, Dossierf&#xFC;hrung, interne Zusammenarbeit, F&#xFC;hrung des Amtes usw.) umfassend Rechenschaft abzulegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur inspect&#xE9; doit rendre compte de fa&#xE7;on compl&#xE8;te de son activit&#xE9; (traitement et liquidation des causes, tenue des dossiers, collaboration interne, direction de l'office etc.).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52806">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt kann weitere allgemeine oder punktuelle Kontrollen durchf&#xFC;hren oder anordnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral peut op&#xE9;rer ou ordonner d'autres contr&#xF4;les g&#xE9;n&#xE9;raux ou ponctuels.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22901">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Arbeitszeit und Ferien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Temps de travail et vacances</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52807">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung ist verantwortlich f&#xFC;r die Ferienregelung und den Ausgleich der &#xDC;berzeit. Sie achtet darauf, dass der ordentliche Gang der Gesch&#xE4;fte des Amtes gew&#xE4;hrleistet ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office est responsable de la r&#xE9;glementation des vacances et de la compensation des heures suppl&#xE9;mentaires. Elle veille &#xE0; ce que la marche ordinaire des affaires de l'office soit garantie.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52808">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt kann f&#xFC;r das administrative Personal die Einf&#xFC;hrung einer Arbeitszeitkontrolle mittels Stempeluhren anordnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral peut d&#xE9;cr&#xE9;ter l'introduction pour le personnel administratif du contr&#xF4;le du temps de travail au moyen de timbreuses.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52809">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r &#xDC;berzeiten des administrativen Personals werden die in der kantonalen Gesetzgebung vorgesehenen Kompensationen gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les heures suppl&#xE9;mentaires du personnel administratif sont compens&#xE9;es selon les normes de la l&#xE9;gislation cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22902">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unabh&#xE4;ngigkeit und Vertrauensw&#xFC;rdigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ind&#xE9;pendance et cr&#xE9;dibilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52810">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte unterlassen alles, was ihre Unabh&#xE4;ngigkeit und Vertrauensw&#xFC;rdigkeit in Frage stellen kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les procureurs &#xE9;vitent tout comportement de nature &#xE0; porter atteinte &#xE0; l'ind&#xE9;pendance et au cr&#xE9;dit de leur fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52811">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie vermeiden jeden Missbrauch ihrer Stellung f&#xFC;r eigene oder f&#xFC;r Interessen von ihnen nahestehenden Personen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils s'abstiennent d'user de leur fonction dans leur int&#xE9;r&#xEA;t personnel ou dans celui de personnes qui leur sont proches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52812">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie d&#xFC;rfen insbesondere in ihrer Funktion keine nicht geb&#xFC;hrenden Vorteile f&#xFC;r sich oder ihnen nahestehende Personen annehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il leur est en particulier interdit, dans l'exercice de leur fonction, d'accepter des avantages indus pour eux-m&#xEA;mes ou pour des personnes qui leur sont proches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22903">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nebenbesch&#xE4;ftigungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Activit&#xE9;s accessoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52813">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanw&#xE4;lte widmen ihre ganze Arbeitszeit der T&#xE4;tigkeit f&#xFC;r die Staatsanwaltschaft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les procureurs consacrent tout leur temps de travail &#xE0; la fonction du minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52814">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nebenerwerbst&#xE4;tigkeiten, wie die &#xDC;bernahme eines Mandates als Schiedsrichter oder Gutachter, Berater- oder Lehrt&#xE4;tigkeit und dergleichen, bed&#xFC;rfen der Bewilligung des B&#xFC;ros der Staatsanwaltschaft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des activit&#xE9;s de gain accessoire telles que mandats d'arbitre ou d'expert, activit&#xE9;s de conseil ou d'enseignement ou autres, sont soumises &#xE0; l'autorisation du bureau du minist&#xE8;re public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52815">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bewilligung darf nicht erteilt werden, wenn durch die T&#xE4;tigkeit das Ansehen der Institution beeintr&#xE4;chtigt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorisation ne saurait &#xEA;tre accord&#xE9;e si la r&#xE9;putation de l'institution souffre de l'activit&#xE9; en question.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52816">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Mandat f&#xFC;r eine st&#xE4;ndige Beratung von &#xF6;ffentlichen K&#xF6;rperschaften, privaten Unternehmungen oder Privatpersonen darf nicht bewilligt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un mandat de conseil permanent en faveur de corporations de droit public, d'entreprises priv&#xE9;es ou de personnes priv&#xE9;es ne saurait &#xEA;tre autoris&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52817">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Bewilligung darf namentlich erteilt werden f&#xFC;r die Arbeit an wissenschaftlichen Projekten, die nebenerwerbsweise Arbeit f&#xFC;r &#xF6;ffentliche K&#xF6;rperschaften, die Mitarbeit in &#xF6;ffentlichen Kommissionen oder f&#xFC;r besondere Untersuchungen im Interesse der Allgemeinheit, wie die Aus&#xFC;bung des Amtes eines ausserordentlichen Staatsanwalts in einem anderen Kanton oder im Bund, wenn dadurch die Arbeitsleistung f&#xFC;r das Amt nicht leidet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une autorisation peut &#xEA;tre accord&#xE9;e notamment pour la participation &#xE0; des projets scientifiques, pour un travail accessoire r&#xE9;mun&#xE9;r&#xE9; en faveur de corporations de droit public, pour la collaboration au sein de commissions publiques ou dans le cadre d'enqu&#xEA;tes particuli&#xE8;res dans l'int&#xE9;r&#xEA;t de la collectivit&#xE9; telle que l'exercice de la fonction de procureur extraordinaire dans un autre canton ou pour la Conf&#xE9;d&#xE9;ration, pour autant que le travail au sein de l'office ne s'en trouve pas entrav&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52818">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bewilligung f&#xFC;r gr&#xF6;ssere oder l&#xE4;nger dauernde Arbeiten kann jedoch von einer Reduktion der Arbeitszeit, von einer Beurlaubung oder von einer anderweitigen einvernehmlichen L&#xF6;sung der Besoldungsfrage abh&#xE4;ngig gemacht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorisation pour des travaux importants ou de longue dur&#xE9;e peut toutefois d&#xE9;pendre d'une r&#xE9;duction du temps de travail, de l'octroi d'un cong&#xE9; ou d'une autre solution convenue et r&#xE9;glant la question de la r&#xE9;mun&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52819">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Keiner Bewilligung bed&#xFC;rfen die Publikation von wissenschaftlichen Werken, die Beteiligung an wissenschaftlichen Projekten, die Referentent&#xE4;tigkeit an wissenschaftlichen Veranstaltungen, die Mitarbeit in wissenschaftlichen Kommissionen oder an Konferenzen und die Rechtsberatung im Familienkreis oder von Privatpersonen aus Gef&#xE4;lligkeit sowie private k&#xFC;nstlerische oder wissenschaftliche T&#xE4;tigkeiten; durch solche T&#xE4;tigkeiten darf die Arbeitsleistung f&#xFC;r das Amt aber nicht leiden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ne sont pas soumis &#xE0; autorisation la publication d'ouvrages scientifiques, la participation &#xE0; des projets scientifiques, l'activit&#xE9; de conf&#xE9;rencier &#xE0; l'occasion de manifestations scientifiques, la collaboration &#xE0; des commissions scientifiques ou &#xE0; des conf&#xE9;rences, les conseils juridiques fournis par complaisance au sein du cercle familial ou au profit de personnes priv&#xE9;es ainsi que des activit&#xE9;s priv&#xE9;es de type artistique ou scientifique. Toutefois, de telles activit&#xE9;s ne sauraient entraver le travail de la fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52820">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#xDC;bersteigt die j&#xE4;hrliche Nettoentsch&#xE4;digung f&#xFC;r die Nebenbesch&#xE4;ftigungen 20 Prozent des j&#xE4;hrlichen Besoldungsbetrages, so ist der Mehrbetrag der Staatskasse abzuliefern. Diese Ablieferungspflicht gilt nicht f&#xFC;r die Entsch&#xE4;digung von Arbeiten, die bei Beurlaubung oder Teilzeitbesch&#xE4;ftigung in der Freizeit geleistet werden, oder f&#xFC;r Urheberrechte und Lizenzgeb&#xFC;hren aus privater k&#xFC;nstlerischer oder wissenschaftlicher T&#xE4;tigkeit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'indemnit&#xE9; annuelle nette provenant des activit&#xE9;s accessoires est sup&#xE9;rieure au montant repr&#xE9;sentant les 20 pour cent du revenu annuel de travail, l'exc&#xE9;dent devra &#xEA;tre vers&#xE9; &#xE0; la caisse de l'Etat. Cette obligation de cession ne vaut pas pour l'indemnit&#xE9; de travaux qui sont fournis durant le temps libre en cas d'emploi &#xE0; temps partiel ou durant le cong&#xE9; octroy&#xE9; ni pour celle provenant de droits d'auteur ou de licence qui d&#xE9;coulent d'une activit&#xE9; artistique ou scientifique priv&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22948">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Register der Interessenverbindungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre des liens d'int&#xE9;r&#xEA;t</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52956">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Register der Interessenverbindungen der Magistraten der Staatsanwaltschaft umfasst:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre des liens d'int&#xE9;r&#xEA;t des magistrats du Minist&#xE8;re public comprend:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37065">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">seine Zugeh&#xF6;rigkeit zu F&#xFC;hrungs- und Aufsichtsgremien von K&#xF6;rperschaften, Unternehmen, Anstalten oder Stiftungen des privaten und des &#xF6;ffentlichen Rechts;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">son appartenance aux organes de direction ou de surveillance de corporations, entreprises, &#xE9;tablissements ou fondations de droit priv&#xE9; ou de droit public;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37066">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Funktionen, die er in Kommissionen oder anderen Organen der Eidgenossenschaft, des Kantons und der Gemeinde aus&#xFC;bt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les fonctions qu'il occupe au sein de commissions ou d'autres organes de la Conf&#xE9;d&#xE9;ration, du canton et des communes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37067">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Nebenbesch&#xE4;ftigungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les activit&#xE9;s accessoires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52957">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Allf&#xE4;llige &#xC4;nderungen sind bei deren Eintreten bekannt zu geben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les modifications &#xE9;ventuelles sont annonc&#xE9;es d&#xE8;s qu'elles se produisent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52958">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit der Unterschrift auf dem Formular der Interessenverbindungen best&#xE4;tigen die Magistraten alle ihre Interssenverbindungen bekannt gegeben zu haben. Das B&#xFC;ro der Staatsanwaltschaft entscheidet in Zweifelsf&#xE4;llen &#xFC;ber die gemeldeten Interessenverbindungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les magistrats par la signature du formulaire des liens d'int&#xE9;r&#xEA;ts reconnaissent avoir d&#xE9;clar&#xE9; tous leurs liens d'int&#xE9;r&#xEA;ts. Le bureau du Minist&#xE8;re public statue sur les cas douteux d'annonce des liens d'int&#xE9;r&#xEA;ts.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52959">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Register wird auf der offiziellen Seite der Staatsanwaltschaft des Kantons Wallis publiziert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre est publi&#xE9; sur le site officiel du Minist&#xE8;re public du canton du Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22904">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kleidung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tenue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52821">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Verfahrenshandlungen tragen die Staatsanw&#xE4;lte einen Strassenanzug, die Robe oder eine andere den Umst&#xE4;nden angepasste Kleidung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors des actes de proc&#xE9;dure, les procureurs rev&#xEA;tent un costume de ville, la robe ou tout autre v&#xEA;tement adapt&#xE9; aux circonstances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52822">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen der Gerichtsbeh&#xF6;rden &#xFC;ber die Kleidung bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions des autorit&#xE9;s judiciaires relatives &#xE0; la tenue demeurent r&#xE9;serv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22905">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Administratives Personal - Sekretariat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnel administratif - Secr&#xE9;tariat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52823">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedes Amt verf&#xFC;gt &#xFC;ber ein dem Publikum zug&#xE4;ngliches Sekretariat, deren F&#xFC;hrung der Amtsleitung obliegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque office dispose d'un secr&#xE9;tariat accessible au public dont la gestion incombe &#xE0; la direction de l'office.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52824">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das administrative Personal erledigt die administrativen Arbeiten des Amtes, die F&#xFC;hrung, die Klassierung, die &#xDC;berbringung, den Versand, die Buchhaltung und die Archivierung der Dossiers, die Protokollierung der Verfahrenshandlungen sowie die weiteren ihm von der Amtsleitung zugewiesenen Aufgaben. Der Anstellungsgrad betr&#xE4;gt in der Regel mindestens 40 Prozent.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le personnel administratif pourvoit notamment aux t&#xE2;ches administratives de l'office, &#xE0; la tenue, au classement, &#xE0; la remise, &#xE0; l'exp&#xE9;dition, &#xE0; la comptabilit&#xE9; et &#xE0; l'archivage des dossiers, &#xE0; la tenue des proc&#xE8;s-verbaux des actes de proc&#xE9;dure ainsi qu'aux autres t&#xE2;ches que la direction de l'office lui attribue. Le taux d'activit&#xE9; sera en principe d'au moins 40 pour cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52825">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Sekretariat der Zentralen Staatsanwaltschaft unterst&#xFC;tzt den Generalstaatsanwalt in den Bereichen allgemeine Verwaltung, Personal, R&#xE4;umlichkeiten, Ausr&#xFC;stung, Informatik, Buchf&#xFC;hrung und Budgetplanung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le secr&#xE9;tariat de l'office central du minist&#xE8;re public assiste le procureur g&#xE9;n&#xE9;ral notamment dans les domaines de l'administration g&#xE9;n&#xE9;rale, du personnel, des locaux, de l'&#xE9;quipement, de l'informatique, de la comptabilit&#xE9; et de la pr&#xE9;paration du budget.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52826">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Protokollierung der Verfahrenshandlungen wird unter der Verantwortung des Staatsanwalts grunds&#xE4;tzlich vom Sekretariatspersonal vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le proc&#xE8;s-verbal des actes de proc&#xE9;dure est en principe &#xE9;tabli par le personnel de secr&#xE9;tariat sous la responsabilit&#xE9; du procureur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52827">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsanwalt kann f&#xFC;r die Protokollierung unmittelbar die sachbearbeitenden Polizisten beiziehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur peut aussi faire appel aux agents de police en charge du dossier pour &#xE9;tablir le proc&#xE8;s-verbal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52828">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung kann ein Mitglied des administrativen Personals mit der Leitung des Sekretariats betrauen und dem administrativen Personal besondere Aufgaben &#xFC;bertragen (wie Empfangsdienst, Buchhaltung, Zahlungswesen, Statistik, Informatik, Protokollierung, Archivierung, Weibeldienst, Logistik usw.).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office peut confier la direction du secr&#xE9;tariat &#xE0; un membre du personnel administratif et assigner au personnel administratif des t&#xE2;ches particuli&#xE8;res (service de r&#xE9;ception, comptabilit&#xE9;, encaissements et paiements, statistiques, informatique, tenue de proc&#xE8;s-verbaux, archivage, service d'huissier, logistique, etc.).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52829">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das B&#xFC;ro der Staatsanwaltschaft kann im Rahmen der bewilligten Stellen &#xFC;ber die Anstellung von spezialisiertem Personal entscheiden (wie in den Bereichen Informatik, Hausdienst oder Buchpr&#xFC;fung).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le bureau du minist&#xE8;re public peut, dans les limites des postes autoris&#xE9;s, d&#xE9;cider de l'engagement de personnel sp&#xE9;cialis&#xE9; (informaticien, concierge, r&#xE9;viseur comptable, secr&#xE9;taire g&#xE9;n&#xE9;ral, etc.).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52830">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r dringende Eins&#xE4;tze (Pikett-Eins&#xE4;tze) kann das administrative Personal jederzeit zur Arbeit aufgeboten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas d'engagement command&#xE9; par l'urgence (permanence), il peut en tout temps &#xEA;tre fait appel au personnel administratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52831">
+                    <partNumber>9</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r das administrative Personal gelten die kantonalen Bestimmungen &#xFC;ber die Beamten und Angestellten des Staates Wallis.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions cantonales r&#xE9;gissant le statut des fonctionnaires et les employ&#xE9;s de l'Etat du Valais s'appliquent au personnel administratif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6970">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Aufsicht und einheitliche Kriminalit&#xE4;tsbek&#xE4;mpfung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Surveillance et lutte uniforme contre la criminalit&#xE9;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22906">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vorkontrolle von Einstellungs-, Nichtanhandnahme- und Sistierungsverf&#xFC;gungen sowie von Strafbefehlen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;le pr&#xE9;alable des ordonnances de classement, de non-entr&#xE9;e en mati&#xE8;re et de suspension ainsi que des ordonnances p&#xE9;nales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52832">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Genehmigung von Einstellungs-, Nichtanhandnahme- und Sistierungsverf&#xFC;gungen sowie von Strafbefehlen durch die Amtsleitung (Art. 36 EGStPO) hat innert zehn Tagen zu erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'approbation par la direction de l'office des ordonnances de classement, de non-entr&#xE9;e en mati&#xE8;re et de suspension ainsi que des ordonnances p&#xE9;nales doit intervenir dans un d&#xE9;lai de dix jours (art. 36 LACPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52833">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Genehmigung ist ins Aktendossier aufzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'approbation est document&#xE9;e au dossier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52834">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einstellungs-, Nichtanhandnahme- und Sistierungsverf&#xFC;gungen sowie die Strafbefehle d&#xFC;rfen erst er&#xF6;ffnet werden, wenn die Genehmigung erteilt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les ordonnances de classement, de non-entr&#xE9;e en mati&#xE8;re et de suspension ainsi que les ordonnances p&#xE9;nales ne peuvent &#xEA;tre notifi&#xE9;es que si l'approbation a &#xE9;t&#xE9; donn&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22907">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Strafmasse und Verfolgungspriorit&#xE4;ten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fixation de la peine et priorit&#xE9;s en mati&#xE8;re de poursuite p&#xE9;nale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52835">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt erl&#xE4;sst zur Gew&#xE4;hrleistung einer einheitlichen Kriminalit&#xE4;tsbek&#xE4;mpfung (Art. 6 Abs. 1 EGStPO) Empfehlungen f&#xFC;r Strafmasse bei Massendelikten (wie Strassenverkehr, Bet&#xE4;ubungsmittel, Ausl&#xE4;nderrecht, Internet-Pornographie usw.).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin de garantir une lutte uniforme contre la criminalit&#xE9;, le procureur g&#xE9;n&#xE9;ral &#xE9;met des recommandations relatives &#xE0; la fixation de la peine dans le domaine des infractions de masse telles la circulation routi&#xE8;re, les stup&#xE9;fiants, le droit des &#xE9;trangers, la pornographie sur internet, etc.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52836">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er folgt dabei den Strafmassempfehlungen nationaler Institutionen, namentlich der Konferenz der Strafverfolgungsbeh&#xF6;rden der Schweiz oder der Konferenz der Kantonalen Justiz- und Polizeidirektoren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il s'inspire pour ce faire notamment des recommandations relatives &#xE0; la fixation de la peine de la Conf&#xE9;rence des autorit&#xE9;s de poursuite p&#xE9;nale de la Suisse (CAPS) et de la Conf&#xE9;rence des directeurs de d&#xE9;partement cantonaux de justice et de police (CCDJP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52837">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt kann allgemeine Verfolgungspriorit&#xE4;ten festlegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral peut fixer des priorit&#xE9;s en mati&#xE8;re de poursuite p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6971">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Akteneinsicht, Mitteilungen an Aufsichtsbeh&#xF6;rden und Beziehung zu den Medien</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Consultation des dossiers - Informations des autorit&#xE9;s de surveillance - Relations avec les m&#xE9;dias</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22908">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Akteneinsicht, Mitteilungen gegen&#xFC;ber Aufsichtsbeh&#xF6;rden &#xFC;ber Aufsichtstatbest&#xE4;nde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Consultation des dossiers, informations des autorit&#xE9;s de surveillance sur les cas de surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52838">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Staatsanwaltschaft kann Beh&#xF6;rden, die Strafakten f&#xFC;r die Erf&#xFC;llung ihrer gesetzlichen Aufsichtspflicht ben&#xF6;tigen, auf das beh&#xF6;rdliche Akteneinsichtsrecht nach Artikel 101 Absatz 2 StPO hinweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le minist&#xE8;re public peut attirer l'attention des autorit&#xE9;s, qui doivent pouvoir acc&#xE9;der au dossier p&#xE9;nal pour exercer leur devoir de surveillance l&#xE9;gale, de leur droit de consulter le dossier au sens de l'article 101 alin&#xE9;a 2 CPP.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52839">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Entscheid &#xFC;ber die Akteneinsicht (Art. 102/108 StPO) oder &#xFC;ber die Mitteilung an eine andere Beh&#xF6;rde (Art. 75 StPO, Art. 22 Abs. 3 Gesetz betreffend die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008; GIDA) ergeht in der Regel in Form einer beschwerdef&#xE4;higen Verf&#xFC;gung (Art. 80 und 393 StPO).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision relative &#xE0; la consultation des dossiers (art. 102/108 CPP) ou &#xE0; l'information d'autorit&#xE9;s (art. 75 CPP, art. 22 al. 2 de la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage du 9 octobre 2008; LIPDA) rev&#xEA;t en r&#xE8;gle g&#xE9;n&#xE9;rale la forme d'une d&#xE9;cision sujette &#xE0; recours (art. 80 et 393 CPP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22909">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Orientierung der &#xD6;ffentlichkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information du public</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52840">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Orientierung der &#xD6;ffentlichkeit richtet sich unter Vorbehalt der Geheimhaltungspflicht von Art. 73 StPO nach Art. 74 StPO und erg&#xE4;nzend nach der kantonalen Ausf&#xFC;hrungsgesetzgebung. F&#xFC;r die Orientierung von Teilen der &#xD6;ffentlichkeit oder bestimmter Dritter gelten die gleichen Grunds&#xE4;tze.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de l'obligation de garder le secret conform&#xE9;ment &#xE0; l'art. 73 CPP, l'information du public est r&#xE9;gie par l'art. 74 CPP et, en compl&#xE9;ment, par la l&#xE9;gislation cantonale d'application. Les m&#xEA;mes normes sont valables en ce qui concerne l'information faite &#xE0; des parties du public et &#xE0; des tiers d&#xE9;termin&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52841">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Orientierung erfolgt in der Regel durch die &#xF6;ffentliche Gerichtsverhandlung und die &#xF6;ffentliche Urteilverk&#xFC;ndung. Wenn es das &#xF6;ffentliche Interesse in besonderen F&#xE4;llen verlangt, kann eine Mitteilung an die Medien gemacht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale, l'information se fait par les d&#xE9;bats publics et par le prononc&#xE9; public du jugement. Dans des cas particuliers, lorsqu'un int&#xE9;r&#xEA;t public l'exige, une communication &#xE0; l'ensemble des m&#xE9;dias peut &#xEA;tre faite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52842">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Orientierung der &#xD6;ffentlichkeit liegt in der alleinigen Zust&#xE4;ndigkeit des Generalstaatsanwalts. Er kann sie einem Oberstaatsanwalt oder dem verfahrensleitenden Staatsanwalt delegieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral est responsable de l'information. Il peut la d&#xE9;l&#xE9;guer &#xE0; un premier procureur ou &#xE0; la direction de la proc&#xE9;dure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52843">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist ein Fall dem Strafgericht &#xFC;berwiesen oder bei der Beschwerdeinstanz oder dem Zwangsmassnahmegericht h&#xE4;ngig, geht die Informationshoheit auf das Gericht &#xFC;ber.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la cause a &#xE9;t&#xE9; transmise au tribunal p&#xE9;nal ou &#xE0; l'instance de recours ou au tribunal des mesures de contrainte, la comp&#xE9;tence d'informer passe &#xE0; ces instances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52844">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erweist es sich als erforderlich, dass &#xFC;ber die &#xDC;berweisung eines Falles an das Gericht (Art. 327 StPO) orientiert wird, ist hief&#xFC;r in der Regel die Staatsanwaltschaft zust&#xE4;ndig. Diese &#xFC;bermittelt die Medienmitteilung auch dem angerufenen Gericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les circonstances l'exigent, il incombe en principe au minist&#xE8;re public d'informer du renvoi de la cause devant le tribunal (art. 327 CPP). Le minist&#xE8;re public transmet la communication faite aux m&#xE9;dias au tribunal saisi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52845">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt erl&#xE4;sst &#xFC;ber die Orientierung der &#xD6;ffentlichkeit n&#xE4;here Richtlinien.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral &#xE9;dicte des directives sp&#xE9;cifiques pour l'information du public et les relations avec les m&#xE9;dias.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6972">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Archivierung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Archivage</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22910">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisation der Archive</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation des archives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52846">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xC4;mter der Staatsanwaltschaft archivieren die Dossiers der abgeschlossenen Strafverfahren sowie die Verwaltungsakten, die f&#xFC;r die Geschichte der Staatsanwaltschaft von Nutzen sind und von dieser nicht mehr dauernd ben&#xF6;tigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les offices du minist&#xE8;re public archivent les dossiers des causes p&#xE9;nales liquid&#xE9;es ainsi que les dossiers administratifs utiles pour l'historique du minist&#xE8;re public et dont ce dernier n'a plus besoin de fa&#xE7;on continue.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52847">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die reglementarischen Bestimmungen des Kantonsgerichts &#xFC;ber die Archivierung der an die Gerichte &#xFC;berwiesenen F&#xE4;lle bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions r&#xE9;glementaires du Tribunal cantonal demeurent r&#xE9;serv&#xE9;es pour l'archivage des causes transmises aux tribunaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52848">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die auf elektronischen Datentr&#xE4;gern erfassten Daten werden durch das Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es enregistr&#xE9;es sur des supports &#xE9;lectroniques sont r&#xE9;gl&#xE9;es conform&#xE9;ment &#xE0; la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage du 9 octobre 2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52849">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Amtsleitung weist die Archivierung der abgeschlossenen Dossiers dem administrativen Personal zu. Der dossierf&#xFC;hrende Staatsanwalt &#xFC;berwacht die Archivierung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de l'office attribue l'archivage des dossiers liquid&#xE9;s au personnel administratif. Le procureur en charge du dossier surveille l'archivage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52850">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Generalstaatsanwalt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le procureur g&#xE9;n&#xE9;ral:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37049">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">kontrolliert die Anwendung der Vorschriften &#xFC;ber die Archivierung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contr&#xF4;le l'application des dispositions relatives &#xE0; l'archivage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37050">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">erl&#xE4;sst die zur Vollziehung der Archivierungsvorschriften erforderlichen Weisungen und Massnahmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">arr&#xEA;te les directives n&#xE9;cessaires pour la mise en oeuvre de l'archivage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37051">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">konsultiert soweit erforderlich das Staatsarchiv als beratendes Organ.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">consulte, en cas de besoin, les archives cantonales en leur qualit&#xE9; d'organe sp&#xE9;cialis&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22911">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Archivw&#xFC;rdige Akten und Aufbewahrungsdauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dossiers ayant valeur archivistique et dur&#xE9;e de conservation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52851">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die folgenden Prozessakten werden w&#xE4;hrend zehn Jahren nach dem rechtskr&#xE4;ftigen Abschluss des Verfahrens in den Archiven der Staatsanwaltschaft aufbewahrt (Art. 369 StGB und 103 Abs. 1 StPO):</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers p&#xE9;naux suivants sont conserv&#xE9;s dans les archives du minist&#xE8;re public pendant dix ans &#xE0; compter &#xE0; partir de la liquidation d&#xE9;finitive de la proc&#xE9;dure (art. 369 CP et 103 al. 1 CPP):</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37052">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Akten der durch Nichtanhandnahme, Einstellung oder Strafbefehl abgeschlossenen Verfahren, die nicht an die Parteien zur&#xFC;ckgesandt werden (Art. 103 Abs. 2 StPO);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les dossiers des proc&#xE9;dures liquid&#xE9;es par d&#xE9;cision de non-entr&#xE9;e en mati&#xE8;re, par d&#xE9;cision de classement ou par ordonnance p&#xE9;nale, qui ne sont pas restitu&#xE9;s aux parties (art. 103 al. 2 CPP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37053">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Akten &#xFC;ber selbst&#xE4;ndige nachtr&#xE4;gliche Entscheide (Art. 363 Abs. 2 StPO);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les dossiers relatifs aux d&#xE9;cisions ult&#xE9;rieures ind&#xE9;pendantes (art. 363 al. 2 CPP);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:37054">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Akten, die in Verfahren zur Abgrenzung der Zust&#xE4;ndigkeit und zur Festsetzung des Gerichtsstandes sowie in Rechtshilfeverfahren erstellt worden sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les dossiers constitu&#xE9;s dans des proc&#xE9;dures relatives &#xE0; la d&#xE9;limitation de la comp&#xE9;tence et &#xE0; la fixation du for ainsi qu'en mati&#xE8;re d'entraide judiciaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52852">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwaltungsakten, die f&#xFC;r die Geschichte und Entwicklung der Staatsanwaltschaft von Bedeutung sind, werden archiviert, soweit sie archivw&#xFC;rdig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers administratifs importants pour l'historique et l'&#xE9;volution du minist&#xE8;re public sont archiv&#xE9;s dans la mesure o&#xF9; ils ont valeur archivistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52853">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ebenfalls archiviert werden die Gesuche um Einsichtnahme in die Akten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes tendant &#xE0; obtenir la consultation des dossiers sont &#xE9;galement archiv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22912">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vernichtung oder &#xDC;berf&#xFC;hrung ins Kantonsarchiv</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Destruction ou transfert aux archives cantonales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52854">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Ablauf der Aufbewahrungsfrist von Artikel 26 Absatz 1 des vorliegenden Reglements sind die betreffenden Akten zu vernichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;lai de conservation de l'article 26 alin&#xE9;a 1 du pr&#xE9;sent r&#xE8;glement &#xE9;coul&#xE9;, le dossier concern&#xE9; sera d&#xE9;truit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52855">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Akten, die einen historischen Wert haben oder an denen ein wissenschaftliches Interesse besteht, sind nach Ablauf der Aufbewahrungsfrist dem Kantonsarchiv anzubieten (Art. 42 Abs. 1 GIDA).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dossiers qui ont une valeur historique ou qui pr&#xE9;sentent un int&#xE9;r&#xEA;t scientifique seront propos&#xE9;s, apr&#xE8;s l'&#xE9;coulement du d&#xE9;lai de conservation, aux archives cantonales (art. 42 LIPDA).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:22913">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einsichtnahme in die archivierten Akten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Consultation des dossiers archiv&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52856">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Einsicht in die Akten der laufenden Verfahren gelten die Bestimmungen der Strafprozessordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions du Code de proc&#xE9;dure p&#xE9;nale s'appliquent &#xE0; la consultation des dossiers en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:52857">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Einsichtnahme in die archivierten Akten gelten die Bestimmungen der Artikel 369 StGB und Artikel 103 StPO sowie des Gesetzes &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions des articles 369 CP et 103 CPP, ainsi que celles de la loi sur l'information du public, la protection des donn&#xE9;es et l'archivage s'appliquent &#xE0; la consultation des dossiers archiv&#xE9;s du 9 octobre 2008.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="6973">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Entr&#xE9;e en vigueur</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Entr&#xE9;e en vigueur</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:22914">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:52858">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement tritt am 3. Januar 2011 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement entre en vigueur le 3 janvier 2011.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2011-01-03</dateForce>
+      <dateVersion>2017-06-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 24/2017</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:22944" historyChange="insert" historyImpact="major"/>
+      <article id1="Article:22945" historyChange="insert" historyImpact="major"/>
+      <article id1="Article:22946" historyChange="insert" historyImpact="major"/>
+      <article id1="Article:22947" historyChange="insert" historyImpact="major"/>
+      <article id1="Article:22948" historyChange="insert" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2011-01-03</dateForce>
+        <dateVersion>2011-01-03</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 2/2011</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

@@ -1,12 +1,78 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
-    </head>
-    <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
-    </body>
+<html lang="fr">
+<head>
+    <title>Constitutions Time Machine</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="{{ ABSURL }}/build/vendors~app.css" />
+    <link rel="stylesheet" href="{{ ABSURL }}/build/app.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5b3144b055b02cbfbf6871a0/1529968904950-HM0G328PCAP4T8W90VKF/ke17ZwdGBToddI8pDm48kP06O0_IHyRXSOOiqwgWaApZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEsL0EX72Q6S7TgfQYQBQpkz5xM6Qt8VXd_xJGg_ziCFib8BodarTVrzIWCp72ioWw/favicon.ico?format=100w">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+{#        <a class="navbar-brand cons-navbar-brand" href="{{ path('index') }}">#}
+{#            <img src="{{ ABSURL ~ asset('img/logo_mini.png') }}" alt="logo"/>#}
+            <div data-nc-container="top-left">
+                <a href="{{ path('index') }}" class="Header-branding cons-navbar-brand" data-nc-element="branding" data-content-field="site-title">
+                    Constitutions.ch
+                </a><div class="Header-tagline cons-header-tagline" data-nc-element="tagline">Time machine | VS 1907-2107</div></div>
+{#        </a>#}
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu"
+                aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav ml-auto mr-3">
+                {% set active = app.request.attributes.get('_route') in ['index'] ? 'active' : '' %}
+                <li class="nav-item {{ active }}"><a class="nav-link" href="{{ path('index') }}">Accueil</a></li>
+                {% set active = app.request.attributes.get('_route') == 'constitution' ? 'active' : '' %}
+                <li class="nav-item {{ active }}">
+                    <a class="nav-link" href="{{ path('constitution') }}">La Constitution</a>
+                </li>
+                {% set active = app.request.attributes.get('_route') in ['commission-index', 'commission-details'] ? 'active' : '' %}
+                <li class="nav-item {{ active }}">
+                    <a class="nav-link" href="{{ path('commission-index') }}">Par commission</a>
+                </li>
+                {% set active = app.request.attributes.get('_route') in ['intervenant-index', 'intervenant-details'] ? 'active' : '' %}
+                <li class="nav-item {{ active }}">
+                    <a class="nav-link" href="{{ path('intervenant-index') }}">Par intervenant</a>
+                </li>
+                {% set active = app.request.attributes.get('_route') == 'search' ? 'active' : '' %}
+                <li class="nav-item {{ active }}">
+                    <a class="nav-link" href="{{ path('search', {'page': 1, 'sort_by': 'article_number', 'order': 'asc', 'term': ''}) }}">Recherche avancée</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="mt-5 mb-5">
+    {% block body %}{% endblock %}
+</div>
+<!-- Footer -->
+<footer class="small pt-4 fixed-bottom bg-light">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-12 mt-md-0 mt-3">
+                <p class="text-muted">
+                    Prototype réalisé dans le cadre du travail de Master de Pedro Ferreira en collaboration avec
+                    l'association Constitutions Time Machine et les archives valaisannes
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+{% block javascripts %}
+    <script type="text/javascript">
+        var APPURL = '{{ APPURL }}';
+    </script>
+    <script src="{{ ABSURL ~ asset('build/runtime.js') }}"></script>
+    <script src="{{ ABSURL ~ asset('build/vendors~app.js') }}"></script>
+    <script src="{{ ABSURL ~ asset('build/app.js') }}"></script>
+    <script src="{{ ABSURL ~ asset('build/vendors~app~details~search.js') }}"></script>
+{% endblock %}
+</body>
 </html>

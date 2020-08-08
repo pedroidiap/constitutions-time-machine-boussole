@@ -1,0 +1,1299 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1713</normID>
+      <number>270.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">EGZPO</abbreviation>
+      <abbreviation lang="fr">LACPC</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Einf&#xFC;hrungsgesetz zur Schweizerischen Zivilprozessordnung</title>
+      <title lang="fr">Loi d'application du code de proc&#xE9;dure civile suisse</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2009-02-11</dateAdoption>
+      <dateForce>2011-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 46 Abs&#xE4;tze 1 und 2 der Bundesverfassung;</basis> <basis>eingesehen die Schweizerische Zivilprozessordnung (ZPO);</basis> <basis>eingesehen die Artikel 31 und 42 Absatz 1 und 2 der Kantonsverfassung;</basis> <basis>auf Vorschlag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 46 alin&#xE9;as 1 et 2 de la Constitution f&#xE9;d&#xE9;rale;</basis> <basis>vu le code de proc&#xE9;dure civile suisse (CPC);</basis> <basis>vu les articles 31 et 42 alin&#xE9;as 1 et 2 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 26/2010</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="8026">
+        <structureContent lang="de">
+          <structureText>Einf&#xFC;hrungsgesetz zur Schweizerischen Zivilprozessordnung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>d'application du code de proc&#xE9;dure civile suisse</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8027">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Gegenstand des Gesetzes</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Objet de la loi</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:26355">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61147">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt der Bestimmungen des Bundesrechts bestimmt das vorliegende Gesetz die sachliche Zust&#xE4;ndigkeit der mit den Zivilsachen betrauten Beh&#xF6;rden und regelt die Anwendung der Schweizerischen Zivilprozessordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve des prescriptions de droit f&#xE9;d&#xE9;ral, la pr&#xE9;sente loi fixe la comp&#xE9;tence mat&#xE9;rielle des autorit&#xE9;s charg&#xE9;es de conna&#xEE;tre des affaires civiles et pourvoit &#xE0; l'application du code de proc&#xE9;dure civile suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61148">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Gesetzes &#xFC;ber die Rechtspflege, des Einf&#xFC;hrungsgesetzes zum Schweizerischen Zivilgesetzbuch, des Arbeitsgesetzes und der Spezialgesetzgebung bleiben vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions de la loi sur l'organisation de la Justice, de la loi d'application du code civil suisse, de la loi sur le travail et de la l&#xE9;gislation sp&#xE9;ciale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26356">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gleichstellung zwischen Mann und Frau</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Egalit&#xE9; entre hommes et femmes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61149">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8028">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Sachliche Zust&#xE4;ndigkeit der mit den Zivilsachen be-auftragten Beh&#xF6;rden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Comp&#xE9;tences mat&#xE9;rielles des autorit&#xE9;s charg&#xE9;es de conna&#xEE;tre des affaires civiles</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:26357">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinderichter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Juge de commune</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61150">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Gemeinderichter ist zust&#xE4;ndig um:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le juge de commune est comp&#xE9;tent pour:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42898">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einen Schlichtungsversuch zu unternehmen (Art. 201 Abs. 1 ZPO);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">tenter la conciliation (art. 201 al. 1 CPC);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42899">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei verm&#xF6;gensrechtlichen Streitigkeiten mit einem Streitwert bis zu 5'000 Franken einen Urteilsvorschlag zu unterbreiten (Art. 210 Abs. 1 Bst. c ZPO);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">soumettre une proposition de jugement dans les litiges patrimoniaux dont la valeur litigieuse ne d&#xE9;passe pas 5'000 francs (art. 210 al. 1 let. c CPC);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42900">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei verm&#xF6;gensrechtlichen Streitigkeiten mit einem Streitwert bis zu 2'000 Franken auf Antrag der klagenden Partei ein Sachurteil zu f&#xE4;llen (Art. 212 ZPO).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">statuer au fond dans les litiges patrimoniaux dont la valeur litigieuse ne d&#xE9;passe pas 2'000 francs, sur requ&#xEA;te du demandeur (art. 212 CPC).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61151">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleibt die Zust&#xE4;ndigkeit:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les comp&#xE9;tences:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42901">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der durch das kantonale Arbeitsgesetz eingesetzten Schlichtungsbeh&#xF6;ren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des autorit&#xE9;s de conciliation institu&#xE9;es par la loi cantonale sur le travail;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42902">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der durch das Einf&#xFC;hrungsgesetz zum Schweizerischen Zivilgesetzbuch vorgesehenen Schlichtungskommission im Miet- und Pachtrecht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de la commission de conciliation en mati&#xE8;re de baux institu&#xE9;e par la loi d'application du code civil suisse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26358">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bezirksgericht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tribunal de district</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61152">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Bezirksgericht beurteilt Zivilsachen und entscheidet &#xFC;ber vorsorgliche Massnahmen, ausser wenn das Gesetz ausdr&#xFC;cklich die Zust&#xE4;ndigkeit einer anderen Beh&#xF6;rde vorsieht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le tribunal de district conna&#xEE;t des affaires civiles et statue sur les requ&#xEA;tes de mesures provisionnelles, sauf lorsque la loi attribue express&#xE9;ment une comp&#xE9;tence &#xE0; une autre autorit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61153">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausserdem beurteilt das Bezirksgericht:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En outre, le tribunal de district:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42903">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Vollstreckungsgesuche;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conna&#xEE;t des requ&#xEA;tes d'ex&#xE9;cution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42904">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Sachen der Schiedsgerichtsbarkeit die in Artikel 356 Absatz 2 der Schweizerischen Zivilprozessordnung vorgesehenen F&#xE4;lle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">rend les d&#xE9;cisions en mati&#xE8;re d'arbitrage pr&#xE9;vues &#xE0; l'article 356 alin&#xE9;a 2 du code de proc&#xE9;dure civile suisse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26359">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonsgericht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tribunal cantonal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61154">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Kantonsgericht beurteilt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Tribunal cantonal conna&#xEE;t:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42905">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">als einzige kantonale Instanz in Zivilsachen aus Artikel 5, 7 oder 8 der Schweizerischen Zivilprozessordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en instance cantonale unique, des affaires civiles relevant des articles 5, 7 ou 8 du code de proc&#xE9;dure civile suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42906">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">als Rechtsmittelinstanz f&#xFC;r Berufungen und Beschwerden, die im 9. Titel der zweiten Teil der Schweizerischen Zivilprozessordnung vorgesehen sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">comme autorit&#xE9; de recours, des appels et des recours limit&#xE9;s au droit pr&#xE9;vus au titre 9 de la deuxi&#xE8;me Partie du code de proc&#xE9;dure civile suisse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61155">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Angelegenheiten, die dem Kantonsgericht obliegen, ist ein einzelner Kantonsrichter zust&#xE4;ndig:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les affaires relevant du Tribunal cantonal, un juge cantonal unique est comp&#xE9;tent:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42907">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die in Artikel 5 Absatz 1 des vorliegenden Gesetzes vorgesehenen Angelegenheiten zu untersuchen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour instruire les causes pr&#xE9;vues &#xE0; l'article 5 alin&#xE9;a 1 de la pr&#xE9;sente loi;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42908">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;ber einen Antrag zu vorsorglichen Massnahmen oder zur Bewilligung einer vorzeitigen Vollstreckung zu entscheiden oder die Vollstreckbarkeit zu hemmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour statuer sur une requ&#xEA;te de mesures provisionnelles ou sur une requ&#xEA;te tendant &#xE0; autoriser l'ex&#xE9;cution anticip&#xE9;e ou &#xE0; suspendre le caract&#xE8;re ex&#xE9;cutoire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42909">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;ber die Berufung oder die Beschwerde zu entscheiden, wenn das vereinfachte oder summarische Verfahren erstinstanzlich anwendbar war; der bezeichnete Richter kann den Fall jedoch an einen Gerichtshof zuweisen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour statuer sur l'appel ou le recours limit&#xE9; au droit lorsque la proc&#xE9;dure simplifi&#xE9;e ou sommaire &#xE9;tait applicable en premi&#xE8;re instance, le juge d&#xE9;sign&#xE9; pouvant toutefois d&#xE9;f&#xE9;rer la cause &#xE0; une cour du tribunal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61156">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausserdem entscheidet das Kantonsgericht in Schiedssachen in den in Artikel 356 Absatz 1 der Schweizerischen Zivilprozessordnung vorgesehenen F&#xE4;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En outre, le Tribunal cantonal statue en mati&#xE8;re d'arbitrage dans les cas pr&#xE9;vus &#xE0; l'article 356 alin&#xE9;a 1 du code de proc&#xE9;dure civile suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8029">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Andere Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Autres dispositions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:26360">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zwangsvollstreckungsverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure d'ex&#xE9;cution forc&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61157">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde im Sinne von Artikel 343 Absatz 3 der Schweizerischen Zivilprozessordnung ist die Kantonspolizei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente au sens de l'article 343 alin&#xE9;a 3 du code de proc&#xE9;dure civile suisse est la police cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26361">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahrenssprache</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Langue de la proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61158">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausser vor dem Gemeinderichter, wo die Sprache des Gerichtsortes gilt, k&#xF6;nnen Schriften und m&#xFC;ndliche Vorst&#xF6;sse der Parteien oder ihrer Beauftragten auf Deutsch oder Franz&#xF6;sisch erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;critures et les interventions orales des parties ou de leurs mandataires peuvent &#xEA;tre faites en allemand ou en fran&#xE7;ais, sauf devant le juge de commune o&#xF9; la langue du si&#xE8;ge pr&#xE9;vaut.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61159">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Gemeinderichter und das Bezirksgericht stellen ihre Mitteilungen, Entscheide und Urteile in der Sprache des Gerichtsortes zu.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le juge de commune et le tribunal de district adressent leurs communications, d&#xE9;cisions et jugements dans la langue du si&#xE8;ge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61160">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Kantonsgericht stellt seine Mitteilungen, Entscheide und Urteile auf Deutsch oder Franz&#xF6;sisch zu, grunds&#xE4;tzlich in der von der erstinstanzlichen Beh&#xF6;rde oder im verfahrenseinleitenden Schriftst&#xFC;ck verwendeten Sprache.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Tribunal cantonal adresse ses communications, d&#xE9;cisions ou jugements en allemand ou en fran&#xE7;ais, en principe dans la langue utilis&#xE9;e par l'autorit&#xE9; de premi&#xE8;re instance ou celle ressortant de l'&#xE9;criture introductive d'instance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26362">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xD6;ffentlichkeit der Verhandlungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Publicit&#xE9; des d&#xE9;lib&#xE9;rations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61161">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im zivilrechtlichen Bereich Recht sprechenden Beh&#xF6;rden verhandeln unter Ausschluss der &#xD6;ffentlichkeit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s charg&#xE9;es de rendre la justice en mati&#xE8;re civile d&#xE9;lib&#xE8;rent &#xE0; huis clos.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26897">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gerichtliches Verbot</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Violation d'une mise &#xE0; ban</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:62455">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Anruf des Berechtigten oder im Auftrag des Polizeigerichts ist die Gemeindepolizei oder andernfalls die Kantonspolizei zust&#xE4;ndig, die Missachtung des gerichtlichen Verbots (Art. 258 ZPO) festzustellen und abzukl&#xE4;ren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police municipale ou, &#xE0; d&#xE9;faut, la police cantonale est comp&#xE9;tente, sur appel de l'ayant droit ou mandat du tribunal de police, pour constater et instruire la violation d'une mise &#xE0; ban (art. 258 CPC).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:62456">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie verzeigt den Fehlbaren beim Polizeigericht, das die Schweizerische Strafprozessordnung und das Einf&#xFC;hrungsgesetz zur Schweizerischen Strafprozessordnung anwendet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle d&#xE9;nonce l'auteur au tribunal de police qui applique le code de proc&#xE9;dure p&#xE9;nale suisse et la loi d'application du code de proc&#xE9;dure p&#xE9;nale suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26363">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anpassung des kantonalen Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Adaptation du droit cantonal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61162">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonalen Bestimmungen &#xFC;ber das Zivilverfahren werden wie folgt angepasst:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit cantonal traitant de la proc&#xE9;dure civile est adapt&#xE9; comme il suit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42910">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Rechtsmittel der Nichtigkeitsklage und der Berufung entsprechen der Beschwerde und der Berufung im Sinne der Zivilprozessordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les moyens du pourvoi en nullit&#xE9; et de l'appel s'entendent du recours limit&#xE9; au droit et de l'appel au sens du code de proc&#xE9;dure civile suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42911">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jeder Bezug zur kantonalen Zivilprozessordnung betrifft die entsprechende Bestimmung der Zivilprozessordnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">toute r&#xE9;f&#xE9;rence au code cantonal de proc&#xE9;dure civile concerne la disposition correspondante du code de proc&#xE9;dure civile suisse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26364">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzielle Unterst&#xFC;tzung zugunsten der mittellosen Partei im Mediationsverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assistance financi&#xE8;re &#xE0; la partie indigente en m&#xE9;diation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61163">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In Zivilsachen leistet der Staat f&#xFC;r die Mediation Kostenvorschuss f&#xFC;r die Parteien, die&#xA0; nicht &#xFC;ber die notwendigen Mittel verf&#xFC;gen und sofern die Gerichtsbeh&#xF6;rde den Weg der Mediation empfiehlt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les affaires civiles, l'Etat avance les frais de la m&#xE9;diation pour les parties qui ne disposent pas des moyens n&#xE9;cessaires et lorsque l'autorit&#xE9; judiciaire recommande le recours &#xE0; la m&#xE9;diation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61164">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst dazu die notwendigen Vollzugsbestimmungen. Er setzt namentlich den Stundentarif des Mediators im Falle einer finanziellen Unterst&#xFC;tzung fest, bezeichnet die zust&#xE4;ndige Beh&#xF6;rde f&#xFC;r die Finanzierung der gew&#xE4;hrten Leistungen und regelt die R&#xFC;ckzahlung, wenn sich die wirtschaftliche Situation der unterst&#xFC;tzten Partei verbessert hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat r&#xE9;glemente les dispositions n&#xE9;cessaires &#xE0; l'ex&#xE9;cution de l'alin&#xE9;a qui pr&#xE9;c&#xE8;de. Il fixe notamment l'indemnit&#xE9; horaire du m&#xE9;diateur dans les cas d'assistance financi&#xE8;re, d&#xE9;signe l'autorit&#xE9; comp&#xE9;tente pour le financement des prestations accord&#xE9;es et r&#xE8;gle leur remboursement lorsque la situation &#xE9;conomique de la partie assist&#xE9;e s'est am&#xE9;lior&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26365">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;nderungen des geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modifications du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61165">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Anwendung des Grundsatzes der Gleichstellung von Mann und Frau vom 19. Juni 1996&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi concernant l'application du principe de l'&#xE9;galit&#xE9; entre femmes et hommes du 19 juin 1996&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61166">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Verantwortlichkeit der &#xF6;ffentlichen Gemeinwesen und ihrer Amtstr&#xE4;ger vom 10. Mai 1978&#xA0;wird&#xA0;abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la responsabilit&#xE9; des collectivit&#xE9;s publiques et de leurs agents du 10 mai 1978 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61167">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Organisation der R&#xE4;te und die Beziehungen zwischen den Gewalten vom 28. M&#xE4;rz 1996&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61168">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gemeindegesetz vom 5. Februar 2004 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur les communes du 5 f&#xE9;vrier 2004&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61169">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Notariatsgesetz vom 1 Dezember 2004&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur le notariat du 15 d&#xE9;cembre 2004 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61170">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz betreffend die Anwendung des Bundesgesetzes &#xFC;ber den Erwerb von Grundst&#xFC;cken durch Personen im Ausland vom 3. Januar 1991 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi r&#xE9;glant l'application de la loi f&#xE9;d&#xE9;rale sur l'acquisition d'immeubles par des personnes &#xE0; l'&#xE9;tranger du 3 janvier 1991&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61171">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die amtliche Vermessung und Geoinformation vom 16. M&#xE4;rz 2006&#xA0;wird&#xA0;abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la mensuration officielle et l'information g&#xE9;ographique du 16 mars 2006&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61172">
+                    <partNumber>8</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung betreffend die Einf&#xFC;hrung des Grundbuches im Kanton Wallis vom 19. Dezember 1919 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance pour l'introduction du registre foncier en Valais du 19 d&#xE9;cembre 1919&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61173">
+                    <partNumber>9</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Einf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber Schuldbetreibung und Konkurs vom 20. Juni 1996&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi d'application de la loi f&#xE9;d&#xE9;rale sur la poursuite pour dettes et la faillite du 20 juin 1996&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61174">
+                    <partNumber>10</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollziehungsreglement zum Gesetz, welches das Bundesgesetz &#xFC;ber die Berufsbildung vollzieht vom 20. Februar 1985 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le r&#xE8;glement d'ex&#xE9;cution de la loi concernant l'ex&#xE9;cution de la loi f&#xE9;d&#xE9;rale sur la formation professionnelle du 20 f&#xE9;vrier 1985 est modifi&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61175">
+                    <partNumber>11</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Ausf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber den Bev&#xF6;lkerungsschutz und den Zivilschutz vom Februar 2005 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi d'application de la loi f&#xE9;d&#xE9;rale sur la protection de la population et sur la protection civile du 11 f&#xE9;vrier 2005&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61176">
+                    <partNumber>12</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung &#xFC;ber die Aufhebung der Sicherungsbeschlagnahme von Luftfahrzeugen vom 13. Februar 1951&#xA0;wird&#xA0;abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance sur la demande de mainlev&#xE9;e de la saisie conservatoire du 13 f&#xE9;vrier 1951&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61177">
+                    <partNumber>13</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Kantonale Arbeitsgesetz vom 16. November 1966&#xA0;wird ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi cantonale sur le travail du 16 novembre 1966 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61178">
+                    <partNumber>14</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung zur Bezeichnung der Beh&#xF6;rden und Verfahren im Krankenversicherungswesen vom 13. M&#xE4;rz 1996&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance d&#xE9;signant les autorit&#xE9;s et les proc&#xE9;dures en mati&#xE8;re d'assurance maladie du 13 mars 1996&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61179">
+                    <partNumber>15</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Eingliederung und die Sozialhilfe vom 29. M&#xE4;rz 1996&#xA0;wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur l'int&#xE9;gration et l'aide sociale du 29 mars 1996&#xA0;est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61180">
+                    <partNumber>16</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung betreffend verschiedene Einrichtungen f&#xFC;r die Jugend vom 9. Mai 2001 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance sur les diff&#xE9;rentes structures en faveur de la jeunesse du 9 mai 2001 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:26366">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schluss- und &#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions finales et transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61181">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toutes les dispositions contraires &#xE0; la pr&#xE9;sente loi sont abrog&#xE9;es, en particulier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42912">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zivilprozessordnung vom 24. M&#xE4;rz 1998;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le code de proc&#xE9;dure civile du 24 mars 1998;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42913">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend der Anwendung des Lugano-&#xDC;bereinkommens vom 16. September 1988 &#xFC;ber die gerichtliche Zust&#xE4;ndigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi d'application de la Convention de Lugano du 16 septembre 1988 relative &#xE0; la comp&#xE9;tence judiciaire et &#xE0; l'ex&#xE9;cution des d&#xE9;cisions en mati&#xE8;re civile et commerciale du 15 novembre 1991;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42914">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend den Beitritt zum interkantonalen Konkordat &#xFC;ber die Schiedsgerichtsbarkeit vom 23. Juni 1971;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi d'adh&#xE9;sion au concordat intercantonal sur l'arbitrage du 23 juin 1971;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42915">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend den Beitritt zum Konkordat &#xFC;ber die Vollstreckung von Zivilurteilen vom 15. November 1978;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi d'adh&#xE9;sion au concordat sur l'ex&#xE9;cution des jugements civils du 15 novembre 1978;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:42916">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Artikel 22 Absatz 3 der allgemeinen Ausf&#xFC;hrungsverordnung zum Einf&#xFC;hrungsgesetz zum Schweizerischen Zivilgesetzbuch vom 4. Oktober 2000.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'article 22 alin&#xE9;a 3 de l'ordonnance g&#xE9;n&#xE9;rale d'ex&#xE9;cution de la loi d'application du code civil suisse du 4 octobre 2000.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61182">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit Ausnahme der Vorschriften &#xFC;ber die sachliche Zust&#xE4;ndigkeit, welche nach Inkrafttreten des Gesetzes Anwendung finden, gelten die &#xDC;bergangsbestimmungen der Schweizerischen Zivilprozessordnung sinngem&#xE4;ss f&#xFC;r das vorliegende Gesetz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions transitoires du code de proc&#xE9;dure civile suisse s'appliquent par analogie &#xE0; la pr&#xE9;sente loi, &#xE0; l'exception des r&#xE8;gles de comp&#xE9;tence mat&#xE9;rielle qui s'appliquent d&#xE8;s l'entr&#xE9;e en vigueur de la loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61183">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61184">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ist f&#xFC;r den Vollzug des vorliegenden Gesetzes zust&#xE4;ndig und erl&#xE4;sst die Ausf&#xFC;hrungsbestimmungen zu den Verordnungen des Bundesrates zur Anwendung der Schweizerischen Zivilprozessordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat est charg&#xE9; de l'ex&#xE9;cution de la pr&#xE9;sente loi et adopte les dispositions d'ex&#xE9;cution des ordonnances du Conseil f&#xE9;d&#xE9;ral &#xE9;dict&#xE9;es en application du code de proc&#xE9;dure civile suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61185">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er setzt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il fixe la date d'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8030">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 15.11.2013</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 15.11.2013</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:26367">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:61186">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz kommt bei Mediationsverfahren in Zivilsachen zur Anwendung, die von den Bestimmungen der Schweizerischen Zivilprozessordnung oder von jenen der ehemaligen Kantonalen Zivilprozessordnung geleitet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique aux processus de m&#xE9;diation entrepris dans les affaires civiles r&#xE9;gies par le code de proc&#xE9;dure civile suisse ou par l'ancien code de proc&#xE9;dure civile cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:61187">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz kommt bei Mediationsverfahren jugendstrafrechtlicher F&#xE4;lle, die beim Inkrafttreten dieses Gesetzes bereits h&#xE4;ngig sind, nicht zur Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi ne s'applique pas aux processus de m&#xE9;diation p&#xE9;nale des mineurs pendants lors de son entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2011-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 49/2016, 49/2017</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:26897" historyChange="insert" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2011-01-01</dateForce>
+        <dateVersion>2014-06-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 51/2013, 14/2014</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

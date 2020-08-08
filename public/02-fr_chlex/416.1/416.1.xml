@@ -1,0 +1,2473 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:825</normID>
+      <number>416.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GAB</abbreviation>
+      <abbreviation lang="fr">LAF</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Ausbildungsbeitr&#xE4;ge</title>
+      <title lang="fr">Loi sur les allocations de formation</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2010-11-18</dateAdoption>
+      <dateForce>2011-06-08T00:00:00</dateForce>
+      <dateLastChange>2011-06-08</dateLastChange>
+      <dateVersion>2011-06-08</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;</basis> <basis>eingesehen das Bundesgesetz &#xFC;ber Beitr&#xE4;ge an die Aufwendungen der Kantone f&#xFC;r Stipendien und Studiendarlehen im terti&#xE4;ren Bildungsbereich vom 6. Oktober 2006;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31 alin&#xE9;a 1 lettre a et 42 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>vu la loi f&#xE9;d&#xE9;rale sur les contributions aux cantons pour l&#x2019;octroi de bourses et de pr&#xEA;ts d&#x2019;&#xE9;tudes dans le domaine de la formation du degr&#xE9; tertiaire du 6 octobre 2006;</basis> <basis>sur la proposition du Conseil d&#x2019;Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 27/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2458">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Ausbildungsbeitr&#xE4;ge</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les allocations de formation</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2460">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8552">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck und Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objet et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19589">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt die Gew&#xE4;hrung von Stipendien und Ausbildungsdarlehen (nachstehend: Ausbildungsbeitr&#xE4;ge) an Personen, die sich in Ausbildung befinden und deren finanzielle Leistungsf&#xE4;higkeit im Sinne dieses Gesetzes ungen&#xFC;gend ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE8;gle l&#x2019;octroi de bourses et de pr&#xEA;ts d&#x2019;&#xE9;tudes (ci-apr&#xE8;s: allocations) aux personnes en formation dont les ressources financi&#xE8;res sont insuffisantes au sens de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19590">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Subventionsgesetzes vom 13. November 1995 sind auf alle in diesem Gesetz vorgesehenen Subventionen unmittelbar und vollumf&#xE4;nglich anwendbar. Die Bestimmungen des vorliegenden Gesetzes bleiben insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht widersprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur int&#xE9;gralit&#xE9; aux subventions pr&#xE9;vues par le pr&#xE9;sent texte l&#xE9;gal. Les dispositions de ce dernier demeurent applicables dans la mesure o&#xF9; elles ne sont pas contraires &#xE0; la loi sur les subventions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8553">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziele</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Objectifs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19591">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit der Gew&#xE4;hrung von Ausbildungsbeitr&#xE4;gen soll das Bildungsangebot auf gesamtschweizerischer Ebene besser genutzt werden, in der Absicht:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;octroi d&#x2019;allocations doit am&#xE9;liorer la fr&#xE9;quentation des fili&#xE8;res de formation &#xE0; disposition, dans l&#x2019;ensemble de la Suisse, en vue notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10178">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Chancengleichheit zu f&#xF6;rdern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de promouvoir l'&#xE9;galit&#xE9; des chances;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10179">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Zugang zur Bildung zu erleichtern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de faciliter l'acc&#xE8;s &#xE0; la formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10180">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Existenzsicherung w&#xE4;hrend der Ausbildung zu unterst&#xFC;tzen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de contribuer &#xE0; assurer les conditions de vie minimales durant la formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10181">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die freie Wahl der Ausbildung und der Ausbildungsst&#xE4;tte im Sinne des vorliegenden Gesetzes zu gew&#xE4;hrleisten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de garantir le libre choix de la formation et de l'institution formatrice au sens de la pr&#xE9;sente loi;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10182">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Mobilit&#xE4;t zu f&#xF6;rdern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'encourager la mobilit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8554">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Subsidiarit&#xE4;t</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Subsidiarit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19592">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Finanzierung einer Ausbildung obliegt an erster Stelle den Eltern, subsidi&#xE4;r den anderen gesetzlichen Verantwortlichen und dem Gesuchsteller selber. Wenn die finanziellen Mittel der vorerw&#xE4;hnten Personen nicht ausreichen, werden durch den Staat Ausbildungsbeitr&#xE4;ge gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le financement d&#x2019;une formation incombe en premier lieu aux parents, subsidiairement aux autres responsables l&#xE9;gaux et au requ&#xE9;rant. Dans la mesure o&#xF9; les possibilit&#xE9;s financi&#xE8;res des personnes pr&#xE9;cit&#xE9;es sont insuffisantes, des allocations sont allou&#xE9;es par l&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8555">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gleichstellung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Egalit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19593">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l&#x2019;homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2461">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Beitragsberechtigung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Droit &#xE0; une allocation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8556">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitragsberechtigte Personen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ayants droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19594">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beitragsberechtigte Personen sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes ayant droit &#xE0; une allocation de formation sont les suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10183">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Personen mit schweizerischem B&#xFC;rgerrecht und Wohnsitz in der Schweiz, unter Vorbehalt von Buchstabe b;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes de nationalit&#xE9; suisse et domicili&#xE9;es en Suisse, sous r&#xE9;serve de la lettre b;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10184">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Schweizer B&#xFC;rger, deren Eltern im Ausland leben oder die ohne die Eltern im Ausland leben, f&#xFC;r Ausbildungen in der Schweiz, sofern sie an ihrem ausl&#xE4;ndischen Wohnsitz wegen fehlender Zust&#xE4;ndigkeit nicht beitragsberechtigt sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les citoyens suisses dont les parents vivent &#xE0; l'&#xE9;tranger ou ceux qui vivent &#xE0; l'&#xE9;tranger sans leurs parents, pour des formations en Suisse, si ces personnes n'y ont pas droit en leur lieu de domicile &#xE9;tranger par d&#xE9;faut de comp&#xE9;tence;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10185">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Personen mit ausl&#xE4;ndischem B&#xFC;rgerrecht, die &#xFC;ber eine Niederlassungsbewilligung verf&#xFC;gen oder seit f&#xFC;nf Jahren in der Schweiz aufenthaltsberechtigt sind und &#xFC;ber eine Aufenthaltsbewilligung verf&#xFC;gen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes de nationalit&#xE9; &#xE9;trang&#xE8;re b&#xE9;n&#xE9;ficiaires d'un permis d'&#xE9;tablissement ou les personnes titulaires d'un permis de s&#xE9;jour si elles s&#xE9;journent l&#xE9;galement en Suisse depuis cinq ans;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10186">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in der Schweiz wohnhafte und von ihr anerkannte Fl&#xFC;chtlinge oder Staatenlose;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes domicili&#xE9;es en Suisse et reconnues comme r&#xE9;fugi&#xE9;es ou apatrides par la Suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10187">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">B&#xFC;rger von EU/EFTA-Mitgliedstaaten, soweit sie gem&#xE4;ss dem Freiz&#xFC;gigkeitsabkommen bzw. dem EFTA-&#xDC;bereinkommen zwischen der Schweizerischen Eidgenossenschaft und den EU/EFTA-Mitgliedstaaten in der Frage der Ausbildungsbeitr&#xE4;ge den Schweizer B&#xFC;rgern gleichgestellt sind, sowie B&#xFC;rger aus Staaten, mit denen entsprechende internationale Abkommen geschlossen wurden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les ressortissants des Etats membres de l'UE/AELE dans la mesure o&#xF9;, conform&#xE9;ment &#xE0; l'accord de libre circulation entre la Conf&#xE9;d&#xE9;ration suisse et la Communaut&#xE9; europ&#xE9;enne et ses Etats membres ou &#xE0; la convention AELE, ils sont trait&#xE9;s &#xE0; &#xE9;galit&#xE9; avec les citoyens suisses en mati&#xE8;re d'allo-cations, ainsi que les citoyens d'Etats avec lesquels la Suisse a conclu des accords internationaux &#xE0; ce sujet.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19595">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die sich ausschliesslich zu Ausbildungszwecken in der Schweiz aufhalten, sind nicht beitragsberechtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes s&#xE9;journant en Suisse &#xE0; des fins exclusives de formation n&#x2019;ont pas droit &#xE0; des allocations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19596">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ein Gesuch um Gew&#xE4;hrung von Ausbildungsbeitr&#xE4;gen ist in demjenigen Kanton zu stellen, in welchem die Person in Ausbildung den stipendienrechtlichen Wohnsitz hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La demande d&#x2019;octroi d&#x2019;une allocation doit &#xEA;tre d&#xE9;pos&#xE9;e dans le canton dans lequel la personne en formation a son domicile d&#xE9;terminant pour l&#x2019;octroi d&#x2019;une allocation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8557">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stipendienrechtlicher Wohnsitz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Domicile d&#xE9;terminant le droit &#xE0; une allocation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34131">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als stipendienrechtlicher Wohnsitz gilt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Vaut domicile d&#xE9;terminant le droit &#xE0; une allocation:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16139">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der zivilrechtliche Wohnsitz der Eltern oder der Sitz der zuletzt zust&#xE4;ndigen Vormundschaftsbeh&#xF6;rde, unter Vorbehalt von Buchstabe d;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le domicile civil des parents ou le si&#xE8;ge de la derni&#xE8;re autorit&#xE9; tut&#xE9;laire comp&#xE9;tente, sous r&#xE9;serve de la lettre d;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16140">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Heimatkanton f&#xFC;r Schweizer B&#xFC;rger, deren Eltern nicht in der Schweiz Wohnsitz haben oder die ohne ihre Eltern im Ausland wohnen, unter Vorbehalt von Buchstabe d;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton d'origine, sous r&#xE9;serve de la lettre d, pour les citoyens suisses dont les parents ne sont pas domicili&#xE9;s en Suisse ou qui sont &#xE9;tablis &#xE0; l'&#xE9;tranger sans leurs parents;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16141">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">unter Vorbehalt von Buchstabe d der zivilrechtliche Wohnsitz f&#xFC;r m&#xFC;ndige, von der Schweiz anerkannte Fl&#xFC;chtlinge und Staatenlose, deren Eltern im Ausland Wohnsitz haben oder die verwaist sind; f&#xFC;r Fl&#xFC;chtlinge gilt diese Regel, wenn sie dem betreffenden Vereinbarungskanton zur Betreuung zugewiesen sind, sowie;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le domicile civil, sous r&#xE9;serve de la lettre d, pour les personnes r&#xE9;fugi&#xE9;es et les personnes apatrides majeures reconnues par la Suisse et dont les parents ont leur domicile &#xE0; l'&#xE9;tranger, ou encore qui sont orphelines; cette r&#xE8;gle s'applique aux personnes r&#xE9;fugi&#xE9;es pour autant que leur prise en charge incombe &#xE0; un canton signataire de l'accord intercantonal sur l'harmonisation des r&#xE9;gimes de bourses d'&#xE9;tudes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16142">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Wohnortskanton f&#xFC;r m&#xFC;ndige Personen, die nach Abschluss einer ersten berufsbef&#xE4;higenden Ausbildung und vor Beginn der Ausbildung, f&#xFC;r die sie Ausbildungsbeitr&#xE4;ge beanspruchen, w&#xE4;hrend mindestens zwei Jahren in diesem Kanton wohnhaft und dort auf Grund eigener Erwerbsf&#xE4;higkeit finanziell unabh&#xE4;ngig waren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le canton dans lequel les personnes majeures ont &#xE9;lu domicile pendant au moins deux ans et o&#xF9; elles ont exerc&#xE9; une activit&#xE9; lucrative garantissant leur ind&#xE9;pendance financi&#xE8;re, apr&#xE8;s avoir termin&#xE9; une premi&#xE8;re formation donnant acc&#xE8;s &#xE0; un m&#xE9;tier et avant de commencer la formation pour laquelle elles sollicitent une allocation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19597">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Eltern mit zivilrechtlichem Wohnsitz in verschiedenen Kantonen ist der Wohnsitz des/der bisherigen oder letzten Inhabers der elterlichen Sorge massgebend oder, bei gemeinsamer elterlicher Sorge, der Wohnsitz desjenigen Elternteils, unter dessen Obhut die Person in Ausbildung haupts&#xE4;chlich steht oder zuletzt stand. Begr&#xFC;nden die Eltern ihren Wohnsitz in verschiedenen Kantonen erst nach M&#xFC;ndigkeit der gesuchstellenden Person, ist der Kanton desjenigen Elternteils zust&#xE4;ndig, bei welchem sich diese haupts&#xE4;chlich aufh&#xE4;lt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les parents n&#x2019;ont pas leur domicile civil dans le m&#xEA;me canton, on retient le domicile civil de celui des deux qui exerce l&#x2019;autorit&#xE9; parentale, le cas &#xE9;ch&#xE9;ant le domicile du dernier d&#xE9;tenteur de l&#x2019;autorit&#xE9; parentale, et lorsque celle-ci est exerc&#xE9;e conjointement, le domicile du parent qui exerce principalement la garde de la personne en formation ou de celui qui l&#x2019;a exerc&#xE9;e en dernier. Si les parents &#xE9;lisent leur domicile dans des cantons diff&#xE9;rents apr&#xE8;s la majorit&#xE9; de la personne sollicitant une allocation, on retient le canton dans lequel est domicili&#xE9; le parent chez lequel celle-ci r&#xE9;side principalement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19598">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei mehreren Heimatkantonen gilt das zuletzt erworbene B&#xFC;rgerrecht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">S&#x2019;il y a plusieurs cantons d&#x2019;origine, on retient celui du droit de cit&#xE9; le plus r&#xE9;cent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19599">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der einmal begr&#xFC;ndete stipendienrechtliche Wohnsitz bleibt bis zum Erwerb eines neuen bestehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une fois acquis, le domicile d&#xE9;terminant reste valable tant qu&#x2019;un nouveau domicile n&#x2019;est pas constitu&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8558">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beitragsberechtigte Ausbildungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formations donnant droit &#xE0; des allocations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19600">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungsbeitr&#xE4;ge k&#xF6;nnen gew&#xE4;hrt werden f&#xFC;r:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des allocations peuvent &#xEA;tre accord&#xE9;es pour:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10188">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vorbereitungskurse f&#xFC;r eine Ausbildung, unter der Bedingung, dass diese nach Abschluss der obligatorischen Schule beginnt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la pr&#xE9;paration &#xE0; la formation, &#xE0; la condition qu'elle d&#xE9;bute apr&#xE8;s l'ach&#xE8;vement de la scolarit&#xE9; obligatoire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10189">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Besuch einer Klasse der Sekundarstufe I in einer anderen Sprachregion oder in einer Sport-Kunst-Ausbildungsstruktur;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fr&#xE9;quentation d'une classe de l'enseignement secondaire I dans une autre r&#xE9;gion linguistique ou d'une structure sport-arts-formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10190">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berufslehre;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'apprentissage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10191">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die gymnasiale Ausbildung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la formation secondaire du deuxi&#xE8;me degr&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10192">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die terti&#xE4;re Ausbildung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la formation tertiaire;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10193">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zweitausbildungen und Weiterbildungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les deuxi&#xE8;mes formations et la formation continue;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10194">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">alle zus&#xE4;tzlichen Ausbildungen, welche den beruflichen Wiedereinstieg bzw. die Neuorientierung oder den Zugang zu einem h&#xF6;heren Niveau erlauben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">toute formation compl&#xE9;mentaire permettant la r&#xE9;insertion ou la r&#xE9;orientation professionnelle ou l'acc&#xE8;s &#xE0; un niveau plus &#xE9;lev&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8559">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anerkannte Ausbildungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formations reconnues</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19601">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungen gelten als anerkannt, wenn sie zu einem vom Bund und/oder vom Kanton schweizerisch anerkannten Abschluss f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une formation est reconnue lorsqu&#x2019;elle se termine par un dipl&#xF4;me reconnu au plan suisse par la Conf&#xE9;d&#xE9;ration et/ou par le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19602">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungen, die auf einen eidgen&#xF6;ssisch oder kantonal anerkannten Abschluss vorbereiten, k&#xF6;nnen vom Kanton anerkannt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une formation qui pr&#xE9;pare &#xE0; un dipl&#xF4;me reconnu &#xE0; l&#x2019;&#xE9;chelon f&#xE9;d&#xE9;ral ou cantonal peut &#xEA;tre reconnue par le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19603">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungen in einer privaten Institution in der Schweiz werden anerkannt, wenn sie zu einem vom Bund oder vom Kanton anerkannten Diplom f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une formation dans un &#xE9;tablissement priv&#xE9; en Suisse est reconnue, dans la mesure o&#xF9; elle conduit &#xE0; un dipl&#xF4;me reconnu par la Conf&#xE9;d&#xE9;ration ou le canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19604">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungen im Ausland werden anerkannt, wenn sie vom ausl&#xE4;ndischen Staat oder von einer internationalen Organisation anerkannt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une formation &#xE0; l&#x2019;&#xE9;tranger est reconnue, pour autant qu&#x2019;elle soit reconnue par l&#x2019;Etat &#xE9;tranger ou par un organisme international.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19605">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton kann f&#xFC;r seine Beitragsberechtigten weitere Ausbildungen mit Recht auf Ausbildungsbeitr&#xE4;ge anerkennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton peut reconna&#xEE;tre, pour ses ayants droit, d&#x2019;autres formations donnant droit &#xE0; une allocation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19606">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement f&#xFC;r Erziehung, Kultur und Sport (nachstehend: das Departement) erstellt eine Liste der anerkannten Schulen, Institutionen und Kurse im Sinne dieses Artikels.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement de l&#x2019;&#xE9;ducation, de la culture et du sport (ci-apr&#xE8;s: le D&#xE9;partement) &#xE9;tablit la liste des &#xE9;coles, institutions et cours reconnus au sens du pr&#xE9;sent article.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8560">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Voraussetzungen in Bezug auf die Ausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions requises concernant la formation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19607">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Voraussetzungen f&#xFC;r die Beitragsberechtigung erf&#xFC;llt, wer die Aufnahme- und Promotionsbedingungen hinsichtlich des Ausbildungsganges nachweislich erf&#xFC;llt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est r&#xE9;put&#xE9; satisfaire au droit &#xE0; une allocation quiconque fournit la preuve qu&#x2019;il remplit les conditions d&#x2019;admission et de promotion relatives &#xE0; cette fili&#xE8;re de formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8561">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausbildungen mit besonderen Strukturen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formations &#xE0; structures particuli&#xE8;res</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19608">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls Ausbildungsg&#xE4;nge Besonderheiten in Bezug auf ihre zeitliche Organisation oder ihren Inhalt aufweisen, gilt es, diese bei der Gew&#xE4;hrung von Ausbildungsbeitr&#xE4;gen zu ber&#xFC;cksichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si les fili&#xE8;res d&#x2019;&#xE9;tudes comportent des particularit&#xE9;s quant &#xE0; leur organisation dans le temps ou &#xE0; leur contenu, il convient d&#x2019;en tenir d&#xFB;ment compte lors de l&#x2019;octroi des allocations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19609">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls Ausbildungen aus sozialen, famili&#xE4;ren oder gesundheitlichen Gr&#xFC;nden nur im Teilzeitstudium absolviert werden k&#xF6;nnen, kann die Dauer der beitragsberechtigten Ausbildung verl&#xE4;ngert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la formation ne peut &#xEA;tre suivie qu&#x2019;&#xE0; temps partiel pour des raisons sociales, familiales ou de sant&#xE9;, la dur&#xE9;e des &#xE9;tudes donnant droit &#xE0; une allocation peut &#xEA;tre prolong&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2462">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Ausbildungsbeitr&#xE4;ge</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Allocations de formation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8562">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Form der Ausbildungsbeitr&#xE4;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Types d'allocations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19610">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungsbeitr&#xE4;ge setzen sich zusammen aus:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les allocations de formation se composent:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10195">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stipendien: einmalige oder wiederkehrende Geldleistungen, die f&#xFC;r die Ausbildung ausgerichtet werden und nicht zur&#xFC;ckzuzahlen sind, und</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de bourses d'&#xE9;tudes, contributions financi&#xE8;res uniques ou p&#xE9;riodiques vers&#xE9;es comme allocations et non remboursables, et</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10196">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausbildungsdarlehen: einmalige oder wiederkehrende Geldleistungen, die f&#xFC;r die Ausbildung ausgerichtet werden und zur&#xFC;ckzuzahlen sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de pr&#xEA;ts d'&#xE9;tudes uniques ou p&#xE9;riodiques vers&#xE9;s comme allocations et remboursables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8563">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zuteilung der Ausbildungsbeitr&#xE4;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition de l'allocation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19611">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beitr&#xE4;ge werden gew&#xE4;hrt in Form von:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les allocations sont accord&#xE9;es sous forme:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10197">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stipendien an Sch&#xFC;ler der Sekundarstufe I, die in einer anderen Sprachregion oder in einer Sport-Kunst-Ausbildungs-Struktur eingeschult sind, an Lehrlinge, an Sch&#xFC;ler der Sekundarschule II und ihnen angeglichenen Schulen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de bourses d'&#xE9;tudes aux &#xE9;l&#xE8;ves de l'enseignement secondaire I scolaris&#xE9;s dans une autre r&#xE9;gion linguistique ou dans une structure sport-arts-formation, aux apprentis, aux &#xE9;l&#xE8;ves des &#xE9;coles secondaires du deuxi&#xE8;me degr&#xE9; et &#xE9;coles assimil&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10198">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Stipendien und Ausbildungsdarlehen f&#xFC;r Grundausbildungen der terti&#xE4;ren Stufe. Die Ausbildung zum Master geh&#xF6;rt zur Grundausbildung. Stipendien m&#xFC;ssen im j&#xE4;hrlichen Durchschnitt mindestens zwei Drittel des Ausbildungsbeitrags ausmachen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de bourses et de pr&#xEA;ts d'&#xE9;tudes pour les formations initiales du degr&#xE9; tertiaire. Le master fait partie de la formation initiale. Les bourses d'&#xE9;tudes repr&#xE9;sentent, en moyenne annuelle, les deux tiers au moins des allocations de formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10199">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausbildungsdarlehen, wenn die Ausbildungszeit jene der unter Artikel 13 Absatz 1 vorgesehenen Dauer &#xFC;bersteigt, f&#xFC;r berufliche Weiterbildungen, die berufsbegleitend absolviert werden, f&#xFC;r eine zweite universit&#xE4;re Ausbildung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de pr&#xEA;ts d'&#xE9;tudes pour le temps de formation d&#xE9;passant la dur&#xE9;e de l'allocation pr&#xE9;vue &#xE0; l'article 13 alin&#xE9;a 1, pour le perfectionnement professionnel en cours d'emploi, pour les deuxi&#xE8;mes formations universitaires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19612">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung legt die Zuteilungsbedingungen f&#xFC;r Sch&#xFC;ler fest, die eine Privatschule besuchen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;ordonnance fixe les modalit&#xE9;s d&#x2019;attribution pour les &#xE9;l&#xE8;ves fr&#xE9;quentant des &#xE9;coles priv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8564">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dauer der Beitragsberechtigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e du droit &#xE0; l'allocation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19613">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausrichtung von Ausbildungsbeitr&#xE4;gen erfolgt f&#xFC;r die Dauer der Ausbildung und kann, falls n&#xF6;tig, bis zwei Semester &#xFC;ber die Regelstudiendauer hinaus verl&#xE4;ngert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;allocation est en principe accord&#xE9;e pour la dur&#xE9;e de la formation et si n&#xE9;cessaire pendant deux semestres au-del&#xE0; de la dur&#xE9;e r&#xE9;glementaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19614">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einem Ausbildungswechsel kann die Gew&#xE4;hrung von Ausbildungsbeitr&#xE4;gen widerrufen, beschr&#xE4;nkt, an besondere Bedingungen gekn&#xFC;pft oder, bei besonderen Umst&#xE4;nden, entsprechend verl&#xE4;ngert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l&#x2019;orientation de la formation est modifi&#xE9;e, l&#x2019;octroi d&#x2019;allocations peut &#xEA;tre refus&#xE9;, limit&#xE9;, assorti de conditions particuli&#xE8;res ou, lors de circonstances sp&#xE9;ciales, prolong&#xE9; de fa&#xE7;on ad&#xE9;quate.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19615">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungen von weniger als einem Semester sind nicht beitragsberechtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les allocations ne sont pas accord&#xE9;es pour une dur&#xE9;e de formation inf&#xE9;rieure &#xE0; un semestre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19616">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Ausbildungen, die nach dem 35. Altersjahr begonnen werden, werden die Ausbildungsbeitr&#xE4;ge nur in Form von Darlehen gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les formations d&#xE9;butant apr&#xE8;s l&#x2019;&#xE2;ge de 35 ans, l&#x2019;allocation est accord&#xE9;e uniquement sous forme de pr&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8565">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Freie Wahl der Studienrichtung und Ausbildungsst&#xE4;tte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Libre choix de la formation et de l'institution formatrice</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19617">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die freie Wahl der Studienrichtung und Ausbildungsst&#xE4;tte wird unter Vorbehalt von Artikel 8 gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le libre choix de la formation et de l&#x2019;institution formatrice est garanti sous r&#xE9;serve de l&#x2019;article 8.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19618">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls die Ausbildung ausserhalb des Kantons absolviert wird, k&#xF6;nnen die Ausbildungsbeitr&#xE4;ge beschr&#xE4;nkt werden und zwar bis zu jenem Betrag, der f&#xFC;r die Erf&#xFC;llung dieser Ausbildung in einer Ausbildungsst&#xE4;tte des Kantons zugesprochen w&#xFC;rde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la formation est poursuivie hors du canton, les allocations peuvent &#xEA;tre limit&#xE9;es au montant qui serait allou&#xE9; pour l&#x2019;accomplissement de cette voie d&#x2019;&#xE9;tudes dans un &#xE9;tablissement de formation du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19619">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls die im Ausland absolvierte Ausbildung auch in der Schweiz angeboten wird, k&#xF6;nnen die Ausbildungsbeitr&#xE4;ge den Betrag, der f&#xFC;r die gleiche Ausbildung in der Schweiz zugesprochen w&#xFC;rde, nicht &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la formation poursuivie &#xE0; l&#x2019;&#xE9;tranger est &#xE9;galement dispens&#xE9;e en Suisse, les allocations ne peuvent &#xEA;tre sup&#xE9;rieures au montant qui serait allou&#xE9; pour cette m&#xEA;me formation en Suisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2463">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Berechnung der Beitr&#xE4;ge</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Calcul des allocations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8566">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19620">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungsbeitr&#xE4;ge stellen einen Betrag an den finanziellen Bedarf der Person in Ausbildung dar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les allocations sont mises &#xE0; la disposition d&#x2019;une personne en formation en vue d&#x2019;une participation &#xE0; ses besoins financiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8567">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung des finanziellen Bedarfs</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul des besoins financiers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19621">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der finanzielle Bedarf umfasst die f&#xFC;r Lebenshaltung und Ausbildung notwendigen Kosten, sofern und soweit diese Kosten die zumutbare Eigenleistung des Gesuchstellers und die zumutbare Fremdleistung der Eltern, anderer gesetzlich Verpflichteter oder anderer Dritter &#xFC;bersteigen. Bei der Berechnung des Ausbildungsbeitrages kommen folgende Prinzipien zur Anwendung:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;allocation vise &#xE0; contribuer aux frais d&#x2019;entretien et de formation n&#xE9;cessaires dans la mesure o&#xF9; ils d&#xE9;passent la prestation propre raisonnablement exigible du requ&#xE9;rant, la prestation de ses parents, celle d&#x2019;autres personnes l&#xE9;galement tenues et/ou celle d&#x2019;autres tiers. Dans le calcul du montant de l&#x2019;allocation, les principes suivants sont applicables:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10200">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Kosten f&#xFC;r Unterhalt und Ausbildung k&#xF6;nnen pauschal berechnet werden, gegebenenfalls unter Ber&#xFC;cksichtigung der Miete und der Transportkosten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les frais d'entretien et de formation peuvent &#xEA;tre calcul&#xE9;s sur la base de forfait avec la prise en compte, le cas &#xE9;ch&#xE9;ant, du loyer et du transport;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10201">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Berechnung der minimalen Eigenleistung ber&#xFC;cksichtigt die Ausbildungsart sowie das verf&#xFC;gbare Verm&#xF6;gen. Ein Lehrlingslohn kann angerechnet werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le calcul de la prestation propre minimale tient compte du mode de formation ainsi que de la fortune disponible. Il peut prendre en compte un salaire d'apprenti;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10202">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Fremdleistung der Eltern wird ausschliesslich auf dem nach Abzug des finanziellen Grundbedarfs der Familie verbleibenden Einkommensanteil sowie auf dem Verm&#xF6;gen berechnet. Bei der Festlegung des Grundbedarfs der Familie d&#xFC;rfen die vom Kanton anerkannten Richtwerte nicht unterschritten werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la prestation des parents est calcul&#xE9;e exclusivement sur le solde disponible du revenu apr&#xE8;s couverture financi&#xE8;re des besoins de base de la famille et sur la fortune. Ces besoins ne peuvent pas &#xEA;tre inf&#xE9;rieurs aux normes admises par le canton;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10203">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei Familien mit mehreren Kindern in beitragsberechtigten Ausbildungen wird die bezugsberechtigte Einkommensh&#xF6;he bereits ab dem zweiten Kind entsprechend der Kinderzahl nach oben angepasst.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pour les familles o&#xF9; plusieurs enfants suivent des formations donnant droit &#xE0; ces allocations, selon le nombre d'enfants, le revenu donnant droit &#xE0; des allocations est adapt&#xE9; vers le haut &#xE0; partir du deuxi&#xE8;me enfant d&#xE9;j&#xE0;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19622">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der gem&#xE4;ss Absatz 1 berechnete finanzielle Bedarf kann auf Grund eines allf&#xE4;lligen Zusatzverdienstes der Person in Ausbildung gek&#xFC;rzt werden, wenn die Summe der Ausbildungsbeitr&#xE4;ge und der &#xFC;brigen Einnahmen die anerkannten Kosten f&#xFC;r Ausbildung und Lebenshaltung &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant de l&#x2019;allocation r&#xE9;sultant du calcul effectu&#xE9; conform&#xE9;ment &#xE0; l&#x2019;alin&#xE9;a 1 peut &#xEA;tre diminu&#xE9; en fonction d&#x2019;un revenu compl&#xE9;mentaire de la personne en formation si la somme des allocations et des autres recettes d&#xE9;passe les co&#xFB;ts de formation et d&#x2019;entretien admis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8568">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">J&#xE4;hrliche Betr&#xE4;ge eines vollst&#xE4;ndigen Ausbildungsbeitrags</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Montants annuels d'une allocation compl&#xE8;te</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19623">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die j&#xE4;hrlichen Betr&#xE4;ge eines vollst&#xE4;ndigen Ausbildungsbeitrags sind in der Verordnung festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les montants annuels d&#x2019;une allocation compl&#xE8;te sont fix&#xE9;s par l&#x2019;ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8569">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Teilweise elternunabh&#xE4;ngige Berechnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul partiellement ind&#xE9;pendant des prestations parentales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19624">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf die Anrechnung der zumutbaren Leistungen der Eltern wird teilweise verzichtet, wenn die Person in Ausbildung das 25. Altersjahr vollendet und eine erste berufsbef&#xE4;higende Ausbildung abgeschlossen hat, sowie vor Beginn der neuen Ausbildung zwei Jahre durch eigene Erwerbst&#xE4;tigkeit finanziell unabh&#xE4;ngig war.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les prestations raisonnablement exigibles des parents ne sont plus que partiellement prises en compte lorsque la personne en formation a atteint l&#x2019;&#xE2;ge de 25 ans, qu&#x2019;elle a d&#xE9;j&#xE0; termin&#xE9; une premi&#xE8;re formation donnant acc&#xE8;s &#xE0; un m&#xE9;tier et qu&#x2019;elle &#xE9;tait financi&#xE8;rement ind&#xE9;pendante pendant deux ans avant de commencer sa nouvelle formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19625">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Aus&#xFC;ben einer beruflichen T&#xE4;tigkeit w&#xE4;hrend vier Jahren, welche die finanzielle Unabh&#xE4;ngigkeit der gesuchstellenden Person gew&#xE4;hrleistet hat, ist einer ersten berufsbef&#xE4;higenden Ausbildung gleichgestellt. Die anderen Bedingungen von Absatz 1 sind anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Quatre ann&#xE9;es d&#x2019;exercice d&#x2019;une activit&#xE9; professionnelle assurant l&#x2019;ind&#xE9;pendance financi&#xE8;re de la personne sollicitant une allocation sont &#xE9;quivalentes &#xE0; une premi&#xE8;re formation donnant acc&#xE8;s &#xE0; un m&#xE9;tier. Les autres conditions de l&#x2019;alin&#xE9;a 1 sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19626">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das F&#xFC;hren eines Haushalts mit Minderj&#xE4;hrigen oder hilfsbed&#xFC;rftigen Personen, Milit&#xE4;rdienst, Zivildienst oder Arbeitslosigkeit sind mit einer beruflichen T&#xE4;tigkeit im Sinne der vorstehenden Abs&#xE4;tze gleichgestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont aussi &#xE9;quivalents &#xE0; une activit&#xE9; professionnelle au sens des alin&#xE9;as pr&#xE9;c&#xE9;dents la tenue de son m&#xE9;nage avec des mineurs ou des personnes n&#xE9;cessitant des soins, le service militaire, le service civil et le ch&#xF4;mage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19627">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt in der Verordnung die Anwendungsmodalit&#xE4;ten von Absatz 1 fest, insbesondere die Einkommensgrenze, ab welcher keine Ausbildungsbeitr&#xE4;ge mehr entrichtet werden, auch wenn die Personen den Bedingungen des genannten Absatzes entsprechen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe par ordonnance les modalit&#xE9;s d'application de l'alin&#xE9;a 1 et en particulier la limite de revenu &#xE0; partir de laquelle aucune allocation n&#x2019;est allou&#xE9;e m&#xEA;me aux personnes qui satisfont aux exigences dudit alin&#xE9;a.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8570">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pflichten der Person in Ausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations de la personne en formation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19628">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Person in Ausbildung ist verpflichtet:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne en formation est tenue:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10204">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die zur Pr&#xFC;fung ihres Gesuchs notwendigen Angaben und Dokumente einzureichen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de fournir les indications et les documents n&#xE9;cessaires &#xE0; l'examen de sa demande;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10205">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Ausbildungsbeitr&#xE4;ge nur f&#xFC;r die vorgesehene Ausbildung zu ben&#xFC;tzen und jegliche &#xC4;nderung ihrer pers&#xF6;nlichen oder finanziellen Situation unverz&#xFC;glich zu melden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'utiliser l'allocation per&#xE7;ue dans le seul but de la formation envisag&#xE9;e et de signaler tout changement dans sa situation personnelle ou financi&#xE8;re.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8571">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckerstattung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Restitution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34130">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungsbeitr&#xE4;ge m&#xFC;ssen vollumf&#xE4;nglich oder teilweise zur&#xFC;ckerstattet werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La restitution totale ou partielle des allocations est exig&#xE9;e:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16136">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wenn sie zu Unrecht oder auf Grund ungenauer, unvollst&#xE4;ndiger oder sich ge&#xE4;nderten Angaben erlangt wurden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si elles ont &#xE9;t&#xE9; obtenues &#xE0; tort, sur la base d'indications inexactes, incompl&#xE8;tes ou qui se sont modifi&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16137">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wenn sie nicht f&#xFC;r die Ausbildung verwendet wurden, f&#xFC;r die sie gew&#xE4;hrt wurden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si elles n'ont pas &#xE9;t&#xE9; utilis&#xE9;es en vue de la formation pour laquelle elles avaient &#xE9;t&#xE9; accord&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16138">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wenn die Person in Ausbildung ihre Ausbildung vor Ende der Periode, f&#xFC;r welche die Ausbildungsbeitr&#xE4;ge bestimmt waren, abbricht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si la personne en formation interrompt sa formation avant la fin de la p&#xE9;riode pour laquelle une allocation a d&#xE9;j&#xE0; &#xE9;t&#xE9; vers&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8572">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckzahlung der Ausbildungsdarlehen und Bezahlung der Zinsen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Remboursement des pr&#xEA;ts et paiement des int&#xE9;r&#xEA;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19629">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausbildungsdarlehen sind sp&#xE4;testens innert zehn Jahren nach Beginn des dritten Jahres, das auf den Studienabschluss folgt, zur&#xFC;ckzuzahlen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pr&#xEA;ts sont remboursables dans un d&#xE9;lai maximum de dix ans d&#xE8;s le d&#xE9;but de la troisi&#xE8;me ann&#xE9;e civile suivant la fin des &#xE9;tudes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19630">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie sind nach Beginn der R&#xFC;ckzahlungspflicht zu verzinsen. Der Zins wird am Ende jedes Jahres berechnet und der betroffenen Person mitgeteilt. Die aufgelaufenen Zinsen werden alle f&#xFC;nf Jahre nach Beginn der R&#xFC;ckzahlungspflicht f&#xE4;llig, sp&#xE4;testens jedoch bei Ablauf des Darlehensvertrags.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils portent un int&#xE9;r&#xEA;t d&#xE8;s le d&#xE9;but de l&#x2019;obligation de rembourser. L&#x2019;int&#xE9;r&#xEA;t est calcul&#xE9; &#xE0; la fin de chaque ann&#xE9;e et communiqu&#xE9; &#xE0; l&#x2019;int&#xE9;ress&#xE9;. Les int&#xE9;r&#xEA;ts courus sont exigibles &#xE0; chaque &#xE9;ch&#xE9;ance de cinq ans &#xE0; compter du d&#xE9;but de l&#x2019;obligation de rembourser mais au plus tard &#xE0; l&#x2019;&#xE9;ch&#xE9;ance du contrat de pr&#xEA;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19631">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat h&#xE4;lt in einer Verordnung die R&#xFC;ckzahlungsbedingungen, den j&#xE4;hrlich zur&#xFC;ckzuzahlenden Minimalbetrag sowie den Zinssatz f&#xFC;r die Ausbildungsdarlehen fest. Dieser darf den von den Banken angewandten Zinssatz f&#xFC;r Ausbildungskredite nicht &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat pr&#xE9;cise dans une ordonnance le mode de remboursement, il y fixe le montant minimal remboursable annuellement ainsi que le taux d&#x2019;int&#xE9;r&#xEA;t des pr&#xEA;ts. Celui-ci ne doit pas &#xEA;tre sup&#xE9;rieur aux taux pratiqu&#xE9;s par les banques pour les cr&#xE9;dits de formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8573">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckzahlungserleichterungen und Erlass des Ausbildungsdarlehens</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Facilit&#xE9;s de remboursement et remise des pr&#xEA;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19632">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann R&#xFC;ckzahlungserleichterungen f&#xFC;r Ausbildungsdarlehen und/oder Zinszahlungen gew&#xE4;hren, falls es die Umst&#xE4;nde rechtfertigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement peut accorder des facilit&#xE9;s de remboursement pour les pr&#xEA;ts et/ou pour le paiement des int&#xE9;r&#xEA;ts si des circonstances le justifient.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19633">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann dem Empf&#xE4;nger die Ausbildungsdarlehen und Zinsen voll oder teilweise erlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement peut remettre aux b&#xE9;n&#xE9;ficiaires tout ou partie des pr&#xEA;ts et des int&#xE9;r&#xEA;ts.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8574">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sonderf&#xE4;lle</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cas particuliers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19634">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausbildungsdarlehen k&#xF6;nnen gew&#xE4;hrt werden, wenn erwiesen ist, gegebenenfalls durch einen Gerichtsentscheid, dass ein Gesuchsteller keine oder nur eine ungen&#xFC;gende Unterst&#xFC;tzung von seinen Eltern erh&#xE4;lt, obwohl diese die Mittel zur Finanzierung der Ausbildung h&#xE4;tten und die berufliche Ausbildung oder das Studium ohne diesen Beitrag gef&#xE4;hrdet ist. Solche Darlehen k&#xF6;nnen auch gew&#xE4;hrt werden, wenn andere besondere Umst&#xE4;nde es rechtfertigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des pr&#xEA;ts peuvent &#xEA;tre accord&#xE9;s lorsqu&#x2019;il est prouv&#xE9;, le cas &#xE9;ch&#xE9;ant par une d&#xE9;cision de justice, qu&#x2019;un requ&#xE9;rant ne re&#xE7;oit aucune aide de ses parents ou n&#x2019;en b&#xE9;n&#xE9;ficie que de fa&#xE7;on insuffisante, alors que ceux-ci auraient les moyens de financer sa formation et si la formation professionnelle et les &#xE9;tudes apparaissent compromises sans cette contribution. De tels pr&#xEA;ts peuvent &#xE9;galement &#xEA;tre accord&#xE9;s si d&#x2019;autres circonstances particuli&#xE8;res le justifient.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2464">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8575">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stipendienkommission</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission des bourses et des pr&#xEA;ts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19635">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Stipendienkommission setzt sich aus neun bis elf durch den Staatsrat ernannten Mitgliedern zusammen. Bei der Zusammensetzung der Kommission wird auf eine ausgewogene Vertretung der Geschlechter, der Regionen und der verschiedenen interessierten Kreise geachtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission des bourses et des pr&#xEA;ts est compos&#xE9;e de neuf &#xE0; onze membres nomm&#xE9;s par le Conseil d&#x2019;Etat. Il est tenu compte, dans la composition d&#x2019;une juste repr&#xE9;sentation des sexes, des r&#xE9;gions et des divers milieux int&#xE9;ress&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19636">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie hat namentlich folgende Obliegenheiten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a notamment les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10206">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;ber die eingereichten Gesuche zu befinden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">statuer sur les requ&#xEA;tes pr&#xE9;sent&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10207">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">regelm&#xE4;ssig die Sachdienlichkeit der Mittel und der verschiedenen Massnahmen zur F&#xF6;rderung der Studien und der beruflichen Ausbildung zu &#xFC;berpr&#xFC;fen und gegebenenfalls Vorschl&#xE4;ge zur Verbesserung vorzubringen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;valuer p&#xE9;riodiquement la pertinence des outils &#xE0; sa disposition et des diverses mesures d'encouragement aux &#xE9;tudes et &#xE0; la formation professionnelle et formuler, cas &#xE9;ch&#xE9;ant, les propositions d'optimisation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19637">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommissionsmitglieder sind an das Amtsgeheimnis gebunden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les membres de la commission sont tenus par le secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19638">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement besorgt durch die zust&#xE4;ndige Dienststelle das Sekretariat der Kommission.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement, par son service comp&#xE9;tent, assure le secr&#xE9;tariat de la commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8576">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Information</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Information</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19639">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement ist durch die zust&#xE4;ndige Dienststelle das offizielle Informations-, Koordinations- und Verwaltungsorgan in Sachen Ausbildungsbeitr&#xE4;ge.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement par son service comp&#xE9;tent est l&#x2019;organe officiel d&#x2019;information, de coordination et d&#x2019;administration en mati&#xE8;re d&#x2019;allocations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19640">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es sorgt insbesondere daf&#xFC;r, dass die Interessierten &#xFC;ber die M&#xF6;glichkeiten, die Bedingungen und die Fristen zum Bezug von Ausbildungsbeitr&#xE4;gen informiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il veille particuli&#xE8;rement &#xE0; ce que les int&#xE9;ress&#xE9;s soient inform&#xE9;s sur les possibilit&#xE9;s d&#x2019;obtention des allocations, les conditions &#xE0; remplir et les d&#xE9;lais &#xE0; respecter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19641">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Studien- und Berufsberatungsstellen sowie die Schuldirektionen und die kommunalen Schulbeh&#xF6;rden werden zur Erf&#xFC;llung dieser Aufgaben beigezogen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les offices d&#x2019;orientation scolaire et professionnelle, ainsi que les directions d&#x2019;&#xE9;coles et les autorit&#xE9;s scolaires communales collaborent &#xE0; cette t&#xE2;che.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8577">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einreichen der Gesuche</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Pr&#xE9;sentation des demandes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19642">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche um Ausbildungsbeitr&#xE4;ge m&#xFC;ssen der zust&#xE4;ndigen Dienststelle beim Departement vor Beginn der Ausbildung eingereicht werden. Der Staatsrat legt die Fristen f&#xFC;r die Einreichung der Gesuche auf dem Verordnungsweg fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes d&#x2019;allocations doivent &#xEA;tre adress&#xE9;es au service comp&#xE9;tent du D&#xE9;partement avant le d&#xE9;but de la formation. Le Conseil d&#x2019;Etat fixe par ordonnance les d&#xE9;lais pour la pr&#xE9;sentation des requ&#xEA;tes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19643">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Je nach Fall sind dem Dossier folgende Dokumente beizulegen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Selon les cas, les pi&#xE8;ces suivantes sont jointes au dossier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10208">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">eine offizielle Einschreibebest&#xE4;tigung der Schule oder des zu besuchenden Institutes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">une d&#xE9;claration officielle attestant l'inscription &#xE0; l'&#xE9;cole ou &#xE0; l'&#xE9;tablissement &#xE0; fr&#xE9;quenter;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10209">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Lehrvertrag;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le contrat d'apprentissage;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10210">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Finanzierungsplan.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un plan financier.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19644">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das zust&#xE4;ndige Organ kann weitere Belege verlangen und, wenn n&#xF6;tig, die Meinung eines Experten in Sachen Studien- und Berufsberatung einholen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;organe comp&#xE9;tent peut exiger d&#x2019;autres pi&#xE8;ces justificatives et requ&#xE9;rir, si n&#xE9;cessaire, l&#x2019;avis d&#x2019;un expert en mati&#xE8;re d&#x2019;orientation professionnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19645">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche m&#xFC;ssen j&#xE4;hrlich erneuert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les requ&#xEA;tes doivent &#xEA;tre renouvel&#xE9;es annuellement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8578">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Finanzierung der Ausbildungsbeitr&#xE4;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Financement des allocations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19646">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Finanzierung der Stipendien ist gesichert durch:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le financement des bourses d&#x2019;&#xE9;tudes est assur&#xE9; par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10211">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die j&#xE4;hrlich im Staatsbudget vorgesehenen Betr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants pr&#xE9;vus chaque ann&#xE9;e au budget de l'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10212">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bundessubventionen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les subventions f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10213">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die freiwilligen R&#xFC;ckzahlungen, Legate und Spenden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les remboursements volontaires, les legs et les dons.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19647">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Finanzierung der Ausbildungsdarlehen ist gesichert durch:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le financement des pr&#xEA;ts est assur&#xE9; par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10214">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die j&#xE4;hrlich im Staatsbudget vorgesehenen Betr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les montants pr&#xE9;vus chaque ann&#xE9;e au budget de l'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10215">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bundesbeitr&#xE4;ge;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les subventions f&#xE9;d&#xE9;rales;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10216">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die R&#xFC;ckzahlungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les remboursements.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8579">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beschwerde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19648">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die Verf&#xFC;gung &#xFC;ber die Gew&#xE4;hrung oder Abweisung von Ausbildungsbeitr&#xE4;gen ist die schriftliche und begr&#xFC;ndete Einsprache an die zust&#xE4;ndige Kommission m&#xF6;glich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions relatives &#xE0; l&#x2019;octroi ou au refus d&#x2019;une allocation peuvent faire l&#x2019;objet d&#x2019;une r&#xE9;clamation &#xE9;crite et motiv&#xE9;e aupr&#xE8;s de la commission.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19649">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen den Einspracheentscheid der Kommission kann innert 30 Tagen Beschwerde beim Staatsrat eingereicht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions sur r&#xE9;clamation de la commission sont susceptibles de recours, dans les trente jours, aupr&#xE8;s du Conseil d&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19650">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Beschwerdeverfahren ist durch das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure de recours est r&#xE9;gie par la loi sur la proc&#xE9;dure et la juridiction administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8580">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verordnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ordonnance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19651">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Verordnung des Staatsrates legt die Anwendungsmodalit&#xE4;ten des vorliegenden Gesetzes, insbesondere die Gew&#xE4;hrungs- und R&#xFC;ckzahlungsmodalit&#xE4;ten der Ausbildungsdarlehen sowie die Fristen f&#xFC;r das Einreichen von Gesuchen und die Zustellung der Entscheide fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une ordonnance du Conseil d&#x2019;Etat fixe les modalit&#xE9;s d&#x2019;application de la pr&#xE9;sente loi, notamment les modalit&#xE9;s d&#x2019;attribution, les modalit&#xE9;s de remboursement des pr&#xEA;ts d&#x2019;&#xE9;tudes et les d&#xE9;lais pour le d&#xE9;p&#xF4;t des demandes et la notification des d&#xE9;cisions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2465">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8581">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19652">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die nach dem alten Gesetz anerkannten Ausbildungen bleiben dies bis zum reglementarischen Ende der Ausbildung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les formations reconnues sous l&#x2019;ancien droit le restent jusqu&#x2019;&#xE0; la fin r&#xE9;glementaire de la formation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19653">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die R&#xFC;ckzahlung von Darlehen, die vor dem Inkrafttreten dieses Gesetzes bestimmt wurden, unterliegt dem alten Gesetz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le remboursement des pr&#xEA;ts accord&#xE9;s avant l&#x2019;entr&#xE9;e en vigueur de la loi est soumis &#xE0; l&#x2019;ancien droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19654">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">H&#xE4;ngige Verfahren anl&#xE4;sslich des Inkrafttretens dieses Gesetzes werden nach dem alten Gesetz fortgef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les proc&#xE9;dures pendantes lors de l&#x2019;entr&#xE9;e en vigueur de la loi sont poursuivies conform&#xE9;ment &#xE0; l&#x2019;ancien droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8582">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19655">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont abrog&#xE9;s:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10217">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Artikel 62 bis 65 des Gesetzes &#xFC;ber das Unterrichtswesen vom 4. Juli 1962;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les articles 62 &#xE0; 65 de la loi sur l'instruction publique du 4 juillet 1962;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10218">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Gesetz betreffend die Gew&#xE4;hrung von Stipendien und Ausbildungsdarlehen vom 14. Mai 1986;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la loi concernant l'octroi de bourses et de pr&#xEA;ts d'honneur du 14 mai 1986;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10219">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Reglement zur Berechnung von Stipendien und Ausbildungsdarlehen vom 16. Juni 2000.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE8;glement pour le calcul des bourses et des pr&#xEA;ts d'honneur du 16 juin 2000.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8583">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19656">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19657">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt das Datum des Inkrafttretens des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d&#x2019;Etat fixe la date d&#x2019;entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2011-06-08</dateForce>
+      <dateVersion>2011-06-08</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 27/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

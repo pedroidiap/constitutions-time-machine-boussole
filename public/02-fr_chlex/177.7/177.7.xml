@@ -1,0 +1,1115 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1097</normID>
+      <number>177.7</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GUR</abbreviation>
+      <abbreviation lang="fr">LAJ</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die unentgeltliche Rechtspflege</title>
+      <title lang="fr">Loi sur l'assistance judiciaire</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2009-02-11</dateAdoption>
+      <dateForce>2011-01-01T00:00:00</dateForce>
+      <dateLastChange>2011-01-01</dateLastChange>
+      <dateVersion>2011-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 29 Absatz 3 der Bundesverfassung;</basis> <basis>eingesehen die Schweizerische Zivilprozessordnung (ZPO);</basis> <basis>eingesehen die Schweizerische Strafprozessordnung (StPO);</basis> <basis>eingesehen die Artikel 3, 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 29 alin&#xE9;a 3 de la Constitution f&#xE9;d&#xE9;rale;</basis> <basis>vu le code de proc&#xE9;dure civile suisse (CPC);</basis> <basis>vu le code de proc&#xE9;dure p&#xE9;nale suisse (CPP);</basis> <basis>vu les articles 3, 31 alin&#xE9;a 1 lettre a et 42 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 13/2009, 26/2010</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3572">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die unentgeltliche Rechtspflege</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur l'assistance judiciaire</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3574">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Unentgeltliche Rechtspflege in Zivil- und Strafsachen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Assistance judiciaire dans les causes civiles et p&#xE9;nales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12127">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27972">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bedingungen f&#xFC;r die Gew&#xE4;hrung der unentgeltlichen Rechtspflege, ihr Geltungsbereich und das anwendbare Verfahren sind enthalten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions d'octroi de l'assistance judiciaire, son &#xE9;tendue et la proc&#xE9;dure applicable sont &#xE9;nonc&#xE9;es:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13438">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Zivilsachen in der Schweizerischen Zivilprozessordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en mati&#xE8;re civile, dans le code de proc&#xE9;dure civile suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13439">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Strafsachen bei Zuwiderhandlungen gegen das Bundesrecht in der Schweizerischen Strafprozessordnung und in der Schweizerischen Jugendstrafprozessordnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en mati&#xE8;re p&#xE9;nale, pour les infractions de droit f&#xE9;d&#xE9;ral, dans le code de proc&#xE9;dure p&#xE9;nale suisse et la loi f&#xE9;d&#xE9;rale sur la proc&#xE9;dure p&#xE9;nale applicable aux mineurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13440">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">in Strafsachen bei Zuwiderhandlungen gegen das kantonale Recht in der Schweizerischen Strafprozessordnung und in der Schweizerischen Jugendstrafprozessordnung, analog anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en mati&#xE8;re p&#xE9;nale, pour les infractions de droit cantonal, dans le code de proc&#xE9;dure p&#xE9;nale suisse et la loi f&#xE9;d&#xE9;rale sur la proc&#xE9;dure p&#xE9;nale applicable aux mineurs, applicables par analogie.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3575">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Unentgeltliche Rechtspflege in Verwaltungssachen und auf dem Gebiet der Sozialversicherungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Assistance judiciaire dans les causes administratives et en mati&#xE8;re d'assurances sociales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12128">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anspruch</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27973">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Person hat Anspruch auf unentgeltliche Rechtspflege, wenn:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une personne a droit &#xE0; l'assistance judiciaire:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13441">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie nicht &#xFC;ber die erforderlichen Mittel verf&#xFC;gt; und</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si elle ne dispose pas de ressources suffisantes, et</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13442">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ihr Rechtsbegehren nicht aussichtslos erscheint.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si sa cause ne para&#xEE;t pas d&#xE9;pourvue de toute chance de succ&#xE8;s.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27974">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vorteil eines unentgeltlichen Rechtsbeistandes wird im Weiteren nur gew&#xE4;hrt, wenn es die Verteidigung der Interessen des Gesuchstellers notwendig macht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le b&#xE9;n&#xE9;fice d'un conseil juridique commis d'office n'est de surcro&#xEE;t accord&#xE9; que s'il est n&#xE9;cessaire &#xE0; la d&#xE9;fense des int&#xE9;r&#xEA;ts du requ&#xE9;rant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12129">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etendue</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27975">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die unentgeltliche Rechtspflege umfasst:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assistance judiciaire comprend:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13443">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Befreiung von Kostenvorsch&#xFC;ssen und Vorsch&#xFC;ssen als Sicherheitsleistungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la dispense des avances de frais et des s&#xFB;ret&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13444">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Befreiung von Verfahrenskosten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la dispense des frais de proc&#xE9;dure;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13445">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bezeichnung eines amtlichen Rechtsbeistandes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la d&#xE9;signation d'un conseil juridique commis d'office.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27976">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann vollst&#xE4;ndig oder teilweise erteilt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut &#xEA;tre accord&#xE9;e totalement ou partiellement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12130">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesuch</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Requ&#xEA;te</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27977">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die unentgeltliche Rechtspflege kann jederzeit beantragt werden, vor oder nach der Streith&#xE4;ngigkeit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assistance judiciaire peut &#xEA;tre requise en tout &#xE9;tat de cause, avant ou apr&#xE8;s la litispendance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12131">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dauer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dur&#xE9;e</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27978">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Beschluss der Gew&#xE4;hrung der unentgeltlichen Rechtspflege wirkt ab dem Tag der Hinterlegung des Gesuches.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision d'assistance judiciaire prend effet au jour du d&#xE9;p&#xF4;t de la requ&#xEA;te.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27979">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Beschwerdeverfahren muss ein neues Gesuch um unentgeltliche Rechtspflege gestellt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assistance judiciaire doit &#xEA;tre demand&#xE9;e &#xE0; nouveau pour la proc&#xE9;dure de recours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27980">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">War der Gesuchsteller ohne sein Verschulden verhindert, seinen Anspruch auf unentgeltliche Rechtspflege rechtzeitig geltend zu machen, muss die zust&#xE4;ndige Beh&#xF6;rde ihrem Entscheid r&#xFC;ckwirkende Geltung verleihen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente doit, lorsque le requ&#xE9;rant a &#xE9;t&#xE9; emp&#xEA;ch&#xE9; de faire valoir &#xE0; temps son droit &#xE0; l'assistance judiciaire sans faute de sa part, accorder &#xE0; sa d&#xE9;cision un effet r&#xE9;troactif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12132">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Entzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Retrait</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27981">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die angerufene Beh&#xF6;rde hat sich w&#xE4;hrend der ganzen Dauer des Verfahrens zu vergewissern, ob die Voraussetzungen des Anspruchs auf unentgeltliche Rechtspflege fortbestehen. Der Verbeist&#xE4;ndete hat ihr unverz&#xFC;glich alle neuen Tatsachen mitzuteilen, die den Anspruch beeinflussen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; saisie du dossier s'assure, durant toute la proc&#xE9;dure, que les conditions du droit &#xE0; l'assistance judiciaire subsistent. L'assist&#xE9; est tenu de lui signaler sans retard les faits nouveaux susceptibles d'influencer ce droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27982">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die unentgeltliche Rechtspflege ist von Amtes wegen oder auf Begehren der Gegenpartei zu entziehen, wenn der Anspruch der unentgeltlich prozessf&#xFC;hrenden Partei dahinf&#xE4;llt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'assistance judiciaire est retir&#xE9;e lorsque l'assist&#xE9; n'y a plus droit, d'office ou &#xE0; la demande de la partie adverse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27983">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Entzug ist nur dann r&#xFC;ckwirkend, wenn die unentgeltlich prozessf&#xFC;hrende Partei die zust&#xE4;ndige Beh&#xF6;rde irregef&#xFC;hrt oder es unterlassen hat, ihr rechtzeitig jene &#xC4;nderungen mitzuteilen, die ihren Anspruch auf unentgeltliche Rechtspflege beeinflussen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le retrait ne peut intervenir avec effet r&#xE9;troactif que lorsque l'assist&#xE9; a induit en erreur l'autorit&#xE9; comp&#xE9;tente ou lorsqu'il a n&#xE9;glig&#xE9; de signaler &#xE0; temps les changements susceptibles d'influencer son droit &#xE0; l'assistance judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12133">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27984">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Verfahren um Gew&#xE4;hrung und Entzug der unentgeltlichen Rechtspflege vor den Verwaltungsbeh&#xF6;rden, der &#xF6;ffentlichrechtlichen Abteilung des Kantonsgerichts und der Sozialversicherungsabteilung des Kantonsgerichts richtet sich nach den Regeln des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) und subsidi&#xE4;r nach der Verordnung des Staatsrates.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure d'octroi et de retrait de l'assistance judiciaire devant les autorit&#xE9;s administratives, la cour de droit public du Tribunal cantonal et la cour des assurances sociales du Tribunal cantonal est r&#xE9;gie par la loi sur la proc&#xE9;dure et la juridiction administratives (LPJA) et, subsidiairement, par l'ordonnance du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12134">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kostenaufteilung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Liquidation des frais</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27985">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unterliegt die unentgeltlich prozessf&#xFC;hrende Partei, werden die Prozesskosten wie folgt aufgeteilt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'assist&#xE9; succombe, les frais sont liquid&#xE9;s comme il suit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13446">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der unentgeltliche Rechtsbeistand wird vom Gemeinwesen entsch&#xE4;digt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le conseil juridique commis d'office est r&#xE9;mun&#xE9;r&#xE9; par la collectivit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13447">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verfahrenskosten gehen zu Lasten des Gemeinwesens;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les frais de proc&#xE9;dure sont &#xE0; la charge de la collectivit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13448">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die von der Gegenpartei geleisteten Vorsch&#xFC;sse werden ihr zur&#xFC;ckerstattet;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les avances que la partie adverse a effectu&#xE9;es lui sont restitu&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13449">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die unentgeltlich prozessf&#xFC;hrende Partei hat der Gegenpartei die Parteientsch&#xE4;digung zu bezahlen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la partie au b&#xE9;n&#xE9;fice de l'assistance judiciaire verse les d&#xE9;pens &#xE0; la partie adverse.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27986">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die unentgeltlich prozessf&#xFC;hrende Partei obsiegt, wird der unentgeltliche Rechtsbeistand durch das Gemeinwesen entsch&#xE4;digt, sofern sich die zur Parteientsch&#xE4;digung verpflichtete Gegenpartei als zahlungsunf&#xE4;hig erweist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'assist&#xE9; obtient gain de cause, le conseil juridique commis d'office est r&#xE9;mun&#xE9;r&#xE9; par la collectivit&#xE9; si les d&#xE9;pens ne peuvent &#xEA;tre obtenus de la partie adverse, celle-ci se r&#xE9;v&#xE9;lant insolvable.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12135">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Entsch&#xE4;digung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;mun&#xE9;ration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27987">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entsch&#xE4;digung des unentgeltlichen Rechtsbeistands wird durch die Bestimmungen des Gesetzes betreffend den Tarif der Kosten und Entsch&#xE4;digungen vor Gerichts- oder Verwaltungsbeh&#xF6;rden geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;mun&#xE9;ration du conseil juridique commis d'office ob&#xE9;it aux r&#xE8;gles de la loi fixant le tarif des frais et d&#xE9;pens devant les autorit&#xE9;s judiciaires ou administratives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12136">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">R&#xFC;ckerstattung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Remboursement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27988">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt des Bundesrechts verlangt das zahlungspflichtige Gemeinwesen von der unentgeltlich prozessf&#xFC;hrenden Partei die R&#xFC;ckerstattung seiner Leistungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve du droit f&#xE9;d&#xE9;ral, la collectivit&#xE9; tenue au financement exige de l'assist&#xE9; le remboursement de ses prestations:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13450">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wenn sich ihre wirtschaftliche Lage, welche die Gew&#xE4;hrung der unentgeltlichen Rechtspflege erlaubte, verbessert hat, insbesondere wenn sie durch den Verfahrensausgang gen&#xFC;gend Mittel erworben hat;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si la situation &#xE9;conomique de ce dernier, ayant permis l'octroi de l'assistance judiciaire, s'est am&#xE9;lior&#xE9;e, notamment lorsqu'il acquiert des moyens suffisants &#xE0; l'issue de la proc&#xE9;dure;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13451">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">wenn ihr zu Unrecht die unentgeltliche Rechtspflege gew&#xE4;hrt wurde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">si l'assistance judiciaire lui a &#xE9;t&#xE9; accord&#xE9;e &#xE0; tort.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27989">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der R&#xFC;ckerstattungsanspruch verj&#xE4;hrt nach Ablauf von zehn Jahren nach Eintritt der Rechtskraft des Urteils.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'action en restitution se prescrit par dix ans d&#xE8;s l'entr&#xE9;e en force de la d&#xE9;cision mettant fin &#xE0; la cause.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3576">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Zahlungspflichtiges Gemeinwesen, Vollzugsorgan und Verantwortlichkeit</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Collectivit&#xE9; tenue au financement, organe d'ex&#xE9;cution et responsabilit&#xE9;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12137">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zahlungspflichtiges Gemeinwesen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collectivit&#xE9; tenue au financement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27990">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In zivil- und strafrechtlichen Angelegenheiten obliegen die unentgeltlichen Rechtspflegeleistungen dem Staat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les causes civiles et p&#xE9;nales, les prestations d'assistance judiciaire incombent &#xE0; l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27991">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In verwaltungsrechtlichen Angelegenheiten obliegen die unentgeltlichen Rechtspflegeleistungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans les causes administratives, les prestations d'assistance judiciaire incombent:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13452">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Staat, oder</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; l'Etat, ou</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13453">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Munizipalgemeinde f&#xFC;r die F&#xE4;lle, in denen sich das Verfahren unter Anwendung des Gemeinderechts vor einer Gemeindebeh&#xF6;rde abwickelt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; la commune municipale pour les cas dans lesquels la proc&#xE9;dure se d&#xE9;roule devant une autorit&#xE9; municipale appliquant le droit communal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12138">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzugsorgan</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organe d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27992">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollzugsorgan des zahlungspflichtigen Gemeinwesens ist das mit den Finanzen betraute Departement, wenn die unentgeltliche Rechtspflege dem Staat obliegt, und die Gemeindeverwaltung in den &#xFC;brigen F&#xE4;llen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe d'ex&#xE9;cution de la collectivit&#xE9; tenue au financement est le d&#xE9;partement dont rel&#xE8;vent les finances lorsque l'assistance judiciaire incombe &#xE0; l'Etat et l'administration communale dans les autres cas.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27993">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollzugsorgan spricht die aus der unentgeltlichen Rechtspflege entstandenen Kosten zu und wacht gem&#xE4;ss der Bundes- und kantonalen Gesetzgebung &#xFC;ber die R&#xFC;ckerstattungen. Zu diesem Zweck f&#xFC;hrt das Vollzugsorgan ein Verzeichnis und ein F&#xE4;lligkeitsregister.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe d'ex&#xE9;cution alloue les prestations dues au titre de l'assistance judiciaire et veille au remboursement, conform&#xE9;ment &#xE0; la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale. Il tient &#xE0; cet effet un r&#xE9;pertoire et un &#xE9;ch&#xE9;ancier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12139">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27994">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das zahlungspflichtige Gemeinwesen tr&#xE4;gt f&#xFC;r die vom amtlichen Rechtsbeistand in Aus&#xFC;bung seines Mandates begangenen rechtswidrigen Handlungen eine prim&#xE4;re Verantwortung und verf&#xFC;gt &#xFC;ber ein Regressrecht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La collectivit&#xE9; tenue au financement a une responsabilit&#xE9; primaire pour les actes illicites commis par le conseil juridique commis d'office dans l'exercice de ses fonctions et dispose d'un droit de recours contre lui.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3577">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12140">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27995">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst auf dem Verordnungsweg die Bestimmungen f&#xFC;r den Vollzug des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte, par voie d'ordonnance, les dispositions d'ex&#xE9;cution de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12141">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;nderung und Aufhebung des geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modification et abrogation du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27996">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Einf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber Zwangsmassnahmen im Ausl&#xE4;nderrecht vom 15. November 1996 wird abge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi d'application de la loi f&#xE9;d&#xE9;rale sur les mesures de contraintes en mati&#xE8;re de droit des &#xE9;trangers du 15 novembre 1996 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27997">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber den gerichtlichen und administrativen Rechtsbeistand vom 29. Januar 1988 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur l'assistance judiciaire et administrative du 29 janvier 1988 est abrog&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12142">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsrecht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:27998">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xDC;bergangsbestimmungen der Schweizerischen Zivilprozessordnung und der Schweizerischen Strafprozessordnung gelten f&#xFC;r die in Zivil- und Strafsachen h&#xE4;ngigen Verfahren der unentgeltlichen Rechtspflege.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions transitoires du code de proc&#xE9;dure civile suisse et du code de proc&#xE9;dure p&#xE9;nale suisse s'appliquent pour les proc&#xE9;dures d'assistance judiciaire pendantes dans les causes civiles et p&#xE9;nales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:27999">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die beim Inkrafttreten des vorliegenden Gesetzes laufenden Verfahren der unentgeltlichen Rechtspflege in Verwaltungssachen und auf dem Gebiet der Sozialversicherungen ist das alte Recht massgebend.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les proc&#xE9;dures d'assistance judiciaire dans les causes administratives et en mati&#xE8;re d'assurances sociales en cours lors de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi sont r&#xE9;gies par l'ancien droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12143">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28000">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28001">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat setzt das Datum seines Inkrafttretens fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la date de son entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2011-01-01</dateForce>
+      <dateVersion>2011-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 13/2009, 26/2010</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

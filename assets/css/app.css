@@ -1,0 +1,163 @@
+@import "~bootstrap";
+
+.cons-navbar-brand {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 25px;
+    letter-spacing: .25em;
+    line-height: 1em;
+    text-transform: uppercase;
+    color: #0a0075;
+}
+
+.cons-navbar-brand:hover {
+    text-decoration: none;
+    color: #0a0075;
+}
+
+.cons-header-tagline {
+    max-width: 40em;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: .2em;
+    line-height: 1.5em;
+    text-transform: none;
+    color: rgba(92,92,92,.5);
+}
+
+.cons-collapse-footer {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    padding-top: 5px;
+    text-align: right;
+}
+
+@media screen and (min-width: 992px) {
+    .w-lg-75 {
+        width: 75% !important;
+    }
+
+    .w-lg-60 {
+        width: 60% !important;
+    }
+}
+
+.cons-hr-title {
+    width: 50%;
+    margin-left: 0;
+}
+
+.cons-hr-subtitle {
+    width: 20%;
+    margin-left: 0;
+}
+
+.cons-accroche {
+    height: 200px;
+    background: linear-gradient(270deg, rgba(10,0,117,1) 0%, rgba(10,0,117,1) 35%, rgba(10,0,117,1) 100%);
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+
+.cons-accroche span {
+    font-size: 20px;
+}
+
+.cons-accroche:hover {
+    color: white;
+    cursor: pointer;
+    background: linear-gradient(270deg, rgba(10,0,117,1) 0%, rgba(44,34,151,1) 50%, rgba(10,0,117,1) 100%);
+    text-decoration: none;
+}
+
+.cons-pagination .page-item .page-link {
+    color: black;
+}
+
+.cons-pagination .page-item .page-link:focus {
+    box-shadow: none;
+}
+
+.cons-pagination .page-item.active .page-link {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+
+.cons-pagination .page-item.disabled .page-link {
+    color: #aaa;
+}
+
+.cons-article-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+}
+
+.cons-badge-commission {
+    background-color: #0a0075;
+}
+
+.cons-list-group-item.disabled {
+    color: #ccc;
+}
+
+.cons-icon-back {
+    display: flex;
+    align-items: center;
+    color: #0a0075;
+}
+
+.cons-icon-back:hover {
+    color: black;
+}
+
+.cons-card-img {
+    max-height: 230px;
+    height: 100%;
+    width: auto;
+}
+
+.cons-card-details-img {
+    height: 350px;
+    width: auto;
+}
+
+.autocomplete {
+    /*the container must be positioned relative:*/
+    position: relative;
+    display: inline-block;
+}
+
+.autocomplete-items {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+    top: 100%;
+    left: 0;
+    right: 0;
+}
+
+.autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    border-bottom: 1px solid #d4d4d4;
+}
+
+.autocomplete-items div:hover {
+    /*when hovering an item:*/
+    background-color: #e9e9e9;
+}
+
+.autocomplete-active {
+    /*when navigating through the items using the arrow keys:*/
+    background-color: DodgerBlue !important;
+    color: #ffffff;
+}

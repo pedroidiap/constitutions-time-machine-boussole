@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:55</normID>
+      <number>935.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung betreffend eine Befreiung von der Kurtaxe</title>
+      <title lang="fr">Ordonnance concernant une exon&#xE9;ration de la taxe de s&#xE9;jour</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1996-11-06</dateAdoption>
+      <dateForce>1996-11-01T00:00:00</dateForce>
+      <dateLastChange>1996-11-01</dateLastChange>
+      <dateVersion>1996-11-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;</basis> <basis>eingesehen den Artikel 18 Absatz 2 des Gesetzes &#xFC;ber den Tourismus vom 9. Februar 1996;</basis> <basis>auf Antrag des Volkswirtschaftsdepartementes,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du Valais</authorityDescription><basis>vu l'article 57 alin&#xE9;a 2 de la Constitution cantonale;</basis> <basis>vu l'article 18 alin&#xE9;a 2 de la loi sur le tourisme du 9 f&#xE9;vrier 1996;</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;conomie publique,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1996 f 253, 506 | d 259, 514</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="121">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>betreffend eine Befreiung von der Kurtaxe</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant une exon&#xE9;ration de la taxe de s&#xE9;jour</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:335">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:729">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Alle Personen, die eine vom Kanton Wallis anerkannte und subventionierte T&#xE4;tigkeit im Rahmen der Bewegung Jugend und Sport aus&#xFC;ben, sind von der Bezahlung der Kurtaxe befreit.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Sont exon&#xE9;r&#xE9;es de la taxe de s&#xE9;jour les personnes ayant une activit&#xE9; reconnue et subventionn&#xE9;e par l'Etat du Valais dans le cadre du mouvement Jeunesse et Sport.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:336">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de"/>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr"/>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:730">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Diese Verordnung wird im Amtsblatt publiziert und tritt gleichzeitig mit dem Gesetz in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur en m&#xEA;me temps que la loi.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1996-11-01</dateForce>
+      <dateVersion>1996-11-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 1996 f 253, 506 | d 259, 514</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

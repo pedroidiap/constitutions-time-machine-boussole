@@ -1,0 +1,1875 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1049</normID>
+      <number>211.7</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">kGeoIG</abbreviation>
+      <abbreviation lang="fr">LcG&amp;#xE9;o</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Ausf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber Geoinformation</title>
+      <title lang="fr">Loi d'application de loi f&#xE9;d&#xE9;rale sur la g&#xE9;oinformation</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2016-03-10</dateAdoption>
+      <dateForce>2016-07-01T00:00:00</dateForce>
+      <dateLastChange>2016-07-01</dateLastChange>
+      <dateVersion>2016-07-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen Artikel 75a der Bundesverfassung;</basis> <basis>eingesehen das Bundesgesetz &#xFC;ber Geoinformation vom 5. Oktober 2007 (GeoIG);</basis> <basis>eingesehen die Bundesverordnung &#xFC;ber Geoinformation vom 21. Mai 2008 (GeolV);</basis> <basis>eingesehen die Bundesverordnung &#xFC;ber den Kataster der &#xF6;ffentlich-rechtlichen Eigentumsbeschr&#xE4;nkungen vom 2. September 2009 (&#xD6;REBKV);</basis> <basis>eingesehen die Artikel 31 und 42 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu l'article 75a de la Constitution f&#xE9;d&#xE9;rale;</basis> <basis>vu la loi f&#xE9;d&#xE9;rale sur la g&#xE9;oinformation du 5 octobre 2007 (LG&#xE9;o);</basis> <basis>vu l'ordonnance f&#xE9;d&#xE9;rale sur la g&#xE9;oinformation du 21 mai 2008 (OG&#xE9;o);</basis> <basis>vu l'ordonnance f&#xE9;d&#xE9;rale sur le cadastre des restrictions de droit public &#xE0; la propri&#xE9;t&#xE9; fonci&#xE8;re du 2 septembre 2009 (OCRDP);</basis> <basis>vu les articles 31 et 42 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 15/2016, 22/2016</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3311">
+        <structureContent lang="de">
+          <structureText>Ausf&#xFC;hrungsgesetz zum Bundesgesetz &#xFC;ber Geoinformation</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>d'application de loi f&#xE9;d&#xE9;rale sur la g&#xE9;oinformation</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3313">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11289">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25886">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt die Anwendung des GeolG und die Bearbeitung der Geobasisdaten des kantonalen Rechts.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE8;gle les dispositions d'application de la LG&#xE9;o et le traitement des g&#xE9;odonn&#xE9;es de base relevant du droit cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25887">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es bezweckt, den kantonalen und kommunalen Beh&#xF6;rden, der Bev&#xF6;lkerung, der Wirtschaft, der Wissenschaft oder anderen interessierten Kreisen f&#xFC;r eine breite Nutzung rasch, einfach und nachhaltig aktuelle Geobasisdaten &#xFC;ber das Gebiet des Kantons in der erforderlichen Qualit&#xE4;t und zu angemessenen Kosten zur Verf&#xFC;gung zu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle vise &#xE0; mettre rapidement, simplement et durablement &#xE0; la disposition des autorit&#xE9;s cantonales et communales, de la population, des milieux &#xE9;conomiques, des milieux scientifiques ou d'autres milieux int&#xE9;ress&#xE9;s, des g&#xE9;odonn&#xE9;es de base actuelles au niveau de qualit&#xE9; requis et d'un co&#xFB;t appropri&#xE9;, couvrant le territoire cantonal en vue d'une large utilisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25888">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es bezweckt eine koh&#xE4;rente Geoinformation des Kantons und der Gemeinden und die Umsetzung der n&#xF6;tigen Massnahmen, um die Sicherheit und die Qualit&#xE4;t der Geobasisdaten des kantonalen Rechts zu gew&#xE4;hrleisten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle vise une g&#xE9;oinformation coh&#xE9;rente du canton et des communes et la mise en place des mesures n&#xE9;cessaires pour garantir la s&#xE9;curit&#xE9; et la qualit&#xE9; des g&#xE9;odonn&#xE9;es de base relevant du droit cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11290">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25889">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt der eidgen&#xF6;ssischen und kantonalen Spezialgesetzgebung regelt das vorliegende Gesetz f&#xFC;r den Kanton und die Gemeinden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale sp&#xE9;ciale, la pr&#xE9;sente loi r&#xE9;git &#xE0; l'&#xE9;gard du canton et des communes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12405">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Erfassung, die Nachf&#xFC;hrung und die Verwaltung der Geobasisdaten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la saisie, la mise &#xE0; jour et la gestion des g&#xE9;odonn&#xE9;es de base;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12406">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Zugang zu den Geobasisdaten und deren Nutzung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'acc&#xE8;s et l'utilisation des g&#xE9;odonn&#xE9;es de base;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12407">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die F&#xFC;hrung des kantonalen Geoinformationssystems, der kantonalen Geodateninfrastruktur und des Geoinformationssystems des Kantons Wallis (nachstehend: GIS-Wallis);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la tenue du syst&#xE8;me cantonal d'information du territoire, de l'infrastructure cantonale de g&#xE9;odonn&#xE9;es et du syst&#xE8;me d'information du territoire du canton du Valais (ci-apr&#xE8;s: SIT-Valais);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12408">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Einf&#xFC;hrung und die F&#xFC;hrung des Katasters der &#xF6;ffentlich-rechtlichen Eigentumsbeschr&#xE4;nkungen (nachstehend: &#xD6;REB-Kataster);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'introduction et la tenue du cadastre des restrictions de droit public &#xE0; la propri&#xE9;t&#xE9; fonci&#xE8;re (ci-apr&#xE8;s: cadastre RDPPF);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12409">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Informatikplattform des eidgen&#xF6;ssischen Geb&#xE4;ude- und Wohnungsr- egisters.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la plate-forme informatique du Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et des logements.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25890">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat definiert den Katalog der Geobasisdaten des kantonalen Rechts.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;finit le catalogue des g&#xE9;odonn&#xE9;es de base relevant du droit cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11291">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25891">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Begriffsbestimmungen des Bundesrechts &#xFC;ber Geoinformation sind auf das vorliegende Gesetz und die dazugeh&#xF6;rigen Verordnungen anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;finitions contenues dans le droit f&#xE9;d&#xE9;ral de la g&#xE9;oinformation sont applicables &#xE0; la pr&#xE9;sente loi et &#xE0; ses ordonnances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25892">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Geoinformationssystem (nachstehend: GIS) besteht aus der Gesamtheit der organisatorischen, technischen, rechtlichen und strukturellen Massnahmen, die eine genaue und vollst&#xE4;ndige Geoinformation erlauben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'information du territoire (ci-apr&#xE8;s: SIT) est l'ensemble des mesures organisationnelles, techniques, l&#xE9;gales et structurelles permettant une g&#xE9;oinformation exacte et exhaustive.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25893">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das GIS-Wallis setzt sich aus dem kantonalen und den kommunalen Geoinformationssystemen zusammen und hat zum Ziel, die GIS-Nutzer koh&#xE4;rent und geeignet zu informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le SIT-Valais se compose du syst&#xE8;me cantonal et des syst&#xE8;mes communaux d'information du territoire qui ont pour but l'information coh&#xE9;rente et appropri&#xE9;e des usagers du SIT.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25894">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Geodateninfrastruktur besteht aus der Gesamtheit der organisatorischen, technischen, rechtlichen und strukturellen Massnahmen, mit welcher die Geobasisdaten des eidgen&#xF6;ssischen und kantonalen Rechts den Kantons- und den Gemeindeverwaltungen, deren Auftragnehmern, der Wissenschaft oder anderen interessierten Kreisen zur Verf&#xFC;gung gestellt werden k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'infrastructure cantonale de g&#xE9;odonn&#xE9;es est l'ensemble des mesures organisationnelles, techniques, l&#xE9;gales et structurelles permettant de mettre &#xE0; disposition les g&#xE9;odonn&#xE9;es de base relevant du droit f&#xE9;d&#xE9;ral et cantonal de l'administration cantonale et communale, de leurs mandataires, des milieux scientifiques ou autres milieux int&#xE9;ress&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11292">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit und Ersatzvornahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaboration et ex&#xE9;cution par substitution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25895">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen des Vollzugs des vorliegenden Gesetzes ergreift der Kanton Massnahmen, um die Zusammenarbeit mit den Gemeinden aufzubauen, sofern deren Zust&#xE4;ndigkeit und Interessen betroffen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de l'ex&#xE9;cution de la pr&#xE9;sente loi, le canton prend des mesures afin d'&#xE9;tablir la collaboration avec les communes, pour autant que la comp&#xE9;tence et les int&#xE9;r&#xEA;ts de celles-ci soient concern&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25896">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erf&#xFC;llt eine Gemeinde ihre Aufgaben nicht fristgerecht oder qualitativ ungen&#xFC;gend, kann der Staatsrat nach deren Ermahnung und Anh&#xF6;rung die Ersatzvornahme anordnen. Die Kosten der Ersatzvornahme gehen zulasten der s&#xE4;umigen Gemeinde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si une commune ne respecte pas les d&#xE9;lais impartis ou n'atteint pas le niveau de qualit&#xE9; requis dans l'ex&#xE9;cution des t&#xE2;ches qui lui incombent, le Conseil d'Etat peut ordonner l'ex&#xE9;cution par substitution, apr&#xE8;s sommation et audition de la commune. Le co&#xFB;t de l'ex&#xE9;cution par substitution est pris en charge par la commune d&#xE9;faillante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3314">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Grunds&#xE4;tze</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Principes</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="3315">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Qualitative und technische Anforderungen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Exigences qualitatives et techniques</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:11293">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>5</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geobasisdaten und Geometadaten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">G&#xE9;odonn&#xE9;es de base et g&#xE9;om&#xE9;tadonn&#xE9;es</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25897">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat erl&#xE4;sst Bestimmungen &#xFC;ber die minimalen qualitativen und technischen Anforderungen an die Geobasisdaten und die Geometadaten, die diese beschreiben, um einen Austausch und eine breite Nutzung zu erm&#xF6;glichen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte des dispositions sur les exigences qualitatives et techniques minimales applicables aux g&#xE9;odonn&#xE9;es de base et aux g&#xE9;om&#xE9;tadonn&#xE9;es qui les d&#xE9;crivent, de telle fa&#xE7;on qu'un &#xE9;change et une large utilisation soient possibles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25898">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Er kann eine Homologation der amtlichen Dokumente aus Gr&#xFC;nden des Nichtrespektierens der eidgen&#xF6;ssischen oder kantonalen Bestimmungen &#xFC;ber die Qualit&#xE4;t der Geodaten verweigern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il peut refuser l'homologation des documents officiels pour des raisons de non-respect des dispositions f&#xE9;d&#xE9;rales ou cantonales en mati&#xE8;re de qualit&#xE9; des g&#xE9;odonn&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25899">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die gem&#xE4;ss Artikel 7 zust&#xE4;ndigen Dienststellen k&#xF6;nnen technische Bestimmungen und Empfehlungen zu den Geobasisdaten und Geometadaten abgeben. Diese sind erst nach Validierung durch die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle g&#xFC;ltig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les services vis&#xE9;s &#xE0; l'article 7 peuvent &#xE9;mettre des dispositions et des recommandations techniques relatives aux g&#xE9;odonn&#xE9;es de base ainsi qu'aux g&#xE9;om&#xE9;tadonn&#xE9;es. Celles-ci ne sont applicables qu'apr&#xE8;s validation par le service en charge de la g&#xE9;oinformation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25900">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle kann Richtlinien zur Erarbeitung der Bestimmungen und Empfehlungen gem&#xE4;ss Absatz 3 erlassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation peut &#xE9;dicter des directives sur l'&#xE9;laboration des dispositions et recommandations de l'alin&#xE9;a 3.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25901">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie kann nach Anh&#xF6;rung der gem&#xE4;ss Artikel 7 zust&#xE4;ndigen Dienststellen Richtlinien zur Planung der Einf&#xFC;hrung der Bestimmungen und Empfehlungen gem&#xE4;ss Absatz 3 erlassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il peut &#xE9;dicter, apr&#xE8;s entente des services vis&#xE9;s &#xE0; l'article 7, des directives concernant la planification de l'introduction des dispositions et recommandations de l'alin&#xE9;a 3.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25902">
+                        <partNumber>6</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle f&#xFC;hrt eine Schlusskontrolle der Geodaten durch, genehmigt deren Qualit&#xE4;t und bewilligt die Weitergabe der Geobasisdaten des kantonalen Rechts.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation effectue un contr&#xF4;le final des g&#xE9;odonn&#xE9;es, valide leur qualit&#xE9; et autorise la diffusion des g&#xE9;odonn&#xE9;es de base relevant du droit cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11294">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geometadaten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">G&#xE9;om&#xE9;tadonn&#xE9;es</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25903">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Alle Geobasisdaten des eidgen&#xF6;ssischen und des kantonalen Rechts werden durch Geometadaten beschrieben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Toutes les g&#xE9;odonn&#xE9;es de base relevant du droit f&#xE9;d&#xE9;ral et cantonal sont d&#xE9;crites par des g&#xE9;om&#xE9;tadonn&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25904">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle definiert ein System f&#xFC;r die Verwaltung der Geometadaten, das den Zugang gem&#xE4;ss Anforderungen des Bundesrechts sicherstellt und gew&#xE4;hrleistet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation d&#xE9;finit un syst&#xE8;me de gestion des g&#xE9;om&#xE9;tadonn&#xE9;es qui garantit et assure leur acc&#xE8;s, conform&#xE9;ment aux exigences du droit f&#xE9;d&#xE9;ral.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25905">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Geometadaten werden gleichzeitig mit den Geobasisdaten erfasst, nachgef&#xFC;hrt und archiviert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les g&#xE9;om&#xE9;tadonn&#xE9;es sont saisies, mises &#xE0; jour et archiv&#xE9;es en m&#xEA;me temps que les g&#xE9;odonn&#xE9;es de base.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="3316">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Erfassung, Nachf&#xFC;hrung und Verwaltung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Saisie, mise &#xE0; jour et gestion</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:11295">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Kompetenzen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Comp&#xE9;tences</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25906">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat bestimmt f&#xFC;r jeden im Katalog der Geobasisdaten des eidgen&#xF6;ssischen und kantonalen Rechts bezeichneten Geodatensatz eine f&#xFC;r die Erfassung, Nachf&#xFC;hrung und Verwaltung der Geobasisdaten zust&#xE4;ndige Dienststelle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe, pour chaque jeu de g&#xE9;odonn&#xE9;es inscrit dans les catalogues de g&#xE9;odonn&#xE9;es de base de droit f&#xE9;d&#xE9;ral et cantonal, le service dont rel&#xE8;ve la saisie, la mise &#xE0; jour et la gestion des g&#xE9;odonn&#xE9;es de base.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25907">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat bestimmt f&#xFC;r jeden in diesen Katalogen bezeichneten Geodatensatz, der von der Gemeinde erfasst, nachgef&#xFC;hrt und verwaltet wird, eine f&#xFC;r die Aufsicht und Kontrolle der Qualit&#xE4;t der Geobasisdaten verantwortliche Dienststelle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe pour chaque jeu de g&#xE9;odonn&#xE9;es inscrit dans ces catalogues dont la saisie, la mise &#xE0; jour et la gestion incombent &#xE0; la commune un service dont rel&#xE8;ve la surveillance et le contr&#xF4;le de la qualit&#xE9; des g&#xE9;odonn&#xE9;es de base.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11296">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gew&#xE4;hrleistung der Verf&#xFC;gbarkeit und Archivierung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Garantie de la disponibilit&#xE9; et archivage</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25908">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle stellt die nachhaltige Verf&#xFC;gbarkeit der Geobasisdaten sicher und ist f&#xFC;r deren Archivierung gem&#xE4;ss einem vom Kanton erarbeiteten Konzept zust&#xE4;ndig.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation garantit la p&#xE9;rennit&#xE9; de la disponibilit&#xE9; des g&#xE9;odonn&#xE9;es de base et a la charge de les archiver, conform&#xE9;ment au concept d&#xE9;fini par le canton.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25909">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat bezeichnet die Dienststelle, die f&#xFC;r die Erarbeitung eines dem eidgen&#xF6;ssischen und kantonalen Recht entsprechenden Archivierungskonzepts zust&#xE4;ndig ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe le service charg&#xE9; d'&#xE9;laborer un concept d'archivage dans le respect des exigences du droit f&#xE9;d&#xE9;ral et cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25910">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das kantonale Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung (GIDA) sowie dessen Ausf&#xFC;hrungsbestimmungen sind anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La loi cantonale sur l'information du public, la protection des donn&#xE9;es et l'archivage (LIPDA) ainsi que ses dispositions d'ex&#xE9;cution sont applicables.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11297">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Unterst&#xFC;tzung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Assistance</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25911">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die im GeoIG vorgesehene Unterst&#xFC;tzungspflicht ist f&#xFC;r die Erfassung und Nachf&#xFC;hrung der Geobasisdaten des kantonalen Rechts analog anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les obligations d'assistance pr&#xE9;vues par la LG&#xE9;o s'appliquent par analogie lors de la saisie et de la mise &#xE0; jour des g&#xE9;odonn&#xE9;es de base relevant du droit cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="3317">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Zugang und Nutzung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Acc&#xE8;s et utilisation</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:11298">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25912">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Geobasisdaten sind &#xF6;ffentlich zug&#xE4;nglich, gem&#xE4;ss den Regeln von Artikel 12, und k&#xF6;nnen von jeder Person genutzt werden, sofern dem keine &#xFC;berwiegenden &#xF6;ffentlichen oder privaten Interessen entgegenstehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es de base sont accessibles au public, selon les r&#xE8;gles d'acc&#xE8;s d&#xE9;crites &#xE0; l'article 12, et peuvent &#xEA;tre utilis&#xE9;es par chacun, &#xE0; moins que des int&#xE9;r&#xEA;ts publics ou priv&#xE9;s pr&#xE9;pond&#xE9;rants ne s'y opposent.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11299">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Datenschutz und -sicherheit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Protection des donn&#xE9;es et s&#xE9;curit&#xE9;</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25913">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das GIDA ist f&#xFC;r die Geobasisdaten des kantonalen Rechts anwendbar. Vorbehalten bleiben die Artikel 12 und 14 des vorliegenden Gesetzes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La LIPDA s'applique aux g&#xE9;odonn&#xE9;es de base relevant du droit cantonal. Les articles 12 et 14 de la pr&#xE9;sente loi sont r&#xE9;serv&#xE9;s.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11300">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Nutzung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Utilisation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25914">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat regelt den Zugang zu den Geobasisdaten sowie deren Nutzung und Weitergabe, insbesondere die Pflichten der Nutzer, namentlich hinsichtlich des Zugangs und des Datenschutzes.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat r&#xE9;glemente l'acc&#xE8;s aux g&#xE9;odonn&#xE9;es de base ainsi que leur utilisation et leur diffusion, en particulier les obligations des utilisateurs, notamment en mati&#xE8;re d'acc&#xE8;s et de protection des donn&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25915">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Zugang, die Nutzung und die Weitergabe k&#xF6;nnen von einer Bewilligung abh&#xE4;ngig gemacht werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'acc&#xE8;s, l'utilisation et la diffusion peuvent &#xEA;tre subordonn&#xE9;s &#xE0; une autorisation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11301">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Geodienste</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">G&#xE9;oservices</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25916">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle richtet die Geodienste gem&#xE4;ss den Vorschriften des Bundes ein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation instaure les g&#xE9;oservices selon les prescriptions f&#xE9;d&#xE9;rales.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25917">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie kann weitere Geodienste einrichten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il peut mettre en place d'autres g&#xE9;oservices.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11302">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Austausch unter Beh&#xF6;rden</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Echange entre autorit&#xE9;s</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25918">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die kantonalen und kommunalen Beh&#xF6;rden gew&#xE4;hren sich gegenseitig einfachen und direkten Zugang zu den Geobasisdaten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les autorit&#xE9;s cantonales et communales s'accordent mutuellement un acc&#xE8;s simple et direct aux g&#xE9;odonn&#xE9;es de base.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25919">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat regelt die Einzelheiten des Austauschs der Geobasisdaten zwischen Kanton und Gemeinden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat r&#xE8;gle les modalit&#xE9;s d'&#xE9;change des g&#xE9;odonn&#xE9;es de base entre le canton et les communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25920">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das f&#xFC;r die Geoinformation zust&#xE4;ndige Departement verhandelt mit dem Bund die Einzelheiten des Austauschs der Geobasisdaten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le d&#xE9;partement en charge de la g&#xE9;oinformation n&#xE9;gocie avec la Conf&#xE9;d&#xE9;ration les modalit&#xE9;s d'&#xE9;change de g&#xE9;odonn&#xE9;es de base.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3318">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Kantonale Geodateninfrastruktur und GIS-Wallis</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Infrastructure cantonale de g&#xE9;odonn&#xE9;es et SIT-Valais</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11303">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonale Geodateninfrastruktur</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Infrastructure cantonale de g&#xE9;odonn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25921">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton baut eine kantonale Geodateninfrastruktur auf und er verwaltet diese. Er kann sich zu diesem Zweck interkantonalen Vereinbarungen anschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton instaure et g&#xE8;re l'infrastructure cantonale de g&#xE9;odonn&#xE9;es. Il peut adh&#xE9;rer &#xE0; des conventions intercantonales &#xE0; cet effet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25922">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle koordiniert die Arbeiten und stellt die f&#xFC;r das Hosting der Geobasisdaten erforderliche Infrastruktur bereit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation coordonne les travaux et met &#xE0; disposition l'infrastructure n&#xE9;cessaire &#xE0; l'h&#xE9;bergement des g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25923">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststelle bestimmt unter anderem den Bezugsrahmen der Geobasisdaten und ist f&#xFC;r dessen Nachf&#xFC;hrung verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il d&#xE9;finit, entre autres, le cadre de r&#xE9;f&#xE9;rence des g&#xE9;odonn&#xE9;es de base et se charge de la mise &#xE0; jour de celui-ci.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11304">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">GIS-Wallis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">SIT-Valais</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25924">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das GIS-Wallis stellt die rationelle Verwaltung und die optimale Nutzung der Geodaten, insbesondere in Koordination mit den Dienststellen des Staates, den Gemeinden und Privaten w&#xE4;hrend der Produktion und Nutzung dieser Daten sicher.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le SIT-Valais garantit la gestion rationnelle et l'utilisation optimale des g&#xE9;odonn&#xE9;es, en particulier par la coordination entre les services de l'Etat, les communes et les priv&#xE9;s lors de la production et de l'utilisation de ces donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25925">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bezeichnet einen f&#xFC;r die Strategie und Aufsicht des GIS-Wallis zust&#xE4;ndigen Steuerungsausschuss und legt dessen Aufgaben fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe un conseil de direction charg&#xE9; de la strat&#xE9;gie et de la surveillance du SIT-Valais et d&#xE9;finit ses t&#xE2;ches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25926">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle erl&#xE4;sst die notwendigen Weisungen und nimmt die Koordination zwischen den Dienststellen des Staates und den Gemeinden im Bereich der Geoinformation wahr.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation &#xE9;tablit les directives n&#xE9;cessaires et ex&#xE9;cute la coordination entre les services de l'Etat et les communes dans le domaine de la g&#xE9;oinformation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25927">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie errichtet ein Geoportal, &#xFC;ber das auf die Geoinformation des GIS-Wallis und die Geodienste der kantonalen Geodateninfrastruktur zugegriffen werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il met en place un g&#xE9;oportail permettant d'acc&#xE9;der &#xE0; la g&#xE9;oinformation du SIT-Valais et aux g&#xE9;oservices de l'infrastructure cantonale de g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25928">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwaltungsbeh&#xF6;rden m&#xFC;ssen Arbeiten im Bereich der Geodaten der f&#xFC;r die Geoinformation zust&#xE4;ndigen Dienststelle melden, um die Koordination sicherzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s administratives doivent s'annoncer au service charg&#xE9; de la g&#xE9;oinformation avant d'entreprendre des travaux en relation avec des g&#xE9;odonn&#xE9;es, afin de pouvoir assurer cette coordination.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25929">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde kann f&#xFC;r ihre Zwecke ein kommunales GIS einrichten. Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle erl&#xE4;sst Richtlinien f&#xFC;r die Integration der Geodienste des Kantons in das kommunale GIS.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune peut mettre en place un SIT communal &#xE0; des fins propres. Le service en charge de la g&#xE9;oinformation &#xE9;dicte des directives au sujet de l'int&#xE9;gration des g&#xE9;oservices du canton dans le SIT communal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3319">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Kataster und Informatikplattform</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Cadastre et plate-forme informatique</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11305">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xD6;REB-Kataster</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cadastre RDPPF</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25930">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die Bestimmungen &#xFC;ber die Organisation des &#xD6;REB-Katasters gem&#xE4;ss Artikel 16 GeoIG.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte les dispositions concernant l'organisation du cadastre RDPPF selon l'article 16 LG&#xE9;o.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25931">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er erl&#xE4;sst Vorschriften, insbesondere &#xFC;ber das Verfahren f&#xFC;r die Eintragung der &#xF6;ffentlich-rechtlichen Eigentumsbeschr&#xE4;nkungen in den Kataster, die Nachf&#xFC;hrung des Katasters, das Meldesystem, die Darstellung der Zusatzinformationen, die Erarbeitung und die Beglaubigung der Ausz&#xFC;ge, die a posteriori-Beglaubigung und die amtliche Publikation.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il &#xE9;dicte des prescriptions notamment sur la proc&#xE9;dure d'inscription des restrictions de droit public dans le cadastre, la mise &#xE0; jour du cadastre, le syst&#xE8;me d'annonce, la repr&#xE9;sentation des informations suppl&#xE9;mentaires, l'&#xE9;laboration et la certification d'extraits, la certification a posteriori et la publication officielle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25932">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er bestimmt zus&#xE4;tzliche eigent&#xFC;merverbindliche Geobasisdaten, die zum Bestand des &#xD6;REB-Katasters geh&#xF6;ren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il d&#xE9;termine les g&#xE9;odonn&#xE9;es de base suppl&#xE9;mentaires qui lient les propri&#xE9;taires devant figurer au cadastre RDPPF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25933">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die f&#xFC;r den &#xD6;REB-Kataster zust&#xE4;ndige Dienststelle wird vom Staatsrat bezeichnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le service responsable du cadastre RDPPF est d&#xE9;sign&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25934">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das f&#xFC;r die Geoinformation zust&#xE4;ndige Departement verhandelt mit dem Bund die mehrj&#xE4;hrigen Programmvereinbarungen und schliesst j&#xE4;hrliche Leistungsvereinbarungen ab.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement en charge de la g&#xE9;oinformation n&#xE9;gocie avec la Conf&#xE9;d&#xE9;ration les conventions-programmes pluriannuelles et convient des contrats annuels de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25935">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Geodaten des &#xD6;REB-Katasters sind Bestandteil der kantonalen Geodateninfrastruktur.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les g&#xE9;odonn&#xE9;es devant figurer au cadastre RDPPF font partie de l'infrastructure cantonale de g&#xE9;odonn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11306">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Informatikplattform des Geb&#xE4;ude- und Wohnungsregisters</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Plate-forme informatique du Registre des b&#xE2;timents et des logements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25936">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton kann eine Informatikplattform f&#xFC;r das Geb&#xE4;ude- und Wohnungsregister gem&#xE4;ss Bundesverordnung &#xFC;ber das eidgen&#xF6;ssische Geb&#xE4;ude- und Wohnungsregister f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton peut exploiter une plate-forme informatique du Registre des b&#xE2;timents et des logements qui constitue le registre reconnu au sens de l'ordonnance f&#xE9;d&#xE9;rale sur le Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et des logements.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:25937">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt die f&#xFC;r den Aufbau und die Verwaltung der Informatikplattform zust&#xE4;ndige Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe le service charg&#xE9; de la mise en place et de l'administration de la plate-forme informatique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3320">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Finanzierung und Geb&#xFC;hren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Financement et &#xE9;moluments</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="3321">
+                <structureContent lang="de">
+                  <structureOrder>5.1</structureOrder>
+                  <structureText>Finanzierung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>5.1</structureOrder>
+                  <structureText>Financement</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:11307">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Kantonale Geodateninfrastruktur und GIS-Wallis</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Infrastructure cantonale de g&#xE9;odonn&#xE9;es et SIT-Valais</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25938">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die gem&#xE4;ss Artikel 7 zust&#xE4;ndigen Dienststellen &#xFC;bernehmen die Kosten f&#xFC;r die Erfassung, Nachf&#xFC;hrung und Verwaltung der Geobasisdaten und Geometadaten in ihrer Zust&#xE4;ndigkeit.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les services vis&#xE9;s &#xE0; l'article 7 prennent &#xE0; leur charge les co&#xFB;ts g&#xE9;n&#xE9;r&#xE9;s par la saisie, la mise &#xE0; jour et la gestion des g&#xE9;odonn&#xE9;es de base et g&#xE9;om&#xE9;tadonn&#xE9;es qui rel&#xE8;vent de sa comp&#xE9;tence.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25939">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Dasselbe gilt f&#xFC;r die Gemeinde in Bezug auf die Geobasisdaten des eidgen&#xF6;ssischen und kantonalen Rechts in ihrer Zust&#xE4;ndigkeit.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il en est de m&#xEA;me pour la commune concernant les g&#xE9;odonn&#xE9;es de base relevant du droit f&#xE9;d&#xE9;ral et cantonal qui rel&#xE8;vent de sa comp&#xE9;tence.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25940">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die gem&#xE4;ss Artikel 7 zust&#xE4;ndigen Dienststellen &#xFC;bernehmen die Kosten f&#xFC;r die Anpassung der Geodaten an die Vorschriften des Bundes und des Kantons, sofern die Finanzierung und die Kosten&#xFC;bernahme nicht durch andere gesetzliche Bestimmungen geregelt sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les services vis&#xE9;s &#xE0; l'article 7 prennent &#xE0; leur charge les frais dus &#xE0; l'adaptation des g&#xE9;odonn&#xE9;es aux prescriptions f&#xE9;d&#xE9;rales et cantonales, s'il n'y a pas d'autres dispositions l&#xE9;gales r&#xE9;glant diff&#xE9;remment financement et prise en charge des co&#xFB;ts.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25941">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r die Geoinformation zust&#xE4;ndige Dienststelle &#xFC;bernimmt die Kosten f&#xFC;r den Aufbau und Betrieb der kantonalen Geodateninfrastruktur, des kantonalen GIS, des Geoportals und der Dienstleistungen des GIS-Wallis von allgemeinem Interesse.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge de la g&#xE9;oinformation prend &#xE0; sa charge les co&#xFB;ts pour la mise en place et l'exploitation de l'infrastructure cantonale de g&#xE9;odonn&#xE9;es, du SIT cantonal, du g&#xE9;oportail et des prestations d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral du SIT-Valais.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25942">
+                        <partNumber>5</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinde &#xFC;bernimmt die Kosten der Anpassung des kommunalen GIS an das kantonale GIS.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La commune prend &#xE0; sa charge les co&#xFB;ts de la mise en conformit&#xE9; de son SIT communal avec le SIT cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11308">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Der &#xD6;REB-Kataster</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Cadastre RDPPF</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25943">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die f&#xFC;r den &#xD6;REB-Kataster zust&#xE4;ndige Dienststelle &#xFC;bernimmt die Kosten f&#xFC;r dessen Aufbau.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le service en charge du cadastre RDPPF prend &#xE0; sa charge les co&#xFB;ts de sa mise en place.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25944">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kosten f&#xFC;r die Eintragung und Nachf&#xFC;hrung einer Eigentumsbeschr&#xE4;nkung werden von der Beh&#xF6;rde &#xFC;bernommen, welche die &#xF6;ffentlich-rechtliche Beschr&#xE4;nkung beschlossen hat. Falls der Kanton einen solchen Beschluss gefasst hat, werden die Kosten von den gem&#xE4;ss Artikel 7 zust&#xE4;ndigen Dienststellen &#xFC;bernommen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les co&#xFB;ts d'inscription et de mise &#xE0; jour d'une restriction sont &#xE0; la charge de l'autorit&#xE9; qui a d&#xE9;cid&#xE9; la restriction de droit public. Si la d&#xE9;cision est prise par le canton, les co&#xFB;ts g&#xE9;n&#xE9;r&#xE9;s sont &#xE0; la charge des services vis&#xE9;s &#xE0; l'article 7.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25945">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Falls eine Gemeinde die Empfehlungen des Kantons in Sachen Geoinformation nicht befolgt, hat sie die durch die Nichtbefolgung generierten Zusatzkosten zu &#xFC;bernehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Si une commune n'applique pas les recommandations du canton en mati&#xE8;re de g&#xE9;oinformation, elle prend en charge les co&#xFB;ts suppl&#xE9;mentaires g&#xE9;n&#xE9;r&#xE9;s par la non-application.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11309">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>21</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ausbildung und Forschung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Formation et recherche</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25946">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kanton kann die Ausbildung und die Forschung im Bereich Geoinformation f&#xF6;rdern.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le canton peut encourager la formation et la recherche dans le domaine de la g&#xE9;oinformation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="3322">
+                <structureContent lang="de">
+                  <structureOrder>5.2</structureOrder>
+                  <structureText>Geb&#xFC;hren</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>5.2</structureOrder>
+                  <structureText>Emoluments</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:11310">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>22</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zugang und Nutzung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Acc&#xE8;s et utilisation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25947">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kanton und die Gemeinden k&#xF6;nnen Geb&#xFC;hren f&#xFC;r die Aufbereitung und Lieferung ihrer Geobasisdaten erheben. Diese Geb&#xFC;hren decken maximal die Kosten des Kantons oder der Gemeinde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le canton et les communes peuvent percevoir des &#xE9;moluments pour la pr&#xE9;paration et la livraison de leurs g&#xE9;odonn&#xE9;es de base. Ces &#xE9;moluments couvrent au maximum les co&#xFB;ts du canton ou de la commune.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25948">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat legt die Grunds&#xE4;tze der Geb&#xFC;hrenerhebung f&#xFC;r die &#xFC;bermittelten kantonalen Geobasisdaten und die Geodienste der f&#xFC;r die Geoinformation zust&#xE4;ndigen Dienststelle fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat fixe les principes de tarification s'appliquant aux g&#xE9;odonn&#xE9;es de base du canton transmises et aux g&#xE9;oservices mis &#xE0; disposition par le service en charge de la g&#xE9;oinformation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25949">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unter Vorbehalt gegenteiliger kommunaler Bestimmungen sind diese Grunds&#xE4;tze f&#xFC;r die Geobasisdaten und die Geodienste der Gemeinden anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En l'absence de r&#xE9;glementation communale contraire, ces principes sont applicables aux g&#xE9;odonn&#xE9;es de base et aux g&#xE9;oservices des communes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11311">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>23</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Auszug aus dem &#xD6;REB-Kataster</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Extrait du cadastre RDPPF</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25950">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Abgabe eines Auszugs aus dem &#xD6;REB-Kataster ist geb&#xFC;hrenpflichtig und wird von der f&#xFC;r die Katasterf&#xFC;hrung zust&#xE4;ndigen Dienststelle oder dem f&#xFC;r die Verwaltung des &#xD6;REB-Katasters verantwortlichen Organ erhoben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La d&#xE9;livrance d'un extrait du cadastre RDPPF est soumise &#xE0; la perception d'un &#xE9;molument par le service ou l'organe responsable de la gestion du cadastre RDPPF.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25951">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat bestimmt die Tarifierungsgrunds&#xE4;tze.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat d&#xE9;termine les principes de tarification.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:11312">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>24</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Austausch unter Beh&#xF6;rden</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Echange entre autorit&#xE9;s</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25952">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Gemeinden stellen dem Kanton die Geobasisdaten des eidgen&#xF6;ssischen und kantonalen Rechts, f&#xFC;r deren Erfassung und Verwaltung sie zust&#xE4;ndig sind, anhand der Modalit&#xE4;ten, die von den Dienststellen gem&#xE4;ss Artikel 7 festgelegt werden, kostenlos zur Verf&#xFC;gung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les communes mettent &#xE0; disposition du canton, sans frais, les g&#xE9;odonn&#xE9;es de base relevant du droit f&#xE9;d&#xE9;ral et cantonal dont la saisie et la gestion leur incombent, selon les modalit&#xE9;s fix&#xE9;es par les services vis&#xE9;s &#xE0; l'article 7.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:25953">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Kanton stellt den Gemeinden die Geobasisdaten des eidgen&#xF6;ssischen und kantonalen Rechts gem&#xE4;ss der von der f&#xFC;r die Geoinformation zust&#xE4;ndigen Dienststelle festgelegten Modalit&#xE4;ten kostenlos zur Verf&#xFC;gung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le canton met &#xE0; disposition des communes, sans frais, les g&#xE9;odonn&#xE9;es de base de droit f&#xE9;d&#xE9;ral et cantonal selon les modalit&#xE9;s fix&#xE9;es par le service en charge de la g&#xE9;oinformation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3323">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11313">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25954">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend einer vom Staatsrat festgelegten &#xDC;bergangszeit m&#xFC;ssen der Kanton und die Gemeinden die Geobasisdaten des kantonalen Rechts den qualitativen und technischen Anforderungen gem&#xE4;ss den Artikeln 5 und 6 des vorliegenden Gesetzes nur anpassen, wenn:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Durant une p&#xE9;riode transitoire d&#xE9;finie par le Conseil d'Etat, le canton et les communes ne sont tenus d'adapter les g&#xE9;odonn&#xE9;es de base relevant du droit cantonal qu'ils g&#xE8;rent aux exigences qualitatives et techniques pr&#xE9;vues aux articles 5 et 6 LcG&#xE9;o que dans les cas suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12410">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das kantonale Recht es zwingend vorschreibt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le droit cantonal le prescrit imp&#xE9;rativement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12411">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es sich um Daten handelt, deren Rechtsgrundlage mit oder nach dem Inkrafttreten des vorliegenden Gesetzes geschaffen wird;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il s'agit de donn&#xE9;es dont la base juridique est cr&#xE9;&#xE9;e par l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi ou ult&#xE9;rieurement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12412">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie die Daten neu erfassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ils entreprennent une nouvelle saisie des donn&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11314">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;nderung geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modification du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25955">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die amtliche Vermessung und Geoinformation vom 16. M&#xE4;rz 2006 wird ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la mensuration officielle et l'information g&#xE9;ographique du 16 mars 2006 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11315">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:25956">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat setzt das Inkrafttreten des vorliegenden Gesetzes fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2016-07-01</dateForce>
+      <dateVersion>2016-07-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 15/2016, 22/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

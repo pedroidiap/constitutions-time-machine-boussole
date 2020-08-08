@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container p-5">
+        <div class="row">
+            <div id="content"></div>
+        </div>
+    </div>
+{% endblock %}
+{% block javascripts %}
+    {{ parent() }}
+    <script>
+        var url_string = location.href
+        var url = new URL(url_string);
+        var lexNumber = {{ id }};
+        var anchor = url.searchParams.get("anchor");
+        var iframe = url.searchParams.get("iframe");
+
+        displayResult("http://www.datastory.ch/constitutions-time-machine/boussole/02-fr_chlex/" + lexNumber + "/" + lexNumber + ".xml", "http://www.datastory.ch/constitutions-time-machine/boussole/lex.xsl", document.getElementById("content"));
+
+        function loadXMLDoc(filename) {
+            if (window.ActiveXObject) {
+                xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+            } else {
+                xhttp = new XMLHttpRequest();
+            }
+            xhttp.open("GET", filename, false);
+            try {
+                xhttp.responseType = "msxml-document"
+            } catch (err) {
+            } // Helping IE11
+            xhttp.send("");
+            return xhttp.responseXML;
+        }
+
+        function displayResult(filename, stylesheet, targetDOMElement) {
+            xml = loadXMLDoc(filename);
+            xsl = loadXMLDoc(stylesheet);
+            // code for IE
+            if (window.ActiveXObject || xhttp.responseType == "msxml-document") {
+                ex = xml.transformNode(xsl);
+                document.getElementById("example").innerHTML = ex;
+            }
+            // code for Chrome, Firefox, Opera, etc.
+            else if (document.implementation && document.implementation.createDocument) {
+                xsltProcessor = new XSLTProcessor();
+                xsltProcessor.importStylesheet(xsl);
+                resultDocument = xsltProcessor.transformToFragment(xml, document);
+                //document.getElementById(targetDOM).appendChild(resultDocument);
+                targetDOMElement.appendChild(resultDocument)
+            }
+        }
+    </script>
+{% endblock %}

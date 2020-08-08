@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1741</normID>
+      <number>642.111</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die elektronische Einreichung der Steuererkl&#xE4;rung von nat&#xFC;rlichen Personen ohne Unterschrift</title>
+      <title lang="fr">Ordonnance concernant le d&#xE9;p&#xF4;t de la d&#xE9;claration d'imp&#xF4;t des personnes physiques par voie &#xE9;lectronique sans signature</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2018-01-24</dateAdoption>
+      <dateForce>2018-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>Eingesehen Artikel 132 Absatz 2bis und 243 des Steuergesetzes vom 10. M&#xE4;rz 1976 (StG);&#xA0;</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen und Energie;</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d&#x2019;Etat du canton du Valais</authorityDescription><basis>vu les articles 132 alin&#xE9;a 2bis et 243 de la loi fiscale du 10 mars 1976 (LF);&#xA0;</basis> <basis>sur la proposition du D&#xE9;partement des finances et de l&#x2019;&#xE9;nergie,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 5/2018</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="8190">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die elektronische Einreichung der Steuererkl&#xE4;rung von nat&#xFC;rlichen Personen ohne Unterschrift</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant le d&#xE9;p&#xF4;t de la d&#xE9;claration d'imp&#xF4;t des personnes physiques par voie &#xE9;lectronique sans signature</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:26743">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zweck</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">But</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62091">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Diese Verordnung regelt die Bedingungen und die Einzelheiten f&#xFC;r die Einreichung von Steuererkl&#xE4;rungen von nat&#xFC;rlichen Personen, die ausschliesslich elektronisch, das heisst ohne Unterschrift, erfolgt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La pr&#xE9;sente ordonnance d&#xE9;finit les conditions et pr&#xE9;cise les modalit&#xE9;s du d&#xE9;p&#xF4;t uniquement par voie &#xE9;lectronique de la d&#xE9;claration d&#x2019;imp&#xF4;ts des personnes physiques, c&#x2019;est-&#xE0;-dire sans signature.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62092">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sie gilt weder f&#xFC;r Steuererkl&#xE4;rungen, die auf dem Postweg eingereicht werden, noch f&#xFC;r solche, die elektronisch mit einer unterschriebenen Quittung abgegeben werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Elle ne s&#x2019;applique pas &#xE0; la d&#xE9;claration d&#xE9;pos&#xE9;e par voie postale, ni &#xE0; la d&#xE9;claration d&#xE9;pos&#xE9;e par voie &#xE9;lectronique confirm&#xE9;e par le d&#xE9;p&#xF4;t d&#x2019;une quittance sign&#xE9;e.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26744">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Bedingungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Conditions</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62093">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Jede steuerpflichtige Person kann ihre Steuererkl&#xE4;rung unter den in diesem Artikel genannten Bedingungen ausschliesslich elektronisch einreichen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Tout contribuable peut d&#xE9;poser sa d&#xE9;claration fiscale uniquement par voie &#xE9;lectronique aux conditions pr&#xE9;vues dans le pr&#xE9;sent article.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62094">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Steuerpflichtige Personen, die ihre Steuererkl&#xE4;rung ausschliesslich elektronisch einreichen, m&#xFC;ssen die amtliche Software "VSTax" verwenden, die von der Website der Kantonalen Steuerverwaltung (nachfolgend: KSV) heruntergeladen werden kann, oder eine f&#xFC;r dieses Verfahren zertifizierte Software von Drittanbietern.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le contribuable qui d&#xE9;pose sa d&#xE9;claration d&#x2019;imp&#xF4;t uniquement par voie &#xE9;lectronique doit utiliser le logiciel officiel "VSTax" qui peut &#xEA;tre t&#xE9;l&#xE9;charg&#xE9; sur le site Internet du Service cantonal des contributions (ci-apr&#xE8;s: SCC), ou un autre logiciel tiers certifi&#xE9; pour cette proc&#xE9;dure.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62095">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Belege, die von der KSV verlangt werden, m&#xFC;ssen zusammen mit der Steuererkl&#xE4;rung ebenfalls in elektronischer Form &#xFC;bermittelt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Il joint &#xE0; la d&#xE9;claration d&#x2019;imp&#xF4;t, sous forme &#xE9;lectronique, les pi&#xE8;ces justificatives d&#xE9;finies par le SCC.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26745">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Identifizierung der steuerpflichtigen Person</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Identification du contribuable</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62096">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die steuerpflichtige Person, die ihre Steuererkl&#xE4;rung elektronisch einreicht, bescheinigt ihre Identit&#xE4;t mit dem pers&#xF6;nlichen Passwort, welches auf dem Steuererkl&#xE4;rungsformular aufgef&#xFC;hrt ist.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Au moment du d&#xE9;p&#xF4;t &#xE9;lectronique de la d&#xE9;claration d&#x2019;imp&#xF4;t, le contribuable atteste de son identit&#xE9; au moyen du mot de passe personnalis&#xE9; indiqu&#xE9; sur la formule de d&#xE9;claration d&#x2019;imp&#xF4;t.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62097">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das pers&#xF6;nliche Passwort ersetzt die pers&#xF6;nliche Unterschrift.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le mot de passe personnalis&#xE9; remplace la signature individuelle.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26746">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#xDC;bermittlungsquittung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Confirmation de r&#xE9;ception</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62098">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die steuerpflichtige Person, die ihre Steuererkl&#xE4;rung elektronisch &#xFC;bermittelt, erh&#xE4;lt sofort eine Meldung, ob die &#xDC;bermittlung erfolgreich war, und eine &#xDC;bermittlungsquittung, die sie kontrollieren muss.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le contribuable qui a d&#xE9;pos&#xE9; sa d&#xE9;claration d&#x2019;imp&#xF4;t par voie &#xE9;lectronique est imm&#xE9;diatement inform&#xE9; de la r&#xE9;ussite ou de l&#x2019;&#xE9;chec de son envoi et re&#xE7;oit, par le m&#xEA;me canal, une quittance pour v&#xE9;rification.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62100">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Ist die &#xDC;bermittlung fehlgeschlagen, so kann die steuerpflichtige Person weitere elektronische &#xDC;bermittlungsversuche starten oder die Steuererkl&#xE4;rung per Post abgeben.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">En cas d&#x2019;&#xE9;chec du d&#xE9;p&#xF4;t, le contribuable peut proc&#xE9;der &#xE0; de nouveaux envois par voie &#xE9;lectronique ou faire parvenir la d&#xE9;claration d&#x2019;imp&#xF4;t par voie postale.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26747">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Korrektur der Steuererkl&#xE4;rung</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Correction de la d&#xE9;claration d&#x2019;imp&#xF4;t</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62101">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Nach Erhalt der &#xDC;bermittlungsquittung hat die steuerpflichtige Person zehn Tage Zeit, um ihre Steuererkl&#xE4;rung zu korrigieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le contribuable peut corriger sa d&#xE9;claration d&#x2019;imp&#xF4;t dans les dix jours suivants la confirmation de r&#xE9;ception.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62102">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Werden innert dieser Frist keine Korrekturen angebracht, kann die Steuererkl&#xE4;rung nicht mehr elektronisch ge&#xE4;ndert werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Pass&#xE9; ce d&#xE9;lai, la d&#xE9;claration ne peut plus &#xEA;tre modifi&#xE9;e par voie &#xE9;lectronique.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26748">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Frist</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">D&#xE9;lai</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62103">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Steuererkl&#xE4;rung muss in der von der KSV vorgegebenen Frist abgegeben werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La d&#xE9;claration doit &#xEA;tre d&#xE9;pos&#xE9;e dans le d&#xE9;lai prescrit par le SCC.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62104">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Sie gilt in dem Moment als eingereicht, in dem die steuerpflichtige Person die &#xDC;bermittlungsquittung erh&#xE4;lt. Artikel 5 Absatz 1 bleibt vorbehalten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La d&#xE9;claration d&#x2019;imp&#xF4;t est r&#xE9;put&#xE9;e d&#xE9;pos&#xE9;e au moment o&#xF9; le contribuable re&#xE7;oit la quittance de r&#xE9;ception. L&#x2019;article 5 alin&#xE9;a 1 est r&#xE9;serv&#xE9;.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62105">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Bestimmungen &#xFC;ber die versp&#xE4;tete Einreichung und die Fristerstreckung f&#xFC;r die per Post eingereichte Steuererkl&#xE4;rung gelten auch f&#xFC;r die elektronisch eingereichte Steuererkl&#xE4;rung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les dispositions relatives au retard du d&#xE9;p&#xF4;t ou &#xE0; la prolongation du d&#xE9;lai pr&#xE9;vues pour la d&#xE9;claration par voie postale s&#x2019;appliquent &#xE0; la d&#xE9;claration d&#xE9;pos&#xE9;e par voie &#xE9;lectronique.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26749">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Aufbewahrung der Belege und sp&#xE4;tere Mitwirkungspflicht</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Conservation des pi&#xE8;ces et collaboration ult&#xE9;rieure</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62107">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die steuerpflichtige Person muss die Belege zu einem Steuerjahr w&#xE4;hrend zehn Jahren aufbewahren. Auf Verlangen muss sie diese Belege der KSV vorlegen (Art. 134 StG).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le contribuable doit conserver durant dix ans les pi&#xE8;ces justificatives relatives &#xE0; une ann&#xE9;e fiscale. Sur demande, il les fournit au SCC (art. 134 LF).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2018-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 5/2018</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

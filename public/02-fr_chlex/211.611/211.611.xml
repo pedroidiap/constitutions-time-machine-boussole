@@ -1,0 +1,2779 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1059</normID>
+      <number>211.611</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">kGBV</abbreviation>
+      <abbreviation lang="fr">OcRF</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Kantonale Grundbuchverordnung</title>
+      <title lang="fr">Ordonnance cantonale sur le registre foncier</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2014-11-05</dateAdoption>
+      <dateForce>2015-01-02T00:00:00</dateForce>
+      <dateLastChange>2015-01-02</dateLastChange>
+      <dateVersion>2015-01-02</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 953 und folgende des Schweizerischen Zivilgesetzbuchs;</basis> <basis>eingesehen die bundesrechtliche Grundbuchverordnung vom 23. September 2011(GBV);</basis> <basis>eingesehen die Artikel 66 und folgende und 184 und folgende des Einf&#xFC;hrungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. M&#xE4;rz 1998 (EGZG);</basis> <basis>eingesehen das Gesetz &#xFC;ber die Hand&#xE4;nderungssteuer vom 15. M&#xE4;rz 2012;</basis> <basis>auf Antrag des Departements f&#xFC;r Volkswirtschaft, Energie und Raumentwicklung,</basis><formal>verordnet:(In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 953 et suivants du Code civil suisse;</basis> <basis>vu l'ordonnance f&#xE9;d&#xE9;rale sur le registre foncier du 23 septembre 2011 (ORF);</basis> <basis>vu les articles 66 et suivants et 184 et suivants de la loi d'application du code civil suisse du 24 mars 1998 (LACC);</basis> <basis>vu la loi sur les droits de mutations du 15 mars 2012;</basis> <basis>sur proposition du D&#xE9;partement de l'&#xE9;conomie, de l'&#xE9;nergie et du territoire,</basis><formal>ordonne:(Dans la pr&#xE9;sente ordonnance, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 1/2015</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3336">
+        <structureContent lang="de">
+          <structureText>Kantonale Grundbuchverordnung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>cantonale sur le registre foncier</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3338">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11339">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inhalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contenu</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26002">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Verordnung regelt in Vollzug des &#xFC;bergeordneten Rechts:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance r&#xE8;gle en ex&#xE9;cution du droit sup&#xE9;rieur:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17187">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Organisation der Grundbuch&#xE4;mter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'organisation des registres fonciers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17188">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Grundbuchf&#xFC;hrung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la tenue du registre foncier;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17189">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Grundbuchgeb&#xFC;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les &#xE9;moluments du registre foncier.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3339">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation der Grundbuch&#xE4;mter</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation des registres fonciers</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11340">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchkreise</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Arrondissements du registre foncier</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26006">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die F&#xFC;hrung des Grundbuchs werden ein oder mehrere Kreise gebildet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un ou plusieurs arrondissements sont constitu&#xE9;s pour la tenue du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26007">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einteilung der Kreise und der Sitz der Grundbuch&#xE4;mter sind im Einf&#xFC;hrungsgesetz zum Schweizerischen Zivilgesetzbuch (EGZGB) geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;partition des arrondissements et le si&#xE8;ge des offices du registre foncier sont r&#xE9;gl&#xE9;s dans la loi d'application du code civil suisse (LACC).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11341">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchverwalter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conservateur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26008">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedes Amt wird von einem Grundbuchverwalter geleitet mit einem oder mehreren Stellvertretern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Chaque office est dirig&#xE9; par un conservateur avec un ou plusieurs substituts.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11342">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ernennungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nominations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26009">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuchverwalter und ihre Stellvertreter werden gem&#xE4;ss den Bestimmungen des Gesetzes &#xFC;ber das Personal des Staates Wallis vom Staatsrat ernannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conservateurs et leurs substituts sont nomm&#xE9;s par le Conseil d'Etat selon les dispositions de la loi sur le personnel de l'Etat du Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11343">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsichtsbeh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9; de surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26010">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vom Staatsrat bezeichnete Departement &#xFC;bt die Aufsicht &#xFC;ber das Grundbuchwesen aus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;sign&#xE9; par le Conseil d'Etat exerce la surveillance en mati&#xE8;re du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26011">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt einen Grundbuchinspektor. Er ist in grundbuchtechnischen und administrativen Angelegenheiten weisungsbefugt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat nomme un inspecteur du registre foncier. Celui-ci est comp&#xE9;tent pour rendre des directives dans les affaires techniques et administratives du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26012">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grundbuchinspektor leitet das Grundbuchinspektorat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur du registre foncier dirige l'inspectorat du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11344">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inspektionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inspections</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26013">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuchinspektorat &#xFC;berpr&#xFC;ft regelm&#xE4;ssig die Grundbuchf&#xFC;hrung der einzelnen &#xC4;mter. &#xDC;ber schwerwiegende Beanstandungen erstattet es dem Departement Bericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspectorat du registre foncier contr&#xF4;le r&#xE9;guli&#xE8;rement la tenue du registre foncier de chaque office. Dans les cas de graves r&#xE9;clamations, il en fait rapport au d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11345">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchverwaltersitzungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">S&#xE9;ances des conservateurs</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26014">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuchinspektorat f&#xFC;hrt zur Vereinheitlichung der Rechtsanwendung j&#xE4;hrlich mindestens vier Grundbuchverwaltersitzungen durch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspectorat du registre foncier dirige chaque ann&#xE9;e au moins quatre s&#xE9;ances des conservateurs afin d'uniformiser l'application du droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26015">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuchverwalter sind verpflichtet, an den Sitzungen pers&#xF6;nlich teilzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conservateurs du registre foncier ont l'obligation de participer personnellement aux s&#xE9;ances.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26016">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf begr&#xFC;ndetes Gesuch hin kann der Grundbuchinspektor die Grundbuchverwalter von der pers&#xF6;nlichen Teilnahme entbinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur demande motiv&#xE9;e, l'inspecteur du registre foncier peut dispenser les conservateurs du registre foncier de leur participation personnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11346">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Lokalit&#xE4;ten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Localit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26017">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuchamt muss f&#xFC;r die &#xD6;ffentlichkeit zug&#xE4;nglich und mit Ausnahme von &#xC4;mtern der Dienststelle, in welche es einverleibt ist, r&#xE4;umlich getrennt sein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre foncier doit &#xEA;tre ouvert au public et, &#xE0; l'exception des autres offices du service auquel il appartient, il doit disposer de locaux ind&#xE9;pendants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11347">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schalter&#xF6;ffnungszeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Heures d'ouverture des guichets</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26018">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuch&#xE4;mter stehen dem Publikum an allen Arbeitstagen w&#xE4;hrend vier Stunden vormittags offen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les offices du registre foncier sont ouverts au public tous les jours ouvrables, le matin durant quatre heures.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11348">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtsgeheimnis</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Secret de fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26019">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angestellten der Grundbuch&#xE4;mter sind zur Verschwiegenheit verpflichtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les employ&#xE9;s des offices du registre foncier sont tenus au secret de fonction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34267">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Gesetzes &#xFC;ber das Personal des Staates Wallis zum Amtsgeheimnis sind anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi sur le personnel de l'Etat du Valais concernant le secret de fonction sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11349">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausstand</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;cusation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26020">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angestellten der Grundbuch&#xE4;mter haben sich in den Ausstand zu begeben in F&#xE4;llen, in denen sie selber Partei sind oder in denen ihre Ehegatten, ihre eingetragenen Partner, ihre Verwandten und Verschw&#xE4;gerten bis und mit dem dritten Grad beteiligt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les employ&#xE9;s des offices du registre foncier sont tenus de se r&#xE9;cuser dans les cas o&#xF9; ils sont eux-m&#xEA;mes parties ou lorsqu'il s'agit d'inscriptions int&#xE9;ressant leur conjoint, leur partenaire enregistr&#xE9;, leurs parents et alli&#xE9;s jusqu'au troisi&#xE8;me degr&#xE9; compris.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11350">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Haftpflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26021">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton versichert die Angestellten des Grundbuchinspektorats und der Grundbuch&#xE4;mter gegen Schadenersatzanspr&#xFC;che aus fehlerhafter Grundbuchf&#xFC;hrung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton assure les employ&#xE9;s de l'inspectorat et des offices des registres fonciers contre les pr&#xE9;tentions en dommages-int&#xE9;r&#xEA;ts pour la tenue fautive du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26022">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">M&#xFC;ndliche Ausk&#xFC;nfte der Angestellten des Grundbuchinspektorats und der Grundbuch&#xE4;mter ziehen keine Haftbarkeit nach sich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les renseignement oraux des employ&#xE9;s de l'inspectorat et des offices des registres fonciers n'entrainent aucune responsabilit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3340">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Grundbuchf&#xFC;hrung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Tenue du registre foncier</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11351">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesetzliche Grundlage</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Bases l&#xE9;gales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26023">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Grundbuchf&#xFC;hrung gelten insbesondere die Vorschriften des Schweizerischen Zivilgesetzbuchs und der bundesr&#xE4;tlichen Grundbuchverordnung sowie das Einf&#xFC;hrungsgesetz zum Schweizerischen Zivilgesetzbuch und die nachfolgenden Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions du Code civil suisse et de l'ordonnance du conseil f&#xE9;d&#xE9;ral sur le registre foncier de m&#xEA;me que la loi d'application du code civil suisse et les dispositions suivantes valent en particulier pour la tenue du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11352">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtssprache</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Langue officielle</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26024">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuch wird in den Grundbuchkreisen des Oberwallis in deutscher Sprache und in den Grundbuchkreisen des Mittel- und Unterwallis in franz&#xF6;sischer Sprache gef&#xFC;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le registre foncier est tenu en langue allemande dans les arrondissements du Haut-Valais et en langue fran&#xE7;aise dans les arrondissements du Valais central et du Bas-Valais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26025">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anmeldungen erfolgen in deutscher oder franz&#xF6;sischer Sprache.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE9;quisitions destin&#xE9;es au registre foncier sont pr&#xE9;sent&#xE9;es en allemand ou en fran&#xE7;ais.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11353">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Amtssiegel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sceau officiel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26026">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Angestellten der Grundbuch&#xE4;mter f&#xFC;gen bei der Ausstellung von Bescheinigungen und Erkl&#xE4;rungen in Papierform ihrer Unterschrift immer das amtliche Siegel bei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les employ&#xE9;s des offices du registre foncier apposent le sceau officiel &#xE0; chacune de leur signature lors de la d&#xE9;livrance d'attestations et de d&#xE9;clarations sous forme papier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11354">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unterschriftsbeglaubigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">L&#xE9;galisation de signatures</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26027">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grundbuchverwalter und seine Vertretung haben die Befugnis, gem&#xE4;ss den Bestimmungen des EGZGB, Unterschriften im Zusammenhang mit Grundbuchanmeldungen zu beglaubigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conservateur et son substitut ont qualit&#xE9;, conform&#xE9;ment aux dispositions de la LACC, pour l&#xE9;galiser les signatures en rapport avec les r&#xE9;quisitions destin&#xE9;es au registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11355">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Eigent&#xFC;merregister</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre des propri&#xE9;taires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26028">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuch&#xE4;mter f&#xFC;hren ein Eigent&#xFC;merregister im Sinne von Artikel 11 GBV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les offices du registre foncier tiennent un registre des propri&#xE9;taires au sens de l'article 11 ORF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11356">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gl&#xE4;ubigerregister</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre des cr&#xE9;anciers</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26029">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuch&#xE4;mter f&#xFC;hren ein Gl&#xE4;ubigerregister im Sinne von Artikel 12 GBV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les offices du registre foncier tiennent un registre des cr&#xE9;anciers au sens de l'article 12 ORF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11357">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchanmeldungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;quisitions au registre foncier</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26030">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Betrifft die Grundbuchanmeldung Grundst&#xFC;cke in mehreren Grundbuchkreisen, erfolgt die Anmeldung mit den Belegen in jedem betroffenen Grundbuchamt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la r&#xE9;quisition au registre foncier concerne plusieurs arrondissements, elle est adress&#xE9;e &#xE0; chaque office du registre foncier concern&#xE9;, munie des pi&#xE8;ces justificatives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26031">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Beleg f&#xFC;r den Rechtsgrundausweis hat die Urkundsperson die Urschrift und eine beglaubigte Abschrift einzureichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne habilit&#xE9;e &#xE0; dresser des actes authentiques doit d&#xE9;poser la minute ainsi qu'une copie certifi&#xE9;e conforme valant pi&#xE8;ce justificative.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26032">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Privaturkunden und beh&#xF6;rdliche Verf&#xFC;gungen sind dem Grundbuchamt im Original oder in beglaubigter Abschrift vorzulegen. Bei Privaturkunden m&#xFC;ssen die Unterschriften beglaubigt sein; ausgenommen sind Anmeldungen von Banken, Versicherungen, Beh&#xF6;rden und Gerichten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les actes sous seing priv&#xE9; et les d&#xE9;cisions officielles doivent &#xEA;tre pr&#xE9;sent&#xE9;s &#xE0; l'office du registre foncier en original ou en copie certifi&#xE9;e conforme. Pour les actes sous seing priv&#xE9;, les signatures doivent &#xEA;tre l&#xE9;galis&#xE9;es, &#xE0; l'exception des r&#xE9;quisitions des banques, des assurances, des administrations et des tribunaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26033">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Anmeldung durch Vertretung ist der Nachweis der Vertretungsmacht oder ein Ausweis &#xFC;ber das Vertretungsverh&#xE4;ltnis der berechtigten Personen einzureichen. Diese Unterlagen werden zusammen mit den Belegen aufbewahrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les r&#xE9;quisitions concernant des personnes agissant par le biais d'un repr&#xE9;sentant, la justification du pouvoir de repr&#xE9;sentation ou le document relatif au rapport de repr&#xE9;sentation doit &#xEA;tre pr&#xE9;sent&#xE9;. Ces documents sont conserv&#xE9;s avec les pi&#xE8;ces justificatives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26034">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Anmeldungen, in denen der Rechtsgrundausweis &#xF6;ffentlich beurkundet wird, sind die Urkundspersonen verpflichtet, die Anmeldungen vorzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les r&#xE9;quisitions concernant les justificatifs relatifs au titre qui doivent &#xEA;tre re&#xE7;us en la forme authentique, les personnes habilit&#xE9;es &#xE0; dresser des actes authentiques sont tenues d'effectuer les r&#xE9;quisitions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26035">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anmeldungsbelege m&#xFC;ssen die betroffenen Grundst&#xFC;cke sowie deren Eigent&#xFC;mer bezeichnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pi&#xE8;ces justificatives accompagnant la r&#xE9;quisition doivent d&#xE9;crire les immeubles concern&#xE9;s ainsi que leur propri&#xE9;taire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26036">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grundbuchverwalter kann einen Katasterauszug verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conservateur du registre foncier peut exiger la production d'un extrait de cadastre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11358">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Immatrikulation von Wasserrechtskonzessionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Immatriculation des concessions de droits d'eau</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26037">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Aufnahme von Wasserrechtskonzessionen als selbst&#xE4;ndige und dauernde Rechte, erteilen die zust&#xE4;ndigen Grundbuch&#xE4;mter die Grundst&#xFC;cksnummern gem&#xE4;ss den Weisungen des Grundbuchinspektorats.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors de l'inscription des concessions de droits d'eau comme droits distincts et permanents, les offices du registre foncier comp&#xE9;tents accordent les num&#xE9;ros d'immeuble conform&#xE9;ment aux directives de l'inspectorat du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26038">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf dem Hauptbuchblatt wird auf die betroffene Gew&#xE4;sserstrecke gem&#xE4;ss &#xDC;bersichtsplan hingewiesen und die Wasserrechtsverzeichnisnummer in die Grundst&#xFC;cksbeschreibung aufgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le feuillet du grand livre contient une r&#xE9;f&#xE9;rence &#xE0; la partie du cours d'eau concern&#xE9;e selon le plan d'ensemble et le num&#xE9;ro du registre des droits d'eau est int&#xE9;gr&#xE9; dans le descriptif de l'immeuble.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26039">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Betrifft die Grundbuchanmeldung Grundst&#xFC;cke in mehreren Grundbuchkreisen oder Grundst&#xFC;cke im selben Grundbuchkreis, erfolgt die Immatrikulation der Wasserrechtskonzession in der Gemeinde mit der gr&#xF6;ssten Gew&#xE4;sserstrecke.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la r&#xE9;quisition au registre foncier touche des immeubles dans plusieurs arrondissements ou plusieurs immeubles dans le m&#xEA;me arrondissement, l'immatriculation de la concession du droit d'eau a lieu dans la commune touch&#xE9;e par la plus grande partie du cours d'eau.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11359">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Stockwerkeigentum</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Propri&#xE9;t&#xE9; par &#xE9;tages</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26040">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die technischen Vorschriften zur Errichtung von Stockwerkeigentum sind in einer Weisung des Grundbuchinspektorats geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE8;gles techniques pour la constitution d'une propri&#xE9;t&#xE9; par &#xE9;tages sont &#xE9;tablies dans une directive de l'inspectorat du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11360">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufbewahrung von Papierbelegen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conservation des pi&#xE8;ces justificatives sur papier</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26041">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vollst&#xE4;ndig elektronisch eingelesenen Belege werden im Staatsarchiv oder an einem anderen sicheren Ort im Sinne von Artikel 37 Absatz 4 GBV aufbewahrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pi&#xE8;ces justificatives enti&#xE8;rement disponibles sous forme &#xE9;lectronique sont conserv&#xE9;es aux archives cantonales ou dans un autre lieu s&#xFB;r au sens de l'article 37 alin&#xE9;a 4 ORF.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26042">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die &#xFC;brigen Grundbuchakten werden in den Grundbuch&#xE4;mtern aufbewahrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autres documents du registre foncier sont conserv&#xE9;s dans les offices du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26043">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Archivierung und das Einsichtsrecht in die Belege richten sich nach den gesetzlichen Bestimmungen &#xFC;ber das Grundbuch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'archivage et le droit de consultation des pi&#xE8;ces justificatives s'effectuent selon les dispositions l&#xE9;gales sur le registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11361">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dienstbarkeitsplan</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Plan de servitude</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26044">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grundbuchverwalter kann in Bezug auf die &#xF6;rtliche Lage einer Dienstbarkeit, welche sich nur auf einen Teil des Grundst&#xFC;cks beschr&#xE4;nkt, die Darstellung auf einem Plan, der von einem Geometer unterzeichnet ist, verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'assiette d'une servitude est limit&#xE9;e &#xE0; une partie seulement de l'immeuble, le conservateur du registre foncier peut exiger la production d'un plan de servitude sign&#xE9; par le g&#xE9;om&#xE8;tre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11362">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesetzliche Grundpfandrechte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Hypoth&#xE8;ques l&#xE9;gales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26045">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die gesetzlichen Pfandrechte werden im Grundbuch gleich wie die vertraglichen Grundpfandverschreibungen dargestellt (Art. 118 Abs. 3 GBV).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits de gage l&#xE9;gaux sont inscrits au registre foncier de la m&#xEA;me mani&#xE8;re que les hypoth&#xE8;ques conventionnelles (art. 118 al. 3 ORF).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11363">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Eintragung von Teilpfandrechten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Inscription de droits de gage partiels</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26046">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden mehrere Grundst&#xFC;cke f&#xFC;r dieselbe Forderung verpf&#xE4;ndet, ohne dass ein Gesamtpfand errichtet werden soll, und haben die Parteien f&#xFC;r die Verteilung nichts bestimmt, so weist der Grundbuchverwalter die Anmeldung ab (Art. 113 Abs. 2 GBV).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque plusieurs immeubles sont constitu&#xE9;s en gage pour la m&#xEA;me cr&#xE9;ance, sans qu'il y ait lieu de cr&#xE9;er un gage collectif et que les parties n'ont pas fait la r&#xE9;partition, le conservateur du registre foncier rejette la r&#xE9;quisition (art. 113 al. 2 ORF).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11364">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">L&#xF6;schungen im Todesfall</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Radiations en cas de d&#xE9;c&#xE8;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26047">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Anmeldung zur L&#xF6;schung einer Nutzniessung oder Wohnrechts im Todesfall, ist eine amtliche Bescheinigung beizulegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;quisition de radiation d'un usufruit ou d'un droit d'habitation en cas de d&#xE9;c&#xE8;s du b&#xE9;n&#xE9;ficiaire doit &#xEA;tre accompagn&#xE9;e d'une attestation officielle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11365">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonales Grundbuch</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre foncier cantonal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26048">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bis zur Einf&#xFC;hrung des eidgen&#xF6;ssischen Grundbuchs sind die bestehenden Eintragungs- und Grundpfandregister in buch- oder loseblattform weiter zu f&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Jusqu'&#xE0; l'introduction du registre foncier f&#xE9;d&#xE9;ral, il est n&#xE9;cessaire de poursuivre la tenue du registre analytique et du registre hypoth&#xE9;caire sous forme de livre ou de feuillet mobile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26049">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Anlage und F&#xFC;hrung der kantonalen Transkriptions- und Grundpfandregister sind die Bestimmungen f&#xFC;r das eidgen&#xF6;ssische Grundbuch analog anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions sur le registre foncier f&#xE9;d&#xE9;ral sont applicables par analogie en ce qui concerne l'&#xE9;tablissement et la tenue des registres cantonaux de transcription et de gages immobiliers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11366">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Elektronischer Gesch&#xE4;ftsverkehr</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transactions &#xE9;lectroniques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26050">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Regelung des elektronischen Gesch&#xE4;ftsverkehrs bildet Gegenstand einer separaten Verordnung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;glementation concernant les transactions &#xE9;lectroniques sera pr&#xE9;vue dans une ordonnance s&#xE9;par&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3341">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Grundbuchgeb&#xFC;hren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Emoluments du registre foncier</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11367">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26051">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grundbuch&#xE4;mter erheben zu Handen des Kantons f&#xFC;r s&#xE4;mtliche Dienstleistungen Geb&#xFC;hren nach Massgabe der nachfolgenden Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les registres fonciers per&#xE7;oivent des &#xE9;moluments &#xE0; l'attention du canton pour toutes les op&#xE9;rations du registre foncier, conform&#xE9;ment aux dispositions suivantes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26052">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Portoauslagen sind in den Geb&#xFC;hren nicht inbegriffen und werden zus&#xE4;tzlich in ihrer effektiven H&#xF6;he erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de port ne sont pas compris dans les &#xE9;moluments et sont per&#xE7;us en sus &#xE0; leur valeur effective.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26053">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r den Arbeitsaufwand im Zusammenhang mit der Vorbereitung und dem Versand wird ein Betrag von f&#xFC;nf Franken pro einfache Sendung, beziehungsweise ein Betrag von zehn Franken f&#xFC;r die &#xFC;brigen Sendungen erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les travaux li&#xE9;s &#xE0; la pr&#xE9;paration et &#xE0; l'exp&#xE9;dition des envois postaux, il est per&#xE7;u un montant de cinq francs par envoie simple, respectivement un montant de dix francs pour les autres envois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26054">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Versandanzeigen an kantonale und kommunale Dienststellen sowie Gerichte werden keine festen Geb&#xFC;hren erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucun &#xE9;molument n'est per&#xE7;u pour les avis adress&#xE9;s aux services cantonaux et communaux ainsi qu'aux tribunaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11368">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zahlungspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation de payer</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26055">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer eine grundbuchliche Dienstleistung veranlasst hat, ist hierf&#xFC;r geb&#xFC;hrenpflichtig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Celui qui demande une prestation au registre foncier est responsable du paiement des &#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26056">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sind an einem Rechtsgesch&#xE4;ft mehrere Personen beteiligt, so sind sie f&#xFC;r die Bezahlung der Geb&#xFC;hr solidarisch haftbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si plusieurs personnes participent &#xE0; l'acte juridique, celles-ci sont solidairement responsables du paiement de l'&#xE9;molument.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11369">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hrensicherung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">S&#xFB;ret&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26057">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuchamt kann f&#xFC;r seine Geb&#xFC;hren einen Vorschuss verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'office du registre foncier peut demander une avance de frais pour les &#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26058">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Sicherung der Geb&#xFC;hr, kann das Grundbuchamt die Unterlagen zur&#xFC;ckbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En garantie du paiement de ses &#xE9;moluments, l'office du registre foncier peut retenir les documents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26059">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zur Vertretung berechtigte Person kann ihrerseits einen Vorschuss f&#xFC;r die Geb&#xFC;hren verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le repr&#xE9;sentant pour sa part peut exiger des parties une avance de frais pour le paiement des &#xE9;moluments.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11370">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verh&#xE4;ltnism&#xE4;ssige Geb&#xFC;hr</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emolument proportionnel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26060">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bemessungsgrundlage f&#xFC;r die verh&#xE4;ltnism&#xE4;ssige Geb&#xFC;hr entspricht der Bemessungsgrundlage von Artikel 11 des Gesetzes &#xFC;ber die Hand&#xE4;nderungssteuer.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La base de calcul pour l'&#xE9;molument proportionnel correspond &#xE0; la base de calcul de l'article 11 de la loi sur les droits de mutations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26061">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es werden folgende verh&#xE4;ltnism&#xE4;ssige Geb&#xFC;hren festgelegt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;moluments proportionnels sont fix&#xE9;s de la fa&#xE7;on suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:12419">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eintragung von Eigentumsrechten an Grundst&#xFC;cken<tab/>2&#x2030;, mindestens 100 Franken und h&#xF6;chstens 5'000 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">inscription des droits de propri&#xE9;t&#xE9; sur les immeubles<tab/>2&#x2030;, au minimun 100 francs et au maximum 5'000 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17190">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Errichtung Papierschuldbrief, je Titel<tab/>2.5&#x2030;, mindestens 100 Franken und h&#xF6;chstens&#xA0;2'500 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">constitution de c&#xE9;dule hypoth&#xE9;caire sur papier, chaque titre<tab/>2.5&#x2030;, au minimum 100 francs et au maximum 2'500 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17191">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Errichtung von Registerschuldbriefen sowie Grundpfandverschreibungen<tab/>1&#x2030;, mindestens 100 Franken und h&#xF6;chstens 2'500 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">constitution des c&#xE9;dules hypoth&#xE9;caires de registre ainsi que des hypoth&#xE8;ques<tab/>1&#x2030;, au minimum 100 francs et au maximum 2'500 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17192">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erh&#xF6;hung sowie Pfandauswechslung von Papierschuldbriefen<tab/>2.5&#x2030;, mindestens 100 Franken und h&#xF6;chstens 2'500 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">augmentation ainsi que remplacement de l'objet du gage des c&#xE9;dules hypoth&#xE9;caires sur papier<tab/>2.5&#x2030;, au minimum 100 francs et au maximum 2'500 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17193">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erh&#xF6;hung sowie Pfandauswechslung bei Registerschuldbriefen sowie Grundpfandverschreibungen<tab/>1&#x2030;, mindestens 100 Franken und h&#xF6;chstens 2'500 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">augmentation ainsi que remplacement de l'objet du gage des c&#xE9;dules hypoth&#xE9;caires de registre et des hypoth&#xE8;ques<tab/>1&#x2030;, au minimum 100 francs et au maximum&#xA0;2'500 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17194">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Umwandlung von Registerschuldbriefen in Papierschuldbriefe<tab/>1.5&#x2030;, mindestens 100 Franken und h&#xF6;chstens 2'500 Franken</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">transformation des c&#xE9;dules hypoth&#xE9;caires de registre en c&#xE9;dules hypoth&#xE9;caires sur papier<tab/>1.5&#x2030;, au minimum 100 francs et au maximum 2'500 francs</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26062">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei der Berechnung der verh&#xE4;ltnism&#xE4;ssigen Geb&#xFC;hr wird die Bemessungsgrundlage auf 1'000 Franken aufgerundet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors du calcul de l'&#xE9;molument proportionnel, la base de calcul est arrondie au millier de francs sup&#xE9;rieurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26063">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Anmeldungen in mehreren Grundbuch&#xE4;mtern gelten die H&#xF6;chstbetr&#xE4;ge pro Grundbuchamt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors de r&#xE9;quisitions dans plusieurs registres fonciers, les montants maximaux sont valables pour chaque office du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26064">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist der Wert der verschiedenen Grundst&#xFC;cke nicht angegeben, wird die Geb&#xFC;hr in jedem Grundbuchamt im Verh&#xE4;ltnis zu den Katasterwerten aufgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque la valeur des diff&#xE9;rents immeubles n'est pas indiqu&#xE9;e, l'&#xE9;molument est r&#xE9;parti dans chaque office du registre foncier dans la proportion des valeurs cadastrales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26065">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorstehender Geb&#xFC;hrentarif ist analog auf alle nicht ausdr&#xFC;cklich erw&#xE4;hnten F&#xE4;lle anzuwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent tarif des &#xE9;moluments est applicable par analogie &#xE0; tous les cas qui ne sont pas express&#xE9;ment mentionn&#xE9;s ci-devant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11371">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>33</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Feste Geb&#xFC;hr</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emolument fixe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26066">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine feste Geb&#xFC;hr wird unabh&#xE4;ngig von der verh&#xE4;ltnism&#xE4;ssigen Geb&#xFC;hr erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un &#xE9;molument fixe est per&#xE7;u ind&#xE9;pendamment de l'&#xE9;molument proportionnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34268">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die feste Geb&#xFC;hr wird wie folgt festgesetzt und pro Anzahl Rechtsgesch&#xE4;fte gem&#xE4;ss den Buchstaben a, b und c pauschal erhoben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;moluments fixes sont d&#xE9;termin&#xE9;s de la mani&#xE8;re suivante et factur&#xE9;s forfaitairement par les nombre des actes juridiques selon les lettres a, b et c.</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17195">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">100 Franken f&#xFC;r nachfolgende Rechtsgesch&#xE4;fte:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">100 francs pour les actes juridiques suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17196">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Miteigentum: Umwandlung Gesamteigentum in Miteigentum und umgekehrt,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">copropri&#xE9;t&#xE9;: changement de propri&#xE9;t&#xE9; commune en copropri&#xE9;t&#xE9; et inversement,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17197">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Stockwerkeigentum:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">propri&#xE9;t&#xE9; par &#xE9;tages:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17198">
+                            <partNumber>2.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Begr&#xFC;ndung von Stockwerkeigentum,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">constitution d'une propri&#xE9;t&#xE9; par &#xE9;tages,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17199">
+                            <partNumber>2.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderung von Stockwerkeigentum,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification d'une propri&#xE9;t&#xE9; par &#xE9;tages,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17200">
+                            <partNumber>2.3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Aufhebung von Stockwerkeigentum,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">suppression d'une propri&#xE9;t&#xE9; par &#xE9;tages,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17201">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Dienstbarkeiten und Grundlasten:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">servitudes et charges fonci&#xE8;res:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17202">
+                            <partNumber>3.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Begr&#xFC;ndung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">constitution de servitudes et de charges fonci&#xE8;res, par servitude et charge fonci&#xE8;re,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17203">
+                            <partNumber>3.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xDC;bertragung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">transfert de servitudes, et de charges fonci&#xE8;res, par servitude et charge fonci&#xE8;re,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17204">
+                            <partNumber>3.3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderungen von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification de servitudes et de charges fonci&#xE8;res, par servitude et charge fonci&#xE8;re;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17205">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">50 Franken f&#xFC;r nachfolgende Rechtsgesch&#xE4;fte:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">50 francs pour les actes juridiques suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17206">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Grundpfandrechte:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">droits de gage:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17207">
+                            <partNumber>1.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderung des Zinsfusses,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification du taux d'int&#xE9;r&#xEA;t,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17208">
+                            <partNumber>1.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Pfandvermehrungen oder Pfandentlassung, je Grundst&#xFC;ck,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">extension ou diminution du gage, pour chaque immeuble,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17209">
+                            <partNumber>1.3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Gl&#xE4;ubigerwechsel,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">Changement de cr&#xE9;ancier,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17210">
+                            <partNumber>1.4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Umwandlung Papierschuldbrief in Registerschuldbrief,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">transformation d'une c&#xE9;dule hypoth&#xE9;caire sur papier en c&#xE9;dule hypoth&#xE9;caire de registre,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17211">
+                            <partNumber>1.5.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Errichtung leerer Pfandstellen,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">cr&#xE9;ation de cases libres,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17212">
+                            <partNumber>1.6.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Rangversetzung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification de rang,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17213">
+                            <partNumber>1.7.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Pfandaufteilung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">reparution du gage,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17214">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Vormerkungen:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">annotations:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17215">
+                            <partNumber>2.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Begr&#xFC;ndung, pro Vormerkung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">constitution, par annotation,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17216">
+                            <partNumber>2.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderung, pro Vormerkung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification, par annotation,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17217">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Anmerkungen:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">mentions:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17218">
+                            <partNumber>3.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Begr&#xFC;ndung, pro Anmerkung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">constitution, par mention,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17219">
+                            <partNumber>3.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderung, pro Anmerkung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification, par mention,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17220">
+                            <partNumber>4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Bemerkungen, pro Bemerkung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">observation, par observation,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17221">
+                            <partNumber>5.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Namen-, Firmen-, Sitz- und Rechtsform&#xE4;nderungen, je &#xC4;nderung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">changements de nom, de raison sociale, de forme juridique, par modification;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17222">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">20 Franken f&#xFC;r nachfolgende Rechtsgesch&#xE4;fte:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">20 francs pour les actes juridiques suivantes:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17223">
+                            <partNumber>1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Stockwerkeigentum:</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">propri&#xE9;t&#xE9; par &#xE9;tages:</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17224">
+                            <partNumber>1.1.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Eintragung einer Stockwerkseigentumseinheit, je Einheit,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">immatriculation d'une part de propri&#xE9;t&#xE9; par &#xE9;tages, pour chaque unit&#xE9;,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17225">
+                            <partNumber>1.2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">&#xC4;nderung einer Stockwerkseigentumseinheit, je Einheit,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">modification d'une part de propri&#xE9;t&#xE9; par &#xE9;tages, pour chaque unit&#xE9;,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17226">
+                            <partNumber>2.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">L&#xF6;schungen, pro L&#xF6;schung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">radiations, par radiation,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17227">
+                            <partNumber>3.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Erkl&#xE4;rungen, Mitteilungen, Anzeigen an Gl&#xE4;ubiger, Private und Beh&#xF6;rden, je Mitteilung,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d&#xE9;clarations, communications, avis aux cr&#xE9;anciers, aux personnes priv&#xE9;s et aux autorit&#xE9;s, par avis,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17228">
+                            <partNumber>4.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Eintrag oder &#xC4;nderung im Gl&#xE4;ubigerregister, je Gl&#xE4;ubiger,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">inscription ou modification dans le registre des cr&#xE9;anciers, par cr&#xE9;ancier,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17229">
+                            <partNumber>5.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Dereliktion, je Grundst&#xFC;ck,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">d&#xE9;r&#xE9;liction, par immeuble,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17230">
+                            <partNumber>6.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Beglaubigung pro Unterschrift,</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l&#xE9;galisation par signature,</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:17231">
+                            <partNumber>7.</partNumber>
+                            <typeOfPart>N</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Teilungen oder Zusammenlegungen von Parzellen, je Parzelle.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">divisions ou r&#xE9;unions de parcelles, pour chaque parcelle.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26067">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorstehender Geb&#xFC;hrentarif ist analog auf alle nicht ausdr&#xFC;cklich erw&#xE4;hnten F&#xE4;lle anzuwenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent tarif relatif aux &#xE9;moluments doit &#xEA;tre appliqu&#xE9; par analogie &#xE0; tous les cas non express&#xE9;ment mentionn&#xE9;s ci-dessus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26068">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Grundbuchinspektor ist f&#xFC;r die einheitliche Anwendung der in dieser Verordnung vorgesehenen Grundbuchgeb&#xFC;hren verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspecteur des registres fonciers est charg&#xE9; de l'application uniforme de la pr&#xE9;sente ordonnance relative aux &#xE9;moluments du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11372">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>34</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Abweisung - R&#xFC;ckweisung zur Verbesserung von Grundbuchanmeldungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rejet - instruction pour la correction des r&#xE9;quisitions imparfaites</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26069">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Abweisung oder R&#xFC;ckweisung zur Verbesserung von Grundbuchanmeldungen wird unter Ber&#xFC;cksichtigung des Zeitaufwandes eine Geb&#xFC;hr von mindestens&#xA0;20 Franken&#xA0;und maximal&#xA0;200 Franken&#xA0;erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le rejet ou l'instruction pour la correction des r&#xE9;quisitions imparfaites, il est per&#xE7;u en fonction du temps consacr&#xE9; un &#xE9;molument minimum de 20 francs et au maximum 200 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11373">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>35</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftserteilung und Nachforschungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Renseignements et recherches</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26070">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die einfache m&#xFC;ndliche Auskunftserteilung ist in der Regel unentgeltlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le renseignement oral simple est dans la r&#xE8;gle gratuit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26071">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beantwortung von Voranfragen, spezifische Nachforschungen sowie Korrespondenzen sind geb&#xFC;hrenpflichtig und werden nach dem Zeitaufwand verrechnet. Die Mindestgeb&#xFC;hr betr&#xE4;gt&#xA0;Fr. 20.-. Der Stundenansatz betr&#xE4;gt f&#xFC;r Grundbuchmitarbeiter 70 Franken&#xA0;und f&#xFC;r Grundbuchjuristen&#xA0;150 Franken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les pr&#xE9;avis, les recherches sp&#xE9;cifiques ainsi que les correspondances sont factur&#xE9;s en fonction du temps consacr&#xE9;. L'&#xE9;molument minimum est de 20 francs. Le tarif horaire est de 70 francs pour les collaborateurs du registre foncier et de 150 francs pour les juristes du registre foncier.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11374">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundbuchausz&#xFC;ge und Lastenverzeichnisse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Extraits du registre foncier et &#xE9;tats des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26072">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Errichtung eines Grundbuchauszuges wird ein Betrag von&#xA0;20 Franken&#xA0;und zus&#xE4;tzlich&#xA0;5 Franken&#xA0;f&#xFC;r jedes weitere Blatt erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'&#xE9;tablissement d'un extrait du registre foncier, il est per&#xE7;u un montant de 20 francs&#xA0;ainsi qu'un montant de 5 francs pour chaque page suppl&#xE9;mentaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26073">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Grundbuchausz&#xFC;ge von Stockwerkeigentum wird ein Betrag von&#xA0;20 Franken&#xA0;pro Stammgrundst&#xFC;ck sowie ein Betrag von&#xA0;5 Franken&#xA0;pro Stockwerkeigentumseinheit erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les extraits d'une propri&#xE9;t&#xE9; par &#xE9;tages, il est per&#xE7;u un montant de 20 francs&#xA0;par immeuble de base ainsi qu'un montant de&#xA0;5 francs&#xA0;par unit&#xE9; de propri&#xE9;t&#xE9; par &#xE9;tages.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26074">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Ausstellung eines Lastenverzeichnisses wird ein Betrag von&#xA0;20 Franken&#xA0;erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'&#xE9;tablissement d'un &#xE9;tat des charges, il est per&#xE7;u un &#xE9;molument de 20 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11375">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kopien</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Copies</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26075">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Erstellung von Kopien wird ein Betrag von&#xA0;1 Franken&#xA0;pro Seite erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'&#xE9;tablissement des copies, il est per&#xE7;u par page un montant de&#xA0;1 francs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11376">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>38</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hrenbefreiung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Exon&#xE9;ration des &#xE9;moluments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26076">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Grundbuchanmeldungen, welche das Bundesrecht oder kantonale Bestimmungen von der Geb&#xFC;hrenpflicht befreit, sind von den Geb&#xFC;hren ausgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il n'est per&#xE7;u aucun &#xE9;molument lorsque la l&#xE9;gislation cantonale ou f&#xE9;d&#xE9;rale pr&#xE9;voit son exon&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26077">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen von Amts- und Rechtshilfeverfahren werden keine Grundbuchgeb&#xFC;hren erhoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aucun &#xE9;molument n'est per&#xE7;u dans le cadre de l'entraide administrative et judiciaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3342">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Rechtsweg</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Voies de droit</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11377">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>39</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voie de recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26078">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Beschwerden gegen Entscheide der Grundbuch&#xE4;mter sind innert 30 Tagen an den Staatsrat zu richten. Das Verfahren bestimmt sich nach Artikel 69 EGZGB.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les recours contre les d&#xE9;cisions des offices du registre foncier sont &#xE0; adresser dans les trente jours au Conseil d'Etat. La proc&#xE9;dure est d&#xE9;termin&#xE9;e par l'article 69 LACC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:26079">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Grundbuchinspektorat ist im Namen der kantonalen Aufsichtsbeh&#xF6;rde zur Beschwerde gegen erstinstanzliche Entscheide berechtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'inspectorat du registre foncier, agissant au nom de l'autorit&#xE9; cantonale de surveillance, a un droit de recours contre les d&#xE9;cisions de premi&#xE8;re instance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3343">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions finales et transitoires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:11378">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>40</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Eigent&#xFC;merregister</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre des propri&#xE9;taires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26080">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Solange die Grundbucheinf&#xFC;hrung im Kanton nicht abgeschlossen und die Daten des Grundbuchs nicht vollst&#xE4;ndig informatisiert sind, wird das Eigent&#xFC;merregister wie folgt gef&#xFC;hrt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Aussi longtemps que l'introduction du registre foncier n'est pas termin&#xE9;e au niveau cantonal et que les donn&#xE9;es du registre foncier ne sont pas compl&#xE8;tement informatis&#xE9;es, le registre des propri&#xE9;taires doit &#xEA;tre tenu de la fa&#xE7;on suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17817">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Eigent&#xFC;merregister ist in alphabetischer Reihenfolge anzulegen und enth&#xE4;lt Name, Vornamen, Abstammung und Geburtsdatum;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le registre des propri&#xE9;taires est &#xE9;tabli par ordre alphab&#xE9;tique et contient le nom de famille, les pr&#xE9;noms, la filiation et la date de naissance;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17820">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jeder Eigent&#xFC;mer wird unter dem Ledignamen eingetragen. Der Ledigname wird mit dem Namen und Vornamen des Ehegatten oder des eingetragenen Partners erg&#xE4;nzt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">chaque propri&#xE9;taire est inscrit sous son nom de c&#xE9;libataire. Le nom de c&#xE9;libataire est compl&#xE9;t&#xE9; par le nom et pr&#xE9;nom du conjoint ou du partenaire enregistr&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17819">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">bei Miteigentum wird jeder Miteigent&#xFC;mer in das Eigent&#xFC;merverzeichnis eingetragen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">en cas de copropri&#xE9;t&#xE9;, chaque copropri&#xE9;taire est inscrit dans le registre des propri&#xE9;taires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17818">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">im Papiergrundbuch wird die Erbengemeinschaft unter dem Namen des Erblassers eingetragen und mit dem Zusatz "Erbengemeinschaft" erg&#xE4;nzt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">dans le registre foncier tenu sur papier, la communaut&#xE9; h&#xE9;r&#xE9;ditaire est inscrite sous le nom du d&#xE9;funt et compl&#xE9;t&#xE9;e par l'ajout "communaut&#xE9; h&#xE9;r&#xE9;ditaire".</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11379">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>41</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26084">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung betreffend die F&#xFC;hrung des kantonalen Grundbuchs vom 17. April 1920 wird aufgehoben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ordonnance concernant la tenue du registre foncier cantonal du 17 avril 1920 est abrog&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:11380">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>42</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:26085">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der vorliegende Rechtserlass tritt mit seiner Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent acte l&#xE9;gislatif entre en vigueur d&#xE8;s sa publication dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2015-01-02</dateForce>
+      <dateVersion>2015-01-02</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 1/2015</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

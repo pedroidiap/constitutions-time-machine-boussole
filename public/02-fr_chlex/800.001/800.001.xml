@@ -1,0 +1,1237 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:373</normID>
+      <number>800.001</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">"Infomed" Verordnung</abbreviation>
+      <abbreviation lang="fr">Ordonnance "Infomed"</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung, &#xFC;ber das elektronische Informationsaustauschsystem im Gesundheitswesen,</title>
+      <title lang="fr">Ordonnance concernant le syst&#xE8;me d'&#xE9;change d'information sanitaire</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2013-09-18</dateAdoption>
+      <dateForce>2013-10-01T00:00:00</dateForce>
+      <dateLastChange>2014-09-01</dateLastChange>
+      <dateVersion>2014-09-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 3 bis 6 des Bundesgesetzes &#xFC;ber den Informationsaustausch zwischen den Strafverfolgungsbeh&#xF6;rden des Bundes und denjenigen der anderen Schengen-Staaten (Schengen-Informationsaustausch-Gesetz, SIaG);</basis> <basis>eingesehen die Artikel 6 Absatz 3 und 28 Absatz 3 und 4 des Gesundheitsgesetzes vom 14. Februar 2008;</basis> <basis>eingesehen seinen Entscheid vom 23. Dezember 2009;</basis> <basis>eingesehen den Entwurf zum Bundesgesetz &#xFC;ber das elektronische Patientendossier vom 29. Mai 2013 (EPDG);</basis> <basis>auf Vorschlag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu les articles 3 &#xE0; 6 de la loi f&#xE9;d&#xE9;rale sur l'&#xE9;change d'informations entre les autorit&#xE9;s de poursuite p&#xE9;nale de la Conf&#xE9;d&#xE9;ration et celles des autres Etats Schengen (Loi sur l'&#xE9;change d'informations Schengen, LEIS);</basis> <basis>vu les articles 6 alin&#xE9;a 3 et 28 alin&#xE9;as 3 et 4 de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008;</basis> <basis>vu sa d&#xE9;cision du 23 d&#xE9;cembre 2009;</basis> <basis>vu le projet de loi f&#xE9;d&#xE9;rale sur le dossier &#xE9;lectronique du patient du 29 mai 2013 (LDEIP);</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 39/2013</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1291">
+        <structureContent lang="de">
+          <structureText>Verordnung, &#xFC;ber das elektronische Informationsaustauschsystem im Gesundheitswesen,</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>concernant le syst&#xE8;me d'&#xE9;change d'information sanitaire</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1293">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Principes g&#xE9;n&#xE9;raux</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4152">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schaffung eines elektronischen Informationsaustauschsystems im Gesundheitswesen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Cr&#xE9;ation d'un syst&#xE8;me d'&#xE9;change d'information sanitaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9548">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zwischen den Gesundheitsfachpersonen und deren Einrichtungen im Kanton wird ein gemeinsames elektronisches Informations- und Datenverarbeitungssystem im Gesundheitswesen geschaffen ("Infomed").</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un syst&#xE8;me communautaire d'information sanitaire par &#xE9;change &#xE9;lectronique d'informations entre les professionnels de la sant&#xE9; et les &#xE9;tablissements et institutions sanitaires du canton (syst&#xE8;me "Infomed") est cr&#xE9;&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4153">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zwecke</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9549">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Durch den elektronischen Datenaustausch soll die Qualit&#xE4;t der Behandlungsprozesse verbessert, die Patientensicherheit erh&#xF6;ht und die Effizienz des Gesundheitssystems gesteigert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'&#xE9;change d'information vise &#xE0; am&#xE9;liorer la qualit&#xE9; des processus th&#xE9;rapeutiques, &#xE0; augmenter la s&#xE9;curit&#xE9; des patients et &#xE0; accro&#xEE;tre l'efficience du syst&#xE8;me de sant&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9550">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Durch den Datenaustausch k&#xF6;nnen dezentral abgelegte behandlungsrelevante Daten einer Patientin oder eines Patienten in einem Abrufverfahren zug&#xE4;nglich gemacht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par un partage de l'information, il permet de rendre accessibles en ligne des donn&#xE9;es enregistr&#xE9;es de mani&#xE8;re centralis&#xE9;e qui sont pertinentes pour le traitement d'un patient ou d'une patiente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1294">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4154">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinschaft</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communaut&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9551">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Umsetzung des elektronischen Informationsaustauschsystems bildet der Kanton Wallis eine einzige organisatorische Einheit aus Gesundheitsfachpersonen und ihren Einrichtungen ("Gemeinschaft").</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la mise en oeuvre du syst&#xE8;me d'&#xE9;change d'information, le canton du Valais forme une seule unit&#xE9; organisationnelle de professionnels de la sant&#xE9; et de leurs institutions ("communaut&#xE9;").</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9552">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesundheitsfachpersonen und Gesundheitseinrichtungen des Waadtl&#xE4;nder Chablais, deren Patientinnen und Patienten im Wallis wohnen oder behandelt werden und die ins Informationsaustauschsystem eingebunden werden m&#xF6;chten, k&#xF6;nnen ebenfalls Teil der Gemeinschaft bilden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les professionnels de la sant&#xE9; ou les institutions du Chablais vaudois dont les patients domicili&#xE9;s ou trait&#xE9;s en Valais souhaitent int&#xE9;grer le syst&#xE8;me d'&#xE9;change d'information peuvent aussi faire partie de la communaut&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4155">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeiten und Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;s et surveillance du syst&#xE8;me</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9553">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">W&#xE4;hrend der Projektumsetzungsphase ist ein vom Staatsrat ernanntes Direktionskomitee f&#xFC;r das Informationsaustauschsystem verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le comit&#xE9; de direction d&#xE9;sign&#xE9; par le Conseil d'Etat est responsable du syst&#xE8;me d'&#xE9;change d'information durant la phase de mise en oeuvre du projet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9554">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sobald das Informationsaustauschsystem in Betrieb genommen wird, wird das Direktionskomitee durch eine Stelle ersetzt, die nach Anh&#xF6;rung der Mitglieder der Gemeinschaft vom Staatsrat vorgeschlagen und verabschiedet wird und aus Vertretern und Vertreterinnen aller teilnehmenden Kreise und des Departements f&#xFC;r Gesundheit, Soziales und Kultur&#xA0;(nachfolgend: das Departement) besteht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le syst&#xE8;me d'information se trouve dans sa phase d'exploitation, le comit&#xE9; de direction est, apr&#xE8;s consultation des membres de la communaut&#xE9;, remplac&#xE9; par un organisme propos&#xE9; et approuv&#xE9; par le Conseil d'Etat et regroupant des repr&#xE9;sentants de tous les participants et du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture&#xA0;(ci-apr&#xE8;s: le d&#xE9;partement).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9555">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement beaufsichtigt das Informationsaustauschsystem.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'&#xE9;change d'information est plac&#xE9; sous la surveillance du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4156">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zertifizierung oder "Label"</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Certification ou "label"</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9556">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Informationsaustauschsystem muss von einer spezialisierten Stelle zertifiziert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'&#xE9;change d'information est certifi&#xE9; ou labellis&#xE9; par un organisme sp&#xE9;cialis&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9557">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Informationsaustauschsystem wird gem&#xE4;ss den vom Bundesrecht vorgesehenen Kriterien und Verfahren zertifiziert, sobald diese in Kraft treten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le syst&#xE8;me d'&#xE9;change d'information est certifi&#xE9; selon les crit&#xE8;res et les proc&#xE9;dures pr&#xE9;vues par la l&#xE9;gislation f&#xE9;d&#xE9;rale lorsqu'elle est en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4157">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unterbringung und Betrieb des Informationsaustauschsystems</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">H&#xE9;bergement et exploitation du syst&#xE8;me d'&#xE9;change d'information</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9558">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unterbringung und Betrieb des Informationsaustauschsystems werden der Stiftung des Zentralinstituts der Walliser Spit&#xE4;ler (ZIWS)(nachfolgend: die Stiftung) anvertraut und von der medizinischen und administrativen Informatikabteilung (SIMA) verwaltet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'h&#xE9;bergement et l'exploitation du syst&#xE8;me d'&#xE9;change d'information sont confi&#xE9;s &#xE0; la Fondation de l'Institut central des h&#xF4;pitaux valaisans (ICHV)(ci-apr&#xE8;s: la fondation) et g&#xE9;r&#xE9;s par le Service d'informatique m&#xE9;dicale et administrative (SIMA).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9559">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Unterbringungs- und Betriebsbestimmungen werden in einer Vereinbarung zwischen der Stiftung und dem Departement pr&#xE4;zisiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions d'h&#xE9;bergement et d'exploitation sont pr&#xE9;cis&#xE9;es dans une convention liant la fondation et le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1295">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Teilnahme am Informationsaustauschsystem</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Participation au syst&#xE8;me d'&#xE9;change d'information</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4158">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Teilnahme des Patienten oder der Patientin</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Participation du patient ou de la patiente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9560">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Teilnahme am Informationsaustauschsystem ist f&#xFC;r den Patienten oder die Patientin freiwillig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un patient ou une patiente peut librement accepter ou refuser de participer au syst&#xE8;me d'&#xE9;change d'information.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9561">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird auf eine Teilnahme am Informationssystem verzichtet, d&#xFC;rfen dem Patienten oder der Patientin daraus keine diskriminierenden Massnahmen entstehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient ou la patiente qui refuse de participer au syst&#xE8;me d'&#xE9;change d'information ne peut faire l'objet d'aucune mesure discriminatoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4159">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einwilligung des Patienten oder der Patientin</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Consentement du patient ou de la patiente</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9562">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Teilnahme am Informationsaustauschsystem verlangt die schriftliche Einwilligung des urteilsf&#xE4;higen Patienten oder der urteilsf&#xE4;higen Patientin.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La participation au syst&#xE8;me d'&#xE9;change d'information requiert le consentement &#xE9;crit du patient ou de la patiente capable de discernement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9563">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einwilligung muss freiwillig erteilt werden, nachdem die betroffene Person angemessen &#xFC;ber die Art und Weise der Datenbearbeitung und deren Auswirkungen informiert wurde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le consentement doit &#xEA;tre libre et pr&#xE9;c&#xE9;d&#xE9; des informations appropri&#xE9;es sur la mani&#xE8;re dont les donn&#xE9;es sont trait&#xE9;es et sur les cons&#xE9;quences qui en r&#xE9;sultent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9564">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Liegt die Einwilligung des Patienten oder der Patientin zur Erstellung eines elektronischen Patientendossiers vor, wird davon ausgegangen, dass die betroffene Person im Behandlungsfall damit einverstanden ist, dass die Gesundheitsfachpersonen darin Daten erfassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient ou la patiente qui a donn&#xE9; son consentement &#xE0; la constitution d'un dossier &#xE9;lectronique est pr&#xE9;sum&#xE9; accepter que les professionnels de la sant&#xE9; y saisissent des donn&#xE9;es en cas de traitement m&#xE9;dical.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9565">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einwilligung kann jederzeit schriftlich widerrufen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le consentement peut &#xEA;tre r&#xE9;voqu&#xE9; en tout temps, par &#xE9;crit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4160">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Urteilsunf&#xE4;higer Patient oder urteilsunf&#xE4;hige Patientin</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Patient ou patiente incapable de discernement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9566">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Teilnahme am Informationsaustauschsystem durch einen urteilsunf&#xE4;higen Patienten oder durch eine urteilsunf&#xE4;hige Patientin verlangt die Einwilligung des vorg&#xE4;ngig bestimmten Vertreters oder des gesetzlichen Vertreters gem&#xE4;ss den f&#xFC;r urteilsf&#xE4;hige Patientinnen und Patienten vorgesehenen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La participation au syst&#xE8;me d'&#xE9;change d'information par un patient ou une patiente incapable de discernement requiert le consentement du repr&#xE9;sentant qu'il a pr&#xE9;alablement d&#xE9;sign&#xE9; ou le consentement du repr&#xE9;sentant l&#xE9;gal, selon les modalit&#xE9;s pr&#xE9;vues pour un patient capable de discernement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9567">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Vertreter &#xFC;bt die Rechte aus, die dem Patienten oder der Patientin in Kapitel 5 der vorliegenden Verordnung zugesprochen werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le repr&#xE9;sentant exerce les droits reconnus au patient ou &#xE0; la patiente dans le chapitre 5 de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4161">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Teilnahme der Gesundheitsfachpersonen und der Gesundheitseinrichtungen und -institutionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Participation des professionnels de la sant&#xE9; et des &#xE9;tablissements et institutions sanitaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9568">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Teilnahme am Informationsaustauschsystem ist f&#xFC;r Gesundheitsfachpersonen und Gesundheitseinrichtungen und -institutionen freiwillig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les professionnels de la sant&#xE9; et les &#xE9;tablissements et institutions sanitaires peuvent librement accepter ou refuser de participer &#xE0; l'&#xE9;change d'informations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9569">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesundheitseinrichtungen und -institutionen, die nach kantonalem Recht subventioniert werden, sind angehalten, sich daran zu beteiligen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tablissements et institutions sanitaires subventionn&#xE9;s selon le droit cantonal sont tenus d'y participer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1296">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Datenzugriff</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Acc&#xE8;s aux donn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4162">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Identifikation und Authentifikation des Patienten oder der Patientin und der Gesundheitsfachperson</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Identification et authentification du patient et des professionnels de la sant&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9570">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Datenzugriff f&#xFC;r Patientinnen und Patienten sowie f&#xFC;r Gesundheitsfachpersonen wird durch zwei Faktoren authentifiziert ("starke Authentifikation").</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'acc&#xE8;s aux donn&#xE9;es par le patient et par les professionnels de la sant&#xE9; est authentifi&#xE9; par un double facteur ("authentification forte").</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9571">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Datenzugriff f&#xFC;r Gesundheitsfachpersonen kann &#xFC;ber eine Karte erfolgen, die von der entsprechenden Berufsvereinigung ausgestellt wird, falls diese identifizierende Personenmerkmale enth&#xE4;lt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'acc&#xE8;s aux donn&#xE9;es par les professionnels de la sant&#xE9; peut s'effectuer au moyen de la carte d&#xE9;livr&#xE9;e par leur association professionnelle si elle comporte un moyen d'identification personnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4163">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Patientenidentifikationsnummer</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Num&#xE9;ro d'identification du patient</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9572">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jedem Patienten beziehungsweise jeder Patientin wird eine Patientenidentifikationsnummer verliehen, die sich von der Versichertennummer im Sinne von Artikel 50c des Bundesgesetzes &#xFC;ber die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG) unterscheidet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un num&#xE9;ro d'identification est attribu&#xE9; au patient, distinct de son num&#xE9;ro d'assur&#xE9; AVS au sens de l'article 50c de la loi sur l'assurance-vieillesse et survivants du 20 d&#xE9;cembre 1946 (LAVS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9573">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die AHV-Versichertennummer kann von den Patientinnen und Patienten und den Gesundheitsfachpersonen als ein Merkmal zur Identifikation verwendet werden, namentlich f&#xFC;r den Erhalt der Patientenidentifikationsnummer.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le num&#xE9;ro d'assur&#xE9; AVS peut &#xEA;tre utilis&#xE9; par le patient et par les membres de la communaut&#xE9; &#xE0; des fins d'aide &#xE0; l'identification, notamment dans le but d'obtenir le num&#xE9;ro d'identification du patient.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4164">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Notfallsituationen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Situations d'urgence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9574">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Gesundheitsfachpersonen und Gesundheitseinrichtungen und -institutionen, die sich am Informationsaustauschsystem beteiligen, k&#xF6;nnen bei unmittelbarer Gefahr f&#xFC;r Leben und Gesundheit auf die Daten eines bestimmten Patienten oder einer bestimmten Patientin zugreifen, ausser der Patient oder die Patientin oder der gesetzliche Vertreter haben dies vorg&#xE4;ngig untersagt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout professionnel de la sant&#xE9; ou &#xE9;tablissement ou institution sanitaire participant au syst&#xE8;me d'&#xE9;change d'information peut acc&#xE9;der aux donn&#xE9;es relatives &#xE0; un patient d&#xE9;termin&#xE9; si la vie ou la sant&#xE9; de ce patient est menac&#xE9;e d'un danger imminent, &#xE0; moins que le patient ou son repr&#xE9;sentant l'ait exclu pr&#xE9;alablement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9575">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin beziehungsweise der gesetzliche Vertreter ist nachtr&#xE4;glich &#xFC;ber den Zugriff zu informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Un tel acc&#xE8;s est signal&#xE9; au patient ou &#xE0; son repr&#xE9;sentant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1297">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Rechte des Patienten oder der Patientin</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Droits reconnus au patient</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4165">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zugriff auf die eigenen Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Acc&#xE8;s aux donn&#xE9;es qui le concernent</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9576">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann auf die eigenen Daten im Informationsaustauschsystem zugreifen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut acc&#xE9;der aux donn&#xE9;es le concernant qui sont trait&#xE9;es par le syst&#xE8;me d'&#xE9;change d'information.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9577">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin hat die M&#xF6;glichkeit selber eigene Daten einzugeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut saisir lui-m&#xEA;me certaines donn&#xE9;es le concernant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4166">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vergabe von Zugriffs- und Berechtigungsrechten durch den Patienten oder die Patientin</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droit du patient &#xE0; d&#xE9;finir les destinataires et les niveaux d'acc&#xE8;s des destinataires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9578">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann die Gesundheitsfachpersonen und die Gesundheitseinrichtungen und Institutionen festlegen, die Zugriff auf seine pers&#xF6;nlichen Daten haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut d&#xE9;finir les professionnels de la sant&#xE9; et les &#xE9;tablissements et institutions sanitaires qui ont acc&#xE8;s aux donn&#xE9;es le concernant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9579">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann f&#xFC;r gewisse pers&#xF6;nliche Daten die Zugriffsberechtigung f&#xFC;r Gesundheitsfachpersonen oder Gesundheitseinrichtungen und Institutionen einschr&#xE4;nken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut limiter les droits d'acc&#xE8;s des professionnels de la sant&#xE9; ou &#xE9;tablissements et institutions sanitaires &#xE0; certaines donn&#xE9;es le concernant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9580">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann die festgelegten Zugriffsrechte und die Zugangsstufen jederzeit &#xE4;ndern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut modifier en tout temps les droits d'acc&#xE8;s et les niveaux d'acc&#xE8;s qu'il a d&#xE9;finis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4167">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zugriffsliste</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Liste des acc&#xE8;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9581">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann jederzeit die Liste der Gesundheitsfachpersonen und der Gesundheitseinrichtungen und Institutionen einsehen, die Zugriff auf seine Daten haben oder hatten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut en tout temps obtenir la liste des professionnels de la sant&#xE9; et &#xE9;tablissements et institutions sanitaires ayant acc&#xE8;s ou ayant eu acc&#xE8;s aux informations le concernant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9582">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zugriffsprotokolle m&#xFC;ssen w&#xE4;hrend&#xA0;Zehn Jahren aufbewahrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les historiques doivent &#xEA;tre conserv&#xE9;s pendant dix ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4168">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berichtigung von falschen oder unvollst&#xE4;ndigen Angaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Rectification de donn&#xE9;es inexactes ou incompl&#xE8;tes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9583">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Patient oder die Patientin kann verlangen, dass alle entsprechenden falschen oder unvollst&#xE4;ndigen pers&#xF6;nlichen Daten berichtigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le patient peut demander que toute donn&#xE9;e inexacte ou incompl&#xE8;te le concernant soit rectifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1298">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Datenschutz</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Protection des donn&#xE9;es</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4169">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Datenschutz und Datensicherheit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Confidentialit&#xE9; des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9584">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die eingegebenen Daten werden unter Einhaltung der Berufs- und Amtsgeheimnisvorgaben und der Datenschutzgesetzgebung vertraulich behandelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les donn&#xE9;es r&#xE9;colt&#xE9;es sont trait&#xE9;es confidentiellement, dans le respect des normes imposant le secret professionnel ou le secret de fonction et de la l&#xE9;gislation sur la protection des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9585">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um sicherzustellen, dass die geltenden Normen eingehalten werden, arbeitet w&#xE4;hrend der Entwicklungsphase das Direktionskomitee mit der kantonalen Datenschutzbeh&#xF6;rde zusammen und w&#xE4;hrend der anschliessenden Betriebsphase, die f&#xFC;r das Informationsaustauschsystem verantwortliche Stelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le comit&#xE9; de direction dans la phase de d&#xE9;veloppement puis l'organisme responsable du syst&#xE8;me d'&#xE9;change d'information dans la phase d'exploitation collaborent avec l'autorit&#xE9; cantonale charg&#xE9;e de la protection des donn&#xE9;es pour assurer le respect des normes en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4170">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwendung der Daten zu Statistikzwecken</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Utilisation des donn&#xE9;es &#xE0; des fins statistiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9586">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwendung von anonymen Daten f&#xFC;r statistische Zwecke ist erlaubt, wenn kein R&#xFC;ckschluss auf den betroffenen Patienten oder die betroffene Patientin m&#xF6;glich ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'utilisation &#xE0; des fins statistiques de donn&#xE9;es anonymes ne permettant pas d'identifier les patients concern&#xE9;s est autoris&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:4171">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Organisatorische und technische Massnahmen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures organisationnelles et techniques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9587">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zum Schutz der erfassten Daten gegen F&#xE4;lschung, Zerst&#xF6;rung, Diebstahl, Verlust, Kopien und weitere unerlaubte Handlungen werden geeignete Massnahmen ergriffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des mesures appropri&#xE9;es sont prises pour la protection des donn&#xE9;es enregistr&#xE9;es contre les risques de falsifications, de destruction, de vol, de perte, de copies et autres traitements illicites.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9588">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Massnahmen m&#xFC;ssen namentlich die Nachverfolgung der Handlungen innerhalb des Informationsaustauschsystems bez&#xFC;glich der gespeicherten Daten erlauben (Schaffung, &#xC4;nderungen und Zugang).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces mesures doivent notamment permettre la tra&#xE7;abilit&#xE9; du traitement (cr&#xE9;ation, modification et acc&#xE8;s) des donn&#xE9;es enregistr&#xE9;es au sein du syst&#xE8;me d'&#xE9;change d'information.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1299">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Sanktionen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Sanctions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4172">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verweis auf kantonale und eidgen&#xF6;ssische Gesetzgebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Renvoi &#xE0; la l&#xE9;gislation f&#xE9;d&#xE9;rale et cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9589">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesundheitsfachpersonen und die Organe der Gesundheitseinrichtungen und Institutionen, die den Bestimmungen des Bundes- und Kantonsrechts bez&#xFC;glich des elektronischen Patientendossiers, Datenschutz, Schweigepflicht f&#xFC;r Gesundheitsfachpersonen und Patientenrechte zuwiderhandeln, k&#xF6;nnen gem&#xE4;ss den entsprechenden Gesetzgebungen bestraft werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les professionnels de la sant&#xE9; et les organes des &#xE9;tablissements et institutions sanitaires qui contreviendraient aux dispositions du droit f&#xE9;d&#xE9;ral et du droit cantonal concernant le dossier &#xE9;lectronique du patient, la protection des donn&#xE9;es, le devoir de confidentialit&#xE9; impos&#xE9; aux professionnels de la sant&#xE9; et les droits des patients sont passibles des sanctions pr&#xE9;vues par ces l&#xE9;gislations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1300">
+            <structureContent lang="de">
+              <structureOrder>8</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>8</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:4173">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schlussbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions finales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:9590">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement wird mit der Ausf&#xFC;hrung dieser Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:9591">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verordnung wird im Amtsblatt ver&#xF6;ffentlicht und tritt am 1. Oktober 2013 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance est publi&#xE9;e au Bulletin officiel et entre en vigueur le 1<format upper="true">er</format> octobre 2013.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2013-10-01</dateForce>
+      <dateVersion>2014-09-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 34/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

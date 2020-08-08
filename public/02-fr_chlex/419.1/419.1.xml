@@ -1,0 +1,3131 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:803</normID>
+      <number>419.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GPH</abbreviation>
+      <abbreviation lang="fr">LHEP</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die P&#xE4;dagogische Hochschule Wallis</title>
+      <title lang="fr">Loi concernant la Haute &#xE9;cole p&#xE9;dagogique du Valais</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1996-10-04</dateAdoption>
+      <dateForce>1997-07-01T00:00:00</dateForce>
+      <dateLastChange>2012-09-01</dateLastChange>
+      <dateVersion>2012-09-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 13, 27 Absatz 5 und 31 Absatz 1 der Kantonsverfassung;</basis> <basis>eingesehen die Artikel 74 bis 74e und 90c des Gesetzes &#xFC;ber das &#xF6;ffentliche Erziehungswesen vom 4. Juli 1962;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 13, 27 alin&#xE9;a 5 et 31 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>vu les articles 74 &#xE0; 74e et 90c de la loi&#xA0;sur l'instruction publique du 4 juillet 1962;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1997 f 52, 339 | d 54, 347</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2405">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die P&#xE4;dagogische Hochschule Wallis</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>concernant la Haute &#xE9;cole p&#xE9;dagogique du Valais</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2407">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8363">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ziel des Gesetzes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But de la loi</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19158">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz errichtet und organisiert die P&#xE4;dagogische Hochschule Wallis (nachfolgend: PH-VS).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi cr&#xE9;e et organise la Haute &#xE9;cole p&#xE9;dagogique du Valais (ci-apr&#xE8;s: HEP-VS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19159">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es legt die Auftr&#xE4;ge fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle en d&#xE9;finit les missions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8364">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allgemeine Organisation</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organisation g&#xE9;n&#xE9;rale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19160">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-VS untersteht dem Departement f&#xFC;r Erziehung, Kultur und Sport (nachfolgend: das Departement).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS est rattach&#xE9;e au D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport (ci-apr&#xE8;s: le D&#xE9;partement).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19161">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann mit anderen Ausbildungsst&#xE4;tten innerhalb oder ausserhalb des Kantons in einem Verbundsystem organisiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut &#xEA;tre constitu&#xE9;e en r&#xE9;seau avec d'autres &#xE9;tablissements de formation, &#xE0; l'int&#xE9;rieur ou &#xE0; l'ext&#xE9;rieur du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8365">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Unterrichtsstufe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Degr&#xE9; d'enseignement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19162">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-VS ist eine Bildungsinstitution der terti&#xE4;ren Stufe.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS est un &#xE9;tablissement du degr&#xE9; tertiaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8366">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auftr&#xE4;ge der Schule</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Missions de l'&#xE9;cole</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19163">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-VS hat als Hauptaufgabe, die berufliche Grundausbildung der Kandidaten f&#xFC;r den Unterricht, namentlich an den Kinderg&#xE4;rten, Primarschulen und an den Schulen der Sekundarstufe I und/oder II sicherzustellen. Sie f&#xF6;rdert die Entfaltung ihrer Pers&#xF6;nlichkeit. Sie gew&#xE4;hrleistet ein Anforderungsniveau, das die interkantonale und internationale Anerkennung der durch sie verliehenen Lehrererm&#xE4;chtigungen erm&#xF6;glicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS a la mission g&#xE9;n&#xE9;rale d'assurer la formation professionnelle initiale des candidats &#xE0; l'enseignement, notamment pour les &#xE9;coles enfantine, primaire et pour les &#xE9;coles du secondaire du 1<format upper="true">er</format> et/ou du 2<format upper="true">e</format> degr&#xE9;. Elle contribue &#xE0; l'&#xE9;panouissement de leur personnalit&#xE9;. Elle garantit un niveau d'exigences permettant les reconnaissances intercantonale et internationale des titres d'aptitudes &#xE0; l'enseignement qu'elle d&#xE9;livre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19164">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie organisiert die Zusatzausbildung sowie die Fort- und Weiterbildung der Lehrpersonen f&#xFC;r den Kindergarten und die Primarschule.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle organise les formations compl&#xE9;mentaire et continue du personnel enseignant des &#xE9;coles enfantine et primaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19165">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie &#xFC;bernimmt bei Bedarf die Organisation der Zusatzausbildung sowie der Fort- und Weiterbildung der Lehrpersonen der Sekundarstufe I und II (der OS und der MS).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle organise au besoin les formations compl&#xE9;mentaire et continue du personnel enseignant du cycle d'orientation et du secondaire deuxi&#xE8;me degr&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19166">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann an der Ausbildung von Personen, die im Erziehungssektor t&#xE4;tig sind, mitwirken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut collaborer &#xE0; la formation de personnes engag&#xE9;es dans le secteur &#xE9;ducatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19167">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie entwickelt Forschungsarbeiten im Erziehungsbereich in Zusammenarbeit namentlich mit den zust&#xE4;ndigen Stellen des Departements.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle d&#xE9;veloppe des travaux de recherche en &#xE9;ducation, en collaboration avec les unit&#xE9;s appropri&#xE9;es du D&#xE9;partement notamment.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19168">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie stellt die p&#xE4;dagogische Beratung sicher.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle assure l'animation p&#xE9;dagogique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19169">
+                    <partNumber>7</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann ihr andere Auftr&#xE4;ge zuweisen. Er bestimmt den Rahmen und die Dauer derselben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut lui attribuer d'autres missions. Il en fixe le cadre et la dur&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8367">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gleichstellung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Egalit&#xE9; entre hommes et femmes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19170">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt die Bezeichnung der Person, des Status oder der Funktion unterschiedslos f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2408">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Grundausbildung der Kandidaten f&#xFC;r Unterricht an Kinderg&#xE4;rten und Primarschulen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Formation initiale des candidats &#xE0; l'enseignement dans les &#xE9;coles enfantine et primaire</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="2409">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Dauer der Ausbildung - Zulassungsbedingungen</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Dur&#xE9;e de la formation - Conditions d'admission</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:8368">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>6</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Dauer der Ausbildung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">La dur&#xE9;e de la formation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19171">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ausbildung der Kandidaten f&#xFC;r den Unterricht an den Kinderg&#xE4;rten und Primarklassen dauert im Prinzip drei Jahre.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La dur&#xE9;e de la formation pour les candidats &#xE0; l'enseignement dans les classes des &#xE9;coles enfantine et primaire est en principe de trois ans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19172">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Probezeit, die Praktika, die Diplomschlussarbeit und die eventuellen Sprachaufenthalte sind in dieser Zeitspanne enthalten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La p&#xE9;riode probatoire, les stages pratiques, le m&#xE9;moire de fin d'&#xE9;tudes et les &#xE9;ventuels s&#xE9;jours linguistiques sont inclus dans cette dur&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8369">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zulassung</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Admission</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19173">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kandidaten zur Ausbildung f&#xFC;r den Unterricht an den Kinderg&#xE4;rten und Primarschulen m&#xFC;ssen im Besitze eines eidgen&#xF6;ssisch anerkannten Maturit&#xE4;tsausweises sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les candidats &#xE0; la formation d'enseignant pour les classes enfantines et primaires doivent &#xEA;tre titulaires d'un certificat de maturit&#xE9; reconnu par la Conf&#xE9;d&#xE9;ration.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19174">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Departement entscheidet &#xFC;ber die Gleichwertigkeit anderer Vorbildungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le D&#xE9;partement d&#xE9;cide des &#xE9;quivalences.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19175">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es definiert die zus&#xE4;tzlichen Anforderungen f&#xFC;r Kandidaten, die sich nicht &#xFC;ber eine Maturit&#xE4;t ausweisen k&#xF6;nnen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il d&#xE9;finit les exigences compl&#xE9;mentaires requises pour les candidats non porteurs d'un titre de maturit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8370">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Probezeit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">P&#xE9;riode probatoire</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19176">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die ersten Ausbildungswochen an der PH-VS beinhalten eine Probezeit, w&#xE4;hrend der die zum Unterrichten notwendigen Eigenschaften und Motivationen evaluiert werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les premi&#xE8;res semaines de formation &#xE0; la HEP-VS sont organis&#xE9;es sous la forme d'une p&#xE9;riode probatoire durant laquelle sont &#xE9;valu&#xE9;es les qualit&#xE9;s et les motivations n&#xE9;cessaires &#xE0; l'enseignement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19177">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Alle Kandidaten haben diese Probezeit zu absolvieren, nur jene, deren F&#xE4;higkeiten und Kompetenzen in den beobachteten Situationen als gen&#xFC;gend erscheinen, werden zur weiteren Ausbildung an der PH-VS zugelassen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Tous les candidats y sont astreints; seuls ceux qui montrent des aptitudes et comp&#xE9;tences suffisantes dans les situations observ&#xE9;es sont admis &#xE0; poursuivre la formation au sein de l'&#xE9;tablissement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19178">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kandidaten k&#xF6;nnen sich zur Probezeit h&#xF6;chstens zweimal melden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les candidats peuvent acc&#xE9;der au maximum deux fois &#xE0; la phase probatoire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19179">
+                        <partNumber>4</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eine Verordnung des Staatsrates legt deren Organisation und die Bedingungen fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Une ordonnance du Conseil d'Etat en arr&#xEA;te l'organisation et les conditions.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8371">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Finanzielle Beteiligung der Studenten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Participation financi&#xE8;re des &#xE9;tudiants admis &#xE0; la formation initiale</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19180">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat legt die zu entrichtenden Betr&#xE4;ge f&#xFC;r die Probezeit, das Schulgeld pro Semester sowie f&#xFC;r die verschiedenen Spesen fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat fixe les montants &#xE0; verser pour la p&#xE9;riode probatoire, la taxe semestrielle d'&#xE9;colage et les frais divers.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="2410">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Ausbildungsbereiche und Ausbildungsg&#xE4;nge</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Domaines et champs de formation</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:8372">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ausbildungsbereiche</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Domaines de formation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19181">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Programm der PH-VS umfasst folgende Ausbildungsbereiche:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le programme d'enseignement de la HEP-VS comprend les domaines de formation suivants:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10002">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">p&#xE4;dagogische, psychologische und soziologische Ausbildung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la formation p&#xE9;dagogique, psychologique et sociologique;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10003">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Ausbildung in allgemeiner Didaktik und in Fachdidaktik;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la formation en didactique g&#xE9;n&#xE9;rale et en didactique des disciplines;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10004">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">praktische Ausbildung verzahnt mit der theoretischen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la formation pratique en articulation avec la formation th&#xE9;orique;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10005">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">fachwissenschaftliche Ausbildung;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la formation scientifique aux diverses disciplines;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10006">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Ausbildung in den musischen und kulturellen F&#xE4;chern;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la formation artistique et culturelle;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10007">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Einf&#xFC;hrung in die Forschungsarbeit auf dem Gebiet der Human- und Erziehungswissenschaften.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'initiation &#xE0; la recherche en sciences humaines et de l'&#xE9;ducation.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8373">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Ausbildungsg&#xE4;nge</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Champs de formation</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19182">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Grundausbildung f&#xFC;r die Lehrpersonen ist im Prinzip die gleiche f&#xFC;r den ganzen Kanton.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La formation initiale des enseignants est en principe la m&#xEA;me pour l'ensemble du canton.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19183">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Auf Vorschlag der PH-VS und im Hinblick auf die Entwicklung der p&#xE4;dagogischen, gesellschaftlichen und schulischen Bed&#xFC;rfnisse entscheidet der Staatsrat &#xFC;ber Differenzierungen sowohl, was die Ausbildungsg&#xE4;nge wie auch die Unterrichtsf&#xE4;cher oder die vorgeschlagenen Optionen betrifft.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sur proposition de la HEP-VS, en fonction de l'&#xE9;volution de la p&#xE9;dagogie et des besoins des &#xE9;coles et de la soci&#xE9;t&#xE9;, le Conseil d'Etat d&#xE9;cide des diff&#xE9;renciations &#xE0; am&#xE9;nager soit en ce qui concerne les degr&#xE9;s d'enseignement soit en ce qui a trait aux disciplines et aux options propos&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8374">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Studienplan</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Plan d'&#xE9;tudes</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19184">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Entsprechend den Grunds&#xE4;tzen der Teilautonomie legt der Staatsrat in einem Reglement den Rahmenlehrplan fest; dieser pr&#xE4;zisiert namentlich folgende Punkte:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En appliquant les principes de l'autonomie partielle, le Conseil d'Etat d&#xE9;finit, dans un r&#xE8;glement, le plan d'&#xE9;tudes cadres qui pr&#xE9;cise notamment:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10008">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Unterrichtsprogramm;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le programme d'enseignement;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10009">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Form und Art der Forschungsarbeiten;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">la forme et la nature des travaux de recherche;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:10010">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">Organisation der Pflichtf&#xE4;cher, der Wahl- und Freif&#xE4;cher.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">l'organisation des cours obligatoires, des cours &#xE0; option et des cours facultatifs.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19185">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Studienplan wird regelm&#xE4;ssig angepasst.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le plan d'&#xE9;tudes est adapt&#xE9; r&#xE9;guli&#xE8;rement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8375">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Praktika</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Stages pratiques</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19186">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In den drei Ausbildungsjahren sind Praktika in Klassen unterschiedlicher Stufe und Art integriert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Des stages pratiques, dans des classes de degr&#xE9;s et de nature diff&#xE9;rents, sont inclus dans les trois ann&#xE9;es de formation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19187">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Praktika werden unter der Verantwortung von speziell ausgebildeten Lehrpersonen in Absprache mit den zust&#xE4;ndigen kommunalen oder regionalen Beh&#xF6;rden absolviert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">En accord avec les autorit&#xE9;s comp&#xE9;tentes, communales ou r&#xE9;gionales, les stages s'effectuent sous la responsabilit&#xE9; de ma&#xEE;tres form&#xE9;s &#xE0; cet effet.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="2411">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Pr&#xFC;fungen und verliehene Titel</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Evaluation et titres d&#xE9;livr&#xE9;s</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:8376">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Pr&#xFC;fung der Kompetenzen und Kenntnisse</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Evaluation des comp&#xE9;tences et connaissances</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19188">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Im Laufe der Studien und bei Abschluss derselben absolvieren die Studenten der PH-VS Pr&#xFC;fungen, durch welche sowohl die Kompetenzen wie auch die Kenntnisse evaluiert werden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Tout au long des &#xE9;tudes et au terme de celles-ci, les &#xE9;tudiants de la HEP-VS font l'objet d'&#xE9;valuations portant sur les comp&#xE9;tences ainsi que sur les connaissances.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19189">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ein Reglement legt die Promotionsbedingungen fest. Dasselbe gilt f&#xFC;r die Abschlussexamen zur Erlangung der Lehrerm&#xE4;chtigung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le r&#xE8;glement pr&#xE9;cise les conditions de promotion ainsi que les seuils de ma&#xEE;trise pour l'obtention des titres d'aptitude &#xE0; l'enseignement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8377">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Diplomschlussarbeit</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">M&#xE9;moire de fin d'&#xE9;tudes</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19190">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Jeder Student hat w&#xE4;hrend seiner Ausbildung eine Diplomschlussarbeit zu erstellen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Chaque &#xE9;tudiant doit pr&#xE9;senter un m&#xE9;moire de fin d'&#xE9;tude.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19191">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Diese wird bei der Schlussbewertung mitber&#xFC;cksichtigt. Die fristgerechte Abgabe dieser Diplomschlussarbeit ist eine Voraussetzung f&#xFC;r die Zulassung zum Abschlussexamen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Il en est tenu compte dans l'&#xE9;valuation des comp&#xE9;tences &#xE0; enseigner. Le d&#xE9;p&#xF4;t de ce m&#xE9;moire dans le d&#xE9;lai fix&#xE9; est une condition d'admission &#xE0; l'examen final.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8378">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Zweite Landessprache</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Deuxi&#xE8;me langue</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19192">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bei Studienende werden von jedem Studenten als gen&#xFC;gend erachtete Kenntnisse der zweiten Landessprache gefordert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Au terme des &#xE9;tudes, il est exig&#xE9; de chaque &#xE9;tudiant une ma&#xEE;trise jug&#xE9;e suffisante de la deuxi&#xE8;me langue cantonale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19193">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die PH-VS ist besorgt, jegliche Initiative zur Verbesserung der Fremdsprachenkompetenz zu unterst&#xFC;tzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La HEP-VS veille &#xE0; encourager toute initiative favorisant cette ma&#xEE;trise.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8379">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16a</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">D&#xE9;roulement des &#xE9;tudes</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19194">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die theoretische Ausbildung und die berufspraktischen Ausbildungen dauern sechs Semester. Mindestens zwei Semester dieser theoretischen Ausbildung und der berufspraktischen Ausbildungen werden in der anderen Sprachregion des Kantons durchgef&#xFC;hrt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La formation th&#xE9;orique et les stages pratiques se d&#xE9;roulent sur six semestres. Au moins deux semestres de cette formation th&#xE9;orique et des stages pratiques sont effectu&#xE9;s dans l'autre r&#xE9;gion linguistique du canton.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19195">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat legt in einem Reglement die einzelnen Bestimmungen sowie die Fragen der Gleichwertigkeit fest.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat fixe dans un r&#xE8;glement les modalit&#xE9;s pratiques ainsi que les &#xE9;quivalences possibles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:8380">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Verliehene Titel</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Titres d&#xE9;livr&#xE9;s</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19196">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die PH-VS schl&#xE4;gt dem Departement die Verleihung der Lehrerm&#xE4;chtigungen vor.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La HEP-VS propose au D&#xE9;partement la d&#xE9;livrance des titres d'aptitude &#xE0; l'enseignement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:19197">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der Staatsrat kann &#xFC;ber die Verleihung anderer Titel entscheiden.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat peut d&#xE9;cider de la d&#xE9;livrance d'autres titres.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2412">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Fort-, Weiter- und Zusatzausbildung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Formation continue et compl&#xE9;mentaire</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8381">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verantwortlichkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19198">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-VS &#xFC;bernimmt die Verantwortung f&#xFC;r die Weiter- und Zusatzausbildung und zwar in den nachfolgenden Bereichen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS assume la responsabilit&#xE9; de la formation continue et compl&#xE9;mentaire, notamment dans les domaines suivants:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10011">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ausarbeitung eines Ausbildungskonzeptes;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'&#xE9;laboration d'un concept de formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10012">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erarbeitung der Programme;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la mise en place des programmes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10013">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Organisation, Evaluation, Kontrolle, Qualit&#xE4;tssicherung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'organisation, l'&#xE9;valuation, les contr&#xF4;les, l'assurance-qualit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10014">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verbreitung der Information;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la diffusion de l'information;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10015">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">individuelle und gemeinsame Ausbildungsprojekte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les projets de formation individuels ou collectifs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10016">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wiedereinstieg in den Lehrberuf;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la r&#xE9;int&#xE9;gration dans l'enseignement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10017">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Begleitung von schulinternen Projekten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'accompagnement des projets d'&#xE9;tablissements.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:28123">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#x2026;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#x2026;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19199">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie arbeitet mit den zust&#xE4;ndigen Stellen des Departements bei der Definition und der Bestimmung der Priorit&#xE4;ten sowie der schulischen und erzieherischen Bed&#xFC;rfnisse hinsichtlich der festgelegten Zielsetzungen zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle collabore avec les services concern&#xE9;s du D&#xE9;partement &#xE0; la d&#xE9;finition et &#xE0; la d&#xE9;termination des priorit&#xE9;s et besoins &#xE9;ducatifs et scolaires en regard des objectifs d&#xE9;finis.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8382">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kommission - Ernennung - Zusammensetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission - D&#xE9;signation - Composition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19200">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der PH-VS steht eine Beratungs- und Unterst&#xFC;tzungskommission zur Seite.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS s'appuie sur une commission de conseil et de soutien.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19201">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission wird vom Staatsrat ernannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission est nomm&#xE9;e par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19202">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-Direktion, die den Vorsitz &#xFC;bernimmt sowie die beiden Adjunkte geh&#xF6;ren ihr von Rechts wegen an.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En font partie de droit, la direction de la HEP-VS qui en assume la pr&#xE9;sidence et les deux adjoints &#xE0; la direction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19203">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die anderen Mitglieder werden unter den Hauptpartnern des Erziehungsbereichs innerhalb und ausserhalb des Kantons ausgew&#xE4;hlt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autres membres appel&#xE9;s &#xE0; la composer sont choisis parmi les partenaires principaux du syst&#xE8;me &#xE9;ducatif &#xE0; l'int&#xE9;rieur et &#xE0; l'ext&#xE9;rieur du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8383">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusatzausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formations compl&#xE9;mentaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19204">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Bedarf und im Einverst&#xE4;ndnis mit dem Departement organisiert die PH-VS Zusatzausbildungsangebote zum Beispiel f&#xFC;r Praktikumslehrer, Direktoren, Fachberater, Mediatoren, Lehrpersonen f&#xFC;r Spezialf&#xE4;cher.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au besoin et avec l'accord du D&#xE9;partement, la HEP-VS organise les formations compl&#xE9;mentaires comme celles de ma&#xEE;tres de stages, de directeurs, d'animateurs p&#xE9;dagogiques, de m&#xE9;diateurs, de ma&#xEE;tres sp&#xE9;cialis&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8384">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verliehene Titel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Titres d&#xE9;livr&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19205">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement verleiht:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement d&#xE9;livre:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10018">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Best&#xE4;tigung f&#xFC;r absolvierte Fort- und Weiterbildungsaktivit&#xE4;ten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les attestations propres &#xE0; la formation continue;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10019">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zeugnisse f&#xFC;r Zusatzausbildungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les certificats propres aux formations compl&#xE9;mentaires;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10020">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Masters of advanced studies (MAS).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des masters of advanced studies (MAS).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19206">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann &#xFC;ber die Verleihung anderer Titel entscheiden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut d&#xE9;cider de la d&#xE9;livrance d'autres titres.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2413">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Zusatzausbildung f&#xFC;r Lehrpersonen der Sekundarstufe I und II</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Formation initiale professionnelle des enseignants des &#xE9;coles secondaires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8385">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausbildungsst&#xE4;tten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Lieux de formation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19207">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Inhaber eines anerkannten Titels, der durch eine Hochschule f&#xFC;r den Unterricht in den Schulen der Sekundarstufe I und/oder II verliehen worden ist, oder eines gleichwertigen Titels erwerben die psychop&#xE4;dagogische, didaktische und praktische Ausbildung entweder an der Universit&#xE4;t oder an einer Ausbildungsst&#xE4;tte, die einen Titel zur Lehrerm&#xE4;chtigung verleiht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les porteurs d'une licence universitaire ou d'un titre &#xE9;quivalent acqui&#xE8;rent la formation psychop&#xE9;dagogique, didactique et pratique soit &#xE0; l'universit&#xE9;, soit dans un institut de formation d&#xE9;livrant un titre d'aptitude professionnelle &#xE0; l'enseignement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19208">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die PH-VS wird beauftragt, diese Ausbildung anzubieten. Sie stellt ein Anforderungsniveau sicher, das eine interkantonale und internationale Anerkennung der von ihr verliehenen Lehrerm&#xE4;chtigungen gew&#xE4;hrleistet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La HEP-VS est charg&#xE9;e de dispenser cette formation. Elle assure un niveau d'exigences permettant la reconnaissance intercantonale et internationale des titres d'aptitude &#xE0; l'enseignement qu'elle d&#xE9;livre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8386">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Psychop&#xE4;dagogische, didaktische und praktische Ausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation psychop&#xE9;dagogique, didactique et pratique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19209">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die psychop&#xE4;dagogische, didaktische und praktische Ausbildung umfasst einen theoretischen Unterricht an der PH-VS sowie Praktika auf der Sekundarstufe I oder II.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La formation psychop&#xE9;dagogique, didactique et pratique comprend des cours th&#xE9;oriques dispens&#xE9;s par la HEP-VS et des stages dans des classes d'&#xE9;coles secondaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19210">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die organisatorischen Modalit&#xE4;ten der in Absatz 1 vorgesehenen Ausbildung sowie die Modalit&#xE4;ten der Praktika werden in einer Verordnung des Staatsrats bestimmt, die insbesondere Folgendes festlegt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les modalit&#xE9;s d'organisation de la formation pr&#xE9;vue &#xE0; l'alin&#xE9;a 1 ainsi que les modalit&#xE9;s des stages sont d&#xE9;finies dans une ordonnance du Conseil d'Etat qui fixe notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10021">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Zulassungsbedingungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les conditions d'admission;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10022">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Dauer und den Ablauf der Ausbildung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la dur&#xE9;e et le d&#xE9;roulement de la formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10023">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Ausbildungsbereiche und -gebiete;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les domaines et champs de formation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10024">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Studienpl&#xE4;ne;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les plans d'&#xE9;tudes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10025">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bewertung der Kenntnisse;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'&#xE9;valuation des connaissances;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10026">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Diplomschlussarbeit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le m&#xE9;moire de fin d'&#xE9;tudes;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10027">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die verliehenen Titel;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les titres d&#xE9;livr&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10028">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bedingungen der finanziellen Beteiligung der Kandidaten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les conditions de participation financi&#xE8;re des candidats.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8387">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verliehene Titel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Titres d&#xE9;livr&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19211">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Vorschlag der PH-VS verleiht das Departement Titel f&#xFC;r die Lehrerm&#xE4;chtigung in der Sekundarstufe I und/oder II gem&#xE4;ss den Bestimmungen der Erziehungsdirektorenkonferenz (EDK).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur proposition de la HEP-VS, le D&#xE9;partement d&#xE9;livre les titres d'aptitude &#xE0; l'enseignement dans le secondaire du 1<format upper="true">er</format> et/ou du 2<format upper="true">e</format> degr&#xE9; conformes aux dispositions de la Conf&#xE9;rence des directeurs de l'instruction publique (CDIP).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:38981">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2414">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Besondere Ausbildungsg&#xE4;nge</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Formations sp&#xE9;ciales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8388">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundausbildung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation de base</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19212">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kandidaten f&#xFC;r Ausbildung in Hauswirtschaft, in technisch angewandtem Gestalten, in musischen und andern &#xE4;hnlichen F&#xE4;chern m&#xFC;ssen sich grunds&#xE4;tzlich &#xFC;ber eine eidgen&#xF6;ssisch anerkannte Maturit&#xE4;t ausweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les candidats &#xE0; la formation d'enseignant pour l'&#xE9;conomie familiale, les travaux manuels, les activit&#xE9;s cr&#xE9;atrices manuelles, les disciplines artistiques et autres disciplines de nature analogue doivent &#xEA;tre en principe titulaires d'un certificat de maturit&#xE9; reconnu par la Conf&#xE9;d&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19213">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement entscheidet &#xFC;ber die Gleichwertigkeit anderer Vorbildungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement d&#xE9;cide des &#xE9;quivalences.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19214">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es definiert die zus&#xE4;tzlichen Anforderungen f&#xFC;r die Kandidaten, die sich nicht &#xFC;ber eine Maturit&#xE4;t ausweisen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il d&#xE9;finit les exigences compl&#xE9;mentaires requises pour les candidats n'atteignant pas le niveau de la maturit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8389">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Psychop&#xE4;dagogische, didaktische und praktische Ausbildung, spezifische Ausbildung der unterrichteten F&#xE4;cher</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation psychop&#xE9;dagogique didactique et pratique, formation sp&#xE9;cifique &#xE0; la(aux) discipline(s) enseign&#xE9;e(s)</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19215">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die psychop&#xE4;dagogische, didaktische und praktische Ausbildung sowie die fachspezifische Ausbildung werden entweder an einer kantonalen oder interkantonalen Institution erworben, welche berechtigt ist, die Lehrerm&#xE4;chtigung zu verleihen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La formation psychop&#xE9;dagogique, didactique et pratique ainsi que la formation sp&#xE9;cifique &#xE0; la(aux) discipline(s) enseign&#xE9;e(s) s'acqui&#xE8;rent soit dans une institution officielle habilit&#xE9;e &#xE0; d&#xE9;cerner ces titres d'enseignement, soit dans une structure mise en place sur le plan intercantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19216">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Bedarf kann diese Aufgabe der PH-VS anvertraut werden; gegebenenfalls trifft sie die n&#xF6;tigen Vereinbarungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au besoin, la HEP-VS peut &#xEA;tre charg&#xE9;e de dispenser cette formation ou de passer les accords utiles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8390">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ausbildung von F&#xE4;chergruppenlehrpersonen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Formation pluridisciplinaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19217">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ausbildungsprogramme sind so konzipiert, dass sie den Unterricht in mehreren F&#xE4;chern oder Lernbereichen erm&#xF6;glichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les programmes de formation sont con&#xE7;us de mani&#xE8;re &#xE0; permettre l'enseignement de plusieurs disciplines.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19218">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie werden in Zusammenarbeit mit den andern verantwortlichen Ausbildungspartnern erstellt und sind im Sinne eines Baukastensystems zu organisieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils sont &#xE9;labor&#xE9;s en collaboration avec les autres partenaires responsables de la formation et organis&#xE9;s sous la forme d'unit&#xE9;s capitalisables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2415">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Organe</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Organes</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8391">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Departement f&#xFC;r Erziehung, Kultur und Sport</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19219">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement hat in allen F&#xE4;llen, f&#xFC;r die nicht der Staatsrat zust&#xE4;ndig ist, die Entscheidungsbefugnis. Es hat namentlich folgende Aufgaben zu erf&#xFC;llen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le D&#xE9;partement d&#xE9;cide dans tous les cas qui ne sont pas de la comp&#xE9;tence du Conseil d'Etat. Il a notamment les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10029">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es legt die Rahmenlehrpl&#xE4;ne fest und unterbreitet sie dem Staatsrat zur Billigung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il &#xE9;tablit les plans d'&#xE9;tudes cadres et les soumet &#xE0; l'approbation du Conseil d'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10030">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es schl&#xE4;gt dem Staatsrat die Ernennung des Direktors und des Lehrpersonals vor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il propose au Conseil d'Etat la nomination du directeur et du corps enseignant;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10031">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es verleiht die Lehrerm&#xE4;chtigungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il d&#xE9;livre les titres d'aptitude &#xE0; l'enseignement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10032">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">es entscheidet &#xFC;ber die Politik in der Fort-, Weiter- und Zusatzausbildung gem&#xE4;ss den Bed&#xFC;rfnissen der Schule.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">il d&#xE9;cide de la politique en mati&#xE8;re de formation continue en fonction des besoins des &#xE9;coles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8392">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Direktionsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil de direction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19220">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Direktionsrat der PH-VS beaufsichtigt den p&#xE4;dagogischen und administrativen Bereich der Institution.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le conseil de direction de la HEP-VS est charg&#xE9; de superviser le bon fonctionnement p&#xE9;dagogique et administratif de l'&#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19221">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er sorgt daf&#xFC;r, dass die Ausbildungsprojekte den Bed&#xFC;rfnissen der Walliser Schule entsprechen, sowohl in der Grundausbildung wie in der Fort- und Weiterbildung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il veille &#xE0; l'ad&#xE9;quation entre les besoins de l'&#xE9;cole valaisanne et les projets de formation, initiale et continue, mis en place &#xE0; la HEP-VS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19222">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Zusammensetzung, Organisation und Verantwortlichkeit werden vom Staatsrat definiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sa composition, son organisation et ses attributions sont d&#xE9;finies par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8393">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Konferenz des Lehrpersonals</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conf&#xE9;rence du corps enseignant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19223">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die allgemeine Konferenz des Lehrpersonals versammelt sich so oft es von der Direktion f&#xFC;r notwendig erachtet wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La conf&#xE9;rence g&#xE9;n&#xE9;rale du corps enseignant de la HEP-VS se r&#xE9;unit aussi souvent que la direction le juge n&#xE9;cessaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19224">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19225">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Konferenz hat vor allem folgende Aufgaben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a notamment les attributions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10033">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie arbeitet an der Abkl&#xE4;rung der f&#xFC;r die Schulorganisation wichtigen Fragen mit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle collabore &#xE0; l'analyse des questions importantes concernant l'organisation de l'&#xE9;cole;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10034">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie pr&#xFC;ft und unterbreitet der Direktion &#xC4;nderungen des Studienplans;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle &#xE9;tudie et propose &#xE0; la direction les changements de programme d'enseignement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10035">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sie &#xE4;ussert ihre Meinung bei der Verleihung der Lehrerm&#xE4;chtigung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">elle se prononce en mati&#xE8;re d'&#xE9;valuation des comp&#xE9;tences &#xE0; enseigner.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8394">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Studentenvereinigung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Association des &#xE9;tudiants</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19226">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Studierenden der PH-VS k&#xF6;nnen sich in einer Vereinigung zusammenschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tudiants de la HEP-VS peuvent se constituer en association.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19227">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Vereinigung kann bei Fragen der Studienorganisation, der Anforderungen zur Erlangung der Lehrerm&#xE4;chtigung, der kulturellen und p&#xE4;dagogischen Animation konsultiert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'association se prononce sur les questions relatives notamment &#xE0; l'organisation des &#xE9;tudes, aux exigences requises pour l'obtention des titres, &#xE0; l'animation culturelle et p&#xE9;dagogique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2416">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Lehrpersonal, Mittelbau, technisches und administratives Personal, Praktikumslehrer und p&#xE4;dagogische Fachberater</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Corps enseignant, corps interm&#xE9;diaire, personnel technique et administratif, ma&#xEE;tres de stages et animateurs p&#xE9;dagogiques</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8395">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Lehrpersonal</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Corps enseignant</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19228">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Lehrpersonal setzt sich zusammen aus:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le corps enseignant comprend:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10036">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">dem Direktor;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le directeur;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10037">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Adjunkten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les adjoints &#xE0; la direction;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10038">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Professoren/Lehrbeauftragten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les professeurs/charg&#xE9;s d'enseignements;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10039">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Lehrbeauftragten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les charg&#xE9;s d'enseignement.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19229">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Lehrpersonal wird vom Staatsrat angestellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le corps enseignant est engag&#xE9; par le Conseil d&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8396">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gastreferenten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Enseignants invit&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19230">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Direktion der PH-VS kann mit dem Einverst&#xE4;ndnis der Dienststelle f&#xFC;r terti&#xE4;re Bildung f&#xFC;r eine bestimmte Zeitdauer, aber maximal f&#xFC;r ein Jahr Gastreferenten anstellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La direction de la HEP-VS peut engager, avec l'accord du Service de la formation tertiaire, des enseignants invit&#xE9;s pour une p&#xE9;riode d&#xE9;termin&#xE9;e, mais au maximum pour une ann&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8397">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>33</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Direktion</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Direction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19231">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat stellt den Direktor der PH-VS an. Er legt dessen Pflichtenheft fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat engage un directeur &#xE0; la t&#xEA;te de la HEP-VS. Il en arr&#xEA;te le cahier des charges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19232">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8398">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>34</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Adjunkten des Direktors</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Adjoints &#xE0; la direction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19233">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat stellt auf Vormeinung des Direktors zwei Adjunkten an, die f&#xFC;r eine oder mehrere Auftr&#xE4;ge der Schule zust&#xE4;ndig sind. Ihre Aufgaben werden in einem Pflichtenheft geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat, sur pr&#xE9;avis du directeur, engage deux adjoints &#xE0; la direction, responsables d'une ou de plusieurs des missions de l'&#xE9;cole. Le cahier des charges pr&#xE9;cise leurs t&#xE2;ches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19234">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8399">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>35</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Qualifikation der Professoren/Lehrbeauftragten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Qualifications des professeurs/charg&#xE9;s d'enseignements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19235">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Professoren/Lehrbeauftragten der PH-VS m&#xFC;ssen im Besitze eines von einer Universit&#xE4;t verliehenen oder eines als gleichwertig anerkannten Titels sein, sich &#xFC;ber Unterrichtserfahrung ausweisen k&#xF6;nnen und eine Zusatzausbildung in Erziehungswissenschaften abgeschlossen haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les professeurs/charg&#xE9;s d'enseignements de la HEP-VS doivent &#xEA;tre porteurs de titres universitaires ou jug&#xE9;s &#xE9;quivalents, &#xEA;tre au b&#xE9;n&#xE9;fice d'une exp&#xE9;rience pratique de l'enseignement et avoir acquis une qualification compl&#xE9;mentaire en sciences de l'&#xE9;ducation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19236">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19237">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Grundausbildung der Lehrpersonen der Sekundarschulen m&#xFC;ssen die Professoren/Lehrbeauftragten f&#xFC;r Psychop&#xE4;dagogik und allgemeine Didaktik &#xFC;ber ein universit&#xE4;res Nachdiplomstudium in einem Bereich der Erziehungswissenschaften oder eine f&#xFC;r gleichwertig befundene Ausbildung verf&#xFC;gen. Ausserdem m&#xFC;ssen sie entweder eine praktische Lehrerfahrung an einer Orientierungs- und Mittelschule, eine Ausbildung als Erwachsenenbildner oder eine als gleichwertig angesehene Erfahrung vorweisen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour la formation initiale professionnelle des enseignants des &#xE9;coles secondaires, les professeurs de psychop&#xE9;dagogie et de didactique g&#xE9;n&#xE9;rale doivent justifier d'une formation universitaire de troisi&#xE8;me cycle dans un domaine des sciences de l'&#xE9;ducation ou d'une formation jug&#xE9;e &#xE9;quivalente. Ils doivent en outre pouvoir justifier d'une exp&#xE9;rience pratique de l'enseignement au niveau secondaire, d'une formation en &#xE9;ducation des adultes ou d'une exp&#xE9;rience jug&#xE9;e &#xE9;quivalente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8400">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechte - Pflichten - Besoldung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Droits - Obligations - Traitements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19238">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Rechte und Pflichten des Lehrpersonals sind in einer vom Staatsrat erlassenen und vom Grossen Rat gebilligten Verordnung festgehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits et obligations du corps enseignant sont d&#xE9;finis dans une ordonnance du Conseil d'Etat approuv&#xE9;e par le Grand Conseil.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19239">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Arbeitszeit der Professoren/Lehrbeauftragten wird j&#xE4;hrlich durch die Direktion zwischen den Aufgaben der Professoren/Lehrbeauftragten (Art. 14 der Verordnung betreffend das Statut des Personals der P&#xE4;dagogischen Hochschule Wallis) und der Lehrbeauftragten (Art.&#xA0;15 der Verordnung betreffend das Statut des Personals der P&#xE4;dagogischen Hochschule Wallis) aufgeteilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le temps de travail des professeurs/charg&#xE9;s d'enseignement est partag&#xE9; annuellement par la Direction entre les t&#xE2;ches de professeur (art. 14 ordonnance concernant le statut du personnel de la haute &#xE9;cole p&#xE9;dagogique) et les t&#xE2;ches de charg&#xE9;s d'enseignement (art. 15 ordonnance concernant le statut du personnel de la haute &#xE9;cole p&#xE9;dagogique).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19240">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zum Erlangen des Titels eines Professoren/Lehrbeauftragten muss die betreffende Lehrperson f&#xFC;r einen Besch&#xE4;ftigungsgrad von mindestens 50 Prozent ernannt sein und einen Besch&#xE4;ftigungsgrad von mindestens acht Prozent, der der g&#xE4;ngigen Unterrichtsaktivit&#xE4;t gewidmet ist, ausweisen k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour b&#xE9;n&#xE9;ficier du titre de professeur/charg&#xE9; d'enseignement, l'int&#xE9;ress&#xE9; doit &#xEA;tre nomm&#xE9; pour un temps de travail annuel d'au moins 50 pour cent d'un plein temps et assumer au moins huit pour cent d'un plein temps de t&#xE2;ches d'un charg&#xE9; d'enseignement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19241">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Besoldung des Lehrpersonals ist im Gesetz &#xFC;ber die Besoldung des Lehrpersonals der Lehranstalten des Kantons Wallis f&#xFC;r eine h&#xF6;here berufliche Ausbildung vorgesehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les traitements du personnel enseignant sont pr&#xE9;vus dans la loi fixant le traitement du corps enseignant des &#xE9;coles de formation professionnelle sup&#xE9;rieure.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19242">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Jahresl&#xF6;hne der Professoren/Lehrbeauftragten h&#xE4;ngen von der prozentualen Aufgabenzuteilung ab.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les traitements annuels des professeurs/charg&#xE9;s d'enseignement sont fonction des taux de partage des t&#xE2;ches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8401">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Mittelbau</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Corps interm&#xE9;diaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19243">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mitglieder des Mittelbaus sind:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont membres du corps interm&#xE9;diaire:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10040">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die wissenschaftlichen Adjunkte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les adjoints scientifiques;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:10041">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Assistenten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les assistants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19244">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Allgemeinen wirken die Mitglieder des Mittelbaus an den Lehrt&#xE4;tigkeiten, an den Forschungs- und Entwicklungsarbeiten und an den Dienstleistungen mit. Ihr T&#xE4;tigkeitsbereich kann gem&#xE4;ss den Weisungen der Direktion ausgedehnt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En r&#xE8;gle g&#xE9;n&#xE9;rale, les membres du corps interm&#xE9;diaire collaborent aux activit&#xE9;s d'enseignement, aux travaux de recherche et de d&#xE9;veloppement ainsi qu'aux prestations de service. Leur champ d'activit&#xE9;s peut &#xEA;tre &#xE9;tendu selon les instructions de la direction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19245">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Rechte und Pflichten des Mittelbaus werden in der Verordnung betreffend das Statut des Personals der P&#xE4;dagogischen Hochschule Wallis geregelt. Ihre Besoldung wird entsprechend der Gesetzgebung festgelegt, welche das Gehalt des Personals des Staates Wallis regelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les droits et obligations des membres du corps interm&#xE9;diaire sont fix&#xE9;s dans l'ordonnance concernant le statut du personnel de la Haute &#xE9;cole p&#xE9;dagogique. Leur traitement est r&#xE9;gi conform&#xE9;ment &#xE0; la l&#xE9;gislation fixant le traitement du personnel de l'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8402">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Technisches und administratives Personal</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnel technique et administratif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19246">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienstverh&#xE4;ltnisse des technischen und des administrativen Personals sind im Gesetz &#xFC;ber das Personal des Staates Wallis geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les rapports de service du personnel technique et administratif sont r&#xE9;gis par la loi sur le personnel de l&#x2019;Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8403">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>38</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Praktikumslehrpersonen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ma&#xEE;tres de stages</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19247">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Praktikumslehrpersonen sind erfahrene, speziell dazu ausgebildete Lehrpersonen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les ma&#xEE;tres de stages sont des enseignants exp&#xE9;riment&#xE9;s au b&#xE9;n&#xE9;fice d'une formation certifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19248">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ihr Pflichtenheft wird vom Staatsrat festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Leur cahier des charges est fix&#xE9; par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8404">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>38a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fachberater</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Animateurs p&#xE9;dagogiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19249">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Fachberater sind in der Regel Lehrpersonen der Primarschulen und der Sekundarschulen I und II, die durch das zust&#xE4;ndige Departement je nach Bedarf in Teilzeit und/oder f&#xFC;r eine beschr&#xE4;nkte Dauer angestellt werden, um besondere Aufgaben oder Auftr&#xE4;ge bei den Lehrpersonen ihrer Stufe wahrzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les animateurs p&#xE9;dagogiques sont, en r&#xE8;gle g&#xE9;n&#xE9;rale, des enseignants des &#xE9;coles primaires et secondaires I ou II engag&#xE9;s &#xE0; ce titre &#xE0; temps partiel et/ou pour une p&#xE9;riode limit&#xE9;e, en fonction des besoins, par le D&#xE9;partement comp&#xE9;tent pour des missions ou des mandats particuliers &#xE0; remplir aupr&#xE8;s des enseignants de leur(s) degr&#xE9;(s).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="2417">
+            <structureContent lang="de">
+              <structureOrder>8</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>8</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:8405">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>39</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19250">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz gilt nicht f&#xFC;r das gem&#xE4;ss dem Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962 und den entsprechenden Ausf&#xFC;hrungsbestimmungen ausgebildete Lehrpersonal.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi ne s'applique pas au personnel enseignant form&#xE9; &#xE0; l'&#xE9;cole normale selon les dispositions de la loi&#xA0;sur l'instruction publique du 4 juillet 1962&#xA0;et de ses textes d'application.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19251">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Artikel 20 des vorliegenden Gesetzes bleibt vorbehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'article 20 de la pr&#xE9;sente loi est r&#xE9;serv&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19252">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Studenten der Lehrerseminarien, die im Juni des Jahres 2000 die Promotion nicht schaffen, k&#xF6;nnen die Pr&#xFC;fungen laut den von der Direktion festgelegten Bestimmungen wiederholen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les &#xE9;tudiants de l'&#xE9;cole normale en &#xE9;chec &#xE0; l'examen final de la session de juin 2000 peuvent r&#xE9;p&#xE9;ter cet examen conform&#xE9;ment aux conditions fix&#xE9;es par la direction.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19253">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Reglement &#xFC;ber die Lehrerseminarien vom 30. November 1977&#xA0;bleibt in Kraft f&#xFC;r alle, die bis zum Jahr 2000 ihr Studium mit dem p&#xE4;dagogischen Reifezeugnis abschliessen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les conditions d'obtention du dipl&#xF4;me d'enseignement puis du brevet p&#xE9;dagogique fix&#xE9;es dans le r&#xE8;glement concernant l'&#xE9;cole normale du 30 novembre 1977 restent en vigueur pour les porteurs de la maturit&#xE9; p&#xE9;dagogique jusqu'en l'an 2000.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8406">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>40</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ab&#xE4;nderung des Gesetzes &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modification de la loi sur l'instruction publique du 4 juillet 1962</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19254">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber das &#xF6;ffentliche Unterrichtswesen vom 4. Juli 1962&#xA0;wird ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi&#xA0;sur l'instruction publique du 4 juillet 1962 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:8407">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>41</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:19260">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:19261">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt den Zeitpunkt seines Inkrafttretens fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="5141">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 09.11.2006</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 09.11.2006</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:17070">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:38982">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Lehrpersonen, welche durch den Staatsratsentscheid vom 24. Januar 2001 zu Professoren ernannt worden sind, behalten dieses Statut und diebetreffende Besoldung bis zum 31. August 2007.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les enseignants nomm&#xE9;s en qualit&#xE9; de professeurs par d&#xE9;cision du Conseil d&#x2019;Etat du 24 janvier 2001 gardent ce statut et le traitement y aff&#xE9;rent jusqu&#x2019;au 31 ao&#xFB;t 2007.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1997-07-01</dateForce>
+      <dateVersion>2012-09-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 38/2011, 52/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,51 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container p-5">
+        <div class="row">
+            <h3 class="ml-3 mb-3">
+                <a href="{{ path('commission-index') }}" class="cons-icon-back d-inline-block">
+                    <svg class="bi bi-chevron-left" width="0.8em" height="0.8em" viewBox="0 0 16 16" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd"
+                              d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+                    </svg>
+                </a>
+                {{ commission.id }} - {{ commission.nom }}
+            </h3>
+        </div>
+        <div class="row">
+            <div class="col-12 table-striped">
+                <table class="table">
+                    <thead class="thead-light">
+                    <tr>
+                        <th>Article</th>
+                        <th>Texte</th>
+                        <th>Actions</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for article in commission.articles %}
+                        <tr>
+                            <td class="font-weight-bold">{{ article.nomArticle }}</td>
+                            <td>
+                                {% if article.texte == '' %}
+                                    Article abrogé
+                                {% else %}
+                                    {{ article.texte|u.truncate(200, '...')|raw }}
+                                {% endif %}
+                            </td>
+                            <td>
+                                <a href="{{ path('article-details', {'id': article.id}) }}"
+                                   class="btn btn-outline-dark">
+                                    Détails
+                                </a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}

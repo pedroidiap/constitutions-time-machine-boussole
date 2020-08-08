@@ -1,0 +1,1829 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1766</normID>
+      <number>935.2</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GBR</abbreviation>
+      <abbreviation lang="fr">LGAR</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten weiterer Risikoaktivit&#xE4;ten</title>
+      <title lang="fr">Loi sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2007-10-11</dateAdoption>
+      <dateForce>2008-05-01T00:00:00</dateForce>
+      <dateLastChange>2018-05-01</dateLastChange>
+      <dateVersion>2018-05-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 2 und 3 des Bundesgesetzes &#xFC;ber den Binnenmarkt vom 6. Oktober 1995;</basis> <basis>eingesehen die Artikel 15, 24, 31, 38 und 57 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 2 et 3 de la loi f&#xE9;d&#xE9;rale sur le march&#xE9; int&#xE9;rieur du 6 octobre 1995;</basis> <basis>vu les articles 15, 24, 31, 38 et 57 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 2008 f 15, 420 | d 15, 429</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="8608">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten weiterer Risikoaktivit&#xE4;ten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8609">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Ziele und Geltungsbereich</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Buts et champ d'application</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27842">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64746">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz regelt das gewerbsm&#xE4;ssige Anbieten von Sportaktivit&#xE4;ten mit erh&#xF6;hten Sicherheitsanforderungen zum Schutze von Mensch und Umwelt (nachfolgend: Berufst&#xE4;tigkeiten genannt).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi r&#xE9;glemente l'offre commerciale d'activit&#xE9;s sportives qui n&#xE9;cessitent des exigences &#xE9;lev&#xE9;es en mati&#xE8;re de s&#xE9;curit&#xE9; pour la protection des personnes et de l'environnement (ci-apr&#xE8;s: activit&#xE9;s professionnelles).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64747">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es bezweckt die Gew&#xE4;hrleistung der Sicherheit der direkt Beteiligten, aber auch von Unbeteiligten und der Umwelt und will im Sinne der Gesetzgebung &#xFC;ber den Tourismus ein qualitativ hoch stehendes Angebot im Bereich der Sportberufe sicherstellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a pour but de garantir la s&#xE9;curit&#xE9; des personnes directement impliqu&#xE9;es, mais aussi des personnes non impliqu&#xE9;es et de l'environnement, et entend assurer une offre de haute qualit&#xE9; dans le secteur des professions du sport, au sens de la l&#xE9;gislation sur le tourisme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64748">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es legt die pers&#xF6;nlichen Anforderungen an die Leistungsanbieter fest, namentlich in den Bereichen Ausbildung, Fortbildung und Versicherungsschutz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle fixe les exigences personnelles envers les prestataires, notamment dans les domaines de la formation initiale, du perfectionnement et de la couverture d'assurance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64749">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Es legt die sachlichen Bedingungen und Auflagen fest, die im Interesse der Sicherheit der Beteiligten und f&#xFC;r die Gew&#xE4;hrung einer hohen Qualit&#xE4;t des Leistungsangebotes erforderlich sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle fixe les conditions et obligations mat&#xE9;rielles indispensables afin de garantir la s&#xE9;curit&#xE9; des pratiquants et une qualit&#xE9; &#xE9;lev&#xE9;e de l'offre de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27843">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64750">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem vorliegenden Gesetz unterliegen die gewerbsm&#xE4;ssig angebotenen Leistungen in den Sportarten und Aktivit&#xE4;ten, die erh&#xF6;hte Gefahren f&#xFC;r die Beteiligten, f&#xFC;r Dritte oder f&#xFC;r die Umwelt beinhalten und nicht anderweitig geregelt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont soumises &#xE0; la pr&#xE9;sente loi les prestations offertes &#xE0; titre commercial dans les sports et activit&#xE9;s qui pr&#xE9;sentent des risques &#xE9;lev&#xE9;s pour leurs pratiquants, pour des tiers ou pour l'environnement et ne sont pas r&#xE9;gl&#xE9;es dans un autre cadre.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64751">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als gewerbsm&#xE4;ssige Angebote gelten alle gegen finanzielle oder andere Formen von Entgelt erbrachten Leistungen, unabh&#xE4;ngig davon, ob diese als Hauptberuf oder als Nebenerwerb erbracht werden, insbesondere als:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont consid&#xE9;r&#xE9;es comme offres commerciales toutes les prestations contre r&#xE9;tribution financi&#xE8;re ou autre, que ces prestations soient fournies &#xE0; titre d'activit&#xE9; principale ou accessoire, notamment en tant que:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43953">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bergf&#xFC;hrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">guide de montagne;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43954">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kletterlehrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">moniteur d'escalade;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43955">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Schneesportlehrer inner- und ausserhalb des Skigebiets;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">professeur de sports de neige sur et hors du domaine skiable;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43956">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wanderleiter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">accompagnateur de randonn&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43957">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Canyoninglehrer oder -f&#xFC;hrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">moniteur ou guide de canyoning;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43958">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Rafting- und Wildwasserabfahrtslehrer oder -f&#xFC;hrer;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">moniteur ou guide de rafting et de descentes en eaux vives;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43959">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bungee-Jumpinglehrer oder -f&#xFC;hrer.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">moniteur ou guide de saut &#xE0; l'&#xE9;lastique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64752">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dem vorliegenden Gesetz sind alle nat&#xFC;rlichen und juristischen Personen unterstellt, welche Leistungen in diesem Sinne anbieten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont soumises &#xE0; la pr&#xE9;sente loi toutes les personnes physiques et morales qui offrent des prestations dans ce sens.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64753">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Leistungsanbieter im Sinne von Absatz 2 und die Wasserkraftwerkbetreiber tauschen gegenseitig die erforderlichen Informationen aus und arbeiten im Bereich der Sicherheit eng zusammen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les prestataires au sens de l'alin&#xE9;a 2 et les exploitants de centrales hydro&#xE9;lectriques s'&#xE9;changent mutuellement les informations requises et travaillent en &#xE9;troite collaboration en mati&#xE8;re de s&#xE9;curit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64754">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8610">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Zust&#xE4;ndigkeit und Organisation</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Comp&#xE9;tences et organisation</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27844">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Staatsrat</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conseil d'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64755">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat &#xFC;bt die Oberaufsicht &#xFC;ber die dem vorliegenden Gesetz unterstellten T&#xE4;tigkeiten aus.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat exerce la haute surveillance sur les activit&#xE9;s soumises &#xE0; la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64756">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er regelt auf dem Verordnungswege die Aus&#xFC;bung der unter seiner Oberaufsicht stehenden Berufe und definiert die verschiedenen Aktionsbereiche.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il r&#xE9;glemente par voie d'ordonnance l'exercice des professions plac&#xE9;es sous sa haute surveillance et d&#xE9;finit les diff&#xE9;rents champs d'activit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64757">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er kann weitere, gegen Entgelt angebotene Leistungen im Bereich derjenigen Sportarten reglementieren, die hohe Sicherheitsanforderungen zum Schutz der Beteiligten oder der Umwelt erfordern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il peut r&#xE9;glementer d'autres prestations offertes &#xE0; titre commercial dans des sports et activit&#xE9;s qui posent des exigences &#xE9;lev&#xE9;es en mati&#xE8;re de s&#xE9;curit&#xE9; pour la protection de leurs pratiquants ou de l'environnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64758">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er kann die gewerbsm&#xE4;ssige Aus&#xFC;bung bestimmter T&#xE4;tigkeiten verbieten, wenn diese f&#xFC;r die Beteiligten, Dritte oder die Umwelt ein &#xFC;berm&#xE4;ssiges Risikopotenzial beinhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il peut interdire la pratique commerciale de certaines activit&#xE9;s lorsque ces derni&#xE8;res pr&#xE9;sentent un risque potentiel excessif pour leurs pratiquants, pour des tiers ou pour l'environnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27845">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vollzugsorgan</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Organe d'ex&#xE9;cution</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64759">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt in der Verordnung die mit dem Vollzug des vorliegenden Gesetzes beauftragte Dienststelle.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat d&#xE9;signe dans l'ordonnance le service comp&#xE9;tent pour l'ex&#xE9;cution de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64760">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Kontrollbeh&#xF6;rde kann sie die Mitarbeit anderer Beh&#xF6;rden und Verwaltungsstellen anfordern, namentlich die Organe zur Bek&#xE4;mpfung der Schwarzarbeit, die &#xF6;rtlichen Polizeiorgane und subsidi&#xE4;r die Kantonspolizei.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En tant qu'autorit&#xE9; de contr&#xF4;le, ce dernier peut solliciter la collaboration d'autres autorit&#xE9;s et services administratifs, notamment des organes de lutte contre le travail au noir, des organes de police locaux et subsidiairement de la police cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64761">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat ernennt eine Kommission, in der der Staat und die interessierten Kreise vertreten sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat nomme une commission dans laquelle l'Etat et les milieux concern&#xE9;s sont repr&#xE9;sent&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64762">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission ist das beratende Organ in diesem Bereich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission est l'organe consultatif en la mati&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64763">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ihre Aufgabe ist namentlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle a notamment pour t&#xE2;ches:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43960">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Aus- und Weiterbildung zu organisieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'organiser la formation et la formation continue;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43961">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Aus&#xFC;bung dieser Berufe zu kontrollieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de contr&#xF4;ler l'exercice de ces professions;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43962">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Kanton innerhalb der Dach- und Berufsverb&#xE4;nde zu vertreten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de repr&#xE9;senter le canton au sein des associations fa&#xEE;ti&#xE8;res et professionnelles;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43963">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der zust&#xE4;ndigen Dienststelle die zu ergreifenden Massnahmen im Falle von Widerhandlungen gegen die Gesetzgebung vorzuschlagen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de proposer au service comp&#xE9;tent les mesures &#xE0; prendre en cas de non-respect de la l&#xE9;gislation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64764">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission unterbreitet jeweils zum Jahresende einen T&#xE4;tigkeitsbericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission remet &#xE0; la fin de chaque ann&#xE9;e un rapport d'activit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27846">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anerkennung der F&#xE4;higkeitszeugnisse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Reconnaissance des certificats de capacit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64765">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Anerkennung der in- und ausl&#xE4;ndischen F&#xE4;higkeitszeugnisse ist in der Bundesgesetzgebung &#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten weiterer Risikoaktivit&#xE4;ten geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La l&#xE9;gislation f&#xE9;d&#xE9;rale concernant les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque r&#xE9;git la reconnaissance des certificats de capacit&#xE9; nationaux et &#xE9;trangers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64766">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27847">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Register</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Registre</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64767">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollzugsorgan f&#xFC;hrt ein Register mit den erforderlichen Angaben zu den nat&#xFC;rlichen und juristischen Personen, die dem vorliegenden Gesetz unterstellt sind, und ver&#xF6;ffentlicht es periodisch im Amtsblatt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe d'ex&#xE9;cution tient un registre contenant les informations utiles sur les personnes physiques et morales soumises &#xE0; la pr&#xE9;sente loi et le publie p&#xE9;riodiquement dans le Bulletin officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64768">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollzugsorgan teilt Dritten, selbst wenn diese kein berechtigtes Interesse geltend machen k&#xF6;nnen, mit, ob eine Person &#xFC;ber eine Bewilligung verf&#xFC;gt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe d'ex&#xE9;cution indique &#xE0; des tiers, sans que ceux-ci justifient d'un int&#xE9;r&#xEA;t l&#xE9;gitime, si une personne dispose d'une autorisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8611">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Bewilligungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Autorisations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27848">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewilligungspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'autorisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64769">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur gewerblichen Aus&#xFC;bung der dem vorliegenden Gesetz unterstellten T&#xE4;tigkeiten bedarf es einer pers&#xF6;nlichen Berufsaus&#xFC;bungsbewilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exercice &#xE0; titre commercial des activit&#xE9;s soumises &#xE0; la pr&#xE9;sente loi requiert une autorisation d'exercer personnelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64770">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unternehmen und Organisationen, die eine dem vorliegenden Gesetz unterliegende T&#xE4;tigkeit anbieten, ben&#xF6;tigen eine Betriebsbewilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les entreprises et organisations qui offrent une activit&#xE9; soumise &#xE0; la pr&#xE9;sente loi doivent &#xEA;tre au b&#xE9;n&#xE9;fice d'une autorisation d'exploiter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64771">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Regeln &#xFC;ber die Sorgfaltspflicht sind integrierender Bestandteil jeder Bewilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les r&#xE8;gles relatives au devoir de diligence font partie int&#xE9;grante de toute autorisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27849">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Sorgfaltspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Devoir de diligence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64772">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer eine dem vorliegenden Gesetz unterstellte Aktivit&#xE4;t aus&#xFC;bt, muss die Massnahmen treffen, die nach der Erfahrung erforderlich, nach dem Stand der Technik m&#xF6;glich und nach den gegebenen Verh&#xE4;ltnissen angemessen sind, um die Gef&#xE4;hrdung von Leben und Gesundheit der Leistungsempf&#xE4;nger zu verhindern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne qui exerce une activit&#xE9; soumise &#xE0; la pr&#xE9;sente loi doit prendre les mesures requises par l'exp&#xE9;rience, possibles sur le plan technique et appropri&#xE9;es compte tenu des circonstances, afin d'&#xE9;viter que la vie et la sant&#xE9; des b&#xE9;n&#xE9;ficiaires des prestations ne soient mises en danger.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64773">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Leistungsanbieter muss insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le prestataire doit notamment:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43964">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Leistungsempf&#xE4;nger &#xFC;ber die besonderen Gefahren aufkl&#xE4;ren, die mit der Aus&#xFC;bung der gew&#xE4;hlten Aktivit&#xE4;t verbunden sein k&#xF6;nnen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">informer les b&#xE9;n&#xE9;ficiaires des prestations des risques particuliers encourus lors de l'exercice de l'activit&#xE9; choisie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43965">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;berpr&#xFC;fen, ob die Leistungsempf&#xE4;nger &#xFC;ber eine ausreichende k&#xF6;rperliche Verfassung verf&#xFC;gen, um die gew&#xE4;hlte Aktivit&#xE4;t auszu&#xFC;ben;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'assurer que les b&#xE9;n&#xE9;ficiaires des prestations soient dans une condition physique ad&#xE9;quate pour exercer l'activit&#xE9; choisie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43966">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sicherstellen, dass das Personal in ausreichender Zahl vorhanden und ausreichend qualifiziert ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">s'assurer que le personnel soit en nombre suffisant et dispose des qualifications requises.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27850">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pers&#xF6;nliche Voraussetzungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions personnelles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64774">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als pers&#xF6;nliche Voraussetzung f&#xFC;r die Erteilung einer Berufsaus&#xFC;bungsbewilligung gelten grunds&#xE4;tzlich die von der Schweizerischen Eidgenossenschaft anerkannten Berufsausbildungen in den dem vorliegenden Gesetz unterstellten T&#xE4;tigkeiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les formations professionnelles reconnues par la Conf&#xE9;d&#xE9;ration suisse relatives aux activit&#xE9;s soumises &#xE0; la pr&#xE9;sente loi ont en principe valeur de conditions personnelles pour l'octroi d'une autorisation d'exercer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64775">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wo diese Berufsausbildungen fehlen, kann das Vollzugsorgan andere Ausbildungen, namentlich die der betroffenen Berufsverb&#xE4;nde, anerkennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque ces formations professionnelles font d&#xE9;faut, l'organe d'ex&#xE9;cution peut reconna&#xEE;tre d'autres formations, notamment celles des associations professionnelles concern&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64776">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In allen anderen F&#xE4;llen entscheidet das Vollzugsorgan endg&#xFC;ltig oder legt Mindestanforderungen fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans tous les autres cas, l'organe d'ex&#xE9;cution d&#xE9;cide d&#xE9;finitivement ou fixe des exigences minimales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64777">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Fehlen entsprechende Ausbildungsangebote, kann das Vollzugsorgan diese Ausbildung selber anbieten oder von Dritten mittels Leistungsvertr&#xE4;gen anbieten lassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En l'absence d'offres de formation ad&#xE9;quates, l'organe d'ex&#xE9;cution peut offrir lui-m&#xEA;me cette formation ou en confier l'ex&#xE9;cution &#xE0; des tiers par des contrats de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27851">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64778">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27852">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betriebsbewilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorisation d'exploiter</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64779">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Organe mit Gesch&#xE4;ftsf&#xFC;hrungsfunktion im Unternehmen oder in der Organisation m&#xFC;ssen die pers&#xF6;nlichen Voraussetzungen f&#xFC;r die Bewilligungserteilung erf&#xFC;llen. Der Staatsrat kann zus&#xE4;tzliche pers&#xF6;nliche Voraussetzungen bestimmen, um die Risiken zu vermindern und die Kontrollen zu erleichtern.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les organes exer&#xE7;ant une fonction de direction au sein de l'entreprise ou de l'organisation doivent satisfaire aux conditions personnelles relatives &#xE0; l'octroi de l'autorisation. Le Conseil d'Etat peut fixer des exigences personnelles suppl&#xE9;mentaires pour minimiser les risques et faciliter les contr&#xF4;les.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64780">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Betreiber von Anlagen ist f&#xFC;r die Funktionst&#xFC;chtigkeit der Installationen und den Zustand des verwendeten Materials verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exploitant d'installations assume la responsabilit&#xE9; du bon fonctionnement des installations et de l'&#xE9;tat du mat&#xE9;riel utilis&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27853">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Versicherungsschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Couverture d'assurance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64781">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer eine Bewilligung nach dem vorliegenden Gesetz hat, muss f&#xFC;r die Aus&#xFC;bung der bewilligten T&#xE4;tigkeiten eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken, die mit seiner T&#xE4;tigkeit verbunden sind, abschliessen oder eine gleichwertige finanzielle Sicherheit erbringen sowie seine Kunden dar&#xFC;ber informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Quiconque obtient une autorisation en vertu de la pr&#xE9;sente loi est tenu, pour l'exercice des activit&#xE9;s autoris&#xE9;es, de conclure une assurance responsabilit&#xE9; civile professionnelle offrant une couverture adapt&#xE9;e &#xE0; la nature et &#xE0; l'&#xE9;tendue des risques li&#xE9;s &#xE0; son activit&#xE9; ou de fournir des s&#xFB;ret&#xE9;s financi&#xE8;res &#xE9;quivalentes et d'en informer ses clients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64782">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Mindestbetrag des Versicherungsschutzes und die Anforderungen an die Sicherheiten sind in der Bundesgesetzgebung &#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten von weiteren Risikoaktivit&#xE4;ten festgehalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant minimum de la couverture d'assurance et les exigences auxquelles sont soumises les s&#xFB;ret&#xE9;s sont fix&#xE9;s par la l&#xE9;gislation f&#xE9;d&#xE9;rale concernant les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64783">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt die Modalit&#xE4;ten der Kontrolle des Versicherungsschutzes und der Versicherungsdauer fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe les modalit&#xE9;s de contr&#xF4;le de la couverture et de la dur&#xE9;e d'assurance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27854">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rettungseins&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Interventions de sauvetage</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64784">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jeder Inhaber einer Bewilligung im Sinne des vorliegenden Gesetzes ist verpflichtet, Aufgeboten zu Rettungseins&#xE4;tzen Folge zu leisten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tout d&#xE9;tenteur d'une autorisation au sens de la pr&#xE9;sente loi est tenu de se conformer aux mobilisations pour des interventions de sauvetage.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64785">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entsch&#xE4;digung richtet sich nach der Spezialgesetzgebung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'indemnisation applicable est r&#xE9;gl&#xE9;e par la l&#xE9;gislation sp&#xE9;cifique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27855">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewilligungsentzug</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Retrait de l'autorisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64786">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer die Bewilligungsvoraussetzungen nicht mehr erf&#xFC;llt, dem wird die erteilte Bewilligung entzogen. Sie kann erneut erteilt werden, wenn die Voraussetzungen wieder erf&#xFC;llt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne qui ne remplit plus les conditions requises se voit retirer l'autorisation octroy&#xE9;e. Cette derni&#xE8;re peut &#xEA;tre octroy&#xE9;e &#xE0; nouveau si les conditions sont &#xE0; nouveau remplies.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64787">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Bewilligungsentzug wird durch die Bewilligungsbeh&#xF6;rde im Amtsblatt ver&#xF6;ffentlicht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le retrait de l'autorisation est publi&#xE9; par l'autorit&#xE9; d'octroi dans le Bulletin Officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27856">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emoluments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64788">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die H&#xF6;he der Geb&#xFC;hren ist in der Bundesgesetzgebung &#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten weiterer Risikoaktivit&#xE4;ten festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant des &#xE9;moluments est fix&#xE9; par la l&#xE9;gislation f&#xE9;d&#xE9;rale concernant les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64789">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Vollzugsorgan erhebt Geb&#xFC;hren f&#xFC;r die Ausstellung, die Erneuerung und den Entzug der Bewilligung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'organe d'ex&#xE9;cution per&#xE7;oit des &#xE9;moluments pour l'octroi, le renouvellement et le retrait de l'autorisation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27857">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64790">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen die Verf&#xFC;gungen des Vollzugsorgans kann Einsprache erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions prises par l'organe d'ex&#xE9;cution peuvent faire l'objet d'une r&#xE9;clamation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64791">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen den Einspracheentscheid kann beim Staatsrat Beschwerde erhoben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision sur r&#xE9;clamation peut faire l'objet d'un recours aupr&#xE8;s du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64792">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im &#xDC;brigen gelten die Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au surplus, les dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives s'appliquent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8612">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Strafbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions p&#xE9;nales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27858">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bertretungen und Strafverfolgung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contraventions et poursuite p&#xE9;nale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64793">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss der Bundesgesetzgebung &#xFC;ber das Bergf&#xFC;hrerwesen und Anbieten weiterer Risikoaktivit&#xE4;ten wird mit einer Busse bis zu 10'000 Franken bestraft, wer vors&#xE4;tzlich:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Conform&#xE9;ment &#xE0; la l&#xE9;gislation f&#xE9;d&#xE9;rale concernant les guides de montagne et les organisateurs d'autres activit&#xE9;s &#xE0; risque, est puni d'une amende de 10'000 francs au plus quiconque, intentionnellement:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43967">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">unvollst&#xE4;ndige, ungenaue und irref&#xFC;hrende Angaben macht, um eine Bewilligung zu erhalten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">donne des indications incompl&#xE8;tes, inexactes ou fallacieuses pour obtenir une autorisation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43968">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ohne Bewilligung eine T&#xE4;tigkeit als Bergf&#xFC;hrer oder Schneesportlehrer aus&#xFC;bt oder eine Aktivit&#xE4;t nach Artikel 2 Absatz 2 anbietet.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">exerce sans autorisation l'activit&#xE9; de guide de montagne ou de professeur de sports de neige ou propose une activit&#xE9; vis&#xE9;e &#xE0; l'article 2 alin&#xE9;a 2.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64878">
+                    <partNumber>1bis</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ebenso wird mit einer Busse bis zu 10'000 Franken bestraft, wer vors&#xE4;tzlich die Anforderungen an die Erteilung einer Berufsaus&#xFC;bungs- oder Betriebsbewilligung gem&#xE4;ss kantonalem Recht nicht mehr erf&#xFC;llt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est &#xE9;galement puni d'une amende de 10'000 francs au plus quiconque, intentionnellement, ne respecte plus les exigences d'octroi d'une autorisation d'exercer ou d'exploiter relevant du droit cantonal, lors de l'exercice d'une activit&#xE9; ou de l'exploitation d'une entreprise soumise &#xE0; la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64794">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wer fahrl&#xE4;ssig handelt, wird mit einer Busse bis zu 5'000 Franken bestraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Quiconque agit par n&#xE9;gligence est puni d'une amende de 5'000 francs au plus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64795">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Strafen werden durch die zust&#xE4;ndige kantonale Beh&#xF6;rde ausgesprochen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les peines sont prononc&#xE9;es par l'autorit&#xE9; cantonale comp&#xE9;tente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64796">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64797">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27859">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Juristische Personen und Personengemeinschaften</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Personnes morales et communaut&#xE9;s</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64798">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird eine Widerhandlung bei der Gesch&#xE4;ftsf&#xFC;hrung einer juristischen Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspers&#xF6;nlichkeit oder sonst in Aus&#xFC;bung gesch&#xE4;ftlicher oder dienstlicher Verrichtungen f&#xFC;r einen Dritten begangen, so finden die Strafbestimmungen auf diejenigen nat&#xFC;rlichen Personen Anwendung, die die Tat ver&#xFC;bt haben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'une infraction est commise dans la gestion d'une personne morale, d'une soci&#xE9;t&#xE9; en nom collectif ou en commandite, d'une entreprise individuelle ou d'une collectivit&#xE9; sans personnalit&#xE9; juridique ou de quelque autre mani&#xE8;re dans l'exercice d'une activit&#xE9; pour un tiers, les dispositions p&#xE9;nales sont applicables aux personnes physiques qui ont commis l'acte.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64799">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Gesch&#xE4;ftsf&#xFC;hrer oder Arbeitgeber, Auftraggeber oder Vertretene, der es vors&#xE4;tzlich oder fahrl&#xE4;ssig in Verletzung einer Rechtspflicht unterl&#xE4;sst, eine Widerhandlung des Untergebenen, Beauftragten oder Vertreters abzuwenden oder deren Wirkung aufzuheben, untersteht den entsprechenden Strafbestimmungen, die f&#xFC;r den vors&#xE4;tzlich oder fahrl&#xE4;ssig handelnden T&#xE4;ter gelten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le chef d'entreprise, l'employeur, le mandant ou le repr&#xE9;sent&#xE9; qui, intentionnellement ou par n&#xE9;gligence et en violation d'une obligation juridique, omet de pr&#xE9;venir une infraction commise par le subordonn&#xE9;, le mandataire ou le repr&#xE9;sentant ou d'en supprimer les effets, tombe sous le coup des dispositions p&#xE9;nales applicables &#xE0; l'auteur ayant agi intentionnellement ou par n&#xE9;gligence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64800">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ist der Gesch&#xE4;ftsf&#xFC;hrer oder Arbeitgeber, Auftraggeber oder Vertretene eine juristische Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspers&#xF6;nlichkeit, findet Absatz 2 auf die schuldigen Organe, Organmitglieder, gesch&#xE4;ftsf&#xFC;hrenden Gesellschafter, tats&#xE4;chlich leitenden Personen oder Liquidatoren Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le chef d'entreprise, l'employeur, le mandant ou le repr&#xE9;sent&#xE9; est une personne morale, une soci&#xE9;t&#xE9; en nom collectif ou en commandite, une entreprise individuelle ou une collectivit&#xE9; sans personnalit&#xE9; juridique, l'alin&#xE9;a 2 s'applique aux organes et &#xE0; leurs membres, aux associ&#xE9;s g&#xE9;rants, dirigeants effectifs ou liquidateurs fautifs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64801">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xE4;llt eine Busse von h&#xF6;chstens 5'000 Franken in Betracht und w&#xFC;rde die Ermittlung gegen die strafbaren Personen einen Aufwand bedingen, der im Vergleich zur Busse unverh&#xE4;ltnism&#xE4;ssig w&#xE4;re, kann von einer Verfolgung dieser Personen Umgang genommen und an ihrer Stelle die juristische Person, die Kollektiv- oder Kommanditgesellschaft oder die Einzelfirma zur Bezahlung der Busse verurteilt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'amende entrant en ligne de compte ne d&#xE9;passe pas 5'000 francs et que l'enqu&#xEA;te rendrait n&#xE9;cessaire &#xE0; l'&#xE9;gard des personnes punissables des mesures d'instruction hors de proportion avec la peine encourue, il est loisible de renoncer &#xE0; poursuivre ces personnes et de condamner &#xE0; leur place au paiement de l'amende la personne morale, la soci&#xE9;t&#xE9; en nom collectif ou en commandite ou l'entreprise individuelle.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27860">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verj&#xE4;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prescription</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64802">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Strafverfolgung verj&#xE4;hrt zwei Jahre nach der strafbaren Handlung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La poursuite p&#xE9;nale se prescrit par deux ans d&#xE8;s la fin de l'infraction p&#xE9;nale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64803">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Busse verj&#xE4;hrt f&#xFC;nf Jahre nachdem sie vollstreckbar geworden ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'amende se prescrit par cinq ans d&#xE8;s qu'elle est devenue ex&#xE9;cutoire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8613">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales et transitoires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27861">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung bisherigen Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64804">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dem Inkrafttreten des vorliegenden Gesetzes werden folgende Bestimmungen aufgehoben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi, les dispositions suivantes sont abrog&#xE9;es:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43969">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Artikel 36 bis 39 des Gesetzes &#xFC;ber den Tourismus vom 9. Februar 1996;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les articles 36 &#xE0; 39 de la loi sur le tourisme du 9 f&#xE9;vrier 1996;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43970">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verordnung betreffend die Bergf&#xFC;hrer und Skilehrer vom 26. Juni 1996;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'ordonnance relative aux guides de montagne et professeurs de ski du 26 juin 1996;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43971">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Beschluss des Staatsrates &#xFC;ber die Patentgeb&#xFC;hren im Bergf&#xFC;hrer- und Skilehrerwesen vom 27. August 1997.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; du Conseil d'Etat sur les &#xE9;moluments des patentes en mati&#xE8;re de guides de montagne et professeurs de ski du 27 ao&#xFB;t 1997.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27862">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64805">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die aufgrund der Bestimmungen des Gesetzes &#xFC;ber den Tourismus vom 9. Februar 1996 erteilten Patente und Berufsaus&#xFC;bungsbewilligungen bleiben f&#xFC;r ihre G&#xFC;ltigkeitsdauer in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les patentes et autorisations d'exercer octroy&#xE9;es en vertu des dispositions de la loi sur le tourisme du 9 f&#xE9;vrier 1996 restent en vigueur pour la dur&#xE9;e de leur validit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64806">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die aufgrund der Bestimmungen des Gesetzes &#xFC;ber den Tourismus vom 9. Februar 1996 erteilten Bewilligungen f&#xFC;r Unternehmen und Schulen bleiben f&#xFC;r ihre G&#xFC;ltigkeitsdauer in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorisations octroy&#xE9;es &#xE0; des entreprises ou &#xE0; des &#xE9;coles en vertu des dispositions de la loi sur le tourisme du 9 f&#xE9;vrier 1996 restent en vigueur pour la dur&#xE9;e de leur validit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64807">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die aufgrund des bisherigen Rechts anerkannten Titel und Ausbildungen bleiben bis zu einer allf&#xE4;llig notwendigen Neuregelung anerkannt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les titres et formations reconnus en vertu du droit pr&#xE9;c&#xE9;demment en vigueur demeurent reconnus jusqu'&#xE0; une &#xE9;ventuelle nouvelle r&#xE9;glementation utile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64808">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die beim Inkrafttreten des vorliegenden Gesetzes h&#xE4;ngigen Verfahren werden nach altem Recht zu Ende gef&#xFC;hrt. Das Beschwerderecht richtet sich nach der neuen Gesetzgebung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les proc&#xE9;dures en suspens au moment de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi sont men&#xE9;es &#xE0; terme conform&#xE9;ment &#xE0; l'ancien droit. Le droit de recours est r&#xE9;gl&#xE9; par la nouvelle l&#xE9;gislation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27863">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64809">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64810">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la date d'entr&#xE9;e en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8614">
+            <structureContent lang="de">
+              <structureOrder>T1</structureOrder>
+              <structureText>&#xDC;bergangsbestimmung der &#xC4;nderung vom 12.09.2013</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>T1</structureOrder>
+              <structureText>Disposition transitoire de la modification du 12.09.2013</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27864">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>T1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64811">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bewilligungen, die aufgrund der Bestimmungen des Gesetzes &#xFC;ber die Aus&#xFC;bung der Bergf&#xFC;hrer-, Schneesportlehrer- und Wanderleiterberufe sowie das gewerbsm&#xE4;ssige Anbieten von Sportaktivit&#xE4;ten mit erh&#xF6;hten Sicherheitsanforderungen vom 11. Oktober 2007 (GSASA) ausgestellt wurden, bleiben bis zum Ablauf ihrer Geltungsdauer g&#xFC;ltig.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorisations octroy&#xE9;es en vertu des dispositions de la loi sur l'exercice des professions de guide de montagne, de professeur de sports de neige et d'accompagnateur en montagne, ainsi que sur l'offre commerciale d'activit&#xE9;s sportives n&#xE9;cessitant des exigences &#xE9;lev&#xE9;es en mati&#xE8;re de s&#xE9;curit&#xE9;&#xA0;du 11 octobre 2007 (LASES)&#xA0;restent en vigueur pour la dur&#xE9;e de leur validit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2008-05-01</dateForce>
+      <dateVersion>2018-05-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 49/2017, 16/2018</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:27858" id2="Paragraph:64878" historyChange="insert" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2008-05-01</dateForce>
+        <dateVersion>2014-01-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 42/2013, 49/2013</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

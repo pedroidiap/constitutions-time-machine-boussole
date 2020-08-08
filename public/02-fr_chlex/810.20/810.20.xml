@@ -1,0 +1,2393 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1761</normID>
+      <number>810.20</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber die Spitalplanung und Spitalfinanzierung</title>
+      <title lang="fr">Ordonnance sur la planification et le financement hospitaliers</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2014-10-01</dateAdoption>
+      <dateForce>2015-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber die Krankenversicherung vom 18. M&#xE4;rz 1994 (KVG);</basis> <basis>eingesehen das Gesetz &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (GKAI);</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Soziales und Kultur,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur l'assurance-maladie du 18 mars 1994 (LAMal);</basis> <basis>vu la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (LEIS);</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de la culture,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 41/2014, 43/2014</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="8582">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber die Spitalplanung und Spitalfinanzierung</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la planification et le financement hospitaliers</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8583">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27730">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64480">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung pr&#xE4;zisiert und erg&#xE4;nzt die Bestimmungen des Gesetzes &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (nachfolgend: GKAI) &#xFC;ber die Planung und Finanzierung der Spit&#xE4;ler.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance pr&#xE9;cise et compl&#xE8;te les dispositions de la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (ci-apr&#xE8;s: LEIS) concernant la planification et le financement des h&#xF4;pitaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27731">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64481">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung gilt f&#xFC;r die Spit&#xE4;ler, die auf der Walliser Spitalliste aufgef&#xFC;hrt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance est applicable aux h&#xF4;pitaux r&#xE9;pertori&#xE9;s sur la liste hospitali&#xE8;re valaisanne.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64482">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die besonderen Bestimmungen &#xFC;ber die Spit&#xE4;ler, die ausserhalb des Kantons gelegen sind und auf der Spitalliste aufgef&#xFC;hrt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions particuli&#xE8;res concernant les h&#xF4;pitaux r&#xE9;pertori&#xE9;s sur la liste hospitali&#xE8;re, situ&#xE9;s hors canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64483">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die besonderen Bestimmungen die im Rahmen von interkantonalen Vereinbarungen erlassen werden, insbesondere in Bezug auf das Spital Riviera-Chablais Waadt-Wallis und die Universit&#xE4;tsspit&#xE4;ler.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions particuli&#xE8;res prises en application de conventions intercantonales concernant notamment l'H&#xF4;pital Riviera-Chablais Vaud-Valais et les h&#xF4;pitaux universitaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27732">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorit&#xE9;s comp&#xE9;tentes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64484">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erstellt die Spitalplanung gem&#xE4;ss den GKAI-Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;tablit la planification hospitali&#xE8;re conform&#xE9;ment aux dispositions de la LEIS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64485">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat betraut das Departement, das f&#xFC;r das Gesundheitswesen zust&#xE4;ndig ist (nachfolgend: das Departement), mit dem Vollzug der vorliegenden Verordnung. Er kann das Departement im Rahmen seiner Planungsentscheide insbesondere mit dem Erlass der entsprechenden Vollzugsmodalit&#xE4;ten beauftragen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat confie au d&#xE9;partement dont rel&#xE8;ve la sant&#xE9; (ci-apr&#xE8;s: le d&#xE9;partement) l'application de la pr&#xE9;sente ordonnance. Il peut notamment, dans le cadre de ses d&#xE9;cisions de planification, confier au d&#xE9;partement les modalit&#xE9;s d'ex&#xE9;cution y relatives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27733">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Richtlinien des Departements</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Directives du d&#xE9;partement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64486">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement erl&#xE4;sst gegebenenfalls die erforderlichen Richtlinien f&#xFC;r den Vollzug der vorliegenden Verordnung. Sie behandeln insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement &#xE9;dicte, au besoin, les directives utiles &#xE0; l'application de la pr&#xE9;sente ordonnance. Elles portent notamment sur:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43879">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die buchhalterischen Anforderungen, denen die Listenspit&#xE4;ler gen&#xFC;gen m&#xFC;ssen (Art.12);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les exigences comptables auxquelles doivent r&#xE9;pondre les h&#xF4;pitaux r&#xE9;pertori&#xE9;s (art. 12);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43880">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Modalit&#xE4;ten der Organisation der Ausbildung des Personals und die Anrechnung der damit verbundenen Kosten (Art. 13 Abs. 2);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les modalit&#xE9;s d'organisation de la formation du personnel et l'imputation des charges y relatives (art. 13 al. 2);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43881">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Vorlegung des Betriebsbudgets (Art. 15 Abs. 3);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la pr&#xE9;sentation du budget d'exploitation (art. 15 al. 3);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43882">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Vorlegung des Investitionsbudgets (Art. 16 Abs. 2);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la pr&#xE9;sentation du budget d'investissement (art. 16 al. 2);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43883">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Finanzierung der Kosten f&#xFC;r die universit&#xE4;re Lehre (Art. 27);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le financement des frais de formation universitaire (art. 27);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43884">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die vor&#xFC;bergehenden Begleitmassnahmen in Verbindung mit den &#xC4;nderungen der Tarifstruktur bez&#xFC;glich des Anteils des Kantons an der Verg&#xFC;tung (Art. 20).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les mesures d'accompagnement transitoires li&#xE9;es aux changements de structure tarifaire concernant la part de r&#xE9;mun&#xE9;ration du canton (art. 20).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8584">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Spitalplanung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Planification hospitali&#xE8;re</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27734">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64487">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Sinne der vorliegenden Verordnung wird verstanden unter:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au sens de la pr&#xE9;sente ordonnance on entend par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43885">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Spital: die Anstalten und ihre Abteilungen, wie sie in Artikel 39 Absatz 1 KVG definiert werden, insbesondere die &#xF6;ffentlichen oder privaten Spit&#xE4;ler oder Kliniken f&#xFC;r somatische Akutversorgung, Psychiatrie und Rehabilitation;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">h&#xF4;pital: les &#xE9;tablissements et leurs divisions tels que d&#xE9;finis &#xE0; l'article 39 alin&#xE9;a 1 LAMal, notamment les h&#xF4;pitaux ou les cliniques de soins somatiques aigus, psychiatriques et de r&#xE9;adaptation, publics ou priv&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43886">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Spitalliste: die Liste der vom Staatsrat f&#xFC;r die Deckung des Spitalversorgungsbedarfs der Walliser Bev&#xF6;lkerung gem&#xE4;ss Artikel 39 KVG bezeichneten Spit&#xE4;ler;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">liste hospitali&#xE8;re: la liste des h&#xF4;pitaux d&#xE9;sign&#xE9;s par le Conseil d'Etat selon l'article 39 LAMal pour couvrir les besoins en soins hospitaliers de la population valaisanne;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43887">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Leistungsauftr&#xE4;ge: die vom Staatsrat im Rahmen der Spitalplanung gem&#xE4;ss Artikel 9 GKAI erteilten Auftr&#xE4;ge. Der Staatsrat weist jedem Spital, das auf der Spitalliste steht, einen Auftrag zu, der das Spektrum der Leistungen festlegt, die diese Anstalt zulasten der Krankenversicherung erbringen kann. Die Auftr&#xE4;ge bilden einen festen Bestandteil der Spitalliste;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mandats de prestations: les mandats attribu&#xE9;s par le Conseil d'Etat, dans le cadre de la planification hospitali&#xE8;re, en application de l'article 9 LEIS. Le Conseil d'Etat attribue &#xE0; chaque h&#xF4;pital figurant sur la liste hospitali&#xE8;re un mandat d&#xE9;finissant l'&#xE9;ventail de prestations que cet &#xE9;tablissement peut fournir &#xE0; charge de l'assurance-maladie. Les mandats font partie int&#xE9;grante de la liste hospitali&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43888">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Leistungsvertr&#xE4;ge: die Vertr&#xE4;ge, die das Departement gem&#xE4;ss Artikel 10 GKAI mit den Spit&#xE4;lern abschliesst. Der Vertrag erm&#xF6;glicht es insbesondere, die mit dem Leistungsauftrag verbundenen strategischen und operativen Modalit&#xE4;ten zu pr&#xE4;zisieren, wie zum Beispiel der Leistungsumfang und die Leistungsfinanzierung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contrats de prestations: les contrats que le d&#xE9;partement conclut avec les h&#xF4;pitaux, en application de l'article 10 LEIS. Le contrat permet notamment de pr&#xE9;ciser les modalit&#xE9;s strat&#xE9;giques et op&#xE9;rationnelles li&#xE9;es au mandat de prestations comme par exemple de fixer le volume et le financement des prestations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43889">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Listenspital: ein Spital, das auf der Walliser Spitalliste oder auf der Liste des Standortkantons steht.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">h&#xF4;pital r&#xE9;pertori&#xE9;: un h&#xF4;pital figurant sur la liste valaisanne ou sur la liste du canton o&#xF9; il se situe.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27735">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erstellung der Spitalliste</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etablissement de la liste hospitali&#xE8;re</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64488">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erstellt die Spitalliste gem&#xE4;ss den Planungskriterien aus Ab- schnitt 11 der Verordnung &#xFC;ber die Krankenversicherung vom 27. Juni 1995 (KVV) und gem&#xE4;ss Artikel 8 und 9 GKAI. Der Staatsrat kann f&#xFC;r jede Versorgungsart eine separate Liste erstellen (insbesondere somatische Akutversorgung, Rehabilitation, Psychiatrie).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;tablit la liste hospitali&#xE8;re sur la base des crit&#xE8;res et conditions de planification fix&#xE9;s &#xE0; la section 11 de l'ordonnance f&#xE9;d&#xE9;rale sur l'assurance-maladie du 27 juin 1995 (OAMal) et aux articles 8 et 9 LEIS. Le Conseil d'Etat peut arr&#xEA;ter des listes distinctes par types de soins (notamment soins somatiques aigus, r&#xE9;adaptation, psychiatrie).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64489">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Spit&#xE4;ler, die sich im Aufnahmeverfahren auf die Spitalliste befinden, sind verpflichtet, dem Staatsrat alle gem&#xE4;ss Artikel 8 GKAI sachdienlichen Informationen zur Verf&#xFC;gung zu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux engag&#xE9;s dans une proc&#xE9;dure d'inscription sur la liste hospitali&#xE8;re sont tenus de fournir au Conseil d'Etat les informations pertinentes, en application de l'article 8 LEIS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64490">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Spitalliste wird unter Ber&#xFC;cksichtigung des Versorgungsbedarfs der Bev&#xF6;lkerung, des technischen, medizinischen und pflegerischen Fortschritts sowie der Wirksamkeit, Qualit&#xE4;t und Wirtschaftlichkeit der Leistungen regelm&#xE4;ssig aktualisiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La liste hospitali&#xE8;re est r&#xE9;guli&#xE8;rement mise &#xE0; jour en tenant compte des besoins en soins de la population, de l'&#xE9;volution des technologies m&#xE9;dicales et des pratiques de soins ainsi que de la pertinence, de la qualit&#xE9; et de l'&#xE9;conomicit&#xE9; des prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64491">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die nach Abschluss des Verfahrens publizierte Spitalliste kann laut Artikel 53 Absatz 1 KVG mit einer Beschwerde beim Bundesverwaltungsgericht angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La liste hospitali&#xE8;re publi&#xE9;e &#xE0; l'issue de la proc&#xE9;dure est susceptible d'un recours aupr&#xE8;s du Tribunal administratif f&#xE9;d&#xE9;ral conform&#xE9;ment &#xE0; l'article 53 alin&#xE9;a 1 LAMal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27736">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren zur Erstellung der Spitalliste</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure pour l'&#xE9;tablissement de la liste hospitali&#xE8;re</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64492">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Spitalliste wird gem&#xE4;ss folgenden Schritten erstellt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure d'&#xE9;tablissement de la liste hospitali&#xE8;re comprend les &#xE9;tapes suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43890">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bestimmung des Spitalversorgungsbedarfs der Gesamtheit der im Wallis versicherten Personen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;finition des besoins en soins hospitaliers de l'ensemble des assur&#xE9;s LAMal valaisans;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43891">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Festlegung des Angebots, das von Walliser Versicherten in Spit&#xE4;lern genutzt wird, die nicht auf der geltenden Walliser Spitalliste aufgef&#xFC;hrt sind (Vertragsspit&#xE4;ler im Sinne von Artikel 49a Absatz 4 KVG und Listenspit&#xE4;ler im Standortkanton im Sinne von Artikel 41 Absatz 1<format upper="true">bis</format> KVG);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;termination de l'offre utilis&#xE9;e par des assur&#xE9;s LAMal valaisans dans des h&#xF4;pitaux ne figurant pas sur la liste hospitali&#xE8;re valaisanne en vigueur (h&#xF4;pitaux conventionn&#xE9;s au sens de l'article 49a alin&#xE9;a 4 LAMal et h&#xF4;pitaux r&#xE9;pertori&#xE9;s par le canton o&#xF9; ils se situent au sens de l'article 41 alin&#xE9;a 1<format upper="true">bis</format> LAMal);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43892">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bestimmung des Angebots, das mit der Aufnahme auf die Walliser Spitalliste garantiert werden muss, um die Deckung des unter Buchstabe a bestimmten Bedarfs nach Abzug des unter Buchstabe b festgelegten Angebots sicherzustellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;termination de l'offre devant &#xEA;tre garantie par l'inscription sur la liste hospitali&#xE8;re valaisanne afin que la couverture des besoins d&#xE9;finis sous lettre a soit assur&#xE9;e, d&#xE9;duction faite de l'offre d&#xE9;termin&#xE9;e sous lettre b;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43893">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Festlegung der Leistungsauftr&#xE4;ge f&#xFC;r das unter Buchstabe c bestimmte Angebot;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;finition des mandats de prestations relevant de l'offre d&#xE9;finie sous lettre c;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43894">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Publikation der Ausschreibung f&#xFC;r die Spit&#xE4;ler, die in der Lage sind, die verlangten Leistungen zu erbringen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">publication d'un appel d'offres aux h&#xF4;pitaux susceptibles de fournir les prestations requises;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43895">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Beurteilung der eingereichten Angebote und Auswahl der ber&#xFC;cksichtigten Angebote aufgrund der unter Abschnitt 11 KVV und in Artikel 8 und 9 GKAI aufgef&#xFC;hrten Planungskriterien und der auf nationaler Ebene insbesondere zur Wirtschaftlichkeit und Qualit&#xE4;t der Leistungserbringung gem&#xE4;ss KVG durchgef&#xFC;hrten Vergleiche;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE9;valuation des offres d&#xE9;pos&#xE9;es, sur la base des crit&#xE8;res et conditions de planification fix&#xE9;s &#xE0; la section 11 OAMal et aux articles 8 et 9 LEIS, ainsi que des comparaisons &#xE9;tablies &#xE0; l'&#xE9;chelle nationale portant notamment sur les co&#xFB;ts et la qualit&#xE9; des r&#xE9;sultats m&#xE9;dicaux en application de la LAMal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43896">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vernehmlassung zu den Leistungsauftragsentw&#xFC;rfen bei den Spit&#xE4;lern, die ein Angebot eingereicht haben;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">mise en consultation aupr&#xE8;s des h&#xF4;pitaux ayant d&#xE9;pos&#xE9; une offre des projets de mandats de prestations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43897">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Kommission f&#xFC;r Gesundheitsplanung pr&#xFC;ft die Leistungsauftragsentw&#xFC;rfe und die Ergebnisse des Vernehmlassungsverfahren und gibt dem Staatsrat eine entsprechende Vormeinung ab;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">analyse des projets de mandats de prestations et des r&#xE9;sultats de la consultation par la commission de planification sanitaire qui formule un pr&#xE9;avis au Conseil d'Etat;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43898">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erteilung der Leistungsauftr&#xE4;ge an die ber&#xFC;cksichtigten Spit&#xE4;ler durch den Staatsrat gem&#xE4;ss den Modalit&#xE4;ten aus Artikel 9 GKAI sowie Aufnahme auf die Spitalliste;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">octroi des mandats de prestations par le Conseil d'Etat aux h&#xF4;pitaux retenus, selon les modalit&#xE9;s d&#xE9;finies &#xE0; l'article 9 LEIS, et inscription sur la liste hospitali&#xE8;re;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43899">
+                        <partNumber>j)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Abschluss von Leistungsvertr&#xE4;gen zwischen dem Departement und den Spit&#xE4;lern; die Vertr&#xE4;ge haben grunds&#xE4;tzlich eine K&#xFC;ndigungsfrist von 6 Monaten, unter Vorbehalt von Artikel 8 der vorliegenden Verordnung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">conclusion de contrats de prestations entre le d&#xE9;partement et les h&#xF4;pitaux; les contrats d&#xE9;finissent un d&#xE9;lai de r&#xE9;siliation du mandat de prestations qui est en principe d'au moins 6 mois, sous r&#xE9;serve de l'article 8 de la pr&#xE9;sente ordonnance.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64493">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die Bestimmungen aus dem Gesundheitsgesetz vom 14. Februar 2008 &#xFC;ber die Versorgungssicherheit und Patientensicherheit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions de la loi sur la sant&#xE9; du 14 f&#xE9;vrier 2008 concernant la qualit&#xE9; des soins et la s&#xE9;curit&#xE9; des patients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64494">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aus Gr&#xFC;nden der &#xF6;ffentlichen Gesundheit und der Deckung des Versorgungsbedarfs kann der Staatsrat zeitlich befristete Auftr&#xE4;ge vergeben bis zum Abschluss des oben beschriebenen ordentlichen Auswahlverfahrens.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour des raisons de sant&#xE9; publique ou de couverture des besoins, le Conseil d'Etat peut attribuer des mandats temporaires jusqu'&#xE0; l'aboutissement de la proc&#xE9;dure ordinaire d&#xE9;crite ci-dessus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27737">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kriterien f&#xFC;r den Ausschluss von der Spitalliste</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Crit&#xE8;res de retrait de la liste hospitali&#xE8;re</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64495">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement pr&#xFC;ft regelm&#xE4;ssig, ob die auf der Spitalliste aufgef&#xFC;hrten Anstalten den Leistungsauftrag und die Bedingungen f&#xFC;r die Aufnahme auf die Spitalliste einhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement v&#xE9;rifie p&#xE9;riodiquement que les &#xE9;tablissements inscrits sur la liste hospitali&#xE8;re respectent le mandat de prestations et les conditions pour l'inscription sur la liste hospitali&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64496">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Nichteinhaltung verlangt das Departement eine Stellungnahme des betreffenden Spitals.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de non-respect, le d&#xE9;partement demande une prise de position &#xE0; l'h&#xF4;pital concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64497">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann auf Antrag des Departements und nach Einholen der Vormeinung der Kommission f&#xFC;r Gesundheitsplanung einen teilweisen oder vollst&#xE4;ndigen Entzug des Leistungsauftrags des betreffenden Spitals erlassen und die Spitalliste unverz&#xFC;glich anpassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut proc&#xE9;der, sur proposition du d&#xE9;partement et apr&#xE8;s pr&#xE9;avis de la commission de planification sanitaire, au retrait partiel ou total du mandat de prestations de l'h&#xF4;pital concern&#xE9; et adapter sans d&#xE9;lai la liste hospitali&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27738">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kommission f&#xFC;r Gesundheitsplanung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Commission de planification sanitaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64498">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission f&#xFC;r Gesundheitsplanung ist im Rahmen der Spitalplanung beauftragt, dem Staatsrat insbesondere zu den folgenden Punkten eine Vormeinung abzugeben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission de planification sanitaire est charg&#xE9;e, dans le cadre de la planification hospitali&#xE8;re, de fournir un pr&#xE9;avis au Conseil d'Etat notamment sur les questions suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43900">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Aufnahme auf die Liste einschliesslich die Vergabe der Leistungsauftr&#xE4;ge an die Spit&#xE4;ler;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'inscription sur la liste y compris l'attribution des mandats de prestations aux h&#xF4;pitaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43901">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der teilweise oder vollst&#xE4;ndige Entzug der Leistungsauftr&#xE4;ge der Spit&#xE4;ler.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le retrait total ou partiel de mandats de prestations &#xE0; des h&#xF4;pitaux.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64499">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Pr&#xE4;sident oder die Pr&#xE4;sidentin beruft die Kommission zu allen anderen Themen der Gesundheitsplanung ein, wenn es die Umst&#xE4;nde gem&#xE4;ss Artikel 11 GKAI verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission se r&#xE9;unit sur tout autre objet concernant la planification sanitaire lorsque les conditions l'exigent, sur convocation de son pr&#xE9;sident, conform&#xE9;ment &#xE0; l'article 11 LEIS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64500">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kommission erstattet dem Staatsrat j&#xE4;hrlich einen T&#xE4;tigkeitsbericht und ver&#xF6;ffentlicht diesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commission &#xE9;tablit un rapport annuel de son activit&#xE9; &#xE0; l'intention du Conseil d'Etat et le rend public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27739">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ver&#xF6;ffentlichung der Statistiken</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Publication des statistiques</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64501">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Ver&#xF6;ffentlichung der Statistiken wird in einer spezifischen Verordnung geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La publication des statistiques est r&#xE9;gl&#xE9;e dans une ordonnance sp&#xE9;cifique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8585">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>KVG-Finanzierung - Allgemeine Bedingungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Financement LAMal - Aspects g&#xE9;n&#xE9;raux</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27740">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64502">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Sinne der vorliegenden Verordnung bedeuten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au sens de la pr&#xE9;sente ordonnance, on entend par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43902">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Betriebsbudget: die voraussichtlichen Aufwendungen und Ertr&#xE4;ge der verschiedenen T&#xE4;tigkeitsbereiche;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">budget d'exploitation: les charges et produits pr&#xE9;visionnels des diff&#xE9;rents secteurs d'activit&#xE9;s;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43903">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Investitionsbudget: der voraussichtliche Betrag f&#xFC;r den Erwerb oder Erstellung von betriebsnotwendigen beweglichen oder unbeweglichen Anlageg&#xFC;tern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">budget d'investissements: le montant pr&#xE9;visionnel des achats ou constructions d'immobilisations meubles ou immeubles n&#xE9;cessaires &#xE0; l'exploitation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43904">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kosten der Leistungen: die Gesamtheit der Aufwendungen, welche die Verg&#xFC;tung der Leistungen nach Bundesrecht bildet, einschliesslich jener Aufwendungen, die mit den Investitionen verbunden sind.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">co&#xFB;ts des prestations: l'ensemble des charges, y compris celles li&#xE9;es aux investissements, composant la r&#xE9;mun&#xE9;ration des prestations conform&#xE9;ment &#xE0; la l&#xE9;gislation f&#xE9;d&#xE9;rale.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27741">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontenplan und Buchf&#xFC;hrungsgrunds&#xE4;tze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Plan comptable et principes comptables</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64503">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Finanz- und die analytische Buchf&#xFC;hrung der Listenspit&#xE4;ler entsprechen den Anforderungen der Bundesgesetzgebung und den Empfehlungen des Dachverbandes der Spit&#xE4;ler H+.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les comptes financiers et analytiques des h&#xF4;pitaux r&#xE9;pertori&#xE9;s r&#xE9;pondent aux exigences de la l&#xE9;gislation f&#xE9;d&#xE9;rale et aux recommandations de l'association fa&#xEE;ti&#xE8;re des h&#xF4;pitaux H+.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64504">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann gewisse kantonale Anforderungen in Richtlinien festlegen, insbesondere bez&#xFC;glich der Rechnungspr&#xFC;fung der Listenspit&#xE4;ler.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut pr&#xE9;ciser certaines exigences cantonales par voie de directives, notamment en lien avec la certification des comptes des h&#xF4;pitaux r&#xE9;pertori&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27742">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kosten der Leistungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Co&#xFB;t des prestations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64505">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten m&#xFC;ssen der erbrachten Leistung angepasst sein und den Grundsatz der Wirtschaftlichkeit ber&#xFC;cksichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les co&#xFB;ts doivent &#xEA;tre adapt&#xE9;s &#xE0; la prestation fournie et respecter le principe d'&#xE9;conomicit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64506">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die in die Tarife integrierten Ausbildungskosten gelten die Weisungen des Departements &#xFC;ber die Modalit&#xE4;ten der Organisation der Ausbildung gem&#xE4;ss Artikel 8 Absatz 1 Buchstabe e GKAI.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les co&#xFB;ts de formation int&#xE9;gr&#xE9;s dans les tarifs doivent respecter les directives sur les modalit&#xE9;s d'organisation de la formation &#xE9;dict&#xE9;es par le d&#xE9;partement au sens de l'article 8 alin&#xE9;a 1 lettre e LEIS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64507">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten, die den Grunds&#xE4;tzen und Richtlinien des Departements nicht gen&#xFC;gen, werden bei der Berechnung der mit dem Leistungsauftrag verbundenen Kosten nicht ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les co&#xFB;ts qui ne satisfont pas aux principes et directives du d&#xE9;partement ne sont pas imput&#xE9;s dans le calcul des co&#xFB;ts li&#xE9;s au mandat de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27743">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Buchungsgrunds&#xE4;tze betreffend Investitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principes de comptabilisation relatifs aux investissements</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64508">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Investitionen von Listenspit&#xE4;lern werden in der Bilanz aktiviert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les investissements des h&#xF4;pitaux r&#xE9;pertori&#xE9;s sont activ&#xE9;s au bilan.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64509">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die mit den Investitionen verbundenen Aufwendungen umfassen die Zinsen und Abschreibungen auf den Investitionen, unter Einschluss der Abzahlungs- und Mietgesch&#xE4;fte, wie sie in der Verordnung &#xFC;ber die Kostenermittlung und die Leistungserfassung durch Spit&#xE4;ler, Geburtsh&#xE4;user und Pflegeheime in der Krankenversicherung vom 3. Juli 2002 (VKL) festgelegt sind. Sie sind grunds&#xE4;tzlich durch einen gleichwertigen Ertrag gedeckt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les charges li&#xE9;es aux investissements comprennent les int&#xE9;r&#xEA;ts et amortissements des investissements y compris les op&#xE9;rations d'achats par acompte et de location d&#xE9;finis par l'ordonnance f&#xE9;d&#xE9;rale sur le calcul des co&#xFB;ts de classement des prestations par les h&#xF4;pitaux, les maisons de naissance et les &#xE9;tablissements m&#xE9;dico-sociaux dans l'assurance-maladie du 3 juillet 2002 (OCP). Elles sont en principe couvertes par des produits &#xE9;quivalents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64510">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der entsprechende Anteil der Verg&#xFC;tung wird zur Deckung des Investitionsaufwandes verwendet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La part de r&#xE9;mun&#xE9;ration y relative est affect&#xE9;e &#xE0; la couverture des charges li&#xE9;es aux investissements.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64511">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn der Anteil der Verg&#xFC;tung der mit den Investitionen verbundenen Leistungen die Aufwendungen im Sinne von Absatz 2 &#xFC;bersteigen, kann die Differenz in einem Fonds f&#xFC;r Investitionen auf der Passivseite der Bilanz verbucht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si la part de la r&#xE9;mun&#xE9;ration des prestations li&#xE9;e aux investissements exc&#xE8;de les charges au sens de l'alin&#xE9;a 2, la diff&#xE9;rence peut &#xEA;tre comptabilis&#xE9;e dans un fonds affect&#xE9; aux investissements au passif du bilan.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64512">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Buchungsgrunds&#xE4;tze f&#xFC;r Investitionen werden periodisch durch den Staatsrat neu evaluiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les principes de comptabilisation relatifs aux investissements sont r&#xE9;&#xE9;valu&#xE9;s p&#xE9;riodiquement par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27744">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betriebsbudget</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Budget d'exploitation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64513">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Listenspit&#xE4;ler erstellen zuhanden des Departements bis zum 31. M&#xE4;rz ein Betriebsrahmenbudget, dem alle Belege beigef&#xFC;gt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux r&#xE9;pertori&#xE9;s &#xE9;tablissent, &#xE0; l'attention du d&#xE9;partement, un budget cadre d'exploitation accompagn&#xE9; de tous les justificatifs n&#xE9;cessaires pour le 31 mars.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64514">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Listenspit&#xE4;ler erstellen auf den 30. August ein detailliertes Betriebsbudget (unter Einschluss eines T&#xE4;tigkeitsbudgets pro Bereich).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux r&#xE9;pertori&#xE9;s &#xE9;tablissent un budget d'exploitation d&#xE9;taill&#xE9; (y compris un budget d'activit&#xE9; par secteur) pour le 30 ao&#xFB;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64515">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement pr&#xE4;zisiert mit Richtlinien den Grad der vorzulegenden Details.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement pr&#xE9;cise, par voie de directives, le niveau de d&#xE9;tail &#xE0; pr&#xE9;senter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64516">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement teilt den Listenspit&#xE4;lern das anerkannte T&#xE4;tigkeitsbudget mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement notifie aux h&#xF4;pitaux r&#xE9;pertori&#xE9;s le budget d'activit&#xE9; reconnu.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27745">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Investitionsbudget</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Budget d'investissement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64517">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Listenspit&#xE4;ler erstellen ein detailliertes Jahresbudget der Investitionen, die mit den Infrastrukturen und Einrichtungen verbunden sind und &#xFC;bergeben es dem Departement auf den 30. August.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux r&#xE9;pertori&#xE9;s &#xE9;tablissent un budget annuel d&#xE9;taill&#xE9; des investissements li&#xE9;s aux infrastructures et &#xE9;quipements et le transmettent au d&#xE9;partement pour le 30 ao&#xFB;t.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64518">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement pr&#xE4;zisiert den Detaillierungsgrad in einer Richtlinie.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement pr&#xE9;cise, par voie de directives, le niveau de d&#xE9;tail &#xE0; pr&#xE9;senter.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64519">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach ihrer &#xDC;berpr&#xFC;fung entscheidet der Staatsrat &#xFC;ber die eingereichten Budgets im Hinblick auf die Wirtschaftlichkeit und die Einhaltung des Leistungsauftrags.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat se prononce, apr&#xE8;s examen, sur les budgets pr&#xE9;sent&#xE9;s sous l'angle de l'&#xE9;conomicit&#xE9; et du respect du mandat de prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27746">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Modalit&#xE4;ten der Auszahlung der KVG-Finanzierung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s de versement du financement LAMal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64520">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Anteil des Kantons an der KVG-Finanzierung wird in monatlichen Raten bezahlt, die h&#xF6;chstens 95 Prozent des vom Departement anerkannten Budgets ausmachen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La part du canton au financement LAMal est vers&#xE9;e par acomptes mensuels repr&#xE9;sentant au maximum 95 pour cent du budget reconnu par le d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64521">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Listenspit&#xE4;ler liefern dem Departement auf den 15. Januar jedes Jahres eine provisorische Abrechnung &#xFC;ber die KVG-Finanzierung und eine definitive Abrechnung auf den 30. April.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux r&#xE9;pertori&#xE9;s fournissent au d&#xE9;partement pour le 15 janvier de chaque ann&#xE9;e un d&#xE9;compte provisoire du financement LAMal et un d&#xE9;compte d&#xE9;finitif pour le 30 avril.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64522">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement bezahlt 97 Prozent der provisorischen Abrechnung, die anfangs Jahr ber&#xFC;cksichtigt wurde. Der restliche Betrag wird nach der Genehmigung der definitiven Abrechnung bezahlt, unter Vorbehalt der Bestimmungen aus Abschnitt 4 &#xFC;ber den Gesamtumfang der kantonalen Verg&#xFC;tung und das Globalbudget.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement verse le 97 pour cent du d&#xE9;compte provisoire retenu en d&#xE9;but d'ann&#xE9;e. Le solde est vers&#xE9; apr&#xE8;s approbation du d&#xE9;compte d&#xE9;finitif, sous r&#xE9;serve des dispositions de la section 4 relatives au volume total de r&#xE9;mun&#xE9;ration du canton et au budget global.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64523">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn es die Umst&#xE4;nde rechtfertigen, insbesondere in einem vertragslosen Zustand, kann der Staatsrat die mit der KVG-Finanzierung verbundenen Akontozahlungen vorzeitig leisten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les circonstances le justifient, notamment en l'absence de convention tarifaire, le Conseil d'Etat peut octroyer, de mani&#xE8;re anticip&#xE9;e, les acomptes li&#xE9;s au financement LAMal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27747">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Tarifvertr&#xE4;ge</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conventions tarifaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64524">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann, falls es dies f&#xFC;r n&#xF6;tig erachtet, als Beobachter an den Verhandlungen &#xFC;ber die Tarifvertr&#xE4;ge beiwohnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut, lorsqu'il le juge n&#xE9;cessaire, assister en tant qu'observateur aux n&#xE9;gociations des conventions tarifaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27748">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schwankung der Anzahl Austritte oder Tage nach KVG</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Variation du nombre de sorties ou de journ&#xE9;es LAMal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64525">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Schwankung von mehr als drei Prozent der Gesamtzahl der Austritte oder Tage nach KVG, die im Budget vorgesehen sind, das vom Departement mitgeteilt wurde, muss von den Listenspit&#xE4;lern im Lauf des Rechnungsjahres gerechtfertigt und gemeldet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute variation de plus de trois pour cent du nombre total de sorties ou de journ&#xE9;es LAMal pr&#xE9;vus dans le budget notifi&#xE9; par le d&#xE9;partement doit &#xEA;tre justifi&#xE9;e et annonc&#xE9;e par les h&#xF4;pitaux r&#xE9;pertori&#xE9;s en cours d'exercice.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27749">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begleitmassnahmen f&#xFC;r die Einf&#xFC;hrung von neuen Tarifstrukturen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Mesures d'accompagnement pour l'introduction de nouvelles structures tarifaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64526">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Falle der Einf&#xFC;hrung von neuen Tarifstrukturen im Rahmen der Verg&#xFC;tung der Spitalbehandlungen kann der Kanton f&#xFC;r beschr&#xE4;nkte Zeit Begleitmassnahmen vorsehen, um die Neutralit&#xE4;t seiner Beteiligung sicherzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas d'introduction de nouvelles structures tarifaires dans le cadre de la r&#xE9;mun&#xE9;ration des traitements hospitaliers, le canton peut pr&#xE9;voir des mesures d'accompagnement pendant une dur&#xE9;e limit&#xE9;e pour garantir la neutralit&#xE9; de sa participation.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64527">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement pr&#xE4;zisiert mittels Richtlinien die Modalit&#xE4;ten der Begleitmassnahmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement pr&#xE9;cise, par voie de directives, les modalit&#xE9;s des mesures d'accompagnement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27796">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20a</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">F&#xF6;rderung ambulanter Behandlungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Promotion de la prise en charge ambulatoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64638">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erstellt eine Liste mit Leistungen, deren ambulante Durchf&#xFC;hrung in der Regel wirksamer, zweckm&#xE4;ssiger und wirtschaftlicher ist als die station&#xE4;re.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;tablit une liste de prestations dont la dispensation en mode ambulatoire est en principe plus efficace, adapt&#xE9;e et &#xE9;conomique qu'en mode stationnaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64639">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton beteiligt sich nur dann an den Kosten der station&#xE4;ren Durchf&#xFC;hrung von Leistungen gem&#xE4;ss der Liste in Absatz 1, wenn diese begr&#xFC;ndet ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton participe aux traitements mentionn&#xE9;s dans la liste de l'alin&#xE9;a 1 et qui sont dispens&#xE9;s en mode stationnaire uniquement en cas de situations justifi&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64640">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r eine Beteiligung des Kantons muss der behandelnde Arzt oder der Spitalarzt ein Gesuch anhand eines offiziellen Formulars an den Kanton &#xFC;bermitteln.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour une participation du canton, une requ&#xEA;te doit &#xEA;tre adress&#xE9;e par le m&#xE9;decin traitant ou hospitalier au canton au moyen du formulaire officiel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64641">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement erl&#xE4;sst Richtlinien zum Verfahren &#xFC;ber die Kostengutsprache.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement &#xE9;dicte les directives relatives &#xE0; la proc&#xE9;dure de garantie de paiement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8586">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>KVG-Finanzierung - Gesamtumfang der Verg&#xFC;tungen des Kantons und Globalbudget</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Financement LAMal - Volume total de r&#xE9;mun&#xE9;ration du canton et budget global</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27750">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesamtumfang der Verg&#xFC;tungen des Kantons</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Volume total de r&#xE9;mun&#xE9;ration du canton</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64528">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement legt j&#xE4;hrlich den Gesamtumfang der Verg&#xFC;tungen des Kantons gem&#xE4;ss Artikel 13 GKAI fest, dabei werden die im Kanton erbrachten Leistungen von den ausserkantonal erbrachten Leistungen separat ausgewiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le volume total de r&#xE9;mun&#xE9;ration du canton au sens de l'article 13 LEIS est arr&#xEA;t&#xE9; annuellement par le d&#xE9;partement, en distinguant l'activit&#xE9; intracantonale de l'activit&#xE9; hors canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64529">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement erstellt Unterkategorien nach Leistungen und T&#xE4;tigkeitsbereichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement &#xE9;tablit des subdivisions en fonction des prestations et des secteurs d'activit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64530">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einer &#xDC;berschreitung des Aktivit&#xE4;tsvolumens pro Leistungs- oder T&#xE4;tigkeitsbereich entspricht der variable Teil pro Leistungserbringer, der das Budget &#xFC;bersteigt, 30 Prozent der Differenz zwischen dem auf der Grundlage der tats&#xE4;chlichen T&#xE4;tigkeit des ber&#xFC;cksichtigten Leistungserbringers berechneten Betrag (Gesamtumfang laut effektiver T&#xE4;tigkeit) und der budgetierten finanziellen Beteiligung f&#xFC;r diesen Leistungserbringer (Gesamtumfang laut Budget). Die definitive Beteiligung des Kantons pro Leistungserbringer wird anhand nachfolgender Formel bestimmt: Gesamtumfang laut Budget plus 30 Prozent der Budget&#xFC;berschreitung (Gesamtumfang laut effektiver T&#xE4;tigkeit minus Gesamtumfang laut Budget).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de d&#xE9;passement du volume d'activit&#xE9; par prestation ou secteur d'activit&#xE9;, la part variable par fournisseur d&#xE9;passant le budget notifi&#xE9; correspond &#xE0; 30 pour cent de la diff&#xE9;rence entre le volume de r&#xE9;mun&#xE9;ration calcul&#xE9; sur la base de l'activit&#xE9; effective du fournisseur consid&#xE9;r&#xE9; (volume r&#xE9;alis&#xE9;) et la participation budg&#xE9;t&#xE9;e pour ce fournisseur (volume budg&#xE9;t&#xE9;). La participation d&#xE9;finitive du canton par fournisseur est arr&#xEA;t&#xE9;e selon la formule suivante: volume budg&#xE9;t&#xE9; plus 30 pour cent du d&#xE9;passement budg&#xE9;taire (volume r&#xE9;alis&#xE9; moins volume budg&#xE9;t&#xE9;).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27751">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Globalbudget</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Budget global</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64531">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss Artikel 12 Absatz 2 GKAI kann der Kanton f&#xFC;r die Finanzierung gewisser Leistungen ein Globalbudget im Sinne von Artikel 51 KVG festlegen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En application de l'article 12 alin&#xE9;a 2 LEIS, le canton peut fixer un budget global au sens de l'article 51 LAMal pour le financement de certaines prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64532">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt das Globalbudget auf Antrag des Departements und nach Einholen der Vormeinung der betroffenen Leistungserbringer und Versicherer fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le budget global est arr&#xEA;t&#xE9; par le Conseil d'Etat, sur proposition du d&#xE9;partement, apr&#xE8;s consultation des fournisseurs de prestations concern&#xE9;s et des assureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64533">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in Artikel 21 der vorliegenden Verordnung vorgesehenen Bestimmungen gelten nicht f&#xFC;r Leistungen, f&#xFC;r die ein Globalbudget gilt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions pr&#xE9;vues &#xE0; l'article 21 de la pr&#xE9;sente ordonnance ne s'appliquent pas pour les prestations faisant l'objet d'un budget global.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8587">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Kantonale Subventionierung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Subventionnement cantonal</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27752">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Definitionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64534">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Sinne der vorliegenden Verordnung bedeuten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Au sens de la pr&#xE9;sente ordonnance, on entend par:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43905">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Subventionierte Spit&#xE4;ler: nicht gewinnorientierte Spit&#xE4;ler oder nicht gewinnorientierte T&#xE4;tigkeitsbereiche von Spit&#xE4;lern, die Subventionen beanspruchen k&#xF6;nnen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">h&#xF4;pitaux subventionn&#xE9;s: les h&#xF4;pitaux ou secteurs d'activit&#xE9; dans les h&#xF4;pitaux ne poursuivant pas de but lucratif et pouvant pr&#xE9;tendre &#xE0; des subventions;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43906">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ber&#xFC;cksichtigte Ausgaben: die Ausgaben, die mit der Gesundheitsplanung verbunden sind und vom Departement j&#xE4;hrlich &#xFC;ber das Budget genehmigt werden entsprechend Artikel 16 GKAI;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;penses retenues: les d&#xE9;penses en rapport avec la planification sanitaire et approuv&#xE9;es annuellement, par voie budg&#xE9;taire, par le d&#xE9;partement, conform&#xE9;ment &#xE0; l'article 16 de la LEIS;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:43907">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">nicht ber&#xFC;cksichtigte Ausgaben: die Ausgaben, f&#xFC;r die eine kantonale Beteiligung ausgeschlossen ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;penses non retenues: les d&#xE9;penses pour lesquelles une participation financi&#xE8;re du canton est exclue.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27753">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Modalit&#xE4;ten der Gew&#xE4;hrung und des Entzugs von Subventionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s d'octroi et de retrait de subventions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64535">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Hinblick auf die Gew&#xE4;hrung von Subventionen m&#xFC;ssen die Spit&#xE4;ler beim Kanton aufgrund eines detaillierten und begr&#xFC;ndeten Dossiers ein schriftliches Gesuch einreichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les h&#xF4;pitaux doivent d&#xE9;poser aupr&#xE8;s du canton une demande par &#xE9;crit, sur la base d'un dossier d&#xE9;taill&#xE9; et argument&#xE9;, en vue de l'octroi de subventions cantonales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64536">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann die ihm n&#xFC;tzlich erscheinenden Schriftst&#xFC;cke und Dokumente verlangen, um zu pr&#xFC;fen, ob die Bedingungen f&#xFC;r eine Subventionierung erf&#xFC;llt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement peut exiger les pi&#xE8;ces et documents qu'il juge utiles pour v&#xE9;rifier si les conditions de subventionnement sont remplies.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64537">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann den Entzug der Gew&#xE4;hrung von Subventionen beschliessen, wenn das subventionierte Spital die Bedingungen nicht mehr erf&#xFC;llt oder wenn die Leistung f&#xFC;r die Deckung des Gesundheitsbedarfs der Walliser Bev&#xF6;lkerung laut Gesundheitsplanung nicht mehr als unerl&#xE4;sslich anerkannt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut d&#xE9;cider du retrait de l'octroi de subventions si l'h&#xF4;pital subventionn&#xE9; ne remplit plus les conditions ou si la prestation n'est plus reconnue indispensable &#xE0; la couverture des besoins de sant&#xE9; de la population valaisanne conform&#xE9;ment &#xE0; la planification sanitaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64538">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann im Fall der Verletzung der in Artikel 14 GKAI vorgeschriebenen Subventionsbedingungen, der Verordnungen oder der Richtlinien des Departements die R&#xFC;ckerstattung der Gesamtheit oder eines Teils der gew&#xE4;hrten Subventionen verlangen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut exiger la restitution totale ou partielle des subventions allou&#xE9;es en cas de violation des conditions de subventionnement prescrites &#xE0; l'article 14 LEIS, des ordonnances ou des directives du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64539">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt in einem Entscheid den Betrag der R&#xFC;ckerstattung, die R&#xFC;ckzahlungsfristen und den Zinssatz ab der Entstehung des R&#xFC;ckerstattungsanspruchs fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe le montant de la restitution, les d&#xE9;lais de remboursements et le taux d'int&#xE9;r&#xEA;ts &#xE0; partir de la naissance du droit &#xE0; la restitution par voie de d&#xE9;cision.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64540">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt besonderer Bestimmungen findet das Gesetz &#xFC;ber die Subventionen Anwendung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de dispositions particuli&#xE8;res, la loi sur les subventions s'applique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27754">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ber&#xFC;cksichtigte und nicht ber&#xFC;cksichtigte Ausgaben</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;penses retenues et non retenues</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64541">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Subventionierung erstreckt sich einzig auf die ber&#xFC;cksichtigten Ausgaben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le subventionnement ne porte que sur les d&#xE9;penses retenues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64542">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement bestimmt die nicht ber&#xFC;cksichtigten Ausgaben der subventionierten Spit&#xE4;ler bei der Pr&#xFC;fung des Budgets und bei der Pr&#xFC;fung der Rechnung der Spit&#xE4;ler.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;termine les d&#xE9;penses non retenues des h&#xF4;pitaux subventionn&#xE9;s lors de l'examen du budget ainsi que lors de l'examen des comptes des h&#xF4;pitaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27755">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Modalit&#xE4;ten der Auszahlung der Subventionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modalit&#xE9;s de versement des subventions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64543">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Subventionen werden den Spit&#xE4;lern mit regelm&#xE4;ssigen Akontozahlungen &#xFC;berwiesen. Der Saldo wird nach der Genehmigung der definitiven Abrechnung &#xFC;berwiesen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les subventions sont vers&#xE9;es par acomptes r&#xE9;guliers aux h&#xF4;pitaux. Le solde est vers&#xE9; apr&#xE8;s approbation du d&#xE9;compte d&#xE9;finitif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27756">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeinwirtschaftliche Leistungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prestations d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64544">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Beteiligung des Kantons an den ber&#xFC;cksichtigten Betriebs- und Investitionsausgaben der gemeinwirtschaftlichen Leistungen erstreckt sich im Rahmen der im Budget verf&#xFC;gbaren Mittel auf Leistungen, die zur Gesundheitsplanung geh&#xF6;ren und deren Finanzierung trotz einer rationellen und effizienten Gesch&#xE4;ftsf&#xFC;hrung nicht sichergestellt werden kann.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La participation du canton aux co&#xFB;ts d'exploitation ou d'investissements retenus des prestations d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral porte, dans la limite des disponibilit&#xE9;s budg&#xE9;taires, sur des prestations relevant de la planification sanitaire dont le financement ne peut &#xEA;tre assur&#xE9; malgr&#xE9; une gestion rationnelle et efficace.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64545">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kosten der subventionierten Spit&#xE4;ler f&#xFC;r universit&#xE4;re Lehre im Sinne von Artikel 49 Absatz 3 KVG werden den Richtlinien des Departements entsprechend vom Kanton finanziert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les co&#xFB;ts de formation universitaire au sens de l'article 49 alin&#xE9;a 3 LAMal des h&#xF4;pitaux subventionn&#xE9;s sont financ&#xE9;s par le canton conform&#xE9;ment aux directives du d&#xE9;partement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64546">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r das geriatrische Tagesspital, die psychiatrischen Behandlungszentren und das Tagesspital der psychiatrischen und psychogeriatrischen Spit&#xE4;ler, unter Ausschluss der Liaisonpsychiatrie, kann der Kanton die ber&#xFC;cksichtigten Ausgaben decken, die nicht von den Krankenversicherern oder von anderen Versicherern &#xFC;bernommen werden k&#xF6;nnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour l'h&#xF4;pital de jour de g&#xE9;riatrie, les centres de consultations psychiatriques et l'h&#xF4;pital de jour des h&#xF4;pitaux psychiatriques et psychog&#xE9;riatriques, &#xE0; l'exclusion de la psychiatrie de liaison, le canton peut couvrir les d&#xE9;penses retenues qui ne peuvent &#xEA;tre prises en charge par les assureurs maladie ou d'autres assureurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64547">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann gewisse sonstige Leistungen, insbesondere die in Artikel 21 GKAI genannten Leistungen, f&#xFC;r die Subventionierung anerkennen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut reconna&#xEE;tre au subventionnement certaines autres prestations, notamment celles mentionn&#xE9;es &#xE0; l'article 21 LEIS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64548">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement bestimmt die ber&#xFC;cksichtigten Ausgaben j&#xE4;hrlich &#xFC;ber das Budget.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;termine annuellement par voie budg&#xE9;taire les d&#xE9;penses retenues.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27757">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pilotprojekte</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Projets pilotes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64549">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement kann sich im Rahmen der Gesundheitsplanung, der finanziellen Zust&#xE4;ndigkeit und des Voranschlags finanziell an Pilotprojekten in Spit&#xE4;lern beteiligen, insbesondere wenn diese die Einf&#xFC;hrung von Mess- und Analyseinstrumente zur Qualit&#xE4;tssicherung sowie den Umgang mit der Versorgungsqualit&#xE4;t, die Patientensicherheit und die Wirksamkeit der Leistungen betreffen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de la planification sanitaire, des comp&#xE9;tences financi&#xE8;res et des disponibilit&#xE9;s budg&#xE9;taires, le d&#xE9;partement peut octroyer aux h&#xF4;pitaux subventionn&#xE9;s une participation financi&#xE8;re pour des projets pilotes concernant notamment l'introduction d'instruments de mesure, d'analyse et de gestion de la qualit&#xE9; des soins, de la s&#xE9;curit&#xE9; des patients et de l'ad&#xE9;quation des prestations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64550">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement legt nach Anh&#xF6;rung der subventionierten Spit&#xE4;ler den Betrag fest und pr&#xE4;zisiert die Modalit&#xE4;ten der Subventionierung der Pilotprojekte, an denen sich die subventionierten Spit&#xE4;ler beteiligen m&#xFC;ssen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement, apr&#xE8;s consultation des h&#xF4;pitaux subventionn&#xE9;s, fixe le montant et pr&#xE9;cise les modalit&#xE9;s de subventionnement des projets pilotes auxquels les h&#xF4;pitaux subventionn&#xE9;s doivent participer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64551">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Pilotprojekte werden regelm&#xE4;ssig evaluiert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les projets pilotes font l'objet d'une &#xE9;valuation r&#xE9;guli&#xE8;re.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27758">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Allf&#xE4;llige Zusatzbudgets</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Eventuels budgets suppl&#xE9;mentaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64552">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sofern es sich nicht um laufende Ausgaben handelt, deren Entwicklung mit der erforderlichen Sorgfalt verfolgt werden kann, k&#xF6;nnen die subventionierten Spit&#xE4;ler im Laufe des Rechnungsjahrs, falls notwendig, dringlich und unvorhersehbar, beim Departement um ein Zusatzbudget nachsuchen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour autant qu'il ne s'agisse pas de d&#xE9;penses courantes dont l'&#xE9;volution peut &#xEA;tre suivie avec la diligence requise, les h&#xF4;pitaux subventionn&#xE9;s peuvent demander en cours d'exercice, au d&#xE9;partement, un budget suppl&#xE9;mentaire en cas de n&#xE9;cessit&#xE9;, d'urgence et d'impr&#xE9;visibilit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64553">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement entscheidet &#xFC;ber die Annahme oder Ablehnung dieser Gesuche. Gegebenenfalls &#xFC;bermittelt es sie nach den geltenden Verfahren an den Staatsrat oder an den Grossen Rat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement d&#xE9;cide de l'acceptation ou du refus de ces demandes. Le cas &#xE9;ch&#xE9;ant, il les transmet au Conseil d'Etat ou au Grand Conseil selon les proc&#xE9;dures en vigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27759">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Versicherte von anderen Sozialversicherungen als jener des KVG</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Assur&#xE9;s b&#xE9;n&#xE9;ficiant d'assurances sociales autres que la LAMal</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64554">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn die Bundesgesetzgebung zu den anderen Sozialversicherungen als jener des KVG im Sinne von Artikel 17 GKAI trotz rationellem und effizienten Vorgehen keine vollst&#xE4;ndige Deckung der Kosten der betreffenden Leistungen gew&#xE4;hrt, kann die Differenz durch den Kanton zu denselben Bedingungen, die f&#xFC;r gemeinwirtschaftliche Leistungen gelten, &#xFC;bernommen werden (Art. 27).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si, conform&#xE9;ment &#xE0; l'article 17 de la LEIS, la l&#xE9;gislation f&#xE9;d&#xE9;rale relative aux assurances sociales autres que la LAMal ne garantit pas une couverture compl&#xE8;te des co&#xFB;ts des prestations concern&#xE9;es, malgr&#xE9; une gestion rationnelle et efficace, la diff&#xE9;rence peut &#xEA;tre prise en charge par le canton, selon des modalit&#xE9;s analogues &#xE0; celles applicables aux prestations d'int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral (art. 27).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="8588">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:27760">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtswege</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Voies de droit</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64555">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt besonderer Bestimmungen gilt das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sous r&#xE9;serve de dispositions particuli&#xE8;res, la loi sur la proc&#xE9;dure et la juridiction administratives (LPJA) s'applique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27761">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64556">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle Bestimmungen, die dieser Verordnung zuwiderlaufen werden aufgehoben, namentlich die Verordnung &#xFC;ber die Spitalplanung und -finanzierung vom 30. Mai 2012.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toutes les dispositions contraires &#xE0; la pr&#xE9;sente ordonnance sont abrog&#xE9;es, en particulier l'ordonnance sur la planification et le financement hospitaliers du 30 mai 2012.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:27762">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>33</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:64557">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement ist mit dem Vollzug dieser Verordnung beauftragt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement est charg&#xE9; de l'application de la pr&#xE9;sente ordonnance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:64558">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie wird im Amtsblatt ver&#xF6;ffentlicht und tritt gleichzeitig mit dem Gesetz &#xFC;ber die Krankenanstalten und -institutionen vom 13. M&#xE4;rz 2014 (GKAI) in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle est publi&#xE9;e au Bulletin officiel pour entrer en vigueur &#xE0; la m&#xEA;me date que la loi sur les &#xE9;tablissements et institutions sanitaires du 13 mars 2014 (LEIS).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2015-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 48/2017</journalText>
+      </publication>
+    </info>
+    <articles>
+      <article id1="Article:27796" historyChange="insert" historyImpact="major"/>
+    </articles>
+    <previousHistory>
+      <info>
+        <dateForce>2015-01-01</dateForce>
+        <dateVersion>2015-01-01</dateVersion>
+        <publication>
+          <journalText>BO/Abl. 41/2014, 43/2014</journalText>
+        </publication>
+      </info>
+    </previousHistory>
+  </history>
+</norm>

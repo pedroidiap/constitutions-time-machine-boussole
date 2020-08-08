@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1735</normID>
+      <number>440.101</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement f&#xFC;r die Musikschulen</title>
+      <title lang="fr">R&#xE8;glement sur les &#xE9;coles de musique</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2017-08-16</dateAdoption>
+      <dateForce>2018-01-01T00:00:00</dateForce>
+      <dateLastChange>2018-01-01</dateLastChange>
+      <dateVersion>2018-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 57 der Kantonsverfassung;&#xA0;</basis> <basis>eingesehen die Artikel 36a bis 36e des Kulturf&#xF6;rderungsgesetzes vom 15. November 1996,</basis><formal>beschliesst:(Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise f&#xFC;r Mann und Frau.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 de la Constitution cantonale;&#xA0;</basis> <basis>vu les articles 36a &#xE0; 36e de la loi sur la promotion de la culture du 15 novembre 1996,</basis><formal>arr&#xEA;te:( Dans le pr&#xE9;sent r&#xE8;glement, toute d&#xE9;signation de personne, de statut ou de fonction, concerne indiff&#xE9;remment l'homme ou la femme.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 34/2017</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="8170">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>f&#xFC;r die Musikschulen</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>sur les &#xE9;coles de musique</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:26702">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zust&#xE4;ndige Beh&#xF6;rden</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorit&#xE9;s comp&#xE9;tentes</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:61995">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Anerkennung einer Schule im Sinne des Artikels 36a des Kulturf&#xF6;rderungsgesetzes vom 15. November 1996 (nachstehend: Gesetz) wird durch den Staatsrat nach Stellungnahme der Konsultativkommission bestimmt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La reconnaissance d'une &#xE9;cole au sens de l'article 36a de la loi sur la promotion de la culture du 15 novembre 1996 (ci-apr&#xE8;s: la loi) est d&#xE9;cid&#xE9;e par le Conseil d'Etat apr&#xE8;s avoir requis l'avis de la Commission consultative.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:61996">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das f&#xFC;r die Kultur zust&#xE4;ndige Departement (nachstehend: Departement) achtet darauf, dass die Politik des Staates zugunsten des nicht professionell orientierten und ausserschulischen Musikunterrichts eingehalten und umgesetzt wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Au surplus, le d&#xE9;partement en charge de la culture (ci-apr&#xE8;s: le d&#xE9;partement) veille au respect et &#xE0; la mise en oeuvre de la politique de l'Etat en faveur de la formation musicale non professionnelle et extra-scolaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:61997">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Konsultativkommission wird vom Vorsteher des Departements pr&#xE4;sidiert. Ausserdem besteht sie aus zwei vom Departement ernannten Mitgliedern, zwei vom Verband der Walliser Gemeinden ernannten Mitgliedern, ausgew&#xE4;hlt unter den Gemeinden, die sich an der Finanzierung anerkannter Musikschulen beteiligen, zwei vom Verband der Walliser Musikschulen ernannten Mitgliedern und einem Mitglied, das gemeinsam vom Kantonalen Musikverband Wallis und dem Verband Walliser Gesangvereine bezeichnet wird.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La Commission consultative est pr&#xE9;sid&#xE9;e par le chef du d&#xE9;partement. Elle est constitu&#xE9;e au surplus de deux membres d&#xE9;sign&#xE9;s par le d&#xE9;partement, deux membres d&#xE9;sign&#xE9;s par la F&#xE9;d&#xE9;ration des communes valaisannes et choisis au sein des communes qui participent au financement des &#xE9;coles de musique reconnues, deux membres d&#xE9;sign&#xE9;s par l'Association des &#xE9;coles de musique et d'un membre d&#xE9;sign&#xE9; conjointement par l'Association cantonale des musiques valaisannes et la F&#xE9;d&#xE9;ration des soci&#xE9;t&#xE9;s de chant du Valais.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:61998">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Verband der Walliser Musikschulen (nachstehend: Verband) achtet darauf, dass die Musikschulen, aus denen er zusammengesetzt ist, die Voraussetzungen und Kriterien f&#xFC;r die Anerkennung im Sinne von Artikel 36a Absatz 1 des Gesetzes respektieren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'association des &#xE9;coles de musique du Valais (ci-apr&#xE8;s: l'association) veille au respect des conditions et des crit&#xE8;res de reconnaissance, au sens de l'article 36a alin&#xE9;a 1 de la loi, par les &#xE9;coles de musique qui la composent.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:61999">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Statuten des Verbands und ihre &#xC4;nderung m&#xFC;ssen vom Departement genehmigt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les statuts de l'association et leur modification doivent &#xEA;tre approuv&#xE9;s par le d&#xE9;partement.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26703">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Voraussetzungen und Kriterien f&#xFC;r die Anerkennung einer Musikschule</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Conditions et crit&#xE8;res de reconnaissance d'une &#xE9;cole de musique</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62000">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Voraussetzungen f&#xFC;r die Anerkennung einer Musikschule beziehen sich insbesondere auf ihre Rechtsstellung, ihre finanzielle Situation und ihre F&#xE4;higkeit, die Kriterien f&#xFC;r die Anerkennung umzusetzen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les conditions de reconnaissance d'une &#xE9;cole de musique portent notamment sur son statut juridique, sa situation financi&#xE8;re et sa capacit&#xE9; &#xE0; mettre en oeuvre les crit&#xE8;res de reconnaissance.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62001">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Kriterien f&#xFC;r die Anerkennung einer Musikschule beziehen sich insbesondere auf:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les crit&#xE8;res de reconnaissance d'une &#xE9;cole de musique portent notamment sur:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43300">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">das Kursangebot und den Lehrplan;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">l'offre de cours et le plan des &#xE9;tudes;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43301">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die territoriale Organisation des Unterrichts;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">l'organisation territoriale de l'enseignement;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43302">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Qualifikation, den Status und die Besoldung des Lehr- und Verwaltungspersonals;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la qualification, le statut et la r&#xE9;mun&#xE9;ration du personnel enseignant et administratif;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43303">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">den Evaluationsmodus der Sch&#xFC;ler und der Lehrerschaft;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">le mode d'&#xE9;valuation des &#xE9;l&#xE8;ves et du corps enseignant;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43304">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die j&#xE4;hrlichen Kosten pro Lektion;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">le co&#xFB;t annuel d'une unit&#xE9; de cours;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43305">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die H&#xF6;he des Schulgelds.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">le bar&#xE8;me des taxes de cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62002">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die H&#xF6;he des Schulgelds ber&#xFC;cksichtigt die wirtschaftliche Situation der Eltern oder anderer Unterhaltspflichtiger sowie den erh&#xF6;hten Ausbildungsbedarf musikalisch Begabter.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le bar&#xE8;me des taxes de cours tient compte de la situation &#xE9;conomique des parents ou des personnes en charge de l'entretien et des besoins accrus de formations des &#xE9;l&#xE8;ves dou&#xE9;s en musique.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26704">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Berechnung der Kosten einer Lektion</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Calcul du co&#xFB;t d'une unit&#xE9; de cours de base</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62003">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Eine Lektion dauert 30 Minuten. Die Berechnung der Subventionen erfolgt auf der Grundlage der Standardkosten, welche aufgrund des Referenzindexes erstellt werden und Folgendes ber&#xFC;cksichtigen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'unit&#xE9; de cours est d'une dur&#xE9;e de 30 minutes. Le calcul des subventions intervient sur la base de co&#xFB;ts standards &#xE9;tablis &#xE0; partir d'indices de r&#xE9;f&#xE9;rence qui prennent en compte:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43306">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Lohnkosten der Lehrerschaft;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les charges salariales du corps enseignant;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43307">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Weiterbildungskosten des Lehrpersonals, die Verwaltungskosten, die Kosten zur Anschaffung der f&#xFC;r den Unterricht notwendigen Lehrmittel und Instrumente;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les frais de formation continue du personnel enseignant, les frais administratifs, les frais d'acquisition et d'entretien du mat&#xE9;riel p&#xE9;dagogique et d'instruments de l'&#xE9;cole de musique n&#xE9;cessaires &#xE0; l'enseignement;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43308">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Reinigungs-, Abwarts- und Heizkosten der R&#xE4;umlichkeiten proportional zur Ben&#xFC;tzung durch die betroffene Schule. Nicht inbegriffen sind Mieten und andere Bereitstellungs- und Unterhaltskosten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les frais de nettoyage, de conciergerie et de chauffage des locaux proportionnellement &#xE0; leur utilisation par l'&#xE9;cole concern&#xE9;e, &#xE0; l'exclusion des loyers et autres co&#xFB;ts de mise &#xE0; disposition ou d'entretien du b&#xE2;timent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62004">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Nach Absprache mit dem Verband legt das Departement die Standardkosten und die effektiven Lektion fest, die im folgenden Schuljahr subventioniert werden k&#xF6;nnen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Apr&#xE8;s consultation de l'association, le d&#xE9;partement fixe le co&#xFB;t standard et l'effectif global des unit&#xE9;s de cours qui peuvent &#xEA;tre subventionn&#xE9;es au cours de la prochaine ann&#xE9;e scolaire.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26705">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Junger Sch&#xFC;ler</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Jeune &#xE9;l&#xE8;ve</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62005">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Als junger Sch&#xFC;ler gilt jede Person, die das 18. Altersjahr, beziehungsweise bei Studierenden und Lernenden das 25. Altersjahr, noch nicht vollendet hat.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Est consid&#xE9;r&#xE9; comme jeune &#xE9;l&#xE8;ve toute personne &#xE2;g&#xE9;e de moins de 18 ans r&#xE9;volus, 25 ans pour les &#xE9;tudiants et les apprentis.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:26706">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Dezentraler Unterrichtsort</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Point d'enseignement d&#xE9;centralis&#xE9;</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:62006">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Auf Ersuchen einer Gemeinde oder einer Gruppe von Gemeinden kann eine anerkannte Musikschule einen dezentralen Unterrichtsort schaffen. Er wird vom Staat im Sinne von Artikel 36e Absatz 1 des Gesetzes subventioniert, insofern folgende Bedingungen erf&#xFC;llt sind:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Sur requ&#xEA;te d'une commune ou d'un groupe de communes, une &#xE9;cole de musique reconnue peut ouvrir un point d'enseignement d&#xE9;centralis&#xE9;. Il b&#xE9;n&#xE9;ficie de la subvention accord&#xE9;e par l'Etat conform&#xE9;ment &#xE0; l'article 36e alin&#xE9;a 1 de la loi, si les conditions suivantes sont remplies:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43309">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Musikschule verf&#xFC;gt &#xFC;ber das n&#xF6;tige Lehrpersonal;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">l'&#xE9;cole de musique dispose du personnel enseignant n&#xE9;cessaire;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:43310">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Gemeinde oder die Gruppe von Gemeinden stellt die n&#xF6;tigen R&#xE4;umlichkeiten zur Verf&#xFC;gung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">la commune ou le groupe de communes met &#xE0; disposition les locaux n&#xE9;cessaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62007">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Betrifft der Antrag Ausbildungsg&#xE4;nge f&#xFC;r eine Musikgesellschaft oder einen Chor, geht die Musikschule nach M&#xF6;glichkeit auf deren Bed&#xFC;rfnisse bez&#xFC;glich Unterrichtsangebot und Auswahl der Lehrpersonen ein.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Lorsque la requ&#xEA;te concerne des formations destin&#xE9;es &#xE0; un corps de musique ou &#xE0; un choeur, l'&#xE9;cole de musique tient compte, dans la mesure du possible, de leurs attentes en ce qui concerne l'offre de cours et le choix des enseignants.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:62008">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der Staat beteiligt sich an den Reisespesen der Lehrpersonen eines dezentralen Unterrichtsortes, gem&#xE4;ss einem Ansatz und einer spezifischen Abrechnung, die vom Departement, nach Absprache mit dem Verband, festgelegt werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">L'Etat participe aux frais de d&#xE9;placement des enseignants des points d'enseignement d&#xE9;centralis&#xE9; &#xE0; des conditions, selon un bar&#xE8;me et une facturation sp&#xE9;cifiques fix&#xE9;s par le d&#xE9;partement apr&#xE8;s consultation de l'association.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2018-01-01</dateForce>
+      <dateVersion>2018-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 34/2017</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

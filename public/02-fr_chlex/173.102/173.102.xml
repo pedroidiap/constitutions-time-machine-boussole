@@ -1,0 +1,1379 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1127</normID>
+      <number>173.102</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement &#xFC;ber die Archivierung der Gerichtsakten</title>
+      <title lang="fr">R&#xE8;glement sur l'archivage des dossiers judiciaires</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Das Kantonsgericht</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2001-09-05</dateAdoption>
+      <dateForce>2002-02-01T00:00:00</dateForce>
+      <dateLastChange>2002-02-01</dateLastChange>
+      <dateVersion>2002-02-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de">
+        <authorityDescription>Das Kantonsgericht</authorityDescription>
+        <basis>eingesehen Artikel 29 des Gesetzes &#xFC;ber die Gerichtsbeh&#xF6;rden 27. Juni 2000,</basis>
+        <formal>beschliesst:</formal>
+      </ingressText>
+      <ingressText lang="fr">
+        <authorityDescription>Le Tribunal cantonal</authorityDescription>
+        <basis>vu l'article 29 de la loi d'organisation judiciaire du 27 juin 2000,</basis>
+        <formal>arr&#xEA;te:</formal>
+      </ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 2002 f 148 | d 115</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3682">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>&#xFC;ber die Archivierung der Gerichtsakten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>sur l'archivage des dossiers judiciaires</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3684">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12533">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gegenstand und Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But et champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28861">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement ist anwendbar auf die Archivierung der Akten:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement organise l'archivage des documents judiciaires:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14238">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Gemeinderichter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des juges de commune;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14239">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Polizeigerichte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des tribunaux de police;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14240">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Strafuntersuchungsrichter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des juges d'instruction;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14241">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Bezirksrichter;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des juges de district;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14242">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Jugendgerichts;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du tribunal des mineurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14243">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Kreisgerichte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">des tribunaux d'arrondissement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14244">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des kantonalen Untersuchungsrichters;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du juge d'instruction cantonal;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14245">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der Staatsanw&#xE4;lte;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du minist&#xE8;re public;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14246">
+                        <partNumber>i)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">des Kantonsgerichts.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">du Tribunal cantonal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28862">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im weiteren regelt es die Einsichtnahme in das Archivgut der Gerichtsbeh&#xF6;rden durch Dritte.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il fixe en outre les modalit&#xE9;s de consultation des archives judiciaires par des tiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12534">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Grundsatz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Principe</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28863">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle archivw&#xFC;rdigen Akten der Gerichtsbeh&#xF6;rden werden archiviert und dauernd aufbewahrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les documents judiciaires qui ont une valeur archivistique sont conserv&#xE9;s durablement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12535">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriffe</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28864">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Akten gelten alle zu Papier gebrachten Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont consid&#xE9;r&#xE9;s comme documents toutes les informations &#xE9;crites sur papiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34428">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die auf elektronischen Datentr&#xE4;gern erfassten Daten werden durch das Gesetz &#xFC;ber den Schutz von Personendaten geregelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les informations enregistr&#xE9;es sur support &#xE9;lectronique sont r&#xE9;gies par la loi concernant la protection des donn&#xE9;es &#xE0; caract&#xE8;re personnel.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34429">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Archivgut der Gerichtsbeh&#xF6;rden gelten Dossiers von abgeschlossenen Verfahren sowie Akten, die f&#xFC;r die Geschichte der in Artikel 1 aufgef&#xFC;hrten Gerichtsbeh&#xF6;rden von Nutzen sind und von diesen nicht mehr dauernd ben&#xF6;tigt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont r&#xE9;put&#xE9;es archives judiciaires les dossiers dont la proc&#xE9;dure est close et les documents utiles &#xE0; l'histoire des autorit&#xE9;s judiciaires mentionn&#xE9;es &#xE0; l'article 1 et dont elles n'ont plus besoin en permanence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34430">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Archivw&#xFC;rdig sind Akten, die von juristischer oder administrativer Bedeutung sind oder die einen hohen Informationswert aufweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ont une valeur archivistique les documents qui ont une importance juridiqueou administrative ou qui ont une grande valeur d'information.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3685">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Archivierung und Sicherung der Unterlagen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Archivage et conservation des documents</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12536">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zust&#xE4;ndigkeiten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comp&#xE9;tences</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28865">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die in Artikel 1 aufgef&#xFC;hrten Gerichtsbeh&#xF6;rden sind zust&#xE4;ndig f&#xFC;r die Archivierung der von ihnen erstellten Akten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s judiciaires &#xE9;num&#xE9;r&#xE9;es &#xE0; l'article 1 sont responsables de l'archivage des documents qu'elles produisent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34431">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird ein Dossier von mehreren aufeinanderfolgenden Instanzen behandelt, wird es gesamthaft bei der erstinstanzlich entscheidenden Beh&#xF6;rde archiviert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque le dossier est trait&#xE9; par diverses instances successives, il est archiv&#xE9; int&#xE9;gralement aupr&#xE8;s de l'autorit&#xE9; de jugement de premi&#xE8;re instance.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34432">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kollegialbeh&#xF6;rden bezeichnen einen Verantwortlichen f&#xFC;r die F&#xFC;hrung der Archive.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s coll&#xE9;giales d&#xE9;signent un responsable de la tenue des archives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34439">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die F&#xFC;hrung der Archive entsprechend den Grunds&#xE4;tzen des vorliegenden Reglements sind grunds&#xE4;tzlich die Kanzleien der verschiedenen Instanzen oder ein von der zust&#xE4;ndigen Beh&#xF6;rde daf&#xFC;r bezeichneter Gerichtsschreiber verantwortlich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En principe, les chancelleries des diverses instances ou un greffier d&#xE9;sign&#xE9; &#xE0; cet effet par l'autorit&#xE9; comp&#xE9;tente sont charg&#xE9;es de la gestion des archives conform&#xE9;ment aux principes du pr&#xE9;sent r&#xE8;glement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12537">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28866">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Kantonsgericht als Aufsichtsbeh&#xF6;rde &#xFC;ber die Gerichtsbeh&#xF6;rden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Tribunal cantonal, en qualit&#xE9; d'autorit&#xE9; de surveillance des autorit&#xE9;s judiciaires:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14247">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">kontrolliert die Anwendung dieses Reglements durch die betreffenden Beh&#xF6;rden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">contr&#xF4;le l'application de ce r&#xE8;glement par les autorit&#xE9;s concern&#xE9;es;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14248">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">erl&#xE4;sst alle zu seiner Vollziehung erforderlichen Massnahmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">prend toutes mesures utiles &#xE0; son ex&#xE9;cution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14249">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">konsultiert soweit erforderlich das Kantonsarchiv als beratendes Organ.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">consulte les archives cantonales en tant qu'organe de conseil.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28867">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Hinsichtlich der Gemeinderichter und der Polizeigerichte wird diese Aufsicht durch die Bezirksrichter ausge&#xFC;bt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette surveillance est exerc&#xE9;e par les juges de district en ce qui concerne les juges de commune et les tribunaux de police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12538">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Prozessakten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Actes de proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28868">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dauernd aufbewahrt werden s&#xE4;mtliche Prozessakten, die nicht an die Parteien zur&#xFC;ckgesandt werden:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sont conserv&#xE9;s durablement tous les actes et proc&#xE9;dures qui ne sont pas renvoy&#xE9;s aux parties:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14250">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Rechtsschriften;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les m&#xE9;moires des parties;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14251">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die im Laufe der Instruktion erhobenen Beweise;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les preuves recueillies en cours d'instruction;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14252">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die prozessleitenden Verf&#xFC;gungen und Beschl&#xFC;sse;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les ordonnances et d&#xE9;cisions de proc&#xE9;dure;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14253">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Urteil.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28869">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Akten einer mit Strafbefehl abgeschlossenen Strafuntersuchung werden nach dreissig Jahren vernichtet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces dossiers d'instruction p&#xE9;nale clos par une ordonnance p&#xE9;nale sont d&#xE9;truits apr&#xE8;s trente ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12539">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Andere Unterlagen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autres documents</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28870">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verwaltungsakten, die f&#xFC;r die Geschichte oder die Entwicklung der betreffenden Institution von Bedeutung sind, werden ebenfalls archiviert, sofern sie archivw&#xFC;rdig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les actes administratifs utiles &#xE0; l'histoire ou au d&#xE9;veloppement de l'institution concern&#xE9;e sont &#xE9;galement conserv&#xE9;s dans la mesure o&#xF9; ils ont un int&#xE9;r&#xEA;t archivistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34433">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gesuche um Einsichtnahme werden ebenfalls archiviert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les demandes de consultation sont &#xE9;galement conserv&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12540">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Lokale und Material</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Locaux et mat&#xE9;riel</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28871">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Sitzgemeinden haben den Gerichtsbeh&#xF6;rden Archivlokale zur Verf&#xFC;gung zu stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes du si&#xE8;ge doivent mettre &#xE0; la disposition des tribunaux des locaux d'archives.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34434">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Lokale sind eigens der Archivierung vorzubehalten und so einzurichten, dass die Sicherheit und der einwandfreie Erhalt der Akten sichergestellt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces locaux sont sp&#xE9;cialement r&#xE9;serv&#xE9;s &#xE0; cet archivage et doivent &#xEA;tre am&#xE9;nag&#xE9;s de fa&#xE7;on &#xE0; garantir la s&#xE9;curit&#xE9; et la bonne conservation des documents.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34435">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie haben gen&#xFC;gend Platz f&#xFC;r mehrere Jahre sowie einen Ort f&#xFC;r die Einsichtnahme aufzuweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une place suffisante pour plusieurs ann&#xE9;es ainsi qu'un emplacement destin&#xE9; &#xE0; la consultation doivent &#xEA;tre pr&#xE9;vus.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34440">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kostenaufteilung zwischen Staat und Gemeinden erfolgt nach den einschl&#xE4;gigen Bestimmungen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;partition des frais entre l'Etat et les communes s'effectue selon les dispositions utiles.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12541">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;berf&#xFC;hrung ins Kantonsarchiv</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Versement aux archives cantonales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28872">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach 50 Jahren kann das Archivgut ins Kantonsarchiv &#xFC;berf&#xFC;hrt werden. Die betreffende Gerichtsbeh&#xF6;rde hat jeder &#xDC;berf&#xFC;hrung ein detailliertes Inventar in zwei Exemplaren beizugeben. Nach Einregistrierung des Archivguts ist ein Exemplar des Inventars vom Kantonsarchivar zu unterzeichnen und an die betreffende Gerichtsbeh&#xF6;rde zur&#xFC;ckzuschicken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les archives judiciaires de plus de 50 ans peuvent &#xEA;tre vers&#xE9;es aux archives cantonales. Chaque versement doit &#xEA;tre accompagn&#xE9; d'un inventaire d&#xE9;taill&#xE9; &#xE9;tabli en deux exemplaires par les soins de l'autorit&#xE9; judiciaire concern&#xE9;e. Apr&#xE8;s enregistrement du d&#xE9;p&#xF4;t, un exemplaire vis&#xE9; par le service des archives sera retourn&#xE9; &#xE0; l'autorit&#xE9; judiciaire concern&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3686">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Zug&#xE4;nglichkeit des Archivguts</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Acc&#xE8;s aux archives</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12542">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schutzfrist</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lai de protection</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28873">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Ablauf der Schutzfrist von 50 Jahren kann das Archivgut von jedermann eingesehen werden. Diese Frist kann von der zust&#xE4;ndigen Gerichtsbeh&#xF6;rde verl&#xE4;ngert werden, wenn ein &#xFC;berwiegendes schutzw&#xFC;rdiges &#xF6;ffentliches oder privates Interesse der Einsichtnahme durch Dritte entgegensteht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les archives judiciaires peuvent &#xEA;tre consult&#xE9;es librement et gratuitement par le public apr&#xE8;s l'expiration d'un d&#xE9;lai de protection de 50 ans. Ce d&#xE9;lai peut &#xEA;tre prolong&#xE9; par l'autorit&#xE9; judiciaire comp&#xE9;tente lorsque existe un int&#xE9;r&#xEA;t public ou priv&#xE9; pr&#xE9;pond&#xE9;rant, digne de protection, s'opposant &#xE0; la consultation par des tiers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12543">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung der Schutzfrist</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul du d&#xE9;lai de protection</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28874">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Prozessakten beginnt die Schutzfrist ab dem Ende des Jahres zu laufen, in dessen Verlauf die letzte Prozesshandlung vorgenommen worden ist und f&#xFC;r die &#xFC;brigen Akten ab dem Ende des Jahres des letzten Dokuments, das sich im betreffenden Dossier befindet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;lai de protection commence &#xE0; courir &#xE0; partir de la fin de l'ann&#xE9;e au cours de laquelle le dernier acte de proc&#xE9;dure a &#xE9;t&#xE9; effectu&#xE9;. Pour les autres documents, la fin de l'ann&#xE9;e du dernier document figurant au dossier est d&#xE9;terminante.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34436">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Schutzfrist gilt f&#xFC;r das gesamte Dossier oder die Gesamtheit der betreffenden Akten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;lai de protection vaut pour l'entier du dossier ou du document concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12544">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einsichtnahme w&#xE4;hrend der Schutzfrist</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Consultation pendant le d&#xE9;lai de protection</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28875">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Einsicht w&#xE4;hrend der Schutzfrist kann insbesondere gew&#xE4;hrt werden, wenn:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La consultation pendant le d&#xE9;lai de protection peut &#xEA;tre autoris&#xE9;e notamment lorsque:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14254">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Einwilligung der betroffenen Personen vorliegt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les parties concern&#xE9;es y consentent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14255">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die betroffenen Personen seit mehr als zehn Jahren tot sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les personnes concern&#xE9;es sont d&#xE9;c&#xE9;d&#xE9;es depuis au moins dix ans;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14256">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Unterlagen der &#xD6;ffentlichkeit bereits zug&#xE4;nglich sind und keine neuen Gr&#xFC;nde gegen die Einsichtnahme vorliegen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les documents sont d&#xE9;j&#xE0; accessibles au public, sous r&#xE9;serve de nouveaux motifs s'opposant &#xE0; la consultation.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28876">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zur Wahrung des Pers&#xF6;nlichkeitsschutzes oder des Schutzes wichtiger &#xF6;ffentlicher oder privater Interessen kann die Einsichtnahme beschr&#xE4;nkt werden, insbesondere wenn die Verhandlungen unter Ausschluss der &#xD6;ffentlichkeit stattgefunden haben sowie bei Dossiers des Jugendgerichts.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La consultation peut &#xEA;tre limit&#xE9;e en vue d'assurer la protection de la personnalit&#xE9; ou la sauvegarde d'int&#xE9;r&#xEA;ts priv&#xE9;s ou publics importants, notamment lorsque les d&#xE9;bats ont eu lieu &#xE0; huis clos ou lorsqu'il s'agit de dossiers du Tribunal des mineurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12545">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Findmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Instruments de recherche</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28877">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Findmittel wie Sachregister und Inventare, die den Zugang zum Archivgut erm&#xF6;glichen, sind frei zug&#xE4;nglich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les instruments de recherche destin&#xE9;s sp&#xE9;cialement &#xE0; l'archivage tels que r&#xE9;pertoires et inventaires facilitant l'acc&#xE8;s aux archives peuvent &#xEA;tre librement consult&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12546">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gesuch um Einsichtnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Demande de consultation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28878">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r die Einsichtnahme ist ein begr&#xFC;ndetes schriftliches Gesuch an die betreffende Gerichtsbeh&#xF6;rde oder den Inhaber des Archivguts zu richten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une requ&#xEA;te motiv&#xE9;e &#xE9;crite doit &#xEA;tre adress&#xE9;e &#xE0; l'autorit&#xE9; judiciaire ou au d&#xE9;tenteur des archives dont la consultation est souhait&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28879">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesuch enth&#xE4;lt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La requ&#xEA;te:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14257">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Personalien des Gesuchstellers;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">pr&#xE9;cise la qualit&#xE9; du requ&#xE9;rant;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14258">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Angaben &#xFC;ber den Zweck der Nachforschungen sowie eine m&#xF6;glichst genaue Bezeichnung des Archivguts, in das Einsichtnahme gew&#xFC;nscht wird.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">donne des indications relatives &#xE0; l'objet de la recherche et &#xE0; la d&#xE9;termination la plus compl&#xE8;te possible des documents ou des dossiers dont la consultation est souhait&#xE9;e.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12547">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Entscheid</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;cision</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28880">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Gerichtsbeh&#xF6;rde entscheidet &#xFC;ber das Gesuch. Sie versieht die Bewilligung zur Einsichtnahme mit den notwendigen Auflagen und Bedingungen. Bei Kollegialbeh&#xF6;rden entscheidet deren Pr&#xE4;sident.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; judiciaire comp&#xE9;tente statue sur la demande en l'assortissant des charges et conditions utiles. Si l'autorit&#xE9; judiciaire est coll&#xE9;giale, la d&#xE9;cision est prise par son pr&#xE9;sident.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34437">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives sont applicables.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12548">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Umfang der Einsichtnahme</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Etendue de la consultation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28881">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Vorbehalt einer abweichenden Verf&#xFC;gung beinhaltet das Recht auf Einsichtnahme:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit de consulter les archives comprend, sous r&#xE9;serve de d&#xE9;cision contraire:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14259">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Konsultation der Findmittel;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la consultation des instruments de recherche;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14260">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Konsultation der Akten;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la consultation des documents;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14261">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Anfertigen handschriftlicher Aufzeichnungen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la prise de notes manuscrites;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:14262">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Reproduktion der Aktenst&#xFC;cke.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la reproduction des pi&#xE8;ces du dossier.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28882">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Recht, in das Archivgut Einsicht zu nehmen, wird in der Regel an dem daf&#xFC;r vorgesehenen Ort wahrgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit de consulter les archives s'effectue, en r&#xE8;gle g&#xE9;n&#xE9;rale, &#xE0; l'emplacement pr&#xE9;vu &#xE0; cette fin.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12549">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xFC;hren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Emoluments</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28883">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Einsichtnahme in das Archivgut erfolgt unentgeltlich. Vorbehalten bleiben F&#xE4;lle, in denen die Einsichtnahme eine erhebliche Mitarbeit des Personals des betreffenden Gerichts erfordert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La consultation des archives est gratuite. Est r&#xE9;serv&#xE9; le cas o&#xF9; la consultation des documents n&#xE9;cessite un important travail de collaboration du personnel du tribunal concern&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:34438">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Reproduktionen gelten die vor den Gerichtsbeh&#xF6;rden anwendbaren Geb&#xFC;hrentarife.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les reproductions sont factur&#xE9;es selon le tarif usuel des frais applicables devant les autorit&#xE9;s judiciaires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12550">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rechtsschutz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Recours</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28884">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gegen Verf&#xFC;gungen der Gerichtsbeh&#xF6;rden oder des Inhabers des Archivguts kann Beschwerde ans Kantonsgericht gef&#xFC;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La d&#xE9;cision des autorit&#xE9;s judiciaires ou du d&#xE9;tenteur des archives peut faire l'objet d'un recours aupr&#xE8;s du Tribunal cantonal.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12551">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28885">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Reglement, angenommen vom Kantonsgericht an seiner Sitzung vom 5. September 2001, tritt am 1. Februar 2002 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement, adopt&#xE9; en s&#xE9;ance du Tribunal cantonal du 5 septembre 2001, entre en vigueur le 1<format upper="true">er</format> f&#xE9;vrier 2002.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2002-02-01</dateForce>
+      <dateVersion>2002-02-01</dateVersion>
+      <publication>
+        <journalText>RO/AGS 2002 f 148 | d 115</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

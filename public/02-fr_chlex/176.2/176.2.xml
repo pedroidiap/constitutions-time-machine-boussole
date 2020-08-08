@@ -1,0 +1,821 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1103</normID>
+      <number>176.2</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister</title>
+      <title lang="fr">Loi sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2008-11-14</dateAdoption>
+      <dateForce>2009-03-01T00:00:00</dateForce>
+      <dateLastChange>2009-03-01</dateLastChange>
+      <dateVersion>2009-03-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 8 bis 12 und Artikel 21 Absatz 1 des Bundesgesetzes &#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister vom 23. Juni 2006 (Registerharmonisierungsgesetz, RHG);</basis> <basis>eingesehen den Artikel 50e Absatz 3 des Bundesgesetzes &#xFC;ber die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG);</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 8 &#xE0; 12 et l'article 21 alin&#xE9;a 1 de la loi f&#xE9;d&#xE9;rale sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes du 23 juin 2006 (Loi sur l'harmonisation des registres, LHR);</basis> <basis>vu l'article 50e alin&#xE9;a 3 de la loi f&#xE9;d&#xE9;rale sur l'assurance-vieillesse et survivants du 20 d&#xE9;cembre 1946 (LAVS);</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 49/2008</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="3590">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur l'harmonisation des registres des habitants et d'autres registres officiels de personnes</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3592">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Zweck und Geltungsbereich</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>But et champ d'application</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12200">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">But</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28131">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz bezweckt die Vereinfachung der Datenerhebung f&#xFC;r die Statistik und des gesetzlich vorgeschriebenen Austauschs von Personendaten zwischen den Registern durch die Harmonisierung dieser Register.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi vise &#xE0; simplifier la collecte de donn&#xE9;es &#xE0; des fins statistiques et l'&#xE9;change de donn&#xE9;es personnelles pr&#xE9;vu par la loi entre les registres, en harmonisant ces derniers.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28132">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dazu sieht das Gesetz eine kantonale Informatikplattform vor, auf der die Daten der Einwohnerregister gespeichert werden, und es regelt den Austausch der Daten und die entsprechenden Zugriffe.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi pr&#xE9;voit &#xE0; cet effet une plate-forme informatique cantonale, sur laquelle les donn&#xE9;es des registres des habitants sont enregistr&#xE9;es, et r&#xE8;gle les &#xE9;changes de donn&#xE9;es et les acc&#xE8;s correspondants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12201">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28133">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz gilt f&#xFC;r:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13524">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Einwohnerregister der Gemeinden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux registres communaux des habitants;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13525">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Stimmregister;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux registres des &#xE9;lecteurs;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13526">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Steuerregister der Gemeinden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux registres communaux des imp&#xF4;ts;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13527">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Informatikplattform des Einwohnerregisters nach Artikel 5;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xE0; la plate-forme informatique du registre des habitants selon l'article 5;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13528">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die anderen amtlichen Register, die vom Staatsrat auf dem Verordnungsweg bezeichnet werden und die Zugriff zur Informatikplattform des Einwohnerregisters haben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">aux autres registres officiels que le Conseil d'Etat d&#xE9;signe par voie d'ordonnance et qui ont acc&#xE8;s &#xE0; la plate-forme informatique du registre des habitants.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3593">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Aufgaben der Gemeinden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>T&#xE2;ches des communes</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12202">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Elektronische Registerf&#xFC;hrung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tenue des registres par voie &#xE9;lectronique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28134">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden f&#xFC;hren das Einwohnerregister und das Stimmregister elektronisch.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes tiennent le registre des habitants ainsi que le registre des &#xE9;lecteurs par voie &#xE9;lectronique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28135">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Inhalt des Einwohnerregisters entspricht dem Artikel 6 RHG und den Identifikatoren und Merkmalen, die vom Bundesamt f&#xFC;r Statistik festgelegt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le contenu du registre des habitants se conforme &#xE0; l'article 6 LHR et aux identificateurs et caract&#xE9;ristiques d&#xE9;finis par l'office f&#xE9;d&#xE9;ral de la statistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28136">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann auf dem Verordnungsweg vorschreiben, dass weitere Daten im Einwohnerregister gespeichert werden m&#xFC;ssen, wenn dies aus amtlichen oder statistischen Gr&#xFC;nden notwendig ist. Er legt in diesem Fall die Identifikatoren und Merkmale fest, falls diese nicht bereits vom Bundesamt f&#xFC;r Statistik bestimmt wurden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat peut prescrire par voie d'ordonnance que d'autres donn&#xE9;es doivent &#xEA;tre enregistr&#xE9;es dans le registre des habitants, si cela est n&#xE9;cessaire pour des raisons officielles ou statistiques. Il fixe alors les identificateurs et caract&#xE8;res, s'ils ne sont pas encore d&#xE9;termin&#xE9;s par l'office f&#xE9;d&#xE9;ral de la statistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12203">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Weiterleitung der Daten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Transmission des donn&#xE9;es</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28137">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden f&#xFC;hren die Daten des Einwohnerregisters nach und leiten sie zusammen mit allen neuen Eintragungen und &#xC4;nderungen unentgeltlich der kantonalen Informatikplattform des Einwohnerregisters weiter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes tiennent &#xE0; jour les donn&#xE9;es du registre des habitants et les transmettent sans indemnisation, ainsi que toutes les nouvelles inscriptions et mutations, &#xE0; la plate-forme informatique cantonale du registre des habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28138">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie leiten diese Daten ebenfalls von Zeit zu Zeit an das Bundesamt f&#xFC;r Statistik weiter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elles transmettent &#xE9;galement ces donn&#xE9;es p&#xE9;riodiquement &#xE0; l'office f&#xE9;d&#xE9;ral de la statistique.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28139">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei einem Zuzug oder einem Wegzug leitet die Einwohnerkontrolle der neuen Gemeinde und der kantonalen Informatikplattform des Einwohnerregisters die von der Bundesgesetzgebung vorgeschriebenen Daten weiter.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors d'une arriv&#xE9;e ou d'un d&#xE9;part, le contr&#xF4;le de l'habitant transmet &#xE0; la nouvelle commune, ainsi qu'&#xE0; la plate-forme informatique cantonale du registre des habitants, les donn&#xE9;es requises par la l&#xE9;gislation f&#xE9;d&#xE9;rale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28140">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat kann auf dem Verordnungsweg die Gemeinden auch verpflichten, die nachgef&#xFC;hrten Daten des Stimmregisters ganz oder teilweise an die kantonale Informatikplattform des Einwohnerregisters weiterzuleiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par voie d'ordonnance, le Conseil d'Etat peut aussi obliger les communes &#xE0; transmettre les donn&#xE9;es actualis&#xE9;es du registre des &#xE9;lecteurs, en partie ou en totalit&#xE9;, &#xE0; la plate-forme informatique cantonale du registre des habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28141">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden sind f&#xFC;r die Daten verantwortlich, die sie an die kantonale Informatikplattform des Einwohnerregisters weiterleiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes sont responsables des donn&#xE9;es qu'elles transmettent &#xE0; la plate-forme informatique cantonale du registre des habitants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28142">
+                    <partNumber>6</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Daten werden elektronisch und verschl&#xFC;sselt ausgetauscht sowie gem&#xE4;ss den Bestimmungen des Bundesrates &#xFC;ber die Modalit&#xE4;ten und die Schnittstellen. Die Daten werden auf der Informatik- und Kommunikationsplattform ausgetauscht, die daf&#xFC;r vom Bund zur Verf&#xFC;gung gestellt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'&#xE9;change de donn&#xE9;es se fait par voie &#xE9;lectronique sous forme crypt&#xE9;e, ainsi que selon les dispositions du Conseil F&#xE9;d&#xE9;ral concernant les modalit&#xE9;s et les interfaces. L'&#xE9;change de donn&#xE9;es s'effectue sur la plate-forme informatique et de communication mise &#xE0; disposition par la Conf&#xE9;d&#xE9;ration &#xE0; cet effet.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3594">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Aufgaben des Kantons</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>T&#xE2;ches du canton</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12204">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Informatikplattform des Einwohnerregisters</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Plate-forme informatique du registre des habitants</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28143">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kanton betreibt eine Informatikplattform des Einwohnerregisters, auf welcher die gem&#xE4;ss Artikel 4 weitergeleiteten Daten gespeichert werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le canton exploite une plate-forme informatique du registre des habitants, sur laquelle sont enregistr&#xE9;es les donn&#xE9;es transmises conform&#xE9;ment &#xE0; l'article 4.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28144">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit dieser Informatikplattform des Einwohnerregisters sollen die Aufgaben der Gemeinden und des Kantons bei der Einwohnerkontrolle vereinfacht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Cette plate-forme informatique du registre des habitants sert &#xE0; faciliter les t&#xE2;ches des communes et du canton en mati&#xE8;re de contr&#xF4;le de l'habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28145">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Inhaber der Datensammlung ist die Dienststelle f&#xFC;r Bev&#xF6;lkerung und Migration.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le ma&#xEE;tre du fichier est le Service de la population et des migrations.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28146">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt auf dem Verordnungsweg fest, welche Dienststellen des Kantons und der Gemeinden aus amtlichen Gr&#xFC;nden und ausschliesslich f&#xFC;r die Erf&#xFC;llung ihrer Aufgaben Zugriff auf die Daten der Informatikplattform des Einwohnerregisters haben und diese Daten verwenden d&#xFC;rfen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe par voie d'ordonnance les services cantonaux et communaux qui peuvent acc&#xE9;der, respectivement utiliser les donn&#xE9;es de la plate-forme informatique du registre des habitants pour des raisons officielles et pour le strict accomplissement de leurs t&#xE2;ches.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12205">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufsicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Surveillance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28147">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Departement, das mit der Aufsicht &#xFC;ber die Einwohnerkontrolle beauftragt ist, muss:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement charg&#xE9; de la surveillance en mati&#xE8;re de contr&#xF4;le de l'habitant doit:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13529">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Koordination zwischen der kantonalen Informatikplattform und den Einwohnerregistern der Gemeinden, den Dienststellen des Kantons und der Gemeinden sowie den anderen Kantonen und dem Bund sicherstellen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">assurer la coordination entre la plate-forme informatique cantonale et les registres communaux des habitants, les services cantonaux et communaux, les autres cantons et la Conf&#xE9;d&#xE9;ration;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:13530">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Harmonisierungsmassnahmen koordinieren und die entsprechenden Qualit&#xE4;tskontrollen durchf&#xFC;hren.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">coordonner les mesures d'harmonisation et proc&#xE9;der aux contr&#xF4;les de qualit&#xE9; s'y rapportant.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3595">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Weitere Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Autres dispositions</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12206">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geb&#xE4;ude- und Wohnungsidentifikator</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Identificateur de b&#xE2;timent et de logement</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28148">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die st&#xE4;dtischen Werke und alle weiteren registerf&#xFC;hrenden Dienststellen, die &#xFC;ber Daten verf&#xFC;gen, mit denen der Wohnungsidentifikator einer Person, die im Einwohnerregister steht, bestimmt oder nachgef&#xFC;hrt wird, m&#xFC;ssen diese Daten den Dienststellen der Einwohnerkontrolle der Gemeinden unentgeltlich zur Verf&#xFC;gung stellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les services industriels et tout autre service tenant des registres, qui disposent de donn&#xE9;es servant &#xE0; d&#xE9;terminer ou &#xE0; mettre &#xE0; jour l'identificateur du logement d'une personne figurant dans le registre des habitants, sont tenus de mettre gratuitement ces donn&#xE9;es &#xE0; disposition des services communaux du contr&#xF4;le de l'habitant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28149">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden k&#xF6;nnen eine physische Nummerierung der Wohnungen einf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes peuvent introduire une num&#xE9;rotation physique des logements.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12207">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Systematische Verwendung der Versicherungsnummer gem&#xE4;ss AHVG</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Utilisation syst&#xE9;matique du num&#xE9;ro d'assur&#xE9; conform&#xE9;ment &#xE0; la LAVS</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28150">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Dienststellen und Institutionen, die mit dem Vollzug des kantonalen Rechts beauftragt sind, k&#xF6;nnen systematisch die Versicherungsnummer gem&#xE4;ss AHVG verwenden, sofern die Voraussetzungen nach Bundesrecht erf&#xFC;llt sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les services et institutions charg&#xE9;s d'ex&#xE9;cuter le droit cantonal peuvent syst&#xE9;matiquement utiliser les num&#xE9;ros d'assur&#xE9; conform&#xE9;ment &#xE0; la LAVS pour autant que les conditions fix&#xE9;es par le droit f&#xE9;d&#xE9;ral soient remplies.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12208">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verordnung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Ordonnance</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28151">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst auf dem Verordnungsweg die n&#xF6;tigen Ausf&#xFC;hrungsbestimmungen zum vorliegenden Gesetz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte par voie d'ordonnance les dispositions d'ex&#xE9;cution n&#xE9;cessaires &#xE0; l'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28152">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er legt auch die n&#xF6;tigen Bestimmungen zur Registrierung und zur Nachf&#xFC;hrung der Daten gem&#xE4;ss der Verordnung &#xFC;ber das eidgen&#xF6;ssische Geb&#xE4;ude- und Wohnungsregister vom 31. Mai 2000 (GWR) fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il fixe &#xE9;galement les dispositions n&#xE9;cessaires &#xE0; l'enregistrement et &#xE0; la mise &#xE0; jour des donn&#xE9;es conform&#xE9;ment &#xE0; l'ordonnance sur le Registre f&#xE9;d&#xE9;ral des b&#xE2;timents et des logements du 31 mai 2000 (RegBL).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="3596">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>&#xDC;bergangs- und Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions transitoires et finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:12209">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Frist</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;lai</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28153">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinden f&#xFC;hren die elektronische Registerf&#xFC;hrung gem&#xE4;ss Artikel 3 und die Weitergabe der Daten im Sinn von Artikel 4 bis zum 31. Dezember 2009 ein.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes introduisent la tenue des registres par voie &#xE9;lectronique conform&#xE9;ment &#xE0; l'article 3 et la transmission des donn&#xE9;es au sens de l'article 4 d'ici au 31 d&#xE9;cembre 2009.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:12210">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:28154">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz untersteht dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:28155">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2009-03-01</dateForce>
+      <dateVersion>2009-03-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 49/2008</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

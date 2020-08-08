@@ -1,0 +1,305 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container p-5">
+        <div class="row col mb-5">
+            <p>
+                Retrouvez des articles constitutionnels grâce à ce formulaire de recherche. Filtrez votre recherche par
+                mots-clés (numéro d'article ou de loi qui cite l'article, titre de loi, contenu d'un article), par
+                thèmes, par commissions ou, encore, par intervenants. De plus, vous pouvez trier les résultats selon
+                plusieurs critères. Lorsque vous avez trouvé un article qui vous intéresse, vous n'avez plus qu'à
+                cliquer sur celui-ci pour en afficher les détails.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-0 col-lg-3"></div>
+            <form class="form-inline col-lg-6 col-12" autocomplete="off">
+                <div class="mb-3 w-100">
+                    <div class="autocomplete w-100 w-lg-60">
+                        <input class="form-control w-100" type="search" id="search"
+                               placeholder="Numéro d'article ou de loi, mot-clé">
+                    </div>
+                    <a class="btn btn-outline-dark mt-2 mt-lg-0 float-lg-none float-right" href=""
+                       id="btnSearch">
+                        Recherche
+                    </a>
+                    <a href="{{ path('search', { 'page' : page, 'sort_by' : sort_by, 'order' : order, 'term' : '' }) }}"
+                       class="btn btn-outline-dark mt-2 mt-lg-0 float-lg-none float-right" id="btnDeleteSearch">
+                        Effacer
+                    </a>
+                </div>
+            </form>
+        </div>
+        <div class="row mt-5">
+            <form class="col-12 col-lg-6" method="post">
+                <h4>Critères</h4>
+                <div class="mb-2">
+                    {% if app.session.get('commissions') is not empty %}
+                        <div class="small mb-1" id="selectedCommissions">
+                            <span class="font-weight-bold">Commission(s) :</span>
+                            {% for commission in app.session.get('commissions') %}
+                                {% set findCommission = findItemById(commissions, commission) %}
+                                {{ findCommission.numero }} - {{ findCommission.nom }} {% if not loop.last %}; {% endif %}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                    {% if app.session.get('themes') is not empty %}
+                        <div class="small mb-1" id="selectedThemes">
+                            <span class="font-weight-bold">Thème(s) :</span>
+                            {% for theme in app.session.get('themes') %}
+                                {{ findItemById(themes, theme).nom }} {% if not loop.last %}; {% endif %}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                    {% if app.session.get('intervenants') is not empty %}
+                        <div class="small mb-1" id="selectedIntervenants">
+                            <span class="font-weight-bold">Intervenant(s) :</span>
+                            {% for intervenant in app.session.get('intervenants') %}
+                                {% set findIntervenant = findItemById(intervenants, intervenant) %}
+                                {{ findIntervenant.nom }} {{ findIntervenant.prenom }} {% if not loop.last %}; {% endif %}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+                <div>
+                    <a class="btn btn-outline-dark w-lg-75 w-100 dropdown-toggle" data-toggle="collapse"
+                       href="#collapseCommission" aria-expanded="false" aria-controls="collapseCommission">
+                        Commissions
+                    </a>
+                    <div class="collapse" id="collapseCommission">
+                        <div class="card card-body w-75">
+                            {% for key, nbCommission in nbCommissions %}
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" name="commissions[]" class="custom-control-input"
+                                           value="{{ key }}" id="cCommission{{ key }}"
+                                            {{ key in app.session.get('commissions') ? 'checked' : '' }}/>
+                                    <label class="custom-control-label" for="cCommission{{ key }}">
+                                        {{ key }} - {{ commissions[key-1].nom }} ({{ nbCommission }})
+                                    </label>
+                                </div>
+                            {% endfor %}
+                            <div class="cons-collapse-footer">
+                                <button type="button" class="btn btn-outline-dark" id="btnResetCommissions">
+                                    Réinitialiser
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-2">
+                    <a class="btn btn-outline-dark w-lg-75 w-100 dropdown-toggle" data-toggle="collapse"
+                       href="#collapseTheme" aria-expanded="false" aria-controls="collapseTheme">
+                        Thèmes
+                    </a>
+                    <div class="collapse" id="collapseTheme">
+                        <div class="card card-body w-75">
+                            {% for key, nbTheme in nbThemes %}
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" name="themes[]" class="custom-control-input"
+                                           value="{{ key }}" id="cTheme{{ key }}"
+                                            {{ key in app.session.get('themes') ? 'checked' : '' }}/>
+                                    <label class="custom-control-label" for="cTheme{{ key }}">
+                                        <div class="d-inline-block" style="width: 75px;">
+                                            <span style="display:inline-block; width: {{ 1.2 * nbTheme }}px; max-width: 100%; height: 10px; background-color: {{ themes[loop.index].couleur }}"></span>
+                                        </div>
+                                        ({{ nbTheme }}) {{ themes[loop.index].nom }}
+                                    </label>
+                                </div>
+                            {% endfor %}
+                            <div class="cons-collapse-footer">
+                                <button type="button" class="btn btn-outline-dark" id="btnResetThemes">
+                                    Réinitialiser
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-2">
+                    <a class="btn btn-outline-dark w-100 w-lg-75 dropdown-toggle" data-toggle="collapse"
+                       href="#collapseIntervenant" aria-expanded="false" aria-controls="collapseIntervenant">
+                        Intervenants
+                    </a>
+                    <div class="collapse" id="collapseIntervenant">
+                        <div class="card card-body w-75">
+                            {% for key, intervenant in nbIntervenants %}
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" name="intervenants[]" class="custom-control-input"
+                                           value="{{ key }}" id="cIntervenant{{ key }}"
+                                            {{ key in app.session.get('intervenants') ? 'checked' : '' }} />
+                                    <label class="custom-control-label" for="cIntervenant{{ key }}">
+                                        {{ intervenants[key].titre }} {{ intervenants[key].nom }} {{ intervenants[key].prenom }}
+                                        ({{ intervenant }})
+                                    </label>
+                                </div>
+                            {% endfor %}
+                            <div class="cons-collapse-footer">
+                                <button type="button" class="btn btn-outline-dark" id="btnResetIntervenants">
+                                    Réinitialiser
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-5">
+                    <button type="button" class="btn btn-outline-dark w-100 w-lg-75" id="btnResetAll">
+                        Tout réinitialiser
+                    </button>
+                    <button type="submit" id="submitFilters" name="submit" class="btn btn-dark w-100 w-lg-75 mt-2">
+                        Appliquer
+                    </button>
+                </div>
+            </form>
+            <div class="col-12 col-lg-6 mt-4 mt-lg-0">
+                {% if term != '' %}
+                    <h4>Résultats de la recherche : "{{ term }}" ({{ articles|length }})</h4>
+                {% else %}
+                    <h4>Résultats ({{ count }})</h4>
+                {% endif %}
+                <form class="form-inline mb-2">
+                    <label class="sr-only" for="sort_by">Trier par</label>
+                    <select name="sort_by" id="sort_by" class="custom-select custom-select-sm mr-lg-2 mt-2">
+                        <option value="">Trier par</option>
+                        <option value="article_number" {{ sort_by == 'article_number' ? 'selected' : '' }}>
+                            Numéro d'article
+                        </option>
+                        <option value="debats_amount" {{ sort_by == 'debats_amount' ? 'selected' : '' }}>
+                            Nombre de débats
+                        </option>
+                        <option value="citations_amount" {{ sort_by == 'citations_amount' ? 'selected' : '' }}>
+                            Nombre de citations
+                        </option>
+                        <option value="modifications_amount" {{ sort_by == 'modifications_amount' ? 'selected' : '' }}>
+                            Nombre de modifications
+                        </option>
+                    </select>
+                    <label class="sr-only" for="order">Sens</label>
+                    <select name="order" id="order" class="custom-select custom-select-sm mr-lg-2 mt-2">
+                        <option value="">Sens</option>
+                        <option value="asc" {{ order == 'asc' ? 'selected' : '' }}>Croissant</option>
+                        <option value="desc" {{ order == 'desc' ? 'selected' : '' }}>Décroissant</option>
+                    </select>
+                    <a class="btn btn-outline-dark btn-sm mt-2 float-lg-none float-right" id="submitSort"
+                       href="">
+                        Appliquer
+                    </a>
+                </form>
+                <nav class="mt-4 small">
+                    <ul class="pagination cons-pagination">
+                        <li class="page-item {{ page == 1 ? 'disabled' : '' }}">
+                            <a class="page-link" aria-label="Previous"
+                               href="{{ path('search', { 'page' : page - 1, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Précédent</span>
+                            </a>
+                        </li>
+                        {% for index in 1..nbPages %}
+                            {% if index != 0 %}
+                                <li class="page-item {{ page == index ? ' active' : '' }}">
+                                    <a class="page-link"
+                                       href="{{ path('search', { 'page' : index, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                        {{ index }}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                        <li class="page-item {{ page == nbPages ? 'disabled' : '' }}">
+                            <a class="page-link" aria-label="Next"
+                               href="{{ path('search', { 'page' : page + 1, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Suivant</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="list-group list-group-flush">
+                    {% for item in pagination %}
+                        <a href="{{ path('article-details', {'id': item.id}) }}"
+                           class="list-group-item list-group-item-action">
+                            <div class="d-inline-block">
+                                <div class="mb-2"><b>Article {{ item.nomArticle }}
+                                        {% set colors = [item.theme.couleur] %}
+                                        <span data-toggle="tooltip" data-placement="top" title="{{ item.theme.nom }}"
+                                              style="display:inline-block; width: 10px; height: 10px; background-color: {{ item.theme.couleur }}"></span>
+                                        {% for loi in item.lois %}
+                                            {% if loi.theme.couleur not in colors %}
+                                                <span data-toggle="tooltip" data-placement="top"
+                                                      title="{{ loi.theme.nom }}"
+                                                      style="display:inline-block; width: 10px; height: 10px; background-color: {{ loi.theme.couleur }}"></span>
+                                                {% set colors = colors|merge([loi.theme.couleur]) %}
+                                            {% endif %}
+                                        {% endfor %}</b>
+                                </div>
+                                <span class="small"><span class="font-weight-bold">Texte : </span>
+                                    {% if item.texte is null %}
+                                        {% if item.archives[item.archives|length - 1].modification == 'abrogé' %}
+                                            Article abrogé
+                                        {% endif %}
+                                    {% else %}
+                                        {{ item.texte|u.truncate(220, '...')|raw }}
+                                    {% endif %}
+                                </span><br/>
+                                <span class="small"><span class="font-weight-bold">Nombre de débats : </span>
+                                    {{ item.debats.count }}
+                                </span><br/>
+                                <span class="small"><span class="font-weight-bold">Nombre de citations : </span>
+                                    {{ item.lois.count }}
+                                </span><br/>
+                                <span class="small"><span class="font-weight-bold">Nombre de modifications : </span>
+                                    {{ item.archives.count }}
+                                </span><br/>
+                                <span class="small"><span class="font-weight-bold">Commission : </span>
+                                    {% if item.commission is not null %}
+                                        {{ item.commission.numero }} - {{ item.commission.nom }}
+                                    {% else %}
+                                        Pas de commission
+                                    {% endif %}
+                                </span>
+                            </div>
+                        </a>
+                    {% endfor %}
+                </div>
+                <nav class="mt-4 small">
+                    <ul class="pagination cons-pagination">
+                        <li class="page-item {{ page == 1 ? 'disabled' : '' }}">
+                            <a class="page-link" aria-label="Previous"
+                               href="{{ path('search', { 'page' : page - 1, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Précédent</span>
+                            </a>
+                        </li>
+                        {% for index in 1..nbPages %}
+                            {% if index != 0 %}
+                                <li class="page-item {{ page == index ? ' active' : '' }}">
+                                    <a class="page-link"
+                                       href="{{ path('search', { 'page' : index, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                        {{ index }}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                        <li class="page-item {{ page == nbPages ? 'disabled' : '' }}">
+                            <a class="page-link" aria-label="Next"
+                               href="{{ path('search', { 'page' : page + 1, 'sort_by' : sort_by, 'order' : order, 'term' : term }) }}">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Suivant</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+{% block javascripts %}
+    {{ parent() }}
+    <script type="text/javascript">
+        var ABSURL = '{{ ABSURL }}';
+    </script>
+    <script src="{{ ABSURL }}/build/runtime.js"></script>
+    <script src="{{ ABSURL }}/build/vendors~app~details~search.js"></script>
+    <script src="{{ ABSURL }}/build/vendors~app.js"></script>
+    <script src="{{ ABSURL }}/build/app.js"></script>
+    <script src="{{ ABSURL }}/build/vendors~details~search.js"></script>
+    <script src="{{ ABSURL }}/build/vendors~search.js"></script>
+    <script src="{{ ABSURL }}/build/search.js"></script>
+{% endblock %}

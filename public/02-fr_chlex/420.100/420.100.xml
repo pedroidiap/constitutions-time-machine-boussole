@@ -1,0 +1,813 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:783</normID>
+      <number>420.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement zur Anwendung des Gesetzes &#xFC;ber Bildung und Forschung von universit&#xE4;ren Hochschulen und Forschungsinstituten</title>
+      <title lang="fr">R&#xE8;glement portant application de la loi sur la formation et la recherche universitaires</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kanton Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2002-03-27</dateAdoption>
+      <dateForce>2002-04-26T00:00:00</dateForce>
+      <dateLastChange>2002-04-26</dateLastChange>
+      <dateVersion>2002-04-26</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kanton Wallis</authorityDescription><basis>eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;</basis> <basis>eingesehen Artikel 29 Absatz 1 des Gesetzes &#xFC;ber Bildung und Forschung von universit&#xE4;ren Hochschulen und Forschungsinstituten vom 2. Februar 2001 (GBFUHS);</basis> <basis>auf Antrag des Departements f&#xFC;r Erziehung, Kultur und Sport (DEKS),</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l'article 57 alin&#xE9;a 1 de la Constitution cantonale;</basis> <basis>vu l'article 29 alin&#xE9;a 1 de la loi sur la formation et la recherche universitaires du 2 f&#xE9;vrier 2001 (LFRU);</basis> <basis>sur la proposition du D&#xE9;partement de l'&#xE9;ducation, de la culture et du sport (DECS),</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 17/2002</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="2338">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>zur Anwendung des Gesetzes &#xFC;ber Bildung und Forschung von universit&#xE4;ren Hochschulen und Forschungsinstituten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>portant application de la loi sur la formation et la recherche universitaires</structureText>
+        </structureContent>
+      </structureContents>
+      <normTexts>
+        <article>
+          <articleMetadata ID="Article:8109">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>1</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zielsetzung und Anwendungsbereich</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">But et champ d'application</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18605">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Reglement erl&#xE4;utert die Anwendung des Gesetzes &#xFC;ber Bildung und Forschung von universit&#xE4;ren Hochschulen und Forschungsinstituten in den sechs nachstehend genannten Bereichen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement pr&#xE9;cise l'application de la LFRU dans les six domaines suivants:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9731">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Zust&#xE4;ndigkeiten und Entscheidungsprozess;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">comp&#xE9;tences et processus de d&#xE9;cision;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9732">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">akademisches Lehrpersonal;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">personnel acad&#xE9;mique;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9733">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bildungsreglemente;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">r&#xE9;glementation des formations;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9734">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anerkennung der Zeugnisse und Diplome: Reglemente, Studienpl&#xE4;ne und akademische Titel;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">reconnaissance des certificats et dipl&#xF4;mes: r&#xE8;glements, plans d'&#xE9;tudes et titres;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9735">
+                    <partNumber>e)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">finanzielle Bestimmungen;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">dispositions financi&#xE8;res;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9736">
+                    <partNumber>f)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Anerkennung auf eidgen&#xF6;ssischer und kantonaler Ebene.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">reconnaissances f&#xE9;d&#xE9;rale et cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8110">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>2</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Zust&#xE4;ndigkeiten und Entscheidungsprozess</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Comp&#xE9;tences et processus de d&#xE9;cision</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18606">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Vor der Entscheidung durch den Vorsteher des DEKS oder den Staatsrat wird jedes dem DEKS unterbreitete Gesuch dem Bildungs- und Forschungsrat (BFR) vorgelegt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Toute requ&#xEA;te d&#xE9;pos&#xE9;e au DECS est soumise au Conseil de la formation et de la recherche universitaires (CoFRU) avant d&#xE9;cision du chef du DECS ou du Conseil d'Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18607">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Anerkennungen, &#xF6;ffentlichen Mandate und mit privaten oder &#xF6;ffentlichen Institutionen abgeschlossenen Partnerschaften unterliegen diesem Reglement und den Ad-hoc-Richtlinien des Vorstehers des DEKS; sie werden gem&#xE4;ss den Grunds&#xE4;tzen von Artikel 2 des Gesetzes &#xFC;ber Bildung und Forschung von universit&#xE4;ren Hochschulen und Forschungsinstituten durch den Staatsrat genehmigt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les reconnaissances, les mandats publics et les partenariats conclus avec des priv&#xE9;s ou des organismes publics sont r&#xE9;gis selon le pr&#xE9;sent r&#xE8;glement et les directives ad hoc du chef du DECS, approuv&#xE9;s par le Conseil d'Etat, conform&#xE9;ment aux principes fix&#xE9;s par la LFRU, article 2.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8111">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>3</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Akademisches Lehrpersonal</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Personnel acad&#xE9;mique</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18608">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Institute sind gehalten, die Ernennungsverfahren des akademischen Lehrpersonals gem&#xE4;ss der g&#xE4;ngigen Praxis an den Universit&#xE4;ten durchzuf&#xFC;hren.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les instituts sont tenus de pr&#xE9;ciser les proc&#xE9;dures de nomination du personnel acad&#xE9;mique conform&#xE9;ment aux pratiques universitaires.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18609">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Institute erlassen ihre Reglemente, die der Genehmigung durch das DEKS und der Stellungnahme des BFR bed&#xFC;rfen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les instituts &#xE9;dictent leurs r&#xE8;glements soumis &#xE0; l'approbation du DECS sur pr&#xE9;avis du CoFRU.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8112">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>4</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Bildungsreglemente - Studiengeb&#xFC;hren</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">R&#xE9;glementation des formations - Tarifs</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18610">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Institute teilen dem DEKS die von ihnen in Anwendung ihrer Reglemente festgelegten Bedingungen und akademischen Titel mit.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les instituts communiquent au DECS les conditions et titres fix&#xE9;s par les instituts, en application de leurs r&#xE8;glements.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18611">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Institute passen ihre spezifischen Bildungsreglemente den schweizerischen, europ&#xE4;ischen oder internationalen Standards an (Zulassungsbedingungen, Ausbildungsdauer, Qualifizierung der Lehrkr&#xE4;fte, usw.).</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les instituts conforment leurs r&#xE8;glements sp&#xE9;cifiques de formation aux standards suisses, europ&#xE9;ens ou internationaux (conditions d'admission, dur&#xE9;e, &#xE9;valuation, qualifications des enseignants, etc.).</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18612">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">F&#xFC;r Bescheinigungen sind die Institute zust&#xE4;ndig.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les attestations rel&#xE8;vent de la comp&#xE9;tence des instituts.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18613">
+                <partNumber>4</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Geb&#xFC;hren entsprechen unter Ber&#xFC;cksichtigung der eidgen&#xF6;ssischen und kantonalen Subventionen denen der kantonalen Universit&#xE4;ten oder der ETH bei Studieng&#xE4;ngen gleicher Art.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les tarifs sont conformes &#xE0; ceux des universit&#xE9;s cantonales ou des EPF pour les fili&#xE8;res de m&#xEA;me type, compte tenu des subventions f&#xE9;d&#xE9;rales et cantonales.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18614">
+                <partNumber>5</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Der BFR hat bei Bedarf Stellungnahmen abzugeben.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le CoFRU est charg&#xE9; des pr&#xE9;avis n&#xE9;cessaires.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8113">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>5</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anerkennung der Zeugnisse und Diplome: Reglemente, Studienpl&#xE4;ne und akademische Titel</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Reconnaissance des certificats et dipl&#xF4;mes: r&#xE8;glements, plans d'&#xE9;tudes et titres</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18615">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">In den Reglementen der Institute m&#xFC;ssen genannt sein:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les instituts doivent mentionner dans leur r&#xE8;glement:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9737">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Akademische Titel oder Zeugnisse:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les titres ou certifications:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9738">
+                        <partNumber>1.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die in eigener und voller Verantwortung der Institute verliehen werden,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;cern&#xE9;s sous leur propre et enti&#xE8;re responsabilit&#xE9;,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9739">
+                        <partNumber>2.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die in Zusammenarbeit oder in Partnerschaft mit einer oder mehreren Universit&#xE4;ten oder Universit&#xE4;tsinstituten verliehen werden,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;cern&#xE9;s en collaboration ou en partenariat avec une ou plusieurs universit&#xE9;s ou instituts universitaires,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9740">
+                        <partNumber>3.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die von einer Universit&#xE4;t in Mitverantwortung des Instituts verliehen werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d&#xE9;cern&#xE9;s par une universit&#xE9; avec coresponsabilit&#xE9; de l'institut;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9741">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">die Abschlusstitel des:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">les titres de fin de:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9742">
+                        <partNumber>1.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">1. Zyklus,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">1<format upper="true">er</format> cycle,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9743">
+                        <partNumber>2.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">2. Zyklus,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">2<format upper="true">e</format> cycle,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9744">
+                        <partNumber>3.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">3. Zyklus oder anderer Nachdiplomstudieng&#xE4;nge,</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">3<format upper="true">e</format> cycle ou d'autres formations postgrades,</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:9745">
+                        <partNumber>4.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Bachelor oder Master gem&#xE4;ss den europ&#xE4;ischen Normen oder den Vorschriften &#xF6;ffentlicher oder privater internationaler Organisationen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">bachelor ou master selon les normes europ&#xE9;ennes ou des prescriptions d'organisations internationales, publiques ou priv&#xE9;es.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18616">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Das DEKS beaufsichtigt diese T&#xE4;tigkeiten.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le DECS assume la surveillance des activit&#xE9;s.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18617">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Anerkennungsverfahren werden durch Richtlinien bestimmt, die der Vorsteher des DEKS genehmigt; der Staatsrat nimmt davon Kenntnis.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les proc&#xE9;dures de reconnaissance sont fix&#xE9;es par des directives approuv&#xE9;es par le chef du DECS; le Conseil d'Etat en prend acte.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8114">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>6</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Finanzielle Bestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions financi&#xE8;res</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18618">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Auf Grundlage der vom Grossen Rat gew&#xE4;hrten Gesamtsumme im Vierjahresplan kann der Kanton seinen finanziellen Beitrag entsprechend den nachstehenden Vorschriften erbringen:</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Sur la base du montant global quadriennal allou&#xE9; par le Grand Conseil, le canton peut apporter sa contribution financi&#xE8;re selon les r&#xE8;gles suivantes:</mixedText>
+                </partText>
+              </partTexts>
+              <subparts>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9746">
+                    <partNumber>a)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Forschungsinstitut: bis zu 150'000 Franken als j&#xE4;hrliche Grundpauschalsubvention entsprechend der Anzahl der bei der jeweiligen Institution besch&#xE4;ftigten Personen und des finanziellen Umfangs der Programme;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">institut de recherche: jusqu'&#xE0; 150'000 francs &#xE0; titre de subventions forfaitaires annuelles de base selon le nombre de personnes salari&#xE9;es par l'institution et le volume financier des programmes;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9747">
+                    <partNumber>b)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">in Anwendung des Universit&#xE4;tsf&#xF6;rderungsgesetzes (UFG) subventionierte Institute: entsprechend den Erfordernissen und den Beitr&#xE4;gen des Bundes;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">instituts subventionn&#xE9;s en application de la loi f&#xE9;d&#xE9;rale sur l'aide aux universit&#xE9;s (LAU): selon les exigences et les contributions f&#xE9;d&#xE9;rales;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9748">
+                    <partNumber>c)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">in Anwendung des Bundesgesetzes &#xFC;ber die Forschung (FG) anerkannte Institute und nationale Forschungszentren: Der Betrag wird je nach Status und Funktion des Instituts innerhalb der Forschungsgemeinschaft von Fall zu Fall festgelegt;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">instituts reconnus en application de la loi f&#xE9;d&#xE9;rale sur la recherche (LR) et p&#xF4;les nationaux de recherche: montant fix&#xE9; de cas en cas selon le statut et la fonction de l'institut dans le p&#xF4;le;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="EnumerationItem:9749">
+                    <partNumber>d)</partNumber>
+                    <typeOfPart>C</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausarbeitung und Unterbreitung von Gesuchen auf nationaler Ebene, europ&#xE4;ische und internationale Programme: bis zu 40'000 Franken pro Gesuch entsprechend den Priorit&#xE4;ten des BFR und des zur Verf&#xFC;gung stehenden Budgets.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#xE9;laboration et d&#xE9;p&#xF4;t de requ&#xEA;tes au niveau national, programmes europ&#xE9;ens et internationaux: jusqu'&#xE0; 40'000 francs par requ&#xEA;te conforme aux priorit&#xE9;s admises par le CoFRU et selon les disponibilit&#xE9;s budg&#xE9;taires.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </subparts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18619">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Die Lohnskalen der subventionierten Institute m&#xFC;ssen denen vergleichbarer Institute entsprechen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les &#xE9;chelles salariales des instituts subventionn&#xE9;s, doivent se conformer &#xE0; celles pratiqu&#xE9;es par des instituts similaires.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8115">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>7</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Anerkennung auf eidgen&#xF6;ssischer und kantonaler Ebene</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Reconnaissances f&#xE9;d&#xE9;rale et cantonale</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18620">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Auf eidgen&#xF6;ssischer Ebene anerkannten Instituten wird die kantonale Anerkennung verliehen.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La reconnaissance cantonale est accord&#xE9;e aux instituts reconnus sur le plan f&#xE9;d&#xE9;ral.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8116">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>8</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">Beschwerdeinstanzen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Autorit&#xE9;s de recours</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18621">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gegen Verf&#xFC;gungen des Staatsrates, die auf diesem Reglement basieren, kann beim Kantonsgericht Beschwerde eingereicht werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les d&#xE9;cisions du Conseil d'Etat fond&#xE9;es sur le pr&#xE9;sent r&#xE8;glement peuvent faire l'objet d'un recours au Tribunal cantonal.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18622">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Gegen Entscheidungen des DEKS, die auf diesem Reglement basieren, kann beim Staatsrat Beschwerde eingereicht werden.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les d&#xE9;cisions du DECS fond&#xE9;es sur le pr&#xE9;sent r&#xE8;glement peuvent faire l'objet d'un recours au Conseil d'Etat.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18623">
+                <partNumber>3</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Auf das Beschwerdeverfahren findet das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege Anwendung.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">La proc&#xE9;dure de recours est r&#xE9;gie par la loi sur la proc&#xE9;dure et la juridiction administratives.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+        <article>
+          <articleMetadata ID="Article:8117">
+            <articleForm>Art.</articleForm>
+            <articleNumber>
+              <number>9</number>
+            </articleNumber>
+            <articleHeaders>
+              <articleHeader>
+                <mixedText lang="de">&#xDC;bergangs- und Schlussbestimmungen</mixedText>
+              </articleHeader>
+              <articleHeader>
+                <mixedText lang="fr">Dispositions transitoires et finales</mixedText>
+              </articleHeader>
+            </articleHeaders>
+          </articleMetadata>
+          <articleBody>
+            <articleText>
+              <partMetadata ID="Paragraph:18624">
+                <partNumber>1</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">H&#xE4;ngige F&#xE4;lle werden gem&#xE4;ss den Bestimmungen des vorliegenden Reglements behandelt.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Les cas en suspens sont trait&#xE9;s selon les dispositions du pr&#xE9;sent r&#xE8;glement.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+            <articleText>
+              <partMetadata ID="Paragraph:18625">
+                <partNumber>2</partNumber>
+                <typeOfPart>A</typeOfPart>
+              </partMetadata>
+              <partTexts>
+                <partText>
+                  <mixedText lang="de">Dieses Reglement tritt nach seiner Ver&#xF6;ffentlichung im Amtsblatt in Kraft.</mixedText>
+                </partText>
+                <partText>
+                  <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement entre en vigueur d&#xE8;s sa publication au Bulletin officiel.</mixedText>
+                </partText>
+              </partTexts>
+            </articleText>
+          </articleBody>
+        </article>
+      </normTexts>
+    </structure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2002-04-26</dateForce>
+      <dateVersion>2002-04-26</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 17/2002</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

@@ -1,0 +1,2927 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:63</normID>
+      <number>932.1</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">GPr</abbreviation>
+      <abbreviation lang="fr">LProst</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Prostitution</title>
+      <title lang="fr">Loi sur la prostitution</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2015-03-12</dateAdoption>
+      <dateForce>2016-01-01T00:00:00</dateForce>
+      <dateLastChange>2016-01-01</dateLastChange>
+      <dateVersion>2016-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 10, 13, 27, 36 und 41 der Bundesverfassung;</basis> <basis>eingesehen Artikel 199 des Schweizerischen Strafgesetzbuches (StGB);</basis> <basis>eingesehen die Artikel 4 und 10 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:(Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise f&#xFC;r Mann oder Frau.)</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 10, 13, 27, 36 et 41 de la Constitution f&#xE9;d&#xE9;rale;</basis> <basis>vu l'article 199 du code p&#xE9;nal suisse (CP);</basis> <basis>vu les articles 4 et 10 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:(Dans la pr&#xE9;sente loi, toute d&#xE9;signation de personne, de statut ou de fonction vise indiff&#xE9;remment l'homme ou la femme.)</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 14/2015, 40/2015</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="160">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Prostitution</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur la prostitution</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="162">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:443">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:936">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz ist auf jegliche Art von Prostitution auf dem Kantonsgebiet anwendbar, insbesondere auf:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique &#xE0; toute forme de prostitution pratiqu&#xE9;e sur le territoire cantonal, en particulier &#xE0;:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16836">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Strassenprostitution;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la prostitution de rue;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16837">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Salonprostitution;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la prostitution de salon;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16838">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Escort-Service;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la prostitution d'escorte;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16839">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jegliche andere Art von Prostitution durch Anwerbung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">toute autre forme de prostitution par racolage.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:444">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zweck</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Buts</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:941">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz hat zum Zweck:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi a pour buts:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16840">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Mittel zur Bek&#xE4;mpfung der Zwangsprostitution und jeder anderen Form von Ausbeutung im Sexgewerbe zu verst&#xE4;rken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de renforcer les moyens de lutte contre la prostitution forc&#xE9;e et contre toute autre forme d'exploitation dans le milieu de la prostitution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16841">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Umsetzung sozialer und gesundheitlicher Pr&#xE4;ventions- und F&#xF6;rderungsmassnahmen sicherzustellen und die Personen, die der Prostitution nachgehen, &#xFC;ber die Unterst&#xFC;tzungsm&#xF6;glichkeiten zu informieren;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'assurer la mise en oeuvre de mesures de pr&#xE9;vention et de promotion socio-sanitaires et d'informer les personnes qui se prostituent sur les possibilit&#xE9;s de soutien;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16842">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Bedingungen festzulegen, denen jegliche T&#xE4;tigkeit in Verbindung mit der Aus&#xFC;bung von Prostitution unterstellt ist, sowie st&#xF6;renden Auswirkungen dieser T&#xE4;tigkeit auf die &#xF6;ffentliche Ordnung entgegenzuwirken;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de fixer les conditions auxquelles est subordonn&#xE9;e toute activit&#xE9; en lien avec l'exercice de la prostitution et de lutter contre les manifestations secondaires f&#xE2;cheuses de cette activit&#xE9; en vue du maintien de l'ordre public;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16843">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Minderj&#xE4;hrige im Bereich der Prostitution zu sch&#xFC;tzen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de prot&#xE9;ger les mineurs dans le domaine de la prostitution.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:445">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vorbehalt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;serve</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:946">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben die Bestimmungen des Bundesrechts und des kantonalen Rechts, deren Anwendungsbereich oder Zweck mit dem vorliegenden Gesetz zusammenh&#xE4;ngen, insbesondere das Schweizerische Strafgesetzbuch und die Bestimmungen &#xFC;ber die Hilfe an Opfer von Straftaten sowie die Gesetzgebung &#xFC;ber das Gesundheitswesen, die Ausl&#xE4;nder, die Gewerbepolizei und den Arbeitnehmerschutz.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeurent r&#xE9;serv&#xE9;es les dispositions de droit f&#xE9;d&#xE9;ral et de droit cantonal dont le champ d'application ou le but sont connexes &#xE0; ceux de la pr&#xE9;sente loi, en particulier le code p&#xE9;nal suisse et les dispositions concernant l'aide aux victimes d'infractions, ainsi que la l&#xE9;gislation concernant la sant&#xE9; publique, les &#xE9;trangers, la police du commerce et la protection des travailleurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:446">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriff</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:947">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Prostitution ist die T&#xE4;tigkeit einer Person zu verstehen, die gegen Entgelt den Beischlaf oder sexuelle Handlungen f&#xFC;r eine bestimmte oder unbestimmte Anzahl von Kunden vollzieht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prostitution est l'activit&#xE9; d'une personne qui se livre &#xE0; des actes sexuels ou d'ordre sexuel, avec un nombre d&#xE9;termin&#xE9; ou ind&#xE9;termin&#xE9; de clients, moyennant r&#xE9;mun&#xE9;ration.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:447">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Altersgrenze</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Limite d'&#xE2;ge</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:950">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aus&#xFC;bung der Prostitution ist f&#xFC;r Personen, die das 18. Altersjahr nicht erreicht haben, verboten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exercice de la prostitution est interdit &#xE0; toute personne n'ayant pas atteint 18 ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:951">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person, die das 18. Altersjahr nicht erreicht hat:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne n'ayant pas atteint 18 ans:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16844">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">kann keine selbstst&#xE4;ndige Person kontaktieren, die der Prostitution nachgeht;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ne peut contacter une personne ind&#xE9;pendante s'adonnant &#xE0; la prostitution;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16845">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">hat keinen Zutritt zu einem Prostitutionssalon (nachstehend: Salon) oder Zugang zu einer Escort-Agentur.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">n'a pas acc&#xE8;s &#xE0; un salon de prostitution (ci-apr&#xE8;s: salon) ou &#xE0; une agence d'escorte.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:952">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Verantwortliche des Salons oder der Escort-Agentur muss die Altersgrenze kontrollieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le responsable du salon ou de l'agence d'escorte doit contr&#xF4;ler la limite d'&#xE2;ge.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:448">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht der Personen, die der Prostitution nachgehen
+a) Aufnahme der T&#xE4;tigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annonce des personnes qui se prostituent
+a) D&#xE9;but d'activit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:953">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede Person, die der Prostitution nachgeht, muss sich vorg&#xE4;ngig bei der zust&#xE4;ndigen Beh&#xF6;rde anmelden. Wird dies unterlassen, kann die Beh&#xF6;rde von der betroffenen Person die Daten verlangen und diese registrieren. Die Gemeindepolizei meldet der zust&#xE4;ndigen Beh&#xF6;rde jede Person, die der Prostitution nachgeht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne exer&#xE7;ant la prostitution est tenue de s'annoncer pr&#xE9;alablement &#xE0; l'autorit&#xE9; comp&#xE9;tente. A d&#xE9;faut, celle-ci peut exiger les donn&#xE9;es de la part de la personne concern&#xE9;e et les enregistrer. La police municipale signale &#xE0; l'autorit&#xE9; comp&#xE9;tente toute personne exer&#xE7;ant la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:954">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Information der &#xD6;ffentlichkeit, den Datenschutz und die Archivierung (nachstehend: GIDA) ist f&#xFC;r die Datenbearbeitung anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur l'information du public, la protection des donn&#xE9;es et l'archivage (ci-apr&#xE8;s: LIPDA) s'applique au traitement des donn&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:955">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei ihrer Anmeldung erh&#xE4;lt die Person, die der Prostitution nachgeht, ausf&#xFC;hrliche Informationen, auch zum Thema Gesundheitspr&#xE4;vention.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors de son annonce, la personne exer&#xE7;ant la prostitution obtient des informations circonstanci&#xE9;es, y compris dans le domaine de la pr&#xE9;vention sanitaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:956">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Anmeldeverfahren beinhaltet die Verpflichtung, sich pers&#xF6;nlich bei der zust&#xE4;ndigen Beh&#xF6;rde zu melden. Die Anmeldung ist kostenlos. Der Staatsrat legt in einer Verordnung das Anmeldeverfahren und dessen Inhalt fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La proc&#xE9;dure d'annonce implique l'obligation de se pr&#xE9;senter personnellement &#xE0; l'autorit&#xE9; comp&#xE9;tente. La proc&#xE9;dure est gratuite. Pour le surplus, le Conseil d'Etat arr&#xEA;te, dans une ordonnance, la proc&#xE9;dure et le contenu de l'annonce.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:449">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">b) Aufgabe der T&#xE4;tigkeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">b) Cessation d'activit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:959">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Person, die jegliche T&#xE4;tigkeit in Verbindung mit der Prostitution aufgibt, ist verpflichtet, die zust&#xE4;ndige Beh&#xF6;rde zu informieren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui cesse toute activit&#xE9; li&#xE9;e &#xE0; la prostitution est tenue d'en informer l'autorit&#xE9; comp&#xE9;tente.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:960">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Erhalt dieser Meldung veranlasst die zust&#xE4;ndige Beh&#xF6;rde umgehend, dass:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A r&#xE9;ception de cette annonce, l'autorit&#xE9; comp&#xE9;tente, sans d&#xE9;lai:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16846">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Daten &#xFC;ber die Aus&#xFC;bung der Prostitution in der Datei der Personen, die der Prostitution nachgehen, sowie in der Akte der betreffenden Person gel&#xF6;scht werden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">proc&#xE8;de &#xE0; la radiation des donn&#xE9;es se rapportant &#xE0; l'exercice de la prostitution dans le fichier des personnes qui se prostituent ainsi que dans le dossier de la personne concern&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16847">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Beh&#xF6;rden, denen eine Auskunft aus der Datei der Personen, die der Prostitution nachgehen, mitgeteilt wurde, &#xFC;ber die Aufgabe der T&#xE4;tigkeit informiert werden und diese die entsprechenden Eintr&#xE4;ge l&#xF6;schen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">informe de la cessation de l'activit&#xE9; les autorit&#xE9;s auxquelles un renseignement tir&#xE9; du fichier des personnes qui se prostituent avait &#xE9;t&#xE9; communiqu&#xE9; et les somme de proc&#xE9;der aux radiations utiles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:961">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat legt auf dem Verordnungsweg das Verfahren fest, das kostenlos ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te, par ordonnance, la proc&#xE9;dure qui est gratuite.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="163">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Strassenprostitution</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Prostitution de rue</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:450">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriff</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:962">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Strassenprostitution gilt die Form der Prostitution, bei der sich eine Person mit der Absicht zur Aus&#xFC;bung der Prostitution auf &#xF6;ffentlichem Grund oder an Orten, die der &#xD6;ffentlichkeit zug&#xE4;nglich sind oder die von dieser eingesehen werden k&#xF6;nnen, aufh&#xE4;lt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prostitution de rue est l'activit&#xE9; consistant &#xE0; se tenir sur le domaine public ou dans des lieux accessibles au public ou, encore, dans des lieux expos&#xE9;s &#xE0; la vue du public, avec l'intention reconnaissable de pratiquer la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:451">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Einschr&#xE4;nkungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Restrictions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:966">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Aus&#xFC;bung der Strassenprostitution ist an Orten und zu Zeiten verboten, wo sie die &#xF6;ffentliche Ruhe und Ordnung st&#xF6;rt, den Verkehr behindert, St&#xF6;rungen verursacht oder den Anstand verletzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'exercice de la prostitution de rue est interdit dans les endroits et aux moments o&#xF9; il est de nature &#xE0; troubler l'ordre et la tranquillit&#xE9; publics, &#xE0; entraver la circulation, &#xE0; engendrer des nuisances ou &#xE0; blesser la d&#xE9;cence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:967">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als solche Orte gelten insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Constituent, notamment, de tels endroits:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16848">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Strassen in vorwiegend bewohnten Gegenden;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les rues ayant un caract&#xE8;re pr&#xE9;pond&#xE9;rant d'habitation;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16849">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die unmittelbare Umgebung von Schulen, religi&#xF6;sen St&#xE4;tten, Friedh&#xF6;fen und Spit&#xE4;lern;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les abords imm&#xE9;diats des &#xE9;coles, des lieux de culte, des cimeti&#xE8;res et des h&#xF4;pitaux;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16850">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Parkanlagen, Spielpl&#xE4;tze, Haltestellen von &#xF6;ffentlichen Verkehrsmitteln, &#xF6;ffentliche Toiletten und deren unmittelbare Umgebung.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les parcs, les places de jeux, les arr&#xEA;ts de transports publics, les toilettes publiques et leurs abords imm&#xE9;diats.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:968">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Polizeireglement kann die Gemeinde ausserdem Standorte, Zeiten und die Art der Aus&#xFC;bung der Strassenprostitution festlegen sowie Bestimmungen zur Bek&#xE4;mpfung von deren st&#xF6;renden Auswirkungen erlassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le r&#xE8;glement de police, la commune peut, en outre, arr&#xEA;ter les lieux, heures et modes d'exercice de la prostitution de rue, et &#xE9;dicter des dispositions pour lutter contre ses manifestations secondaires f&#xE2;cheuses.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:969">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Widerhandlungen gegen diese Bestimmungen werden gem&#xE4;ss StGB mit Busse bestraft. Zust&#xE4;ndig ist das Polizeigericht.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les infractions &#xE0; ces dispositions sont passibles de l'amende pr&#xE9;vue par le CP; le tribunal de police est comp&#xE9;tent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="164">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Salonprostitution</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Prostitution de salon</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:452">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriff</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finition</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:970">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Salonprostitution gilt die Form der Prostitution, die an Begegnungsorten, die von der &#xD6;ffentlichkeit nicht eingesehen werden k&#xF6;nnen, ausge&#xFC;bt wird.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prostitution de salon s'exerce dans des lieux de rencontre soustraits &#xE0; la vue du public.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:971">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ungeachtet ihrer Art werden diese Orte durch das vorliegende Gesetz als Salons bezeichnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces lieux, quels qu'ils soient, sont qualifi&#xE9;s de salons par la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:972">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine R&#xE4;umlichkeit, die von einer einzelnen Person zur Aus&#xFC;bung der Prostitution genutzt wird, ohne dass Dritte daran beteiligt sind, gilt nicht als Salon im Sinne des vorliegenden Gesetzes. Diese Person ist der Meldepflicht gem&#xE4;ss den Artikeln 6 und 7 des vorliegenden Gesetzes unterstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le local utilis&#xE9; par une personne qui s'y prostitue seule, sans recourir &#xE0; des tiers, n'est pas qualifi&#xE9; de salon au sens de la pr&#xE9;sente loi. Cette personne est soumise &#xE0; l'obligation d'annonce selon les articles 6 et 7 de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:453">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht des Salonbetreibers</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annonce de l'exploitant de salon</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:973">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede nat&#xFC;rliche Person, die als Mieterin, Untermieterin, Nutzniesserin, Eigent&#xFC;merin oder Miteigent&#xFC;merin einen Salon betreibt, indem sie Drittpersonen R&#xE4;umlichkeiten zur Aus&#xFC;bung der Prostitution zur Verf&#xFC;gung stellt, muss sich vorg&#xE4;ngig und schriftlich bei der zust&#xE4;ndigen Beh&#xF6;rde anmelden sowie die Anzahl und die Identit&#xE4;t der Personen, die dort der Prostitution nachgehen, angeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne physique qui, en tant que locataire, sous-locataire, usufruiti&#xE8;re, propri&#xE9;taire ou copropri&#xE9;taire, exploite un salon en mettant &#xE0; disposition de tiers des locaux affect&#xE9;s &#xE0; l'exercice de la prostitution, doit s'annoncer, pr&#xE9;alablement et par &#xE9;crit, &#xE0; l'autorit&#xE9; comp&#xE9;tente en indiquant le nombre et l'identit&#xE9; des personnes qui y exercent la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:974">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden die R&#xE4;umlichkeiten zur Aus&#xFC;bung der Prostitution von einer juristischen Person Drittpersonen zur Verf&#xFC;gung gestellt, teilt diese der zust&#xE4;ndigen Beh&#xF6;rde vorg&#xE4;ngig und schriftlich die Kontaktdaten der nat&#xFC;rlichen Person mit, die von ihr bezeichnet wurde, um die aus dem vorliegenden Gesetz hervorgehenden Verpflichtungen, insbesondere die in Absatz 1 vorgesehene Meldepflicht, wahrzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les locaux destin&#xE9;s &#xE0; l'exploitation d'un salon sont mis &#xE0; la disposition de tiers par une personne morale, celle-ci communique, pr&#xE9;alablement et par &#xE9;crit, &#xE0; l'autorit&#xE9; comp&#xE9;tente les coordonn&#xE9;es de la personne physique qu'elle a d&#xE9;sign&#xE9;e pour assumer les obligations d&#xE9;coulant de la pr&#xE9;sente loi, notamment pour effectuer l'annonce pr&#xE9;vue &#xE0; l'alin&#xE9;a 1.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:975">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Person, welche die Anmeldung ausf&#xFC;hrt, gilt als Salonverantwortlicher im Sinne des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui effectue l'annonce est consid&#xE9;r&#xE9;e comme personne responsable au sens de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:976">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das GIDA gilt f&#xFC;r die Bearbeitung der anf&#xE4;nglich (Art. 11 Abs. 1) und nachtr&#xE4;glich (Art. 13) gemeldeten Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La LIPDA s'applique au traitement des donn&#xE9;es communiqu&#xE9;es initialement (art. 11 al. 1) et ult&#xE9;rieurement (art. 13).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:454">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pers&#xF6;nliche Bedingungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions personnelles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:977">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Salonverantwortliche muss folgende pers&#xF6;nliche Bedingungen erf&#xFC;llen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable d'un salon doit remplir les conditions personnelles suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16851">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er hat die Schweizer Nationalit&#xE4;t oder ist Inhaber der notwendigen Bewilligung zur Aus&#xFC;bung einer selbstst&#xE4;ndigen T&#xE4;tigkeit in der Schweiz;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xEA;tre de nationalit&#xE9; suisse ou titulaire de l'autorisation n&#xE9;cessaire pour exercer une activit&#xE9; ind&#xE9;pendante en Suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16852">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er ist handlungsf&#xE4;hig;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">avoir l'exercice des droits civils;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16853">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er garantiert durch sein Vorleben und sein bisheriges Verhalten seine Ehrbarkeit und seine Solvenz in Bezug auf den vorgesehenen T&#xE4;tigkeitsbereich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">offrir, par ses ant&#xE9;c&#xE9;dents et son comportement, toute garantie d'honorabilit&#xE9; et de solvabilit&#xE9; concernant la sph&#xE8;re d'activit&#xE9; envisag&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16854">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er darf w&#xE4;hrend der vergangenen zehn Jahre nicht f&#xFC;r einen Salon oder eine Escort-Agentur verantwortlich gewesen sein, der/die im Sinne der Artikel 17 Absatz 2 Buchstabe c und 24 Absatz 2 Buchstabe c geschlossen und dessen/deren Betrieb verboten wurde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ne pas avoir &#xE9;t&#xE9; responsable, au cours des dix derni&#xE8;res ann&#xE9;es, d'un salon ou d'une agence d'escorte ayant fait l'objet d'une fermeture et d'une interdiction d'exploiter au sens des articles 17 alin&#xE9;a 2 lettre c et 24 alin&#xE9;a 2 lettre c.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:455">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nachtr&#xE4;gliche Meldepflicht bei der Beh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communication ult&#xE9;rieure &#xE0; l'autorit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:982">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Salonverantwortliche muss der zust&#xE4;ndigen Beh&#xF6;rde unverz&#xFC;glich jeden Wechsel von Personen, die der Prostitution nachgehen, und jede &#xC4;nderung der pers&#xF6;nlichen Bedingungen seit der anf&#xE4;nglichen Anmeldung mitteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable d'un salon est tenue de communiquer imm&#xE9;diatement &#xE0; l'autorit&#xE9; comp&#xE9;tente tout changement des personnes exer&#xE7;ant la prostitution et toute modification des conditions personnelles intervenus depuis l'annonce initiale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:456">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verpflichtungen des Salonverantwortlichen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations du responsable de salon</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:983">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Salonverantwortliche hat insbesondere folgende Verpflichtungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable d'un salon a notamment pour obligations:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16855">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein st&#xE4;ndig aktualisiertes Register zu f&#xFC;hren mit der Identit&#xE4;t, dem Wohnort, der Art der Aufenthaltsbewilligung und Arbeitsbewilligung und deren G&#xFC;ltigkeit, den Ankunfts- und Abreisedaten der Personen, die im Salon der Prostitution nachgehen, sowie den ihnen gew&#xE4;hrten Leistungen und den daf&#xFC;r bezogenen Betr&#xE4;gen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de tenir constamment &#xE0; jour un registre mentionnant l'identit&#xE9;, le domicile, le type d'autorisation de s&#xE9;jour et de travail et sa validit&#xE9;, les dates d'arriv&#xE9;e et de d&#xE9;part des personnes exer&#xE7;ant la prostitution dans le salon, ainsi que les prestations qui leur sont fournies et les montants demand&#xE9;s en contrepartie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16856">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sicherzustellen, dass sie die Gesetzgebung nicht verletzen, insbesondere jene &#xFC;ber den Aufenthalt und die Arbeit ausl&#xE4;ndischer Personen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de s'assurer qu'elles ne contreviennent pas &#xE0; la l&#xE9;gislation, notamment celle relative au s&#xE9;jour et au travail des &#xE9;trangers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16857">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die angemessenen und verh&#xE4;ltnism&#xE4;ssigen Massnahmen zu treffen, um jeglicher St&#xF6;rung der &#xF6;ffentlichen Ordnung vorzubeugen oder diese gegebenenfalls aufzuheben, insbesondere St&#xF6;rungen der &#xF6;ffentlichen Ruhe, Gesundheit, Hygiene der R&#xE4;umlichkeiten und der Umgebung sowie der &#xF6;ffentlichen Sicherheit;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de prendre les mesures ad&#xE9;quates et proportionn&#xE9;es visant &#xE0; pr&#xE9;venir ou &#xE0; faire cesser toute atteinte &#xE0; l'ordre public, notamment &#xE0; la tranquillit&#xE9;, &#xE0; la sant&#xE9;, &#xE0; la salubrit&#xE9; des locaux et environs ainsi qu'&#xE0; la s&#xE9;curit&#xE9; publique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16858">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zu kontrollieren, dass die Bedingungen zur Aus&#xFC;bung der Prostitution gesetzeskonform sind, insbesondere dass die Handlungsfreiheit der Personen, die der Prostitution nachgehen, nicht beeintr&#xE4;chtigt wird, dass diese nicht Opfer von Menschenhandel, Drohung, Gewalt, Druck oder Wucher sind, oder dass nicht ihre Not oder Abh&#xE4;ngigkeit ausgenutzt wird, um sie zum Beischlaf oder zu einer Handlung sexueller Art zu zwingen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de contr&#xF4;ler que les conditions d'exercice de la prostitution soient conformes &#xE0; la l&#xE9;gislation, en particulier qu'il ne soit pas port&#xE9; atteinte &#xE0; la libert&#xE9; d'action des personnes qui se prostituent, que celles-ci ne soient pas victimes de la traite d'&#xEA;tres humains, de menaces, de violences, de pressions ou d'usure, ou que l'on ne profite pas de leur d&#xE9;tresse ou de leur d&#xE9;pendance pour les d&#xE9;terminer &#xE0; se livrer &#xE0; un acte sexuel ou d'ordre sexuel;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16859">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jegliches Unterordnungsverh&#xE4;ltnis mit den Personen, die der Prostitution nachgehen, zu vermeiden und es zu unterlassen, ihnen betreffend ihre T&#xE4;tigkeit Vorschriften zu machen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'&#xE9;viter tout rapport de subordination avec les personnes exer&#xE7;ant la prostitution et de s'abstenir de leur donner des instructions relatives &#xE0; leur activit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16860">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Zugang der Mitarbeiter des Gesundheitswesens und der Sozialhilfe sowie der Verantwortlichen von Vereinen (Art. 26) zu bewilligen, damit diese die Pr&#xE4;vention durchf&#xFC;hren k&#xF6;nnen, f&#xFC;r die sie zust&#xE4;ndig sind;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'autoriser l'acc&#xE8;s des collaborateurs des services en charge de la sant&#xE9; publique et de l'aide sociale, ainsi que des collaborateurs des associations (art. 26) afin de leur permettre de proc&#xE9;der aux activit&#xE9;s de pr&#xE9;vention relevant de leur comp&#xE9;tence;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16861">
+                        <partNumber>g)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zu intervenieren, falls er im Rahmen der ihm obliegenden Verpflichtungen gem&#xE4;ss den Buchstaben a bis e eine Widerhandlung feststellt, und diese bei den zust&#xE4;ndigen Strafverfolgungsbeh&#xF6;rden anzuzeigen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'intervenir si elle constate des infractions dans le cadre des obligations qui lui incombent en vertu des lettres a &#xE0; e et de les d&#xE9;noncer aux autorit&#xE9;s de poursuite p&#xE9;nale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16862">
+                        <partNumber>h)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">seinen Salon pers&#xF6;nlich und tats&#xE4;chlich zu betreiben und f&#xFC;r die zust&#xE4;ndigen Beh&#xF6;rden leicht erreichbar zu sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de g&#xE9;rer de mani&#xE8;re personnelle et effective son &#xE9;tablissement et d'&#xEA;tre facilement atteignable par les autorit&#xE9;s comp&#xE9;tentes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:457">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewilligung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Autorisation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:995">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Er&#xF6;ffnung eines Salons sowie die &#xC4;nderung der Zweckbestimmung einer Anlage in einen Salon erfordern eine Baubewilligung im Sinne des Bau- und Raumplanungsrechts.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'ouverture d'un salon ainsi que le changement d'affectation d'une installation en un salon sont soumis &#xE0; une autorisation de construire au sens du droit de l'am&#xE9;nagement du territoire et du droit des constructions.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:996">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde kann in ihrem Zonennutzungsplan die Er&#xF6;ffnung eines Salons auf bestimmte Zonen beschr&#xE4;nken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune peut, dans son plan d'affectation des zones, limiter l'ouverture d'un salon &#xE0; des zones d&#xE9;termin&#xE9;es.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:997">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Baubewilligung kann verweigert werden, wenn die Er&#xF6;ffnung eines Salons &#xFC;berm&#xE4;ssige immaterielle Immissionen nach sich zieht. Unter &#xFC;berm&#xE4;ssigen immateriellen Immissionen im Sinne des vorliegenden Gesetzes werden die Interaktionen der Er&#xF6;ffnung und des Betriebs eines Salons verstanden, die insbesondere:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorisation de construire peut &#xEA;tre refus&#xE9;e si l'ouverture d'un salon entra&#xEE;ne des &#xE9;missions immat&#xE9;rielles excessives. Sont des &#xE9;missions immat&#xE9;rielles excessives au sens de la pr&#xE9;sente loi les interactions de l'ouverture et de l'exploitation d'un salon qui, en particulier:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16863">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">unangenehme psychische Eindr&#xFC;cke verursachen, namentlich eine unerfreuliche und verunsichernde Umgebung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">provoquent des impressions psychiques d&#xE9;sagr&#xE9;ables, notamment en g&#xE9;n&#xE9;rant un cadre de vie inamical ou d&#xE9;s&#xE9;curisant;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16864">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Nachbarn direkt st&#xF6;ren, beispielsweise durch die Rufsch&#xE4;digung des Wohnquartiers;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">importunent directement les voisins, par exemple en portant pr&#xE9;judice &#xE0; la r&#xE9;putation du quartier;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16865">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">indirekte sch&#xE4;dliche Auswirkungen auf die Nachbarschaft haben, indem die Vermietbarkeit von Wohnungen erschwert wird oder den Gesch&#xE4;ften die Kunden fernbleiben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">exercent des effets indirects dommageables, tel le fait de rendre plus difficile la location d'appartements ou d'&#xE9;loigner les clients des commerces.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:458">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrollen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;les</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:998">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonspolizei kann jederzeit im Rahmen ihrer Befugnisse und falls notwendig zwangsweise Kontrollen der Salons und der Identit&#xE4;t des Salonverantwortlichen sowie der Personen, die der Prostitution nachgehen, durchf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police cantonale peut en tout temps, dans le cadre de ses attributions et au besoin par la contrainte, proc&#xE9;der au contr&#xF4;le des salons, de l'identit&#xE9; du responsable du salon et de celle des personnes qui exercent la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:999">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Umst&#xE4;nden, die einen Eingriff der Polizei rechtfertigen, kann sie bei Kunden des Salons Identit&#xE4;tskontrollen durchf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut proc&#xE9;der au contr&#xF4;le de l'identit&#xE9; d'un client du salon en pr&#xE9;sence d'une circonstance particuli&#xE8;re propre &#xE0; l&#xE9;gitimer une intervention de police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1000">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Rahmen ihrer Befugnisse k&#xF6;nnen die zust&#xE4;ndigen Dienststellen f&#xFC;r Handel, Industrie und Arbeitnehmerschutz ebenfalls berechtigt werden, die R&#xE4;umlichkeiten in Verbindung mit der Salonprostitution zu besichtigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans le cadre de leurs attributions, les services dont rel&#xE8;vent le commerce, l'industrie et la protection des travailleurs sont &#xE9;galement habilit&#xE9;s &#xE0; visiter les locaux en lien avec la prostitution de salon.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:459">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungsrechtliche Sanktionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions administratives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1006">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Salonverantwortliche kann einer verwaltungsrechtlichen Sanktion unterliegen, wenn er:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peut faire l'objet d'une sanction administrative la personne responsable d'un salon:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16866">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Altersgrenze nicht kontrolliert hat (Art. 5);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas contr&#xF4;l&#xE9; la limite d'&#xE2;ge (art. 5);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16867">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">seine Meldepflicht nicht erf&#xFC;llt hat (Art. 11);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas rempli son obligation d'annonce (art. 11);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16868">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die pers&#xF6;nlichen Bedingungen nicht oder nicht mehr erf&#xFC;llt (Art. 12);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui ne remplit pas ou plus les conditions personnelles (art. 12);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16869">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der nachtr&#xE4;glichen Meldepflicht bei der Beh&#xF6;rde nicht nachgekommen ist (Art. 13);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas proc&#xE9;d&#xE9; aux communications ult&#xE9;rieures &#xE0; l'autorit&#xE9; (art. 13);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16870">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verpflichtungen des Salonverantwortlichen nicht respektiert hat (Art. 14).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas respect&#xE9; les obligations du responsable de salon (art. 14).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1007">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde verh&#xE4;ngt je nach Schwere der Widerhandlung und Vorleben des Urhebers eine der folgenden verwaltungsrechtlichen Sanktionen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente prononce, selon la gravit&#xE9; de l'infraction et les ant&#xE9;c&#xE9;dents de son auteur, une des sanctions administratives suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16871">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verwarnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'avertissement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16872">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">tempor&#xE4;re Schliessung des Salons w&#xE4;hrend eines Monats bis zu sechs Monaten und Verbot, w&#xE4;hrend dieser Zeit einen anderen Salon zu betreiben;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fermeture temporaire du salon, pour une dur&#xE9;e de un &#xE0; six mois, et l'interdiction d'exploiter tout autre salon, pour une dur&#xE9;e identique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16873">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">definitive Schliessung des Salons und Verbot w&#xE4;hrend zehn Jahren einen anderen Salon zu betreiben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fermeture d&#xE9;finitive du salon et l'interdiction d'exploiter tout autre salon pour une dur&#xE9;e de dix ans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="165">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Escort-Service</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Prostitution d'escorte</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:460">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begriff</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;finitions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1008">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Escort-Service ist mobil und wird auf Anfrage des Kunden direkt oder &#xFC;ber eine Agentur vermittelt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La prostitution d'escorte s'exerce en d&#xE9;placement, sur requ&#xEA;te du client, de fa&#xE7;on directe ou par l'interm&#xE9;diaire d'une agence.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1009">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Als Escort-Agentur im Sinne des vorliegenden Gesetzes gilt jede Person oder jedes Unternehmen, die oder das regelm&#xE4;ssig gegen Entgelt potenzielle Kunden mit Personen in Kontakt bringt, die der Prostitution nachgehen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est r&#xE9;put&#xE9;e agence d'escorte au sens de la pr&#xE9;sente loi toute personne ou entreprise qui, contre r&#xE9;mun&#xE9;ration r&#xE9;guli&#xE8;re, met en contact des clients potentiels avec des personnes qui exercent la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:461">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Meldepflicht des Agenturbetreibers</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation d'annonce de l'exploitant d'agence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1010">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Jede nat&#xFC;rliche Person, die eine Escort-Agentur betreibt, muss sich vorg&#xE4;ngig und schriftlich bei der zust&#xE4;ndigen Beh&#xF6;rde anmelden sowie die Anzahl und die Identit&#xE4;t der Personen, die der Prostitution nachgehen, und die sie vermittelt, angeben.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute personne physique qui exploite une agence d'escorte est tenue de s'annoncer, pr&#xE9;alablement et par &#xE9;crit, &#xE0; l'autorit&#xE9; comp&#xE9;tente en indiquant le nombre et l'identit&#xE9; des personnes qui exercent la prostitution par son interm&#xE9;diaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1011">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird die Agentur von einer juristischen Person betrieben, teilt diese vorg&#xE4;ngig und schriftlich der zust&#xE4;ndigen Beh&#xF6;rde die Kontaktdaten der nat&#xFC;rlichen Person mit, die von ihr bezeichnet wurde, um die aus dem vorliegenden Gesetz hervorgehenden Verpflichtungen, insbesondere die in Absatz 1 vorgesehene Meldepflicht, wahrzunehmen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque l'agence est exploit&#xE9;e par une personne morale, celle-ci communiquera pr&#xE9;alablement et par &#xE9;crit &#xE0; l'autorit&#xE9; comp&#xE9;tente les coordonn&#xE9;es de la personne physique qu'elle aura d&#xE9;sign&#xE9;e pour assumer les obligations d&#xE9;coulant de la pr&#xE9;sente loi, notamment pour effectuer l'annonce pr&#xE9;vue &#xE0; l'alin&#xE9;a 1.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1012">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Person, welche die Anmeldung ausf&#xFC;hrt, gilt als Agenturverantwortlicher im Sinne des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne qui effectue l'annonce est consid&#xE9;r&#xE9;e comme personne responsable au sens de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1013">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das GIDA gilt f&#xFC;r die Bearbeitung der anf&#xE4;nglich (Art. 19 Abs. 1) und nachtr&#xE4;glich (Art. 21) gemeldeten Daten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La LIPDA s'applique au traitement des donn&#xE9;es communiqu&#xE9;es initialement (art. 19 al. 1) et ult&#xE9;rieurement (art. 21).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:462">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Pers&#xF6;nliche Bedingungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions personnelles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1014">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Agenturverantwortliche muss folgende pers&#xF6;nliche Bedingungen erf&#xFC;llen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable d'une agence d'escorte doit remplir les conditions personnelles suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16874">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er hat die Schweizer Nationalit&#xE4;t oder ist Inhaber der notwendigen Bewilligung zur Aus&#xFC;bung einer selbstst&#xE4;ndigen T&#xE4;tigkeit in der Schweiz;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xEA;tre de nationalit&#xE9; suisse ou titulaire de l'autorisation n&#xE9;cessaire pour exercer une activit&#xE9; ind&#xE9;pendante en Suisse;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16875">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er ist handlungsf&#xE4;hig;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">avoir l'exercice des droits civils;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16876">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er garantiert durch sein Vorleben und sein bisheriges Verhalten seine Ehrbarkeit und seine Solvenz in Bezug auf den vorgesehenen T&#xE4;tigkeitsbereich;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">offrir, par ses ant&#xE9;c&#xE9;dents et son comportement, toute garantie d'honorabilit&#xE9; et de solvabilit&#xE9; concernant la sph&#xE8;re d'activit&#xE9; envisag&#xE9;e;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16877">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">er darf w&#xE4;hrend der vergangenen zehn Jahre nicht f&#xFC;r einen Salon oder eine Escort-Agentur verantwortlich gewesen sein, der/die im Sinne der Artikel 17 Absatz 2 Buchstabe c und 24 Absatz 2 Buchstabe c geschlossen und dessen/deren Betrieb verboten wurde.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">ne pas avoir &#xE9;t&#xE9; responsable, au cours des dix derni&#xE8;res ann&#xE9;es, d'une agence d'escorte ou d'un salon ayant fait l'objet d'une fermeture et d'une interdiction d'exploiter au sens des articles 17 alin&#xE9;a 2 lettre c et 24 alin&#xE9;a 2 lettre c.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:463">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Nachtr&#xE4;gliche Meldepflicht bei der Beh&#xF6;rde</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Communication ult&#xE9;rieure &#xE0; l'autorit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1019">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Agenturverantwortliche muss der zust&#xE4;ndigen Beh&#xF6;rde unverz&#xFC;glich jeden Wechsel von Personen, die der Prostitution nachgehen, und jede &#xC4;nderung der pers&#xF6;nlichen Bedingungen seit der anf&#xE4;nglichen Anmeldung mitteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable d'une agence d'escorte est tenue de communiquer imm&#xE9;diatement &#xE0; l'autorit&#xE9; comp&#xE9;tente tout changement des personnes exer&#xE7;ant la prostitution par son interm&#xE9;diaire et toute modification des conditions personnelles intervenues depuis l'annonce initiale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:464">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verpflichtungen des Agenturverantwortlichen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations du responsable d'agence</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1020">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Agenturverantwortliche hat insbesondere folgende Verpflichtungen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La personne responsable de l'agence d'escorte a notamment pour obligations:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16878">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein st&#xE4;ndig aktualisiertes Register zu f&#xFC;hren mit der Identit&#xE4;t, dem Wohnort, der Art der Aufenthaltsbewilligung und Arbeitsbewilligung und deren G&#xFC;ltigkeit, den Ankunfts- und Abreisedaten der Personen, die &#xFC;ber die Vermittlung durch die Agentur der Prostitution nachgehen, sowie den ihnen gew&#xE4;hrten Leistungen und den daf&#xFC;r bezogenen Betr&#xE4;gen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de tenir constamment &#xE0; jour un registre mentionnant l'identit&#xE9;, le domicile, le type d'autorisation de s&#xE9;jour et de travail et sa validit&#xE9;, et les dates d'arriv&#xE9;e et de d&#xE9;part des personnes exer&#xE7;ant la prostitution par l'interm&#xE9;diaire de l'agence, ainsi que les prestations qui leur sont fournies et les montants demand&#xE9;s en contrepartie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16879">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">sicherzustellen, dass sie die Gesetzgebung nicht verletzen, insbesondere jene &#xFC;ber den Aufenthalt und die Arbeit ausl&#xE4;ndischer Personen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de s'assurer qu'elles ne contreviennent pas &#xE0; la l&#xE9;gislation, notamment celle relative au s&#xE9;jour et au travail des &#xE9;trangers;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16880">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zu kontrollieren, dass die Bedingungen zur Aus&#xFC;bung der Prostitution gesetzeskonform sind, insbesondere dass die Handlungsfreiheit der Personen, die der Prostitution nachgehen, nicht beeintr&#xE4;chtigt wird, dass diese nicht Opfer von Menschenhandel, Drohung, Gewalt, Druck oder Wucher sind, oder dass nicht ihre Not oder Abh&#xE4;ngigkeit ausgenutzt wird, um sie zum Beischlaf oder zu einer Handlung sexueller Art zu zwingen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de contr&#xF4;ler que les conditions d'exercice de la prostitution soient conformes &#xE0; la l&#xE9;gislation, en particulier qu'il ne soit pas port&#xE9; atteinte &#xE0; la libert&#xE9; d'action des personnes qui se prostituent, que celles-ci ne soient pas victimes de la traite d'&#xEA;tres humains, de menaces, de violences, de pressions ou d'usure, ou que l'on ne profite pas de leur d&#xE9;tresse ou de leur d&#xE9;pendance pour les d&#xE9;terminer &#xE0; se livrer &#xE0; un acte sexuel ou d'ordre sexuel;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16881">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jegliches Unterordnungsverh&#xE4;ltnis mit den Personen, die der Prostitution nachgehen, zu vermeiden und es zu unterlassen, ihnen betreffend ihre T&#xE4;tigkeit Vorschriften zu machen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'&#xE9;viter tout rapport de subordination avec les personnes exer&#xE7;ant la prostitution et de s'abstenir de leur donner des instructions relatives &#xE0; leur activit&#xE9;;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16882">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">zu intervenieren, falls er im Rahmen der ihm obliegenden Verpflichtungen gem&#xE4;ss den Buchstaben a bis d eine Widerhandlung feststellt, und diese bei den zust&#xE4;ndigen Strafverfolgungsbeh&#xF6;rden anzuzeigen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'intervenir si elle constate des infractions dans le cadre des obligations qui lui incombent en vertu des lettres a &#xE0; d, et de les d&#xE9;noncer aux autorit&#xE9;s de poursuite p&#xE9;nale;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16883">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">seine Agentur pers&#xF6;nlich und effektiv zu betreiben und f&#xFC;r die zust&#xE4;ndigen Beh&#xF6;rden leicht erreichbar zu sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">d'exploiter de mani&#xE8;re personnelle et effective son agence, et d'&#xEA;tre facilement atteignable par les autorit&#xE9;s comp&#xE9;tentes.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:465">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kontrollen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Contr&#xF4;les</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1027">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonspolizei kann jederzeit im Rahmen ihrer Befugnisse und falls notwendig zwangsweise Kontrollen der Escort-Agentur und der Identit&#xE4;t des Agenturverantwortlichen sowie der Personen, die der Prostitution nachgehen, durchf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police cantonale peut en tout temps, dans le cadre de ses attributions et au besoin par la contrainte, proc&#xE9;der au contr&#xF4;le des agences d'escorte, de l'identit&#xE9; du responsable de l'agence et de celle des personnes qui exercent la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1028">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unter Umst&#xE4;nden, die einen Eingriff der Polizei rechtfertigen, kann sie ausserdem bei Kunden der Escort-Agentur Identit&#xE4;tskontrollen durchf&#xFC;hren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut proc&#xE9;der au contr&#xF4;le de l'identit&#xE9; d'un client de l'agence d'escorte en pr&#xE9;sence d'une circonstance particuli&#xE8;re propre &#xE0; l&#xE9;gitimer une intervention de police.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:466">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>24</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungsrechtliche Sanktionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Sanctions administratives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1034">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Agenturverantwortliche kann einer verwaltungsrechtlichen Sanktion unterliegen, wenn er:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peut faire l'objet d'une sanction administrative la personne responsable d'une agence d'escorte:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16884">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Altersgrenze nicht kontrolliert hat (Art. 5);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas contr&#xF4;l&#xE9; la limite d'&#xE2;ge (art. 5);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16885">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">seine Meldepflicht nicht erf&#xFC;llt hat (Art. 19);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas rempli son obligation d'annonce (art. 19);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16886">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die pers&#xF6;nlichen Bedingungen nicht oder nicht mehr erf&#xFC;llt (Art. 20);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui ne remplit pas ou plus les conditions personnelles (art. 20);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16887">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">der nachtr&#xE4;glichen Meldepflicht bei der Beh&#xF6;rde nicht nachgekommen ist (Art. 21);</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas proc&#xE9;d&#xE9; aux communications ult&#xE9;rieures &#xE0; l'autorit&#xE9; (art. 21);</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16888">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Verpflichtungen des Agenturverantwortlichen nicht respektiert hat (Art. 22).</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">qui n'a pas respect&#xE9; les obligations du responsable d'agence (art. 22).</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1035">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndige Beh&#xF6;rde verh&#xE4;ngt je nach Schwere der Widerhandlung und Vorleben des Urhebers eine der folgenden verwaltungsrechtlichen Sanktionen:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; comp&#xE9;tente prononce, selon la gravit&#xE9; de l'infraction et les ant&#xE9;c&#xE9;dents de son auteur, une des sanctions administratives suivantes:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16897">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Verwarnung;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'avertissement;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16898">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">tempor&#xE4;re Schliessung der Escort-Agentur w&#xE4;hrend eines Monats bis zu sechs Monaten und ein Verbot, w&#xE4;hrend dieser Zeit eine andere Agentur zu betreiben;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fermeture temporaire de l'agence d'escorte, pour une dur&#xE9;e de un &#xE0; six mois, et l'interdiction d'exploiter toute autre agence, pour une dur&#xE9;e identique;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16899">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">definitive Schliessung der Escort-Agentur und Verbot, w&#xE4;hrend zehn Jahren eine andere Agentur zu betreiben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">la fermeture d&#xE9;finitive de l'agence d'escorte et l'interdiction d'exploiter toute autre agence pour une dur&#xE9;e de dix ans.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="166">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Soziale und gesundheitliche Betreuungsmassnahmen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Mesures d'encadrement socio-sanitaires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:467">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>25</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben des Staates</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">T&#xE2;ches de l'Etat</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1038">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat arr&#xEA;te:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16889">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Programm zur Pr&#xE4;vention und zur sozialen und gesundheitlichen Betreuung zugunsten aller Personen, die im Kanton der Prostitution nachgehen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un programme de pr&#xE9;vention et d'encadrement social en faveur de toutes les personnes s'adonnant &#xE0; la prostitution dans le canton;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16890">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">ein Programm zur Pr&#xE4;vention gesundheitlicher Gefahren im Zusammenhang mit der Prostitution, insbesondere der sexuell &#xFC;bertragbaren Infektionen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un programme de pr&#xE9;vention des dangers sanitaires li&#xE9;s &#xE0; la prostitution, en particulier concernant les infections sexuellement transmissibles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1039">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er stellt sicher, dass die Personen, die der Prostitution nachgehen, Zugang zu ausf&#xFC;hrlichen Informationen &#xFC;ber ihre Rechte und Pflichten erhalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il s'assure que les personnes exer&#xE7;ant la prostitution soient renseign&#xE9;es sur leurs droits et leurs devoirs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:468">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Absprache und Zusammenarbeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Concertation et collaboration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1040">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndigen Beh&#xF6;rden im Sinne des vorliegenden Gesetzes arbeiten mit den privat- oder &#xF6;ffentlich-rechtlichen Rechtstr&#xE4;gern zusammen, die unter anderem das Ziel haben, Personen, die der Prostitution nachgehen, zu helfen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s comp&#xE9;tentes au sens de la pr&#xE9;sente loi collaborent avec les organismes de droit priv&#xE9; ou public dont un des buts est de venir en aide aux personnes exer&#xE7;ant la prostitution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1041">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nicht personenbezogene Daten im Sinne des GIDA k&#xF6;nnen diesen Rechtstr&#xE4;gern als erforderliche Massnahme zur Umsetzung eines Hilfs- und Pr&#xE4;ventionsprogramms bekannt gegeben werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Des donn&#xE9;es sans r&#xE9;f&#xE9;rence aux personnes concern&#xE9;es au sens de la LIPDA peuvent &#xEA;tre communiqu&#xE9;es &#xE0; ces organismes dans la mesure n&#xE9;cessaire &#xE0; la mise en oeuvre d'un programme d'aide et de pr&#xE9;vention.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1042">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Diese Beh&#xF6;rden informieren die Personen, die der Prostitution nachgehen, &#xFC;ber die Existenz, das Statut und die T&#xE4;tigkeit dieser Rechtstr&#xE4;ger.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ces autorit&#xE9;s renseignent les personnes exer&#xE7;ant la prostitution sur l'existence, le statut et l'activit&#xE9; de ces organismes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:469">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Subventionen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Subventions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1045">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staat kann finanzielle Unterst&#xFC;tzung gew&#xE4;hren:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'Etat peut soutenir financi&#xE8;rement:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16891">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einem privatrechtlichen Rechtstr&#xE4;ger durch eine Subvention mittels Leistungsauftrag;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un organisme de droit priv&#xE9;, en lui allouant une subvention sur la base d'un mandat de prestations;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16892">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">einem ausgew&#xE4;hlten Projekt aus dem Programm zur Pr&#xE4;vention und zur sozialen und gesundheitlichen Betreuung (Art. 25 Abs. 1) durch eine Subvention mittels Entscheid an den Projektleiter.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">un projet retenu dans le programme de pr&#xE9;vention et d'encadrement social et sanitaire (art. 25 al. 1) en allouant, par d&#xE9;cision, une subvention au chef de projet.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1046">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Art und die Rahmenbedingungen der Subventionen sind in einer Verordnung des Staatsrates festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La nature et le cadre des subventions sont arr&#xEA;t&#xE9;s dans une ordonnance du Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1047">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im &#xDC;brigen sind die Bestimmungen der kantonalen Gesetzgebung &#xFC;ber die Subventionen direkt und vollst&#xE4;ndig auf die im vorliegenden Gesetz vorgesehenen Subventionen anwendbar (Art. 26).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour le surplus, les dispositions de la l&#xE9;gislation cantonale sur les subventions sont applicables directement et dans leur int&#xE9;gralit&#xE9; aux subventions pr&#xE9;vues par la pr&#xE9;sente loi (art. 26).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:470">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Soziales und gesundheitliches Netzwerk</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;seau socio-sanitaire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1048">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat sucht und f&#xF6;rdert &#xFC;ber seine zust&#xE4;ndigen Dienststellen (Art. 30) die Zusammenarbeit mit Vereinen, Stiftungen und anderen privat- oder &#xF6;ffentlich-rechtlichen Rechtstr&#xE4;gern aus dem Gesundheits- und Sozialwesen, die aufgrund ihrer Statuten oder Aufgaben dazu verpflichtet werden k&#xF6;nnen, Personen, die der Prostitution nachgehen, und deren Kunden zu betreuen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat, par ses services comp&#xE9;tents (art. 30), recherche et encourage la collaboration d'associations, de fondations et d'autres organismes de droit priv&#xE9; ou public, actifs dans le domaine socio-sanitaire, qui peuvent &#xEA;tre amen&#xE9;s, en raison de leurs statuts ou de leurs missions, &#xE0; accompagner des personnes s'adonnant &#xE0; la prostitution et leurs clients.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1049">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Er gew&#xE4;hrt den betroffenen privatrechtlichen Rechtstr&#xE4;gern im Rahmen des Budgets eine Finanzhilfe im Sinne von Artikel 27.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Il alloue aux organismes de droit priv&#xE9; concern&#xE9;s une aide financi&#xE8;re au sens de l'article 27, dans les limites du budget.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="167">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>Zust&#xE4;ndige Beh&#xF6;rden und Verfahren</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>Autorit&#xE9;s comp&#xE9;tentes et proc&#xE9;dure</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:471">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>29</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Kantonspolizei</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Police cantonale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1052">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mangels gegenteiliger Bestimmungen ist die Kantonspolizei die zust&#xE4;ndige Beh&#xF6;rde f&#xFC;r die Anwendung der Bestimmungen &#xFC;ber die Aus&#xFC;bung der Prostitution (Art. 6 bis 24).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire, la police cantonale est l'autorit&#xE9; comp&#xE9;tente pour l'application des dispositions traitant de l'exercice de la prostitution (art. 6 &#xE0; 24).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1053">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie kann sich an die zust&#xE4;ndigen kantonalen Beh&#xF6;rden wenden, die f&#xFC;r die Fremdenpolizei, die Gewerbepolizei, die Baupolizei, die Feuerpolizei und den Arbeitnehmerschutz zust&#xE4;ndig sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle peut faire appel aux autorit&#xE9;s cantonales en charge de la police des &#xE9;trangers, de la police du commerce, de la police des constructions, de la police du feu et de la protection des travailleurs.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1054">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kommunalen Polizeibeh&#xF6;rden sind verpflichtet, die Kantonspolizei auf Anfrage zu unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s communales de police sont tenues de pr&#xEA;ter leur concours &#xE0; la police cantonale, &#xE0; sa demande.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1055">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonspolizei muss folgende Beh&#xF6;rden informieren:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La police cantonale doit informer:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16893">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">jede andere Beh&#xF6;rde oder Einrichtung &#xFC;ber eine Lage, die einen Einsatz von deren Seite erfordert;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">toute autre autorit&#xE9; ou institution d'une situation pouvant n&#xE9;cessiter une intervention de leur part;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16894">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Kindesschutzbeh&#xF6;rde, falls eine Person, die das 18. Altersjahr nicht erreicht hat, der Prostitution nachgeht, eine selbstst&#xE4;ndige Person, die der Prostitution nachgeht, aufsucht, oder sich in einen Salon oder eine Escort-Agentur begeben hat.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'autorit&#xE9; de protection des mineurs lorsqu'une personne n'ayant pas atteint 18 ans s'adonne &#xE0; la prostitution, contacte une personne ind&#xE9;pendante s'adonnant &#xE0; la prostitution, s'est rendue dans un salon de prostitution ou une agence d'escorte.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:472">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>30</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Dienststellen f&#xFC;r Sozial- und Gesundheitswesen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Service de l'action sociale - Service de la sant&#xE9; publique</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1058">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mangels gegenteiliger Bestimmungen ist:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sauf disposition contraire:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16895">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Dienststelle f&#xFC;r Sozialwesen die zust&#xE4;ndige Beh&#xF6;rde f&#xFC;r die Anwendung der Bestimmungen &#xFC;ber die sozialen Betreuungsmassnahmen;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le service de l'action sociale est l'autorit&#xE9; comp&#xE9;tente pour l'application des dispositions traitant des mesures d'encadrement social;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:16896">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Dienststelle f&#xFC;r Gesundheitswesen die zust&#xE4;ndige Beh&#xF6;rde f&#xFC;r die Anwendung der Bestimmungen &#xFC;ber die gesundheitlichen Betreuungsmassnahmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le service de la sant&#xE9; publique est l'autorit&#xE9; comp&#xE9;tente pour l'application des dispositions traitant des mesures d'encadrement sanitaire.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1059">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie k&#xF6;nnen sich an die kantonalen Beh&#xF6;rden f&#xFC;r Arbeitnehmerschutz, Berufsbildung und &#xF6;ffentliche Finanzen wenden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ils peuvent faire appel aux autorit&#xE9;s cantonales en charge de la protection des travailleurs, de la formation professionnelle et des finances publiques.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1060">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kommunalen Beh&#xF6;rden f&#xFC;r das Sozial- und Gesundheitswesen sind verpflichtet, die Dienststellen f&#xFC;r Sozial- und Gesundheitswesen auf Anfrage zu unterst&#xFC;tzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s communales socio-sanitaires sont tenues de pr&#xEA;ter leur concours au service de l'action sociale et &#xE0; celui de la sant&#xE9; publique, &#xE0; leur demande.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:473">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>31</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Zusammenarbeit</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Collaboration</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1061">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die zust&#xE4;ndigen Beh&#xF6;rden arbeiten zusammen, um eine abgestimmte Anwendung des vorliegenden Gesetzes sicherzustellen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les autorit&#xE9;s comp&#xE9;tentes collaborent pour assurer une application concert&#xE9;e de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1062">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dazu &#xFC;bermitteln sie einander ihre Informationen, geben einander Kenntnis von Widerhandlungen, die sie festgestellt haben, und &#xFC;bermitteln einander die gef&#xE4;llten Entscheide.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">A cette fin, elles se transmettent leurs informations, se donnent connaissance des infractions qu'elles constatent et se communiquent les d&#xE9;cisions qu'elles rendent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:474">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>32</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1063">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Entscheide auf der Grundlage des vorliegenden Gesetzes ist das Gesetz &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi sur la proc&#xE9;dure et la juridiction administratives s'applique aux d&#xE9;cisions prises sur la base de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:475">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>33</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltungsstrafverfahren</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prononc&#xE9; p&#xE9;nal administratif</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1064">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Unabh&#xE4;ngig von den verwaltungsrechtlichen Sanktionen, die unter Vorbehalt von Absatz 2 vorgesehen sind, kann die Kantonspolizei jeder Person, welche die Vorschriften des vorliegenden Gesetzes oder seine Ausf&#xFC;hrungsbestimmungen verletzt hat, eine verwaltungsrechtliche Busse von mindestens 100 Franken bis maximal 20'000 Franken verh&#xE4;ngen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ind&#xE9;pendamment des sanctions administratives pr&#xE9;vues et sous r&#xE9;serve de l'alin&#xE9;a 2, la police cantonale peut infliger une amende administrative de 100 francs au moins et de 20'000 francs au plus &#xE0; toute personne ayant enfreint les prescriptions de la pr&#xE9;sente loi ou de ses dispositions d'ex&#xE9;cution.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1065">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Selbstst&#xE4;ndige Personen, die der Prostitution mit minderj&#xE4;hrigen Kunden nachgehen, sowie Salon- oder Agenturverantwortliche, die der Verpflichtung, den Zugang von Minderj&#xE4;hrigen zu ihrem Lokal zu verhindern, nicht nachkommen, m&#xFC;ssen mit einer Busse von mindestens 2'000 Franken bis maximal 50'000 Franken rechnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Est passible d'une amende de 2'000 francs au moins et de 50'000 francs au plus la personne ind&#xE9;pendante s'adonnant &#xE0; la prostitution avec une personne mineure, ainsi que le responsable d'un salon ou d'une agence d'escorte qui manque &#xE0; son obligation d'emp&#xEA;cher l'acc&#xE8;s d'une personne mineure &#xE0; son &#xE9;tablissement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1066">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wurde die Widerhandlung in einem Unternehmen im Sinne von Artikel 102 Absatz 4 Buchstaben a, c und d StGB begangen, wird die verwaltungsrechtliche Busse der Person verh&#xE4;ngt, die in seinem Namen gehandelt hat oder h&#xE4;tte handeln m&#xFC;ssen. Das Unternehmen haftet solidarisch f&#xFC;r die Busse. Wenn die Widerhandlung aufgrund mangelnder Unternehmensorganisation keiner bestimmten nat&#xFC;rlichen Person zugeschrieben werden kann, wird die verwaltungsrechtliche Busse direkt dem Unternehmen verh&#xE4;ngt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Si l'infraction a &#xE9;t&#xE9; commise dans la gestion d'une entreprise au sens de l'article 102 alin&#xE9;a 4 lettres a, c et d CP, l'amende administrative est prononc&#xE9;e &#xE0; l'encontre de la personne qui a agi ou aurait d&#xFB; agir en son nom; l'entreprise r&#xE9;pond solidairement de l'amende. L'amende administrative est prononc&#xE9;e directement &#xE0; l'encontre de l'entreprise si l'infraction ne peut &#xEA;tre imput&#xE9;e &#xE0; aucune personne physique d&#xE9;termin&#xE9;e en raison du manque d'organisation de l'entreprise.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1067">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Bestimmungen des Gesetzes &#xFC;ber das Verwaltungsverfahren und die Verwaltungsrechtspflege betreffend das Verwaltungsstrafverfahren sind anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les dispositions de la loi sur la proc&#xE9;dure et la juridiction administratives traitant des prononc&#xE9;s p&#xE9;naux administratifs s'appliquent.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="168">
+            <structureContent lang="de">
+              <structureOrder>7</structureOrder>
+              <structureText>Schluss- und &#xDC;bergangsbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>7</structureOrder>
+              <structureText>Dispositions finales et transitoires</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:14967">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>34</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xC4;nderung geltenden Rechts</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Modifications du droit en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34230">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Gesetz &#xFC;ber die Akten der gerichtlichen Polizei vom 28. Juni 1984 wird&#xA0;ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi concernant les dossiers de police judiciaire du 26 juin1984 est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:35704">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das Einf&#xFC;hrungsgesetz zum Schweizerischen Strafgesetzbuch vom 14. September 2006 (EGStGB) wird&#xA0;ge&#xE4;ndert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La loi d'application du code p&#xE9;nal suisse du 14 septembre 2006 (LACP) est modifi&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:477">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>35</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;gime transitoire</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1079">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Personen, die dem Anwendungsbereich des vorliegenden Gesetzes unterstellt sind, verf&#xFC;gen &#xFC;ber eine Frist von drei Monaten ab Inkrafttreten des Gesetzes, um sich daran anzupassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les personnes relevant du champ d'application de la pr&#xE9;sente loi ont un d&#xE9;lai de trois mois d&#xE8;s son entr&#xE9;e en vigueur pour s'y conformer.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:478">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>36</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1080">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat erl&#xE4;sst die Anwendungsbestimmungen des vorliegenden Gesetzes.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat &#xE9;dicte les dispositions d'application de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:479">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>37</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:1081">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Gesetz untersteht dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:1082">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat setzt das Datum des Inkrafttretens des vorliegenden Gesetzes fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe la date de l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2016-01-01</dateForce>
+      <dateVersion>2016-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 14/2015, 40/2015</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

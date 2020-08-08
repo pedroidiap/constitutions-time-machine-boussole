@@ -1,0 +1,1827 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:1219</normID>
+      <number>160.5</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de"/>
+      <abbreviation lang="fr"/>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Gesetz &#xFC;ber die Unvereinbarkeiten</title>
+      <title lang="fr">Loi sur les incompatibilit&#xE9;s</title>
+    </shortTitles>
+    <type>Loi</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Grosse Rat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1998-02-11</dateAdoption>
+      <dateForce>1998-07-01T00:00:00</dateForce>
+      <dateLastChange>2016-07-01</dateLastChange>
+      <dateVersion>2016-07-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Grosse Rat des Kantons Wallis</authorityDescription><basis>eingesehen die Artikel 31 Absatz 1 und 90 der Kantonsverfassung;</basis> <basis>auf Antrag des Staatsrates,</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Grand Conseil du canton du Valais</authorityDescription><basis>vu les articles 31 alin&#xE9;a 1 et 90 de la Constitution cantonale;</basis> <basis>sur la proposition du Conseil d'Etat,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1998 f 21, 338 | d 22, 366</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="4121">
+        <structureContent lang="de">
+          <structureText>Gesetz<break type="line"/>&#xFC;ber die Unvereinbarkeiten</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Loi<break type="line"/>sur les incompatibilit&#xE9;s</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4123">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13962">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anwendungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32162">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Gesetz findet Anwendung auf die Mitglieder der Kantons- und Gemeindebeh&#xF6;rden, die Magistraten, die Beamten und Angestellten des Staates, der Gemeinden und der selbst&#xE4;ndigen Anstalten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi s'applique aux membres des autorit&#xE9;s cantonales et communales, aux magistrats, aux fonctionnaires et employ&#xE9;s d'Etat, des communes et des &#xE9;tablissements autonomes.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32163">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In diesem Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise f&#xFC;r Mann und Frau.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Toute d&#xE9;signation de personne, de statut ou de fonction dans la pr&#xE9;sente loi vise indiff&#xE9;remment l'homme ou la femme.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13963">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bestimmung des Gew&#xE4;hlten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">D&#xE9;signation de l'&#xE9;lu</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32164">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden zwei Personen, nacheinander in ein Amt, das sie nicht zusammen aus&#xFC;ben k&#xF6;nnen, gew&#xE4;hlt oder ernannt, gilt jene als nicht gew&#xE4;hlt oder nicht ernannt, welche die Unvereinbarkeit verursacht hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque deux personnes sont &#xE9;lues ou nomm&#xE9;es successivement &#xE0; une fonction qu'elles ne peuvent exercer ensemble, celle qui a cr&#xE9;&#xE9; l'incompatibilit&#xE9; est r&#xE9;put&#xE9;e ne pas &#xEA;tre &#xE9;lue ou nomm&#xE9;e.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32165">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Werden zwei Personen zur gleichen Zeit in ein Amt gew&#xE4;hlt, das sie nicht zusammen aus&#xFC;ben k&#xF6;nnen, gilt jene als gew&#xE4;hlt, welche die gr&#xF6;sste Stimmenzahl erhalten hat; haben beide die gleiche Stimmenzahl erhalten oder sind sie nach verschiedenen Wahlsystemen gew&#xE4;hlt worden, entscheidet das Los.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque deux personnes sont &#xE9;lues simultan&#xE9;ment &#xE0; une fonction qu'elles ne peuvent exercer ensemble, est r&#xE9;put&#xE9;e &#xE9;lue celle qui a obtenu le plus grand nombre de suffrages; si elles ont obtenu le m&#xEA;me nombre de voix ou si elles ont &#xE9;t&#xE9; &#xE9;lues selon des syst&#xE8;mes diff&#xE9;rents, il est proc&#xE9;d&#xE9; &#xE0; un tirage au sort.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32166">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">In allen F&#xE4;llen kann jeder der Gew&#xE4;hlten freiwillig auf sein Amt zugunsten des anderen Gew&#xE4;hlten verzichten. Der Verzicht muss innert sechs Tagen, die auf die Wahl oder die Ernennung folgen, stattfinden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Dans tous les cas, chacun peut renoncer volontairement &#xE0; sa fonction au profit de l'autre. Le d&#xE9;sistement doit intervenir dans les six jours qui suivent l'acte d'&#xE9;lection ou de nomination.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13964">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wahl des Amtes</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Choix de la fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32167">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wird eine Person in zwei &#xC4;mter gew&#xE4;hlt oder ernannt, die unvereinbar sind, hat sie innert sechs Tagen nach Eintritt der Unvereinbarkeit zwischen dem einen oder anderen Amt zu w&#xE4;hlen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'une personne est &#xE9;lue ou nomm&#xE9;e &#xE0; deux fonctions qui sont incompatibles, elle doit choisir entre l'une ou l'autre, dans les six jours qui suivent la survenance de l'incompatibilit&#xE9;.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32168">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Nach Ablauf dieser Frist entscheidet das Los.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pass&#xE9; ce d&#xE9;lai, il est proc&#xE9;d&#xE9; &#xE0; un tirage au sort.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13965">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auslosung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Tirage au sort</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32169">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Auslosung erfolgt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le tirage au sort s'effectue:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15399">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">auf Gemeindeebene: durch den Pr&#xE4;sidenten der Gemeinde, beziehungsweise den Pr&#xE4;sidenten der Burgergemeinde;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sur le plan communal: par le pr&#xE9;sident de la municipalit&#xE9;, respectivement le pr&#xE9;sident de la bourgeoisie;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15400">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">auf Kantonsebene: durch den Pr&#xE4;sidenten des Staatsrates.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">sur le plan cantonal: par le pr&#xE9;sident du Conseil d'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32170">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Auslosung erfolgt ebenfalls, wenn eine Unvereinbarkeit w&#xE4;hrend der Amtsdauereintritt und eine ausdr&#xFC;ckliche gesetzliche Bestimmung oder ein freiwilliger Verzicht fehlen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le tirage au sort a lieu &#xE9;galement lorsqu'une incompatibilit&#xE9; surgit en cours de fonction, en l'absence de dispositions l&#xE9;gales expresses ou &#xE0; d&#xE9;faut de d&#xE9;sistement volontaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13966">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32171">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die im vorliegenden Gesetz f&#xFC;r die Beamten geltenden Unvereinbarkeiten sind, ausdr&#xFC;ckliche Bestimmungen vorbehalten, nicht auf die kantonalen Lehrkr&#xE4;fte anwendbar.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les incompatibilit&#xE9;s visant les fonctionnaires, dans la pr&#xE9;sente loi, ne s'appliquent pas, sauf disposition expresse, aux enseignants cantonaux.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13967">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Neues Amt</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Nouvelle fonction</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32172">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Schafft ein Gesetz ein neues Amt, muss es das Unvereinbarkeitsproblem l&#xF6;sen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Quand une loi cr&#xE9;e une nouvelle fonction, elle r&#xE8;gle le probl&#xE8;me des incompatibilit&#xE9;s.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4124">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Kantonale Beh&#xF6;rden</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Autorit&#xE9;s cantonales</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4125">
+                <structureContent lang="de">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Gewaltentrennung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.1</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la s&#xE9;paration des pouvoirs</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13968">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>7</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grosser Rat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Grand Conseil</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32173">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Mitglieder des Grossen Rates sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre membres du Grand Conseil:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15401">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Staatsrates und der Staatskanzler;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du Conseil d'Etat et le chancelier d'Etat;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15402">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Kantonsgerichts, der Bezirksgerichte, des Zwangsmassnahmengerichts, des Straf- und Massnahmenvollzugsge-richts, des Jugendgerichts sowie die Vertreter der Staatsanwaltschaft;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du Tribunal cantonal, des Tribunaux de districts, du Tribunal des mesures de contrainte, du Tribunal de l'application des peines et mesures, du Tribunal des mineurs ainsi que les repr&#xE9;sentants du Minist&#xE8;re public;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15403">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">unter Vorbehalt der Spezialgesetzgebung die von der Kantonsverwaltung angestellten Personen sowie das von den Gerichten und der Staatsanwaltschaft angestellte Verwaltungspersonal;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">sous r&#xE9;serve de la l&#xE9;gislation sp&#xE9;ciale, les personnes engag&#xE9;es par l'administration cantonale, ainsi que le personnel administratif engag&#xE9; par les tribunaux et le Minist&#xE8;re public;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15404">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die kantonalen Lehrkr&#xE4;fte, die eine leitende Funktion aus&#xFC;ben. Der Staatsrat erstellt das Verzeichnis der leitenden Funktionen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les enseignants cantonaux qui exercent une fonction dirigeante. Le Conseil d'Etat &#xE9;tablit la liste des fonctions dirigeantes;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15405">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">unter Vorbehalt der Spezialgesetzgebung die Personen, die eine leitende Funktion oder ein Verwaltungsratsmandat in selbstst&#xE4;ndigen Anstalten des &#xF6;ffentlichen Rechts und in Unternehmen mit einem Gesellschaftskapital, an dem der Kanton mit mindestens 50 Prozent beteiligt ist, aus&#xFC;ben. Der Staatsrat erstellt das Verzeichnis der leitenden Funktionen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">sous r&#xE9;serve de la l&#xE9;gislation sp&#xE9;ciale, les personnes qui exercent une fonction dirigeante ou un mandat dans un conseil d'administration au sein d'&#xE9;tablissements autonomes de droit public et d'entreprises au capital social desquels le canton participe &#xE0; hauteur de 50 pour cent au moins. Le Conseil d'Etat &#xE9;tablit la liste des fonctions dirigeantes;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15406">
+                            <partNumber>f)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Regierungsstatthalter und ihre Substitute.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les pr&#xE9;fets et leurs substituts.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13969">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>8</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Staatsrat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Conseil d'Etat</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32174">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Mitglieder des Staatsrates sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre membres du Conseil d'Etat:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15407">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Grossen Rates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du Grand Conseil;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15408">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die mit einer vollamtlichen oder teilzeitlichen richterlichen Funktion betrauten Personen;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les personnes investies d'une fonction judiciaire, m&#xEA;me accessoire;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15409">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Regierungsstatthalter und ihre Substitute, die Beh&#xF6;rden, Beamten und Angestellten des Staates, der Gemeinden und der selbst&#xE4;ndigen Anstalten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les pr&#xE9;fets et leurs substituts, les autorit&#xE9;s, fonctionnaires et employ&#xE9;s d'Etat, des communes et des &#xE9;tablissements autonomes.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13970">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>9</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gerichte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Tribunaux</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32175">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht voll- oder nebenamtliche Richter sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre juges permanents ou suppl&#xE9;ants:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15410">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Grossen Rates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du Grand Conseil;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15411">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Staatsrates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du Conseil d'Etat;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15412">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder der eidgen&#xF6;ssischen R&#xE4;te;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres des Chambres f&#xE9;d&#xE9;rales;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15413">
+                            <partNumber>d)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Regierungsstatthalter und ihre Substitute;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les pr&#xE9;fets et leurs substituts;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15414">
+                            <partNumber>e)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder einer Gemeindebeh&#xF6;rde.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres d'une autorit&#xE9; municipale.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4126">
+                <structureContent lang="de">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Unterordnung eines Amtes unter ein anderes Amt</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.2</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la subordination d'une fonction &#xE0; une autre fonction</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13971">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>10</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Grundsatz</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Principe</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32176">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Keine Person kann gleichzeitig zwei &#xC4;mter bekleiden, wovon eines dem anderen untergeordnet ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Aucune personne ne peut exercer simultan&#xE9;ment deux fonctions dont l'une est subordonn&#xE9;e &#xE0; l'autre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13972">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>11</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Regierungsstatthalter</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Pr&#xE9;fets</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32177">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Das Amt des Regierungsstatthalters und des Regierungsstatthalter-Substituten ist mit jenem eines Mitgliedes einer Gemeindebeh&#xF6;rde unvereinbar, als auch mit jenem eines kantonalen und kommunalen Beamten und Angestellten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La fonction de pr&#xE9;fet et de pr&#xE9;fet-substitut est incompatible avec celle de membre d'une autorit&#xE9; communale ainsi qu'avec celle de fonctionnaire ou d'employ&#xE9; cantonal et communal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4127">
+                <structureContent lang="de">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Verwandtschaft</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.3</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la parent&#xE9;</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13973">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>12</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32178">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ehegatten, Verwandten in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschw&#xE4;gerten bis zum zweiten Grad k&#xF6;nnen nicht gleichzeitig Mitglieder des Staatsrates oder des gleichen Gerichtes sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les conjoints, les parents en ligne directe et collat&#xE9;rale jusqu'au troisi&#xE8;me degr&#xE9;, les alli&#xE9;s en ligne directe et collat&#xE9;rale jusqu'au deuxi&#xE8;me degr&#xE9; ne peuvent pas &#xEA;tre simultan&#xE9;ment membres du Conseil d'Etat ou d'un m&#xEA;me tribunal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32179">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie k&#xF6;nnen auch nicht gleichzeitig administrative oder richterliche &#xC4;mter besetzen, deren eines dem anderen unmittelbar untergeordnet ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils ne peuvent pas non plus occuper en m&#xEA;me temps des fonctions administratives ou judiciaires dont l'une est imm&#xE9;diatement subordonn&#xE9;e &#xE0; l'autre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4128">
+                <structureContent lang="de">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Aus&#xFC;bung einer &#xF6;ffentlichen Funktion</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>2.4</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; l'exercice d'une fonction publique</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13974">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>13</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Magistraten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Magistrats</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32180">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die vollamtlichen Magistraten m&#xFC;ssen ihre ganze Zeit ihrer Funktion widmen. Sie d&#xFC;rfen keine andere Funktion aus&#xFC;ben noch einer anderen beruflichen T&#xE4;tigkeit nachgehen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les magistrats &#xE0; plein temps doivent tout leur temps &#xE0; leur fonction. Ils ne peuvent assumer aucune autre fonction, ni exercer une autre activit&#xE9; professionnelle.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32181">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Magistraten im Sinne dieses Gesetzes sind die Mitglieder des Staatsrates, des Kantonsgerichts, der Bezirks- und Strafuntersuchungsgerichte, des Jugendgerichts, die vollamtlichen Vertreter der Staatsanwaltschaft sowie der Staatskanzler.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sont magistrats, au sens de la pr&#xE9;sente loi, les membres du Conseil d'Etat, du Tribunal cantonal, des Tribunaux de districts et d'instruction p&#xE9;nale, du Tribunal des mineurs, les repr&#xE9;sentants &#xE0; plein temps du Minist&#xE8;re public ainsi que le chancelier d'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13975">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>14</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Eidgen&#xF6;ssische R&#xE4;te</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Chambres f&#xE9;d&#xE9;rales</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32182">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ein einziges Mitglied des Staatsrates kann in den eidgen&#xF6;ssischen R&#xE4;te Einsitz nehmen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Un seul membre du Conseil d'Etat peut si&#xE9;ger aux Chambres f&#xE9;d&#xE9;rales.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32183">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sind mehrere Mitglieder des Staatsrates nach dem gleichen Wahlsystem gew&#xE4;hlt worden, ist Artikel 2 Absatz 2 anwendbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lorsque plusieurs membres du Conseil d'Etat y sont &#xE9;lus selon le m&#xEA;me syst&#xE8;me &#xE9;lectoral, l'article 2 alin&#xE9;a 2 est applicable.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32184">
+                        <partNumber>3</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sind sie nach einem verschiedenen System gew&#xE4;hlt worden, ist die Amtsdauer in der kantonalen Regierung entscheidend. Bei Gleichheit entscheidet das Los.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">S'ils sont &#xE9;lus selon un syst&#xE8;me diff&#xE9;rent, la dur&#xE9;e de fonction au Gouvernement cantonal est d&#xE9;terminante. En cas d'&#xE9;galit&#xE9;, le sort d&#xE9;partage.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13976">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>15</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Nebenbesch&#xE4;ftigungen</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Activit&#xE9;s accessoires</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32185">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Funktion als vollamtlicher Magistrat ist mit jener des Mitglieds eines Verwaltungsrates oder der Direktion einer Gesellschaft mit einem Erwerbszweck unvereinbar, ausser auf Grund einer Delegation durch den Staat.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La fonction de magistrat &#xE0; plein temps est incompatible avec celle de membre du conseil d'administration ou de la direction d'une soci&#xE9;t&#xE9; &#xE0; but lucratif, sauf d&#xE9;l&#xE9;gation par l'Etat.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32186">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Organisationsreglemente des Staatsrates und des Kantonsgerichts ordnen die Aus&#xFC;bung von Nebenbesch&#xE4;ftigungen durch die Magistraten.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les r&#xE8;glements d'organisation du Conseil d'Etat et du Tribunal cantonal r&#xE8;glent l'exercice des activit&#xE9;s accessoires par les magistrats.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13977">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>16</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Beamte</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Fonctionnaires</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32187">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Aus&#xFC;bung jedes Berufes oder jeder Nebenbesch&#xE4;ftigung durch die Beamten, Angestellten und Lehrkr&#xE4;fte wird durch die Sondergesetzgebung betreffend ihr Dienstverh&#xE4;ltnis geregelt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">L'exercice de toute profession ou activit&#xE9; accessoire par les fonctionnaires, employ&#xE9;s et enseignants est r&#xE9;gi par les l&#xE9;gislations sp&#xE9;ciales fixant leur statut.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4129">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Gemeindeordnung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>R&#xE9;gime communal</structureText>
+            </structureContent>
+          </structureContents>
+        </structure>
+        <subStructure>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4130">
+                <structureContent lang="de">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Gewaltentrennung</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.1</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la s&#xE9;paration des pouvoirs</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13978">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>17</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Generalrat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Conseil g&#xE9;n&#xE9;ral</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32188">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Mitglieder des Generalrates sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre membres du conseil g&#xE9;n&#xE9;ral:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15415">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Gemeinderates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du conseil municipal;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15416">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Richter und der Vizerichter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le juge et le vice-juge;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15417">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Beamten und Angestellten der Gemeinde und ihrer Anstalten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les fonctionnaires et employ&#xE9;s de la commune municipale et de ses &#xE9;tablissements.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13979">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>18</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gemeinderat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Conseil municipal</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32189">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Mitglieder des Gemeinderates sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre membres du conseil municipal:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15418">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Burgerrates und des Generalrates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du conseil bourgeoisial et du conseil g&#xE9;n&#xE9;ral;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15419">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Richter und der Vizerichter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le juge et le vice-juge;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15420">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Beamten und Angestellten der Gemeinde und ihrer Anstalten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les fonctionnaires et employ&#xE9;s de la commune municipale et de ses &#xE9;tablissements.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13980">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>19</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Burgerrat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Conseil bourgeoisial</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32190">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Mitglieder des Burgerrates sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre membres du conseil bourgeoisial:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15421">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des Gemeinde- und Generalrates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du conseil municipal et du conseil g&#xE9;n&#xE9;ral;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15422">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">der Richter und der Vizerichter;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">le juge et le vice-juge;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15423">
+                            <partNumber>c)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Beamten und Angestellten der Burgergemeinde und ihrer Anstalten.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les fonctionnaires et employ&#xE9;s de la commune bourgeoisiale et de ses &#xE9;tablissements.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13981">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>20</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Richter und Vizerichter</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Juges et vice-juges</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32191">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Es k&#xF6;nnen nicht Richter oder Vizerichter sein:</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ne peuvent &#xEA;tre juges ou vice-juges:</mixedText>
+                        </partText>
+                      </partTexts>
+                      <subparts>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15424">
+                            <partNumber>a)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Mitglieder des General-, Gemeinde- oder Burgerrates;</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les membres du conseil g&#xE9;n&#xE9;ral, municipal ou bourgeoisial;</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                        <articleText>
+                          <partMetadata ID="EnumerationItem:15425">
+                            <partNumber>b)</partNumber>
+                            <typeOfPart>C</typeOfPart>
+                          </partMetadata>
+                          <partTexts>
+                            <partText>
+                              <mixedText lang="de">die Beamten und Angestellten der Einwohner- und Burgergemeinden.</mixedText>
+                            </partText>
+                            <partText>
+                              <mixedText lang="fr">les fonctionnaires et employ&#xE9;s des communes municipales et bourgeoisiales.</mixedText>
+                            </partText>
+                          </partTexts>
+                        </articleText>
+                      </subparts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4131">
+                <structureContent lang="de">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Unterordnung einer Funktion unter eine andere Funktion</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.2</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la subordination d'une fonction &#xE0; une autre fonction</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13982">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>21</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de"/>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr"/>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32192">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">1 Das Amt des Pr&#xE4;sidenten ist mit jenem des Sekret&#xE4;rs oder Kassiers der gleichen K&#xF6;rperschaft unvereinbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La fonction de pr&#xE9;sident est incompatible avec celle de secr&#xE9;taire ou de caissier de la m&#xEA;me collectivit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32193">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">2 Das Amt eines Rates ist mit jenem eines vollamtlichen Sekret&#xE4;rs oder Kassiers der gleichen K&#xF6;rperschaft unvereinbar.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">La fonction de conseiller est incompatible avec celle de secr&#xE9;taire ou de caissier &#xE0; plein temps de la m&#xEA;me collectivit&#xE9;.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4132">
+                <structureContent lang="de">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Verwandtschaft</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.3</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; la parent&#xE9;</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13983">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>22</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gemeinderat und Burgerrat</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Conseil municipal et conseil bourgeoisial</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32194">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ehegatten, Verwandte in gerader und in der Seitenlinie bis zum dritten Grad sowie die Verschw&#xE4;gerten bis zum zweiten Grad k&#xF6;nnen nicht gleichzeitig Mitglieder des Gemeinde- oder Burgerrates noch Richter und Vizerichter sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les conjoints, les parents en ligne directe et collat&#xE9;rale jusqu'au troisi&#xE8;me degr&#xE9;, les alli&#xE9;s en ligne directe et collat&#xE9;rale jusqu'au deuxi&#xE8;me degr&#xE9; ne peuvent &#xEA;tre simultan&#xE9;ment membres du m&#xEA;me conseil municipal ou bourgeoisial, ni juge et vice-juge.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32195">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sie k&#xF6;nnen auch nicht gleichzeitig administrative oder richterliche Funktionen besetzen, wovon eine der anderen unmittelbar untergeordnet ist.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ils ne peuvent non plus occuper en m&#xEA;me temps des fonctions administratives ou judiciaires dont l'une est imm&#xE9;diatement subordonn&#xE9;e &#xE0; l'autre.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13984">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>23</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Gemeindesekret&#xE4;r und Kassier</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Secr&#xE9;taire municipal - Caissier</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32196">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Die Ehegatten, Verwandten und Verschw&#xE4;gerten in gerader Linie sowie die Verwandten in der Seitenlinie bis zum dritten Grad der vollamtlichen Ratsmitglieder oder des Pr&#xE4;sidenten der Gemeinde k&#xF6;nnen nicht die Funktion des Gemeindesekret&#xE4;rs oder -kassiers aus&#xFC;ben.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les conjoints, les parents et alli&#xE9;s en ligne directe ainsi que les parents en ligne collat&#xE9;rale jusqu'au troisi&#xE8;me degr&#xE9; des conseillers &#xE0; plein temps ou du pr&#xE9;sident de la municipalit&#xE9; ne peuvent pas exercer la fonction de secr&#xE9;taire ou de caissier municipal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32197">
+                        <partNumber>2</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">In aussergew&#xF6;hnlichen Umst&#xE4;nden kann der Staatsrat Abweichungen bewilligen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le Conseil d'Etat peut autoriser des d&#xE9;rogations dans des circonstances exceptionnelles.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+          <normContents>
+            <structure>
+              <structureKind>N</structureKind>
+              <structureLevel>2</structureLevel>
+              <structureContents ID="4133">
+                <structureContent lang="de">
+                  <structureOrder>3.4</structureOrder>
+                  <structureText>Unvereinbarkeiten aufgrund der Aus&#xFC;bung eines &#xF6;ffentlichen Amtes</structureText>
+                </structureContent>
+                <structureContent lang="fr">
+                  <structureOrder>3.4</structureOrder>
+                  <structureText>Incompatibilit&#xE9;s tenant &#xE0; l'exercice d'une fonction publique</structureText>
+                </structureContent>
+              </structureContents>
+              <normTexts>
+                <article>
+                  <articleMetadata ID="Article:13985">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>24</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">&#xC4;mterkumulation</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Cumul de fonctions</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32198">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Niemand kann Mitglied von mehr als einem Gemeinderat sein.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Nul ne peut &#xEA;tre membre de plus d'un conseil communal.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+                <article>
+                  <articleMetadata ID="Article:13986">
+                    <articleForm>Art.</articleForm>
+                    <articleNumber>
+                      <number>25</number>
+                    </articleNumber>
+                    <articleHeaders>
+                      <articleHeader>
+                        <mixedText lang="de">Wirtschaftliche Unvereinbarkeiten</mixedText>
+                      </articleHeader>
+                      <articleHeader>
+                        <mixedText lang="fr">Incompatibilit&#xE9;s &#xE9;conomiques</mixedText>
+                      </articleHeader>
+                    </articleHeaders>
+                  </articleMetadata>
+                  <articleBody>
+                    <articleText>
+                      <partMetadata ID="Paragraph:32199">
+                        <partNumber>1</partNumber>
+                        <typeOfPart>A</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Der vollamtliche Pr&#xE4;sident sowie die vollamtlichen Gemeinder&#xE4;te m&#xFC;ssen ihre ganze Zeit ihrem Amte widmen. Sie k&#xF6;nnen nicht eine andere berufliche T&#xE4;tigkeit aus&#xFC;ben noch Mitglied eines Verwaltungsrates oder der Direktion einer Gesellschaft mit Erwerbszweck sein, ausser sie seien durch eine &#xF6;ffentliche K&#xF6;rperschaft delegiert.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Le pr&#xE9;sident &#xE0; plein temps ainsi que les conseillers municipaux &#xE0; plein temps doivent tout leur temps &#xE0; leur fonction. Ils ne peuvent exercer une autre activit&#xE9; professionnelle, ni &#xEA;tre membres du conseil d'administration ou de la direction d'une soci&#xE9;t&#xE9; &#xE0; but lucratif, sauf s'ils y sont d&#xE9;l&#xE9;gu&#xE9;s par une collectivit&#xE9; publique.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </articleBody>
+                </article>
+              </normTexts>
+            </structure>
+          </normContents>
+        </subStructure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4134">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:13987">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>26</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufhebungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Abrogations</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:34085">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Mit diesem Gesetz sind aufgehoben:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi abroge:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15915">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Artikel 46 Absatz 3 und 4, 100 Absatz 1 zweiter Satz und Absatz 2, 106 und 108 des Gesetzes &#xFC;ber die Wahlen und Abstimmungen vom 17. Mai 1972;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les articles 46 alin&#xE9;as 3 et 4, 100 alin&#xE9;a 1 deuxi&#xE8;me phrase et alin&#xE9;a 2, 106 et 108 de la loi sur les &#xE9;lections et votations du 17 mai 1972;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15916">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Artikel 34 Absatz 2 und 40 Absatz 2 und 4 des Gesetzes &#xFC;ber die Gemeindeordnung vom 13. November 1980;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les articles 34 alin&#xE9;a 2 et 40 alin&#xE9;as 2 et 4 de la loi sur le r&#xE9;gime communal du 13 novembre 1980;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:15917">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Artikel 14 des Gesetzes &#xFC;ber die Gerichtsbeh&#xF6;rden vom 13. Mai 1960, sowie alle anderen gegenteiligen kantonalen Gesetzesbestimmungen.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'article 14 de la loi d'organisation judiciaire du 13 mai 1960 ainsi que toutes les autres dispositions l&#xE9;gales cantonales contraires.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13988">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>27</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#xDC;bergangsbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions transitoires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32203">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die durch das neue Recht eingef&#xFC;hrten neuen Unvereinbarkeiten haben keine Wirkung auf die bei seinem Inkrafttreten bereits gew&#xE4;hlten oder ernannten Personen bis zum Ende der laufenden Legislatur- und Verwaltungsperiode.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les incompatibilit&#xE9;s nouvelles institu&#xE9;es par le nouveau droit ne d&#xE9;ploient d'effet &#xE0; l'&#xE9;gard de personnes d&#xE9;j&#xE0; &#xE9;lues ou nomm&#xE9;es lors de son entr&#xE9;e en vigueur qu'&#xE0; l'&#xE9;ch&#xE9;ance des p&#xE9;riodes l&#xE9;gislatives et administratives en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:13989">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>28</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Referendum und Inkraftsetzung</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;f&#xE9;rendum et entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:32204">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieses Gesetz unterliegt dem fakultativen Referendum.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente loi est soumise au r&#xE9;f&#xE9;rendum facultatif.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:32205">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Staatsrat setzt das Inkrafttreten dieses Gesetzes gleichzeitig mit jenem des Artikels 90 der Kantonsverfassung fest.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le Conseil d'Etat fixe l'entr&#xE9;e en vigueur de la pr&#xE9;sente loi en m&#xEA;me temps que celle de l'article 90 de la Constitution cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1998-07-01</dateForce>
+      <dateVersion>2016-07-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 40/2014, 27/2016</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

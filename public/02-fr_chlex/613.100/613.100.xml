@@ -1,0 +1,1813 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:575</normID>
+      <number>613.100</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">VIFA</abbreviation>
+      <abbreviation lang="fr">OPFI</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Verordnung &#xFC;ber den interkommunalen Finanzausgleich</title>
+      <title lang="fr">Ordonnance sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale</title>
+    </shortTitles>
+    <type>Ordonnance</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>2011-12-21</dateAdoption>
+      <dateForce>2012-01-01T00:00:00</dateForce>
+      <dateLastChange>2012-01-01</dateLastChange>
+      <dateVersion>2012-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;</basis> <basis>eingesehen das Gesetz &#xFC;ber den interkommunalen Finanzausgleich vom 14. September 2011;</basis> <basis>auf Antrag des Departements f&#xFC;r Finanzen, Institutionen und Gesundheit;</basis><formal>verordnet:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu l&#x2019;article 57 alin&#xE9;a 2 de la Constitution cantonale;</basis> <basis>vu la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale du 14 septembre 2011;</basis> <basis>sur la proposition du D&#xE9;partement des finances, des institutions et de la sant&#xE9;,</basis><formal>ordonne:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV BO/Abl. 52/2011</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="1873">
+        <structureContent lang="de">
+          <structureText>Verordnung<break type="line"/>&#xFC;ber den interkommunalen Finanzausgleich</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>Ordonnance<break type="line"/>sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1875">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Allgemeine Bestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Dispositions g&#xE9;n&#xE9;rales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6425">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Geltungsbereich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Champ d'application</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14763">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung enth&#xE4;lt die Ausf&#xFC;hrungsbestimmungen zum Gesetz &#xFC;ber den interkommunalen Finanzausgleich. Sie regelt:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance &#xE9;nonce les dispositions d&#x2019;application de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale. Elle stipule:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7927">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Instrumente des Ressourcenausgleichs;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les instruments de la p&#xE9;r&#xE9;quation des ressources;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7928">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Instrumente des Lastenausgleichs;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les instruments de la compensation des charges;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:7929">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">die Instrumente f&#xFC;r H&#xE4;rtef&#xE4;lle.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">les instruments pour les cas de rigueur.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6426">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verwaltung und Vorgehen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Gestion et proc&#xE9;dure</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14764">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonale Finanzverwaltung teilt jedes Jahr (N) allen Gemeinden zur Ausarbeitung ihres jeweiligen Budgets (Jahr N+1) die &#xC4;ufnungs- und Ausgleichsbetr&#xE4;ge der verschiedenen Ausgleichsfonds sowie ihren Ressourcenindex und synthetischen Lastenindex gem&#xE4;ss Beschluss des Artikels 21 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich mit.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;Administration cantonale des finances communique chaque ann&#xE9;e (N) &#xE0; toutes les communes, pour l&#x2019;&#xE9;laboration de leurs budgets respectifs (ann&#xE9;e N+1), les montants d&#x2019;alimentation et de r&#xE9;partition des diff&#xE9;rents fonds de p&#xE9;r&#xE9;quation ainsi que leur indice de ressources et leur indice synth&#xE9;tique de charges conform&#xE9;ment &#xE0; l&#x2019;arr&#xEA;t&#xE9; d&#xE9;fini &#xE0; l&#x2019;article 21 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1876">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Instrumente des Ressourcenausgleichs</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>Instruments de la p&#xE9;r&#xE9;quation des ressources</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6427">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnungsgrundlagen f&#xFC;r den Ressourcenausgleich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Bases de calcul de la p&#xE9;r&#xE9;quation des ressources</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14765">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der maximale Progressionskoeffizient wird mittels Iteration berechnet, damit die Rangstufe der Gemeinden nach dem horizontalen Ausgleich gem&#xE4;ss Artikel 9 Absatz 2 und Absatz 3 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich unver&#xE4;ndert bleibt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le coefficient de progressivit&#xE9; maximum est calcul&#xE9; par it&#xE9;ration pour permettre de maintenir le rang des communes apr&#xE8;s r&#xE9;partition horizontale conform&#xE9;ment &#xE0; l&#x2019;article 9 alin&#xE9;a 2 et alin&#xE9;a 3 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6428">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung des Ressourcenpotentials</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul du potentiel de ressources</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14766">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Index des Ressourcenpotentials pro Einwohner einer Gemeinde i f&#xFC;r das Jahr N wird wie folgt bestimmt:
+<break type="line"/>RP(i,N)&#xA0;=&#xA0;[&#xA0;&#x2211;(r=a,l)&#xA0;RE(i,r,N) ]&#xA0;/&#xA0;Einw(i,N)
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>RP(i) =&#xA0;das Ressourcenpotential pro Einwohner der Gemeinde i&#xA0;darstellt,
+<break type="line"/>N =&#xA0;das Berichtsjahr,
+<break type="line"/>r = die Art der Ressourcen,
+<break type="line"/>RE(i) den Ressourcenertrag von a bis l gem&#xE4;ss Artikel 5 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich der Gemeinde i,
+<break type="line"/>Einw(i) die Anzahl Einwohner der Gemeinde i.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;indice de potentiel de ressources par habitant d&#x2019;une commune i pour l&#x2019;ann&#xE9;e N est d&#xE9;termin&#xE9; de la mani&#xE8;re suivante:
+<break type="line"/>PR(i,N)&#xA0;=&#xA0;[&#xA0;&#x2211;(r=a,l)&#xA0;RR(i,r,N)&#xA0;]&#xA0;/&#xA0;Hab(i,N)
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>PR(i) = le potentiel de ressources par habitant de la commune i,
+<break type="line"/>N =&#xA0;l&#x2019;ann&#xE9;e sous revue,
+<break type="line"/>r =&#xA0;le type de ressources,
+<break type="line"/>RR(i) = le rendement des ressources&#xA0;de a &#xE0; l&#xA0;d&#xE9;finies &#xE0; l&#x2019;article 5 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale pour la commune i,
+<break type="line"/>Hab(i) =&#xA0;le nombre d&#x2019;habitants de la commune i.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14767">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Durchschnittsindex des Ressourcenpotentials pro Einwohner f&#xFC;r das Jahr N der Gesamtheit der Gemeinden, mit der Anzahl n wird wie folgt bestimmt:
+<break type="line"/>RP(n,N)&#xA0;=&#xA0;&#x2211;(i=1,n)&#xA0; [ &#x2211;(r=a,l) [RE(i,r,N)&#xA0;/ Einw(i,N) ] ]</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Par analogie, l&#x2019;indice de potentiel de ressources moyen par habitant de l&#x2019;ann&#xE9;e N de l&#x2019;ensemble des communes, au nombre de n, est d&#xE9;termin&#xE9; de la mani&#xE8;re suivante:
+<break type="line"/>PR(n,N)&#xA0;=&#xA0;&#x2211;(i=1,n)&#xA0;[ &#x2211;(r=a,l) [ (RR(i,r,N) / Hab(i,N) ] ]</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6429">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung des Ressourcenindex</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul de l'indice de ressources</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14768">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Ressourcenindex (RI) einer Gemeinde i f&#xFC;r das Jahr N wird durch seinen Gesamtressourcenindex bestimmt:
+<break type="line"/>RI(i,N)&#xA0;=&#xA0;[&#xA0;RP(i,N-6)&#xA0;+&#xA0;RP(i,N-5)&#xA0;+&#xA0;RP(i,N-4)&#xA0;]&#xA0;/&#xA0;[&#xA0;RP(n,N-6)&#xA0;+&#xA0;RP(n,N-5) +&#xA0;RP(n,N-4)&#xA0;]
+<break type="line"/>&#xA0;
+<break type="line"/>Dabei:
+<break type="line"/>gelten die drei Steuerjahre (N-6), (N-5) und (N-4) als Referenz gem&#xE4;ss Artikel 6 Absatz 2 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L&#x2019;indice de ressources (IR) d&#x2019;une commune i pour l&#x2019;ann&#xE9;e N est d&#xE9;termin&#xE9; par son indice global du potentiel de ressources:
+<break type="line"/>IR(i,N)&#xA0;=&#xA0;[&#xA0;PR(i,N-6)&#xA0;+&#xA0;PR(i,N-5)&#xA0;+&#xA0;PR(i,N-4)&#xA0;]&#xA0;/&#xA0;[&#xA0;PR(n,N-6)&#xA0;+&#xA0;PR(n,N-5) +&#xA0;PR(n,N-4)&#xA0;]
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>(N-6), (N-5) et (N-4) = les trois ann&#xE9;es fiscales de r&#xE9;f&#xE9;rence conform&#xE9;ment &#xE0; l&#x2019;article 6 alin&#xE9;a 2 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6430">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verteilung des Ressourcenausgleichsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition du fonds de p&#xE9;r&#xE9;quation des ressources</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14770">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Verteilung des Ressourcenausgleichsfonds erfolgt in zwei Schritten, und zwar gem&#xE4;ss Artikel 9, 11 und 12 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich:
+<break type="line"/>&#xA0;
+<break type="line"/>a)
+<break type="line"/>Die erste Verteilung wird durch die ressourcenstarken Gemeinden finanziert (horizontaler Finanzausgleich) und progressiv zu Gunsten aller ressourcenschwachen Gemeinden wie folgt durchgef&#xFC;hrt:
+<break type="line"/>HR(i)&#xA0;=&#xA0;A&#xA0;x&#xA0;[&#xA0;Einw(i)&#xA0;x&#xA0;[(100&#xA0;-&#xA0;RI(i)x100)&#xA0;^&#xA0;(Koeffizient)]&#xA0;]&#xA0;/&#xA0;[&#xA0;&#x2211;(i=1,m) [&#xA0;Einw(i)&#xA0;x&#xA0;[(100&#xA0;-&#xA0;RI(i)x100)&#xA0;^&#xA0;(Koeffizient)&#xA0;]&#xA0;]&#xA0;]
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>HR(i) = dem Betrag entspricht, welcher der Gemeinde i im Rahmen des horizontalen Ausgleichs zukommt,
+<break type="line"/>Koeffizient = die zu bestimmende Zahl, um die Rangstufe der Gemeinden beizubehalten,
+<break type="line"/>m =&#xA0;die Anzahl ressourcenschwacher Gemeinden,
+<break type="line"/>&#xA0;
+<break type="line"/>b)
+<break type="line"/>Die zweite Verteilung wird vom Kanton finanziert (vertikaler Finanzausgleich) zu Gunsten der Gemeinden, die nach dem horizontalen Ausgleich &#xFC;ber ein Ressourcenpotential verf&#xFC;gen, das unter dem in Artikel 10 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich angestrebten Ziel liegt. Der vertikale Ausgleich berechnet sich wie folgt:
+<break type="line"/>VR(i)&#xA0;= [&#xA0;Ziel&#xA0;-&#xA0;HRI(i)&#xA0;]&#xA0;x&#xA0;RP(n)&#xA0;x&#xA0;Einw(i)
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>VR(i) = f&#xFC;r den Betrag steht, der an die Gemeinde i im Rahmen des vertikalen Ressourcenausgleichs gew&#xE4;hrt wird,
+<break type="line"/>Ziel = der angestrebte Index des Ressourcenpotentials nach horizontalem und vertikalem Ressourcenausgleich,
+<break type="line"/>HRI(i) = der Index des Ressourcenpotentials der Gemeinde i nach dem horizontalen Ressourcenausgleich.
+<break type="line"/>&#xA0;
+<break type="line"/>c)
+<break type="line"/>Die Hilfe, die Gemeinden mit mehr als 3'000 Einwohnern gew&#xE4;hrt wird, ist gem&#xE4;ss Artikel 12 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich begrenzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;partition du fonds de p&#xE9;r&#xE9;quation des ressources s&#x2019;op&#xE8;re en deux &#xE9;tapes conform&#xE9;ment aux articles 9, 11 et 12 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale:
+<break type="line"/>&#xA0;
+<break type="line"/>a)
+<break type="line"/>une premi&#xE8;re r&#xE9;partition, financ&#xE9;e par les communes &#xE0; fort potentiel de ressources (p&#xE9;r&#xE9;quation horizontale), effectu&#xE9;e de mani&#xE8;re progressive au b&#xE9;n&#xE9;fice de l&#x2019;ensemble des communes &#xE0; faible potentiel de ressources, selon la m&#xE9;thode suivante:
+<break type="line"/>RH(i)&#xA0;=&#xA0;A&#xA0;x&#xA0;[&#xA0;Hab(i)&#xA0;x&#xA0;[(100&#xA0;-&#xA0;IR(i)x100)]&#xA0;^&#xA0;(coefficient)&#xA0;]&#xA0;/&#xA0;[&#xA0;&#x2211;(i=1,m) [&#xA0;Hab(i)&#xA0;x&#xA0;[(100&#xA0;-&#xA0;IR(i)x100)]&#xA0;^&#xA0;(coefficient)&#xA0;]&#xA0;] ]
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>RH(i) = le montant octroy&#xE9; &#xE0; la commune i dans le cadre de la p&#xE9;r&#xE9;quation horizontale des ressources,
+<break type="line"/>coefficient =&#xA0;le nombre &#xE0; d&#xE9;terminer pour respecter le classement des communes,
+<break type="line"/>m =&#xA0;le nombre de communes &#xE0; faible potentiel de ressources,
+<break type="line"/>A =&#xA0;le montant &#xE0; disposition du fonds de p&#xE9;r&#xE9;quation horizontale des ressources.
+<break type="line"/>&#xA0;
+<break type="line"/>b)
+<break type="line"/>une seconde r&#xE9;partition, financ&#xE9;e par le canton (p&#xE9;r&#xE9;quation verticale), au b&#xE9;n&#xE9;fice des communes pr&#xE9;sentant un potentiel de ressources, apr&#xE8;s r&#xE9;partition horizontale, inf&#xE9;rieur &#xE0; l&#x2019;objectif vis&#xE9; selon l&#x2019;article 10 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale. La r&#xE9;partition verticale se calcule ainsi:
+<break type="line"/>RV(i)&#xA0;=&#xA0;[&#xA0;Objectif&#xA0;-&#xA0;IRH(i)&#xA0;]&#xA0;x&#xA0;PR(n)&#xA0;x&#xA0;Hab(i)
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>RV(i) = le montant octroy&#xE9; &#xE0; la commune i dans le cadre de la p&#xE9;r&#xE9;quation verticale des ressources,
+<break type="line"/>Objectif = l&#x2019;indice de potentiel de ressources vis&#xE9; apr&#xE8;s r&#xE9;partitions horizontale et verticale du fonds de p&#xE9;r&#xE9;quation des ressources,
+<break type="line"/>IRH(i) = l&#x2019;indice de potentiel de ressources de la commune i apr&#xE8;s la r&#xE9;partition horizontale des ressources.
+<break type="line"/>&#xA0;
+<break type="line"/>c)
+<break type="line"/>l&#x2019;aide accord&#xE9;e aux communes de plus de 3'000 habitants est toutefois limit&#xE9;e conform&#xE9;ment &#xE0; l&#x2019;article 12 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14771">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Kantonsanteil zur Finanzierung des vertikalen Ressourcenausgleichs entspricht der Summe der Betr&#xE4;ge, die den ressourcenschwachen Gemeinden gew&#xE4;hrt werden, gem&#xE4;ss oben genanntem Punkt b, das heisst:
+<break type="line"/>B&#xA0;=&#xA0;&#x2211;(i=1,t)&#xA0;VR(i)
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>B =&#xA0;f&#xFC;r den Kantonsbeitrag steht, mit dem der vertikale Ressourcenausgleich finanziert wird,
+<break type="line"/>t f&#xFC;r die Anzahl Gemeinden, die vom vertikalen Ressourcenausgleich betroffen sind.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La part &#xE0; charge du canton pour le financement de la p&#xE9;r&#xE9;quation verticale des ressources est d&#xE9;termin&#xE9;e comme &#xE9;tant la somme des montants octroy&#xE9;s aux communes &#xE0; faible potentiel de ressources conform&#xE9;ment au point b ci-dessus, soit:
+<break type="line"/>B&#xA0;=&#xA0;&#x2211;(i=1,t)&#xA0;RV(i)
+<break type="line"/>o&#xF9;
+<break type="line"/>B = le montant &#xE0; charge du canton permettant de financer la p&#xE9;r&#xE9;quation verticale des ressources,
+<break type="line"/>t =&#xA0;le nombre de communes concern&#xE9;es par la r&#xE9;partition verticale des ressources.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1877">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Instrumente des Lastenausgleichs</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Instruments de la compensation des charges</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6431">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnungsgrundlagen f&#xFC;r den Lastenausgleich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Bases de calcul de la compensation des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14775">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Auf Antrag der Kantonalen Finanzverwaltung legt der Staatsrat die Gewichtung von 1 bis Maximum 2 pro Kriterium fest, dies f&#xFC;r die H&#xF6;he, die L&#xE4;nge der Strassen, die produktive Fl&#xE4;che, die Anzahl Wohnungen, die Anzahl der 80-j&#xE4;hrigen und &#xE4;lteren Personen und die Anzahl Kinder zwischen null und 16 Jahren.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur proposition de l&#x2019;Administration cantonale des finances, le Conseil d&#x2019;Etat fixe la pond&#xE9;ration, de 1 &#xE0; 2 au maximum par crit&#xE8;re, pour l&#x2019;altitude, la longueur des routes, la surface productive, le nombre de logements, le nombre de personnes &#xE2;g&#xE9;es de 80 ans et plus et le nombre d&#x2019;enfants de 0 &#xE0; 16 ans.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6432">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung eines Standardindex und eines Koeffizienten der &#xFC;berm&#xE4;ssigen Lasten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul d'un indice standardis&#xE9; et d'un coefficient de charges excessives</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14776">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r jedes der verwendeten Kriterien wird ein Standardindex berechnet, der dem Verh&#xE4;ltnis zwischen dem kommunalen Wert und dem Durchschnittsindex der Gesamtheit der Walliser Gemeinden multipliziert mit 100 entspricht und dessen Extremwerte reduziert werden, um die Streuung des Index gem&#xE4;ss folgender Methode zu konzentrieren:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour chaque crit&#xE8;re retenu, il est calcul&#xE9; un indice standardis&#xE9; correspondant au rapport entre la valeur communale de l&#x2019;indice et la moyenne de l&#x2019;ensemble des communes valaisannes multipli&#xE9; par 100, et dont les valeurs extr&#xEA;mes sont diminu&#xE9;es pour concentrer la dispersion de l&#x2019;indice selon la m&#xE9;thode suivante:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17725">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von 0 bis und mit 200, der Index wird zu 100 Prozent ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 0 &#xE0; 200 y compris, l'indice est pris en compte &#xE0; 100 pour cent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17726">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von 200 bis und mit 300, der Teil des Index wird zu 75 Prozent ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 200 &#xE0; 300 y compris, la tranche d'indice est prise en compte &#xE0; 75 pour cent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17727">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von 300 bis und mit 400, der Teil des Index wird zu 50 Prozent ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 300 &#xE0; 400 y compris, la tranche d'indice est prise en compte &#xE0; 50 pour cent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17728">
+                        <partNumber>d)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von 400 bis und mit 500, der Teil des Index wird zu 25 Prozent ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 400 &#xE0; 500 y compris, la tranche d'indice est prise en compte &#xE0; 25 pour cent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17729">
+                        <partNumber>e)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">von 500 bis und mit 600, der Teil des Index wird zu 12.5 Prozent ber&#xFC;cksichtigt;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 500 &#xE0; 600 y compris, la tranche d'indice est prise en compte &#xE0; 12.5 pour cent;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:17730">
+                        <partNumber>f)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">&#xFC;ber 600, der Teil des Index wird zu 6 Prozent ber&#xFC;cksichtigt.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">de 600 et plus, la tranche d'indice est prise en compte &#xE0; 6 pour cent.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14777">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Koeffizient der &#xFC;berm&#xE4;ssigen Lasten der Gemeinde i entspricht den gewichteten Standardindizes jedes Kriteriums der &#xFC;berm&#xE4;ssigen Lasten der Gemeinde i. Mathematische Interpretation:
+<break type="line"/>LK(i)&#xA0;=&#xA0;&#x2211;(c=1,s)&#xA0;[ (G(c) x&#xA0;Ind(i,c))&#xA0;- (G(c) x&#xA0;100)&#xA0;]
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>LK(i) = den Lastenkoeffizient der Gemeinde i darstellt,
+<break type="line"/>c =&#xA0;das ber&#xFC;cksichtigte Kriterium,
+<break type="line"/>s =&#xA0;die Anzahl ber&#xFC;cksichtigter Kriterien,
+<break type="line"/>G(c) = die Gewichtung des Kriteriums c,
+<break type="line"/>Ind(i,c) = der Standardindex der Gemeinde i f&#xFC;r das Kriterium c.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le coefficient de charges excessives de la commune i correspond &#xE0; la somme des indices standardis&#xE9;s pond&#xE9;r&#xE9;s de chaque crit&#xE8;re de charges excessives de la commune i. Son interpr&#xE9;tation math&#xE9;matique est la suivante:
+<break type="line"/>CC(i)&#xA0;=&#xA0;&#x2211;(c=1,s)&#xA0;[ (P(c) x&#xA0;Ind(i,c))&#xA0;-&#xA0;(P(c) x100) ]&#xA0;
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>CCi = le coefficient de charges excessives de la commune i,
+<break type="line"/>c =&#xA0;le crit&#xE8;re retenu,
+<break type="line"/>s =&#xA0;le nombre de crit&#xE8;res retenus,
+<break type="line"/>P(c) = la pond&#xE9;ration du crit&#xE8;re c,
+<break type="line"/>Ind(i,c) =&#xA0;l&#x2019;indice standardis&#xE9; de la commune i pour le crit&#xE8;re c.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6433">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Berechnung des synthetischen Lastenindex</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Calcul de l'indice synth&#xE9;tique des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14782">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der synthetische Lastenindex der Gemeinde i entspricht dem Koeffizienten der &#xFC;berm&#xE4;ssigen Lasten der Gemeinde i, der anhand der Bev&#xF6;lkerung gewichtet wurde. Das heisst:
+<break type="line"/>LI(i)&#xA0;=&#xA0;LK(i) x&#xA0;Einw(i)
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>LI(i) = den synthetischen Lastenindex der Gemeinde i darstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'indice synth&#xE9;tique des charges de la commune i correspond au coefficient de charges excessives de la commune i pond&#xE9;r&#xE9; par sa population, soit:
+<break type="line"/>IC(i)&#xA0;=&#xA0;CC(i)&#xA0;x&#xA0;Hab(i)
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>IC(i) = l&#x2019;indice synth&#xE9;tique des charges de la commune i.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6434">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verteilung des Lastenausgleichsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;partition du fonds de compensation des charges</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14785">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine Gemeinde profitiert vom Lastenausgleichsfonds, wenn ihr synthetischer Lastenindex h&#xF6;her als null ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une commune est b&#xE9;n&#xE9;ficiaire du fonds de la compensation des charges si son indice synth&#xE9;tique des charges est sup&#xE9;rieur &#xE0; z&#xE9;ro.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14786">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Betrag, welcher der am Lastenausgleich berechtigten Gemeinde zukommt, entspricht dem Verh&#xE4;ltnis zwischen dem synthetischen Lastenindex und der Summe der synthetischen Lastenindizes aller ausgleichsberechtigten Gemeinden multipliziert mit dem Betrag des Lastenausgleichsfonds gem&#xE4;ss Artikel 17 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich, das heisst:
+<break type="line"/>wenn LI(i)&#xA0;&gt;&#xA0;0 dann LV(i)&#xA0;=&#xA0;C&#xA0;x&#xA0;[ LI(i)&#xA0;/&#xA0;[&#xA0;&#x2211;(i=1,n)&#xA0;LI(i) ] ]
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>LV(i) =&#xA0;den Betrag darstellt, den die Gemeinde i im Rahmen des Lastenausgleichs erh&#xE4;lt,
+<break type="line"/>C = den verf&#xFC;gbaren Betrag des Lastenausgleichsfonds.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant octroy&#xE9; &#xE0; la commune b&#xE9;n&#xE9;ficiaire de la compensation des charges correspond au rapport entre son indice synth&#xE9;tique des charges et la somme des indices synth&#xE9;tiques des charges de toutes les communes b&#xE9;n&#xE9;ficiaires multipli&#xE9; par le montant du fonds de la compensation des charges d&#xE9;fini &#xE0; l&#x2019;article 17 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale, soit:
+<break type="line"/>Si&#xA0;IC(i)&#xA0;&gt;&#xA0;0 alors RC(i)&#xA0;=&#xA0;C&#xA0;x&#xA0;[ IC(i)&#xA0;/&#xA0;[&#xA0;&#x2211;(i=1,n) IC(i) ] ]
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>RC(i) = le montant octroy&#xE9; &#xE0; la commune i dans le cadre de la compensation des charges,
+<break type="line"/>C = le montant &#xE0; disposition du fonds de la compensation des charges.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1878">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Instrumente f&#xFC;r H&#xE4;rtef&#xE4;lle</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Instruments pour les cas de rigueur</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6435">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Festlegung des Betrages f&#xFC;r den H&#xE4;rteausgleich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fixation du montant de la compensation pour les cas de rigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14787">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgrund der finanziellen Gesamtbilanz wird der Betrag f&#xFC;r den H&#xE4;rteausgleich zu Gunsten der Gemeinden im Sinne von Artikel 19 Buchstabe a des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich f&#xFC;r das Jahr 2012 auf 5.6 Millionen Franken festgelegt. Dieser Betrag entspricht dem Total der zus&#xE4;tzlichen Lasten, welche die Gemeinden mit einem Ressourcenindex unter 100 im Rahmen der neuen Aufgabenteilung zwischen dem Kanton und den Gemeinden zu tragen haben. Er wird festgelegt auf dem Referenzjahr 2008 f&#xFC;r die gesamte Kantonsverwaltung sowie auf die Steuerjahre 2005, 2006 und 2007 in Bezug auf die Daten f&#xFC;r den interkommunalen Finanzausgleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Sur la base du bilan financier global, le montant total de la compensation pour les cas de rigueur en faveur des communes b&#xE9;n&#xE9;ficiaires au sens de l&#x2019;article 19 lettre a de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale, est fix&#xE9; &#xE0; 5.6 millions de francs pour l&#x2019;ann&#xE9;e 2012. Ce montant correspond au total des charges financi&#xE8;res suppl&#xE9;mentaires que doivent assumer les communes dont l&#x2019;indice de ressources est inf&#xE9;rieur &#xE0; 100 dans le cadre de la nouvelle r&#xE9;partition des t&#xE2;ches entre le canton et les communes. Il est d&#xE9;termin&#xE9; sur la base de l&#x2019;ann&#xE9;e de r&#xE9;f&#xE9;rence 2008 pour l&#x2019;ensemble de l&#x2019;administration cantonale ainsi que sur les ann&#xE9;es fiscales 2005, 2006 et 2007 en ce qui concerne les donn&#xE9;es de p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14788">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Betrag f&#xFC;r den H&#xE4;rteausgleich, der einer Gemeinde gew&#xE4;hrt wird, entspricht w&#xE4;hrend den ersten vier Jahren den zus&#xE4;tzlichen Lasten dieser Gemeinde, wie sie aus der finanziellen Gesamtbilanz &#xFC;ber die Aufgabenteilung zwischen dem Kanton und den Gemeinden hervorgehen und dies wie folgt:
+<break type="line"/>wenn RI(i)&#xA0;&#xA0;100 und wenn ZL(i)&#xA0;&gt;&#xA0;0 dann ist VHA(i)&#xA0;=&#xA0;ZL(i) ansonsten VHA(i)&#xA0;=&#xA0;0
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>ZL(i) = den zus&#xE4;tzlichen Lasten in der finanziellen Gesamtbilanz f&#xFC;r die Gemeinde i,
+<break type="line"/>VHA(i) =&#xA0;der Verteilungsbetrag f&#xFC;r die Gemeinde i gem&#xE4;ss H&#xE4;rteausgleich darstellt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant de la compensation pour les cas de rigueur octroy&#xE9; &#xE0; une commune correspond, pour les quatre premi&#xE8;res ann&#xE9;es, &#xE0; la charge financi&#xE8;re suppl&#xE9;mentaire pour cette commune r&#xE9;sultant du bilan financier global de la r&#xE9;partition des t&#xE2;ches entre le canton et les communes, soit:
+<break type="line"/>si IR(i)&#xA0;&#xA0;100 et si CS(i)&#xA0;&gt;&#xA0;0 alors RCCR(i)&#xA0;=&#xA0;CS(i) sinon RCCR(i)&#xA0;=&#xA0;0
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>CS(i) = les charges suppl&#xE9;mentaires dans le bilan financier global pour la commune i,
+<break type="line"/>RCCR(i) = la r&#xE9;partition &#xE0; la commune i selon la compensation pour les cas de rigueur.
+<break type="line"/>&#xA0;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14789">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ab dem f&#xFC;nften Jahr und gem&#xE4;ss Artikel 20 Absatz 3 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich wird der Betrag zu Gunsten einer Gemeinde f&#xFC;r den H&#xE4;rteausgleich wie folgt berechnet:
+<break type="line"/>wenn RI(i)&#xA0;&#xA0;100 und wenn ZL(i)&#xA0;&gt;&#xA0;0 dann ist VHA(i)&#xA0;=&#xA0;d x&#xA0;ZL(i) ansonsten VHA(i)&#xA0;=&#xA0;0
+<break type="line"/>&#xA0;
+<break type="line"/>wobei:
+<break type="line"/>d =&#xA0;dem Degressionskoeffizienten entspricht, welcher sich j&#xE4;hrlich um 7.69 Prozent des Anfangsbetrags reduziert.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">D&#xE8;s la cinqui&#xE8;me ann&#xE9;e et conform&#xE9;ment aux dispositions de l&#x2019;article 20 alin&#xE9;a 3 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale, le montant octroy&#xE9; &#xE0; la commune b&#xE9;n&#xE9;ficiaire de la compensation pour les cas de rigueur se d&#xE9;termine de la mani&#xE8;re suivante:
+<break type="line"/>si IR(i)&#xA0;&#xA0;100 et si CS(i)&#xA0;&gt;&#xA0;0 alors RCCR(i)&#xA0;=&#xA0;d&#xA0;x&#xA0;CS(i) sinon RCCR(i)&#xA0;=&#xA0;0
+<break type="line"/>&#xA0;
+<break type="line"/>o&#xF9;:
+<break type="line"/>d = le coefficient de d&#xE9;gressivit&#xE9; bas&#xE9; sur une d&#xE9;gressivit&#xE9; de 7.69 pour cent&#xA0;par ann&#xE9;e du montant initial.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6436">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Liste der beg&#xFC;nstigten Gemeinden f&#xFC;r den H&#xE4;rteausgleich</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Liste des communes b&#xE9;n&#xE9;ficiaires de la compensation pour les cas de rigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14790">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der jeder beg&#xFC;nstigten Gemeinde gew&#xE4;hrte Betrag f&#xFC;r das Jahr 2012 im Sinne von Artikel 11 wird im Anhang dieser Verordnung aufgef&#xFC;hrt und ist f&#xFC;r den ganzen Zeitraum der Anwendung des H&#xE4;rteausgleichs g&#xFC;ltig, unter Vorbehalt von Artikel 20 Absatz 3 und Absatz 5 des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant octroy&#xE9; &#xE0; chaque commune b&#xE9;n&#xE9;ficiaire pour l&#x2019;ann&#xE9;e 2012 au sens de l&#x2019;article 11 est fix&#xE9; en annexe de la pr&#xE9;sente ordonnance et est valable pour toute la p&#xE9;riode d&#x2019;application de la compensation des cas de rigueur sous r&#xE9;serve de l&#x2019;article 20 alin&#xE9;a 3 et alin&#xE9;a 5 de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14791">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Im Fall einer Fusion wird der gew&#xE4;hrte Betrag an die beg&#xFC;nstigte Gemeinde vor Fusion gem&#xE4;ss Absatz 1 auch an die neue Gemeinde gew&#xE4;hrt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">En cas de fusion, le montant octroy&#xE9; avant la fusion &#xE0; la commune b&#xE9;n&#xE9;ficiaire selon l&#x2019;alin&#xE9;a 1 sera octroy&#xE9; &#xE0; la nouvelle commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6437">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Gemeindefusionen und H&#xE4;rteausgleichsfonds</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Fusion de communes dans le cadre du fonds de compensation pour les cas de rigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14792">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kantonale Finanzverwaltung bestimmt bei der Fusion zweier oder mehrerer Gemeinden den Nettobetrag, welcher der Differenz entspricht zwischen den individuell an die Gemeinden gew&#xE4;hrten Betr&#xE4;ge vor der Fusion und dem Nettobetrag, welcher sich f&#xFC;r die neue Gemeinde ergibt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lors de la fusion de deux ou de plusieurs communes, l&#x2019;Administration cantonale des finances d&#xE9;termine le montant net correspondant &#xE0; la diff&#xE9;rence entre les aides octroy&#xE9;es individuellement aux communes avant la fusion et le montant net de p&#xE9;r&#xE9;quation d&#xE9;termin&#xE9; pour la nouvelle commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14793">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Dieser Nettobetrag wird gem&#xE4;ss den Bestimmungen von Artikel 19 Buchstabe b des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich ausgeglichen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Ce montant net est compens&#xE9; conform&#xE9;ment aux dispositions de l&#x2019;article 19 lettre b de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6438">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Punktuelle Finanzhilfen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Aides financi&#xE8;res ponctuelles</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14794">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Eine punktuelle Finanzhilfe kann durch das mit den Finanzen beauftragte Departement einer Gemeinde oder einer Gruppe von Gemeinden im Sinne von Artikel 19 Buchstabe c des Gesetzes &#xFC;ber den interkommunalen Finanzausgleich gew&#xE4;hrt werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Une aide financi&#xE8;re ponctuelle peut &#xEA;tre octroy&#xE9;e par le D&#xE9;partement en charge des finances &#xE0; une commune ou &#xE0; un groupe de communes au sens de l&#x2019;article 19 lettre c de la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14795">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Entscheide des mit den Finanzen beauftragten Departements betreffend die punktuellen Finanzhilfen k&#xF6;nnen innert einer Frist von dreissig Tagen nach deren Erhalt mit Verwaltungsbeschwerde beim Staatsrat angefochten werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les d&#xE9;cisions du D&#xE9;partement en charge des finances concernant les aides financi&#xE8;res ponctuelles sont susceptibles de recours administratif aupr&#xE8;s du Conseil d&#x2019;Etat dans un d&#xE9;lai de trente jours &#xE0; dater de leur notification.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="1879">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Schlussbestimmungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>Dispositions finales</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:6439">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Beurteilung des interkommunalen Finanzausgleichssystems</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation du syst&#xE8;me de p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14796">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Alle vier Jahre pr&#xE4;sentiert die Kantonale Finanzverwaltung dem Staatsrat eine Beurteilung des interkommunalen Finanzausgleichssystems.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Tous les quatre ans, l&#x2019;Administration cantonale des finances pr&#xE9;sentera au Conseil d&#x2019;Etat une &#xE9;valuation du syst&#xE8;me de p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:14797">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Falls notwendig, unterbreitet die Kantonale Finanzverwaltung dem Staatsrat Gesetzes&#xE4;nderungen, um das System anzupassen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">S&#x2019;il le juge n&#xE9;cessaire, l&#x2019;Administration cantonale des finances pr&#xE9;sentera au Conseil d&#x2019;Etat les modifications l&#xE9;gislatives &#xE0; introduire afin d&#x2019;adapter le syst&#xE8;me.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6440">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Vorbehalt von Ab&#xE4;nderungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;serve de modification</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14798">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Vorbehalten bleiben Ab&#xE4;nderungen der vorliegenden Verordnung, r&#xFC;ckwirkend f&#xFC;r den Fall, dass eine Bestimmung des Gesetzes &#xFC;ber die zweite Etappe der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden, inklusive der Anh&#xE4;nge, bei einer Volksabstimmung abgelehnt wird, und diese Ablehnung Auswirkungen auf die Berechnung des Totalbetrages f&#xFC;r den H&#xE4;rteausgleich hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Demeure r&#xE9;serv&#xE9;e une modification de la pr&#xE9;sente ordonnance, avec effet r&#xE9;troactif, pour le cas o&#xF9; une des dispositions de la loi concernant la deuxi&#xE8;me &#xE9;tape de la mise en &#x153;uvre de la r&#xE9;forme de la p&#xE9;r&#xE9;quation financi&#xE8;re et de la r&#xE9;partition des t&#xE2;ches entre la Conf&#xE9;d&#xE9;ration, le canton et les communes, y compris ses annexes, serait rejet&#xE9;e en votation populaire et o&#xF9; ce rejet aurait des incidences sur la d&#xE9;termination du montant total de la compensation pour les cas de rigueur.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:6441">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Inkrafttreten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Entr&#xE9;e en vigueur</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:14799">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die vorliegende Verordnung wird im Amtsblatt ver&#xF6;ffentlicht und tritt gleichzeitig wie das Gesetz &#xFC;ber den interkommunalen Finanzausgleich in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La pr&#xE9;sente ordonnance sera publi&#xE9;e au Bulletin officiel pour entrer en vigueur en m&#xEA;me temps que la loi sur la p&#xE9;r&#xE9;quation financi&#xE8;re intercommunale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4648">
+            <structureContent lang="de">
+              <structureOrder>A1</structureOrder>
+              <structureText>Anhang 1 zu den Artikeln 11 und 12</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>A1</structureOrder>
+              <structureText>Annexe 1 aux articles 11 et 12</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:15542">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>A1-1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de"/>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr"/>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:35417">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Betr&#xE4;ge f&#xFC;r den H&#xE4;rteausgleich zu Gunsten der Gemeinden im Sinne von Artikel 11 und Artikel 12 Absatz 1 der Verordnung sind folgende (in Franken):</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les communes b&#xE9;n&#xE9;ficiaires de la compensation pour les cas de rigueur et les montants qui leur sont octroy&#xE9;s au sens de l&#x2019;article 11 et de l&#x2019;article 12 alin&#xE9;a 1 de l&#x2019;ordonnance sont les suivants (en francs):</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19430">
+                        <partNumber>1.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Agarn<tab/>59'072</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Agarn<tab/>59'072</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19475">
+                        <partNumber>2.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Albinen<tab/>74'472</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Albinen<tab/>74'472</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19474">
+                        <partNumber>3.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Ardon<tab/>82'547</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Ardon<tab/>82'547</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19473">
+                        <partNumber>4.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Birgisch<tab/>188'455</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Birgisch<tab/>188'455</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19472">
+                        <partNumber>5.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Blatten<tab/>76'246</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Blatten<tab/>76'246</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19471">
+                        <partNumber>6.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Blitzingen<tab/>156'922</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Blitzingen<tab/>156'922</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19470">
+                        <partNumber>7.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Collombey-Muraz<tab/>250'305</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Collombey-Muraz<tab/>250'305</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19469">
+                        <partNumber>8.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Conthey<tab/>265'410</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Conthey<tab/>265'410</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19468">
+                        <partNumber>9.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eggerberg<tab/>126'712</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Eggerberg<tab/>126'712</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19467">
+                        <partNumber>10.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Eischoll<tab/>25'548</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Eischoll<tab/>25'548</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19466">
+                        <partNumber>11.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Embd<tab/>266'724</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Embd<tab/>266'724</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19465">
+                        <partNumber>12.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Erschmatt<tab/>91'677</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Erschmatt<tab/>91'677</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19464">
+                        <partNumber>13.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gampel-Bratsch<tab/>442'394</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Gampel-Bratsch<tab/>442'394</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19463">
+                        <partNumber>14.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Gr&#xE4;chen<tab/>193'769</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Gr&#xE4;chen<tab/>193'769</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19462">
+                        <partNumber>15.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Grafschaft<tab/>107'998</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Grafschaft<tab/>107'998</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19461">
+                        <partNumber>16.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Grengiols<tab/>286'603</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Grengiols<tab/>286'603</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19460">
+                        <partNumber>17.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Grimisuat<tab/>220'253</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Grimisuat<tab/>220'253</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19459">
+                        <partNumber>18.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Guttet-Feschel<tab/>74'506</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Guttet-Feschel<tab/>74'506</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19458">
+                        <partNumber>19.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Kippel<tab/>198'534</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Kippel<tab/>198'534</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19457">
+                        <partNumber>20.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Lax<tab/>44'840</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Lax<tab/>44'840</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19456">
+                        <partNumber>21.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Les Agettes<tab/>214'568</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Les Agettes<tab/>214'568</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19455">
+                        <partNumber>22.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Martigny-Combe<tab/>27'129</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Martigny-Combe<tab/>27'129</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19454">
+                        <partNumber>23.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Martisberg<tab/>46'633</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Martisberg<tab/>46'633</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19453">
+                        <partNumber>24.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Massongex<tab/>144'559</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Massongex<tab/>144'559</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19452">
+                        <partNumber>25.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Mex<tab/>193'480</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Mex<tab/>193'480</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19451">
+                        <partNumber>26.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Naters<tab/>55'512</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Naters<tab/>55'512</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19450">
+                        <partNumber>27.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Niederwald<tab/>138'126</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Niederwald<tab/>138'126</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19449">
+                        <partNumber>28.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Raron<tab/>84'978</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Raron<tab/>84'978</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19448">
+                        <partNumber>29.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Reckingen-Gluringen<tab/>45'175</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Reckingen-Gluringen<tab/>45'175</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19447">
+                        <partNumber>30.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Saas-Grund<tab/>159'728</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Saas-Grund<tab/>159'728</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19446">
+                        <partNumber>31.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Savi&#xE8;se<tab/>70'309</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Savi&#xE8;se<tab/>70'309</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19445">
+                        <partNumber>32.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Sembrancher<tab/>8'150</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Sembrancher<tab/>8'150</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19444">
+                        <partNumber>33.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Staldenried<tab/>108'357</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Staldenried<tab/>108'357</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19443">
+                        <partNumber>34.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">St-L&#xE9;onard<tab/>34'445</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">St-L&#xE9;onard<tab/>34'445</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19442">
+                        <partNumber>35.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">T&#xF6;rbel<tab/>23'393</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">T&#xF6;rbel<tab/>23'393</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19441">
+                        <partNumber>36.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Troistorrents<tab/>84'881</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Troistorrents<tab/>84'881</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19440">
+                        <partNumber>37.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Turtmann<tab/>24'802</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Turtmann<tab/>24'802</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19439">
+                        <partNumber>38.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unterb&#xE4;ch<tab/>50'670</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Unterb&#xE4;ch<tab/>50'670</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19438">
+                        <partNumber>39.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Unterems<tab/>219'808</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Unterems<tab/>219'808</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19437">
+                        <partNumber>40.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">V&#xE9;rossaz<tab/>74'734</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">V&#xE9;rossaz<tab/>74'734</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19436">
+                        <partNumber>41.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">V&#xE9;troz<tab/>71'087</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">V&#xE9;troz<tab/>71'087</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19435">
+                        <partNumber>42.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vionnaz<tab/>43'611</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Vionnaz<tab/>43'611</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19434">
+                        <partNumber>43</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Vouvry<tab/>7'360</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Vouvry<tab/>7'360</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19433">
+                        <partNumber>44.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Wiler<tab/>244'315</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Wiler<tab/>244'315</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:19432">
+                        <partNumber>45.</partNumber>
+                        <typeOfPart>N</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Zeneggen<tab/>181'976</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">Zeneggen<tab/>181'976</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="Post:Paragraph:35417">
+                        <partNumber quiet="true">1</partNumber>
+                        <typeOfPart>O</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">Total 5'590'771</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">&#xA0;
+<break type="line"/>Total 5'590'771</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>2012-01-01</dateForce>
+      <dateVersion>2012-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 52/2011</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>

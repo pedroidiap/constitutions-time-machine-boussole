@@ -1,0 +1,1206 @@
+<?xml version="1.0"?>
+<norm>
+  <normMetadata>
+    <normNumber>
+      <collection>RS</collection>
+      <normID>StructuredDocument:221</normID>
+      <number>831.300</number>
+    </normNumber>
+    <headers>
+      <header lang="de">
+        <headerText/>
+      </header>
+      <header lang="fr">
+        <headerText/>
+      </header>
+    </headers>
+    <abbreviations>
+      <abbreviation lang="de">ELR</abbreviation>
+      <abbreviation lang="fr">RPC</abbreviation>
+    </abbreviations>
+    <shortTitles>
+      <title lang="de">Reglement &#xFC;ber die Erg&#xE4;nzungsleistungen zur AHV/IV</title>
+      <title lang="fr">R&#xE8;glement sur les prestations compl&#xE9;mentaires &#xE0; l'AVS/AI</title>
+    </shortTitles>
+    <type>R&#xE8;glement</type>
+    <authors>
+      <author>
+        <canton short="VS">
+          <designations>
+            <designation lang="de">Der Staatsrat des Kantons Wallis</designation>
+          </designations>
+        </canton>
+      </author>
+    </authors>
+    <dates>
+      <dateAdoption>1998-12-09</dateAdoption>
+      <dateForce>1999-01-01T00:00:00</dateForce>
+      <dateLastChange>2015-01-01</dateLastChange>
+      <dateVersion>2015-01-01</dateVersion>
+    </dates>
+    <ingress>
+      <ingressText lang="de"><authorityDescription>Der Staatsrat des Kantons Wallis</authorityDescription><basis>eingesehen das Bundesgesetz &#xFC;ber die Erg&#xE4;nzungsleistungen zur AHV/IV vom 19. M&#xE4;rz 1965 (ELG) und die diesbez&#xFC;glichen Verordnungen (ELV und&#xA0;ELKV);</basis> <basis>eingesehen das Gesetz betreffend die Ausf&#xFC;hrung des Bundesgesetzes &#xFC;ber die Erg&#xE4;nzungsleistungen zur AHV/IV vom 29. September 1998&#xA0;(AGELG);</basis> <basis>auf Antrag des Departements f&#xFC;r Gesundheit, Sozialwesen und Energie,</basis><formal>beschliesst:</formal></ingressText>
+      <ingressText lang="fr"><authorityDescription>Le Conseil d'Etat du canton du Valais</authorityDescription><basis>vu la loi f&#xE9;d&#xE9;rale sur les prestations compl&#xE9;mentaires &#xE0; l'AVS/AI du 19 mars 1965 (LPC) et les ordonnances y relatives (OPC et&#xA0;OMPC);</basis> <basis>vu la loi concernant l'application de la loi f&#xE9;d&#xE9;rale sur les prestations compl&#xE9;mentaires &#xE0; l'AVS/AI du 29 septembre 1998 (LALPC);</basis> <basis>sur la proposition du D&#xE9;partement de la sant&#xE9;, des affaires sociales et de l'&#xE9;nergie,</basis><formal>arr&#xEA;te:</formal></ingressText>
+    </ingress>
+    <firstPublication lang="de">
+      <journalText>RCV RO/AGS 1998 f 292 | d 320</journalText>
+    </firstPublication>
+  </normMetadata>
+  <normContents>
+    <structure>
+      <structureKind>M</structureKind>
+      <structureLevel>0</structureLevel>
+      <structureContents ID="780">
+        <structureContent lang="de">
+          <structureText>Reglement<break type="line"/>&#xFC;ber die Erg&#xE4;nzungsleistungen zur AHV/IV</structureText>
+        </structureContent>
+        <structureContent lang="fr">
+          <structureText>R&#xE8;glement<break type="line"/>sur les prestations compl&#xE9;mentaires &#xE0; l'AVS/AI</structureText>
+        </structureContent>
+      </structureContents>
+    </structure>
+    <subStructure>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="782">
+            <structureContent lang="de">
+              <structureOrder>1</structureOrder>
+              <structureText>Anspruch auf Leistungen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>1</structureOrder>
+              <structureText>Droit aux prestations</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2619">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>1</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anspruchsbedingungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Conditions d'octroi</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5989">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Erg&#xE4;nzungsleistungen kann beantragen, wer zum Kreise der Bezugsberechtigten im Sinne der Artikel 4 und 6 AGELG geh&#xF6;rt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Peuvent demander des prestations compl&#xE9;mentaires les personnes qui entrent dans le cercle des b&#xE9;n&#xE9;ficiaires au sens des articles 4 et 6 LALPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5990">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Anspruch auf Leistungen ist an die Voraussetzung gekn&#xFC;pft, dass die anerkannten Ausgaben die anrechenbaren Einnahmen &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le droit aux prestations est subordonn&#xE9; &#xE0; la condition que les d&#xE9;penses reconnues soient sup&#xE9;rieures aux revenus d&#xE9;terminants.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2620">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>2</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Wohnsitz</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Domicile</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5991">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Wohnsitz wird durch die Artikel 23 bis 25 des Zivilgesetzbuches geregelt. Die Zust&#xE4;ndigkeit entspricht dem Grundsatz von Artikel 21 Absatz 1 ELG.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La notion de domicile est r&#xE9;gie par les articles 23 &#xE0; 25 du Code civil. La comp&#xE9;tence ob&#xE9;it aux principes de l'article 21 alin&#xE9;a 1 LPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="783">
+            <structureContent lang="de">
+              <structureOrder>2</structureOrder>
+              <structureText>Anerkannte Ausgaben</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>2</structureOrder>
+              <structureText>D&#xE9;penses reconnues</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2621">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>3</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Begrenzung der Kosten bei Aufenthalt in einem Heim oder Spital</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Limitation des frais en raison du s&#xE9;jour dans un home ou un h&#xF4;pital</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5992">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Grenzen f&#xFC;r die Ber&#xFC;cksichtigung der Aufenthaltskosten in einem Heim oder Spital werden durch den Staatsrat festgesetzt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les limites pour frais &#xE0; prendre en consid&#xE9;ration en raison du s&#xE9;jour dans un home ou un h&#xF4;pital sont fix&#xE9;es par le Conseil d'Etat.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5993">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2622">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>4</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Betrag, der den Pension&#xE4;ren &#xFC;berlassen wird</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Montant laiss&#xE9; &#xE0; disposition des pensionnaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5994">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Jahresbetrag, der den in Heimen oder Spit&#xE4;lern wohnenden Personen f&#xFC;r ihre pers&#xF6;nlichen Auslagen &#xFC;berlassen wird, wird auf 32 Prozent des Betrages f&#xFC;r den allgemeinen Lebensbedarf f&#xFC;r Alleinstehende gem&#xE4;ss Artikel 10 Absatz 1 Buchstabe a ELG festgelegt. Auf 21 Prozent f&#xFC;r Personen im AHV-Alter oder f&#xFC;r Bez&#xFC;ger einer Altersrente der AHV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le montant annuel laiss&#xE9; &#xE0; disposition des pensionnaires des homes et des h&#xF4;pitaux pour leurs d&#xE9;penses personnelles est fix&#xE9; &#xE0; 32 pour cent du montant destin&#xE9; &#xE0; la couverture des besoins vitaux pour personne seule selon l'article 10 alin&#xE9;a 1 lettre a LPC. Il est de 21 pour cent pour les personnes en &#xE2;ge AVS ou b&#xE9;n&#xE9;ficiaires d'une rente de vieillesse de l'AVS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2623">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>5</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Krankheits- und Behinderungskosten</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Frais de maladie et d'invalidit&#xE9;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5995">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Ausgewiesene Krankheits- und Behinderungskosten k&#xF6;nnen, gegen Vorweisung der Rechnungen, im Rahmen des Reglements &#xFC;ber die Verg&#xFC;tung von Krankheits- und Behinderungskosten bei den Erg&#xE4;nzungsleistungen (RKEL) zur&#xFC;ckverg&#xFC;tet werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Les frais de maladie et d'invalidit&#xE9;, d&#xFB;ment &#xE9;tablis, peuvent &#xEA;tre rembours&#xE9;s sur pr&#xE9;sentation des factures dans le cadre des dispositions du r&#xE8;glement cantonal relatif au remboursement des frais de maladie et des frais r&#xE9;sultant de l'invalidit&#xE9; en mati&#xE8;re de prestations compl&#xE9;mentaires&#xA0;(RMPC).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5996">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:5997">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die kantonale Ausgleichskasse (nachstehend: Kasse) regelt das Verfahren bez&#xFC;glich der Gesuchstellung und der R&#xFC;ckverg&#xFC;tung.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse cantonale de compensation (ci-apr&#xE8;s: la Caisse) r&#xE8;gle les modalit&#xE9;s relatives &#xE0; la demande et au remboursement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="784">
+            <structureContent lang="de">
+              <structureOrder>3</structureOrder>
+              <structureText>Anrechenbare Einnahmen</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>3</structureOrder>
+              <structureText>Revenus d&#xE9;terminants</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2624">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>6</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bewertung des Verm&#xF6;gens</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Evaluation de la fortune</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5998">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Gem&#xE4;ss Artikel 17 Absatz 1 ELV ist das Verm&#xF6;gen in der Regel nach den Grunds&#xE4;tzen der kantonalen Steuergesetzgebung zu bewerten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Conform&#xE9;ment aux dispositions de l'article 17 alin&#xE9;a 1 OPC, la fortune doit, en principe, &#xEA;tre &#xE9;valu&#xE9;e selon les r&#xE8;gles de la loi fiscale cantonale.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2625">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>7</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Ber&#xFC;cksichtigung von selbstbewohntem Wohneigentum</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Prise en compte de l'immeuble servant d'habitation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:5999">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Wert des selbstbewohnten Wohneigentums ist in der Regel nach den Grunds&#xE4;tzen der kantonalen Steuergesetzgebung festzulegen. Davon ist beim Verm&#xF6;gen nur jener Wert zu ber&#xFC;cksichtigen, der den gem&#xE4;ss Artikel 11 Absatz 1 Buchstabe c ELG festgelegten Betrag &#xFC;bersteigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La valeur de l'immeuble qui sert d'habitation est d&#xE9;termin&#xE9;e en principe selon les r&#xE8;gles de la loi fiscale cantonale. Seul la valeur de l'immeuble sup&#xE9;rieure au montant fix&#xE9; &#xE0; l'article 11 alin&#xE9;a 1 lettre c LPC entre en consid&#xE9;ration au titre de la fortune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2626">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>8</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Liegenschaften, die nicht zu eigenen Wohnzwecken dienen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Immeubles ne servant pas d'habitation</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6000">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Bei Liegenschaften, die dem Gesuchsteller oder einer Person, die in der Erg&#xE4;nzungsleistungsberechnung eingeschlossen ist, nicht zu eigenen Wohnzwecken dienen, wird der Verkehrswert dieser G&#xFC;ter gem&#xE4;ss Artikel 17 Absatz 4 ELV ber&#xFC;cksichtigt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsque les immeubles ne servent pas d'habitation au requ&#xE9;rant ou &#xE0; une personne comprise dans le calcul de la prestation compl&#xE9;mentaire, ils sont pris en compte &#xE0; la valeur v&#xE9;nale, conform&#xE9;ment &#xE0; l'article 17 alin&#xE9;a 4 OPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6001">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der Verkehrswert entspricht in der Regel dem in den zwei vorangegangenen Jahren beim Verkauf von Liegenschaften im selben Ortskreis erzielten Durchschnittspreis. Sollte der Steuerwert dem Verkehrswert entsprechen, ist dieser f&#xFC;r die Erg&#xE4;nzungsleistungsberechnung massgebend. Ist der Steuerwert offensichtlich zu niedrig oder zu hoch, wird durch die Kasse in Zusammenarbeit mit der kommunalen Kommission f&#xFC;r die Katasterschatzungen eine neue Schatzung vorgenommen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La valeur v&#xE9;nale correspond, en r&#xE8;gle g&#xE9;n&#xE9;rale, au prix moyen atteint lors de transactions faites dans la m&#xEA;me r&#xE9;gion pendant les deux ann&#xE9;es pr&#xE9;c&#xE9;dentes. Pour autant que la valeur fiscale corresponde &#xE0; la valeur v&#xE9;nale, elle est d&#xE9;terminante pour le calcul. Si elle est manifestement trop basse ou trop &#xE9;lev&#xE9;e, une nouvelle estimation sera &#xE9;tablie par la Caisse, en collaboration avec les commissions communales des taxes cadastrales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2627">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>9</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Rentenbez&#xFC;ger in Heimen oder Spit&#xE4;lern</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">B&#xE9;n&#xE9;ficiaires de rentes dans les homes et les h&#xF4;pitaux</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6002">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der bei in Heimen oder Spit&#xE4;lern lebenden Personen als Einkommen anzurechnende Verm&#xF6;gensverzehr betr&#xE4;gt 1/10 des ber&#xFC;cksichtigten Verm&#xF6;gens. Bei Personen im AHV-Alter oder f&#xFC;r Bez&#xFC;ger einer Altersrente der AHV wird 1/5 angerechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La quote-part de fortune prise en consid&#xE9;ration comme revenu pour les personnes vivant dans les homes et les h&#xF4;pitaux est de 1/10. Elle est de 1/5 pour les personnes en &#xE2;ge AVS et les b&#xE9;n&#xE9;ficiaires de rentes de vieillesse de l'AVS.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="785">
+            <structureContent lang="de">
+              <structureOrder>4</structureOrder>
+              <structureText>Aufgaben und Pflichten bei den EL</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>4</structureOrder>
+              <structureText>Devoirs et obligations en mati&#xE8;re PC</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2628">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>10</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Aufgaben der AHV-Zweigstellenleiterinnen und -leiter</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations des agents locaux AVS</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6003">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Den AHV-Zweigstellenleiterinnen und -leiter des Wohnsitzes obliegt die Pflicht, jedem Gesuchsteller beim Ausf&#xFC;llen des Anmeldeformulars behilflich zu sein, in Zusammenarbeit mit der Gemeinde zu pr&#xFC;fen, ob die erteilten Ausk&#xFC;nfte den pers&#xF6;nlichen und wirtschaftlichen Verh&#xE4;ltnissen vollst&#xE4;ndig entsprechen, die Richtigkeit der Ausk&#xFC;nfte zu best&#xE4;tigen und das Gesuch zu unterzeichnen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'agent local AVS du domicile doit aider tout requ&#xE9;rant &#xE0; remplir la formule de demande, v&#xE9;rifier en collaboration avec la commune si les renseignements fournis correspondent &#xE0; la situation personnelle et &#xE9;conomique de l'int&#xE9;ress&#xE9;, en attester l'exactitude et apposer son visa.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6004">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die AHV-Zweigstellenleiterinnen und -leiter halten sich strikt an die Vorschriften der Kasse.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'agent local AVS se conforme strictement aux instructions particuli&#xE8;res de la Caisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2629">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>11</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Auskunftspflicht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligation de renseigner</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6005">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kasse kann den Personen und Organen, welche zur Ausf&#xFC;hrung des Gesetzes notwendige Ausk&#xFC;nfte zu erteilen oder Unterlagen beizubringen haben, eine Frist auferlegen. Die Frist ist je nach Schwierigkeit der Auskunfts- oder Unterlagenbeschaffung festzulegen, darf jedoch drei Monate nicht &#xFC;bersteigen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse peut impartir un d&#xE9;lai aux personnes et organes qui doivent fournir les renseignements et documents n&#xE9;cessaires &#xE0; l'application de la loi. Le d&#xE9;lai sera fix&#xE9; en fonction des difficult&#xE9;s &#xE0; fournir les renseignements sans toutefois d&#xE9;passer trois mois.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2630">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>12</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verpflichtungen der Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Obligations des communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6006">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindebeh&#xF6;rde des Wohnsitzes hat kostenlos auf dem von der Kasse eigens daf&#xFC;r ausgeh&#xE4;ndigten Formular eine detaillierte Aufstellung der Liegenschaften des Gesuchstellers, seines Ehegatten und seiner an der AHV- oder IV-Rente beteiligten Kinder zu erstellen. Dasselbe gilt auch f&#xFC;r jene G&#xFC;ter, auf die die obgenannten Personen verzichtet haben. Sie hat kostenlos den Verkehrswert von Liegenschaften, die in der EL-Berechnung angerechnet werden, festzusetzen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; communale du domicile dresse gratuitement sur la formule ad hoc d&#xE9;livr&#xE9;e par la Caisse la liste d&#xE9;taill&#xE9;e des immeubles appartenant au requ&#xE9;rant, &#xE0; son conjoint et &#xE0; ses enfants co-b&#xE9;n&#xE9;ficiaires de rentes AVS ou AI ainsi que des biens dont ces personnes se seraient dessaisies. Elle d&#xE9;termine gratuitement la valeur v&#xE9;nale des immeubles compris dans le calcul de la prestation compl&#xE9;mentaire.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6007">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindebeh&#xF6;rde best&#xE4;tigt mit ihrer Unterschrift die Richtigkeit s&#xE4;mtlicher Ausk&#xFC;nfte und anerkennt somit den Wohnsitz des Gesuchstellers in der Gemeinde.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; communale, par sa signature, atteste l'exactitude de tous les &#xE9;l&#xE9;ments de la requ&#xEA;te et reconna&#xEE;t ainsi le domicile du requ&#xE9;rant dans la commune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6008">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindebeh&#xF6;rde hat ausserdem der Kasse spontan s&#xE4;mtliche Ausk&#xFC;nfte betreffend den Anspruchsberechtigten und die Mitglieder seiner Familie mitzuteilen, insbesondere jeden Wechsel des Zivilstandes, alle Adresswechsel und jede wesentliche Ver&#xE4;nderung der Einkommens- und Verm&#xF6;gensverh&#xE4;ltnisse.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; communale doit, en outre, communiquer spontan&#xE9;ment &#xE0; la Caisse les renseignements concernant l'ayant droit et les membres de sa famille, notamment ceux qui se rapportent &#xE0; tout changement de l'&#xE9;tat personnel, &#xE0; tout changement d'adresse et &#xE0; toute modification importante du revenu et de la fortune.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6009">
+                    <partNumber>4</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindebeh&#xF6;rde hat besonders darauf zu achten, jede Wohnsitz&#xE4;nderung eines Bez&#xFC;gers unverz&#xFC;glich zu melden, ansonsten wird ihr der Gemeindeanteil f&#xFC;r das laufende Jahr verrechnet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; communale veillera, en particulier, &#xE0; signaler imm&#xE9;diatement tout changement de domicile d'un b&#xE9;n&#xE9;ficiaire, faute de quoi elle demeure redevable de la part communale y relative pour l'ann&#xE9;e en cours.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6010">
+                    <partNumber>5</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeindebeh&#xF6;rde kontrolliert mit Sorgfalt die Liste jener Bez&#xFC;ger, die in ihrer Gemeinde den Wohnsitz haben. Diese Liste wird ihr am Anfang jedes Jahres von der Kasse &#xFC;bermittelt. Allf&#xE4;llige Beanstandungen, die diese Liste betreffen, sind innert 30 Tagen an die Kasse zu richten. Erfolgt die Beanstandung versp&#xE4;tet, bleibt die Gemeinde f&#xFC;r ihren Anteil bis zum letzten Tag des Monats zust&#xE4;ndig, in dem sie den Wohnsitzwechsel des Berechtigten gemeldet hat.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">L'autorit&#xE9; communale contr&#xF4;lera avec soin la liste des b&#xE9;n&#xE9;ficiaires domicili&#xE9;s dans la commune qui lui est adress&#xE9;e au d&#xE9;but de chaque ann&#xE9;e par la Caisse. Toute r&#xE9;clamation concernant cette liste doit &#xEA;tre adress&#xE9;e &#xE0; la Caisse dans les 30 jours. Si la r&#xE9;clamation est tardive, la commune reste redevable de la part communale jusqu'au dernier jour du mois dans lequel elle aura signal&#xE9; le changement de domicile de l'ayant droit.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2631">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>13</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Haftung der Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Responsabilit&#xE9; des communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6011">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Gemeinde kann f&#xFC;r Sch&#xE4;den, die durch offensichtlich unrichtige Ausk&#xFC;nfte, welche sie auf Grund von Artikel 12. Absatz 2 des vorliegenden Reglements best&#xE4;tigt hat, haftbar gemacht werden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La commune peut &#xEA;tre rendue responsable des dommages pouvant r&#xE9;sulter de renseignements manifestement inexacts qu'elle aurait attest&#xE9;s en vertu de l'article 12 alin&#xE9;a 2 du pr&#xE9;sent r&#xE8;glement.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2632">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>14</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Erlass der Verf&#xFC;gungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Notification des d&#xE9;cisions</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6012">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kasse erl&#xE4;sst die Verf&#xFC;gung sp&#xE4;testens innert 60 Tagen nachdem sie im Besitz s&#xE4;mtlicher notwendigen Informationen ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse prend la d&#xE9;cision sans retard et, en tout cas, dans le d&#xE9;lai de 60 jours &#xE0; compter du moment o&#xF9; tous les renseignements sont en sa possession.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="786">
+            <structureContent lang="de">
+              <structureOrder>5</structureOrder>
+              <structureText>Aufteilung der Ausgaben und Buchf&#xFC;hrung</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>5</structureOrder>
+              <structureText>R&#xE9;partition des d&#xE9;penses et comptabilit&#xE9;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2633">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>15</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Bundesbeitrag</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Subvention f&#xE9;d&#xE9;rale</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6013">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das mit den Finanzen betraute Departement ersucht das Bundesamt f&#xFC;r Sozialversicherung um Gew&#xE4;hrung der Beitr&#xE4;ge. Es st&#xFC;tzt sich dabei auf die von der Kasse erstellten Abrechnungen, die ihm bis zum 10. Januar des darauf folgenden Jahres zuzustellen sind (Art. 40a ELV).</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le d&#xE9;partement&#xA0;en charge&#xA0;des finances demande &#xE0; l'Office f&#xE9;d&#xE9;ral des assurances sociales les subventions en se fondant sur les d&#xE9;comptes que la Caisse lui adressera pour le 10 janvier de l'ann&#xE9;e suivante (art. 40a OPC).</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2634">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>16</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Fondsvorsch&#xFC;sse</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Avance de fonds</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6014">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Am letzten Arbeitstag jedes Monats teilt die Kasse dem mit den Finanzen betrauten Departement den Betrag der geschuldeten Leistungen mit. Dieses l&#xE4;sst die geforderte Summe f&#xFC;r den Zweiten des folgenden Monats auf das Postkonto der Kasse &#xFC;berweisen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse communique le montant des prestations dues, le dernier jour ouvrable de chaque mois, au d&#xE9;partement&#xA0;en charge&#xA0;des finances qui fera cr&#xE9;diter la somme demand&#xE9;e sur le compte de ch&#xE8;ques postaux de la Caisse pour le 2 du mois suivant.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2635">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>17</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Anteil der Gemeinden</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Part des communes</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6015">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der von jeder Gemeinde zu deckende Ausgabenanteil wird gem&#xE4;ss den Bestimmungen von Artikel 19 AGELG festgelegt.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La part de la d&#xE9;pense incombant &#xE0; chaque commune est d&#xE9;termin&#xE9;e, conform&#xE9;ment aux dispositions de l'article 19 LALPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6016">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Wenn eine Person ihren Wohnsitz ins Wallis verlegt hat, um in ein Heim oder in ein Spital einzutreten und Erg&#xE4;nzungsleistungsbez&#xFC;ger wird, so ist der entsprechende Gemeindeanteil auf s&#xE4;mtliche Gemeinden des Kantons aufzuteilen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Lorsqu'une personne ayant transf&#xE9;r&#xE9; son domicile en Valais pour entrer dans un home ou &#xE9;tablissement devient b&#xE9;n&#xE9;ficiaire de prestations compl&#xE9;mentaires, la part communale la concernant est r&#xE9;partie sur l'ensemble des communes du canton.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6017">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">F&#xFC;r Personen mit Wohnsitz im Wallis begr&#xFC;ndet der Eintritt in ein Heim oder eine Anstalt, gelegen im Kanton Wallis aber ausserhalb der Wohngemeinde, im Prinzip keinen Wohnsitzwechsel.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Pour les personnes domicili&#xE9;es en Valais, l'entr&#xE9;e d'une personne dans un home ou un &#xE9;tablissement situ&#xE9; dans une commune valaisanne diff&#xE9;rente de celle du domicile, ne constitue en principe pas un changement de domicile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2636">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>18</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Buchhaltung und Gesch&#xE4;ftsbericht</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Comptabilit&#xE9; et rapport de gestion</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6018">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kasse f&#xFC;hrt die Buchhaltung &#xFC;ber die Erg&#xE4;nzungsleistungen gem&#xE4;ss den Bestimmungen von Artikel 28 der ELV.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La Caisse tient la comptabilit&#xE9; des prestations compl&#xE9;mentaires conform&#xE9;ment aux dispositions de l'article 28 OPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6019">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Sie erstellt einen j&#xE4;hrlichen Gesch&#xE4;ftsbericht zuhanden des Staatsrates und der Bundesbeh&#xF6;rden.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Elle &#xE9;tablira un rapport de gestion annuel &#xE0; l'intention du Conseil d'Etat et des autorit&#xE9;s f&#xE9;d&#xE9;rales.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2637">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>19</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Revision</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">R&#xE9;vision</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6020">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Kontrolle &#xFC;ber den Vollzug der Gesetzesbestimmungen des Bundes und des Kantons betreffend die Erg&#xE4;nzungsleistungen obliegt, gem&#xE4;ss Artikel 23 ELG der Stelle, die mit der Revision der Kasse beauftragt ist.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le contr&#xF4;le de l'application des dispositions l&#xE9;gales f&#xE9;d&#xE9;rales et cantonales sur les prestations compl&#xE9;mentaires incombe, &#xE0; l'organe de r&#xE9;vision comp&#xE9;tent selon l'article 23 LPC.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6021">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Die Revision hat sich auf die Anwendung der gesetzlichen Bestimmungen, die Buchhaltung und die allgemeine Gesch&#xE4;ftsf&#xFC;hrung zu erstrecken.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">La r&#xE9;vision s'&#xE9;tend &#xE0; l'application l&#xE9;gale, &#xE0; la comptabilit&#xE9; et &#xE0; la gestion en g&#xE9;n&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6022">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Der j&#xE4;hrliche Revisionsbericht hat &#xFC;ber die durchgef&#xFC;hrten Kontrollen sowie &#xFC;ber allf&#xE4;llig gemachte Feststellungen Auskunft zu geben und ist in zwei Exemplaren dem Staatsrat, dem Bundesamt f&#xFC;r Sozialversicherung und der Kasse zu unterbreiten.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le rapport annuel de r&#xE9;vision comportera des renseignements sur les contr&#xF4;les effectu&#xE9;s et sur toutes les constatations faites; il sera remis en deux exemplaires au Conseil d'Etat, &#xE0; l'Office f&#xE9;d&#xE9;ral des assurances sociales et &#xE0; la Caisse.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+      <normContents>
+        <structure>
+          <structureKind>N</structureKind>
+          <structureLevel>1</structureLevel>
+          <structureContents ID="4698">
+            <structureContent lang="de">
+              <structureOrder>6</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+            <structureContent lang="fr">
+              <structureOrder>6</structureOrder>
+              <structureText>&#x2026;</structureText>
+            </structureContent>
+          </structureContents>
+          <normTexts>
+            <article>
+              <articleMetadata ID="Article:2638">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>20</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Verbleib zu Hause und Hilfsmittel</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Maintien &#xE0; domicile et moyens auxiliaires</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6023">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Um den Verbleib zu Hause zu f&#xF6;rdern, k&#xF6;nnen die Kosten f&#xFC;r einfache und zweckm&#xE4;ssige Hilfsmittel und -ger&#xE4;te, die im Anhang 2 RKEL aufgelistet sind, zur&#xFC;ckerstattet werden. Die R&#xFC;ckerstattung darf pro Kalenderjahr maximal bis zum Betrag von 35 Prozent des Betrages f&#xFC;r den allgemeinen Lebensbedarf f&#xFC;r Alleinstehende gem&#xE4;ss Artikel 10 Absatz 1 Buchstabe a ELG erfolgen.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Afin de favoriser le maintien &#xE0; domicile, les frais des moyens et appareils auxiliaires simples et ad&#xE9;quats selon annexe 2 RMPC, peuvent &#xEA;tre rembours&#xE9;s jusqu'&#xE0; un montant correspondant &#xE0; 35 pour cent du montant destin&#xE9; &#xE0; la couverture des besoins vitaux pour personne seule selon l'article 10 alin&#xE9;a 1 lettre a LPC, par ann&#xE9;e civile.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6024">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">&#x2026;</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">&#x2026;</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2639">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>21</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6025">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Aufgehoben</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Abrog&#xE9;s</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+            <article>
+              <articleMetadata ID="Article:15652">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>22</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">&#x2026;</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">&#x2026;</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody/>
+            </article>
+            <article>
+              <articleMetadata ID="Article:2640">
+                <articleForm>Art.</articleForm>
+                <articleNumber>
+                  <number>23</number>
+                </articleNumber>
+                <articleHeaders>
+                  <articleHeader>
+                    <mixedText lang="de">Schlussbestimmungen</mixedText>
+                  </articleHeader>
+                  <articleHeader>
+                    <mixedText lang="fr">Dispositions finales</mixedText>
+                  </articleHeader>
+                </articleHeaders>
+              </articleMetadata>
+              <articleBody>
+                <articleText>
+                  <partMetadata ID="Paragraph:6026">
+                    <partNumber>1</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement hebt auf:</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement abroge:</mixedText>
+                    </partText>
+                  </partTexts>
+                  <subparts>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21589">
+                        <partNumber>a)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Reglement betreffend die Erg&#xE4;nzungsleistungen zur AHV/IV vom 26. November 1986;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE8;glement concernant les prestations compl&#xE9;mentaires &#xE0; l'AVS/AI du 26 novembre 1986;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:21590">
+                        <partNumber>b)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">das Reglement betreffend die zus&#xE4;tzlichen kantonalen Zulagen vom 24. Juni 1992;</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">le r&#xE8;glement concernant les allocations compl&#xE9;mentaires cantonales du 24 juin 1992;</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                    <articleText>
+                      <partMetadata ID="EnumerationItem:2587">
+                        <partNumber>c)</partNumber>
+                        <typeOfPart>C</typeOfPart>
+                      </partMetadata>
+                      <partTexts>
+                        <partText>
+                          <mixedText lang="de">den Beschluss betreffend die H&#xF6;chstgrenzen des Mietzinsabzuges vom 7. November 1990.</mixedText>
+                        </partText>
+                        <partText>
+                          <mixedText lang="fr">l'arr&#xEA;t&#xE9; fixant les limites de la d&#xE9;duction pour loyer du 7 novembre 1990.</mixedText>
+                        </partText>
+                      </partTexts>
+                    </articleText>
+                  </subparts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6027">
+                    <partNumber>2</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement wird dem Bundesrat zur Genehmigung unterbreitet.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement est soumis &#xE0; l'approbation du Conseil f&#xE9;d&#xE9;ral.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+                <articleText>
+                  <partMetadata ID="Paragraph:6028">
+                    <partNumber>3</partNumber>
+                    <typeOfPart>A</typeOfPart>
+                  </partMetadata>
+                  <partTexts>
+                    <partText>
+                      <mixedText lang="de">Das vorliegende Reglement tritt am 1. Januar 1999 in Kraft.</mixedText>
+                    </partText>
+                    <partText>
+                      <mixedText lang="fr">Le pr&#xE9;sent r&#xE8;glement entre en vigueur le 1<format upper="true">er</format> janvier 1999.</mixedText>
+                    </partText>
+                  </partTexts>
+                </articleText>
+              </articleBody>
+            </article>
+          </normTexts>
+        </structure>
+      </normContents>
+    </subStructure>
+  </normContents>
+  <normTail>
+    <annotations>
+      <annotation>
+        <mixedText/>
+      </annotation>
+    </annotations>
+  </normTail>
+  <history>
+    <info>
+      <dateForce>1999-01-01</dateForce>
+      <dateVersion>2015-01-01</dateVersion>
+      <publication>
+        <journalText>BO/Abl. 39/2014</journalText>
+      </publication>
+    </info>
+  </history>
+</norm>
